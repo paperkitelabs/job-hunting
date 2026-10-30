@@ -74,11 +74,11 @@
  "companies": [
   {
    "name": "MathCo (TheMathCompany)",
-   "ats": "",
-   "endpoint": "",
+   "ats": "PeopleStrong",
+   "endpoint": "POST https://mathco-careers.peoplestrong.com/api/cp/rest/altone/cp/jobs/v1?offset=0&limit=100 (mathco.com/explore-roles redirects here)",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "PeopleStrong board: 25 jobs (all 2+ yrs experienced, Bengaluru), 0 intern/trainee"
   },
   {
    "name": "Affine",
@@ -90,11 +90,11 @@
   },
   {
    "name": "Evalueserve",
-   "ats": "",
-   "endpoint": "",
+   "ats": "Darwinbox (lighthouse.darwinbox.com) listed on evalueserve.com/jobs",
+   "endpoint": "https://www.evalueserve.com/jobs/ (server-rendered job cards linking lighthouse.darwinbox.com)",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "evalueserve.com/jobs listing: 42 jobs (10 India, all mid/senior-level), 0 intern/trainee. Darwinbox candidate API itself is Cloudflare-blocked (403), so only the website listing was read"
   },
   {
    "name": "Acuity Knowledge Partners",

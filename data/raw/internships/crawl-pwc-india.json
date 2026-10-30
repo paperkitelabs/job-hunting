@@ -1,0 +1,56 @@
+{
+ "company": "PwC India / PwC AC",
+ "ats": "workday",
+ "endpoint": "https://pwc.wd3.myworkdayjobs.com/wday/cxs/pwc/{Global_Experienced_Careers,Global_Campus_Careers}/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "workerSubType=Intern/Intern (Trainee)",
+  "India location facets: intern,internship,trainee,off-cycle,apprentice,IN_Intern,2027",
+  "India full walk"
+ ],
+ "total_hits": 619,
+ "india_intern_hits": [
+  {
+   "title": "IN_Intern/Trainee",
+   "loc": "Bengaluru Millenia",
+   "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Intern-Trainee_764518WD",
+   "id": "764518WD",
+   "posted": "Posted Today"
+  },
+  {
+   "title": "Intern/ Trainee",
+   "loc": "Gurugram 8 B",
+   "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-8-B/Intern--Trainee_442620WD-1",
+   "id": "442620WD",
+   "posted": "Posted 30+ Days Ago"
+  }
+ ],
+ "details": {
+  "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Intern-Trainee_764518WD": {
+   "title": "IN_Intern/Trainee",
+   "loc": "Bengaluru Millenia",
+   "country": "India",
+   "id": "764518WD",
+   "posted": "2026-10-29",
+   "end": "2026-11-12",
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Intern-Trainee_764518WD",
+   "desc": "Line of Service Advisory\n Industry/Sector Not Applicable\n Specialism Data, Analytics & AI\n Management Level Intern/Trainee\n Job Description & Summary At PwC, our people in business services and support focus on providing efficient and effective administrative support to enable smooth operations within the organisation. This includes managing schedules, coordinating meetings, and handling confidential information.\nThose working as assistants and office support at PwC will provide high-level administrative support to senior executives, including managing their schedules, coordinating meetings, and handling confidential information. You will play a crucial role in maintaining smooth operations and effective communication within the organisation.\n Why PWC \nAt PwC, you will be part of a vibrant community of solvers that leads with trust and creates distinctive outcomes for our clients and communities. This purpose-led and values-driven work, powered by technology in an environment that drives innovation, will enable you to make a tangible impact in the real world. We reward your contributions, support your wellbeing, and offer inclusive benefits, flexibility programmes and mentorship that will help you thrive in work and life. Together, we grow, learn, care, collaborate, and create a future of infinite experiences for each other. Learn more about us . \nAt PwC, we believe in providing equal employment opportunities, without any discrimination on the grounds of gender, ethnic background, age, disability, marital status, sexual orientation, pregnancy, gender identity or expression, religion or other beliefs, perceived differences and status protected by law. We strive to create an environment where each one of our people can bring their true selves and contribute to their personal growth and the firm’s growth. To enable this, we have zero tolerance for any discrimination and harassment based on the above considerations. \n Job Description & Summary: \n A career within Human Resources – Talent Acquisition Coordination will provide you with the opportunity to support recruitment operations by managing interview scheduling, coordinating with candidates and stakeholders, and ensuring a smooth hiring experience. This role focuses on developing strong exposure to end-to-end recruitment processes, stakeholder management, and talent acquisition best practices. You will work closely with recruiters and business teams, gaining hands-on experience in Talent Acquisition while contributing to efficient and timely hiring outcomes. \n Responsibilities: \n Coordinate and schedule interviews between candidates, recruiters, and business stakeholders \n Act as the point of contact for candidates throughout the interview process \n Manage interview logistics including calendars, meeting links, and follow-ups \n Support recruiters with administrative and coordination activities \n Maintain accurate recruitment trackers and candidate data \n Communicate professionally with internal and external stakeholders \n Learn and support end-to-end Talent Acquisition life cycle activities \n Ensure positive candidate experience and adherence to hiring timelines \n Mandatory skill sets: \n Strong communication and interpersonal skills \n Excellent coordination and scheduling skills \n Basic understanding or interest in recruitment/Talent Acquisition \n Proficiency in MS Excel, Outlook, and other MS Office tools \n Ability to manage multiple stakeholders and tasks simultaneously \n Preferred skill sets: \n Prior internship or exposure in HR or recruitment \n Knowledge of interview processes and hiring workflows \n Strong organizational and time-management skills \n Willingness to learn Talent Acquisition practices \n Years of experience required: \n 0 – 1 year (Freshers can apply) \n Education qualification: \n MBA (HR or equivalent specialization) – Qualified MBA only to apply \n Education (if blank, degree and/or field of study not specified) Degrees/Field of Study required:\n Degrees/Field of Study preferred:\n Certifications (if blank, certifications not specified) \n Required Skills \n Optional Skills Accepting Feedback, Accepting Feedback, Active Listening, Administrative Support, Agile Database Administration, AI Fluency, AI-Human Collaboration, Business Process Improvement, Calendar Management, Clerical Support, Collaborative Forecasting, Communication, Communications Management, Concur Travel, Conducting Research, Confidential Information Handling, Corporate Records Management, Correspondence Management, Credentialing Database, Customer Relationship Management, Customer Service Excellence, Customer Service Management, Data Entry, Deployment Coordination, Digital Tooling {+ 34 more}\n Desired Languages (If blank, desired languages not specified) \n Travel Requirements Not Specified\n Available for Work Visa Sponsorship? No\n Government Clearance Required? No\n Job Posting End Date November 12, 2026",
+   "status": 200
+  },
+  "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-8-B/Intern--Trainee_442620WD-1": {
+   "title": "Intern/ Trainee",
+   "loc": "Gurugram 8 B",
+   "country": "India",
+   "id": "442620WD",
+   "posted": "2023-05-18",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-8-B/Intern--Trainee_442620WD-1",
+   "desc": "Line of Service Advisory\n Industry/Sector Not Applicable\n Specialism Risk\n Management Level Intern/Trainee\n Job Description & Summary A career within Internal Audit services, will provide you with an opportunity to gain an understanding of an organisation’s objectives, regulatory and risk management environment, and the diverse needs of their critical stakeholders. We focus on helping organisations look deeper and see further considering areas like culture and behaviours to help improve and embed controls. In short, we seek to address the right risks and ultimately add value to their organisation.\n JOB DESCRIPTION \nITGC Reviews, IT Internal Audits, Controls Testing \n Position title : \nAssociate / Sr Associate \n Experience: \nUp to 7 years \n Location : \nGurgaon, Mumbai \n Department : \n RAS, Risk Consulting \n Purpose of the Job /Role \nPerform IT Assessment Reviews which includes IT General Controls, Internal Audits, Controls Testing \n The person we are looking for: \nStrong understanding of IFC/SOX,IT General Controls domains such as IT policies and procedures, Change Management ,User Access Management, IT Operations, Back and Recovery Management etc \nImplementation and assessment knowledge of various industry standards, frameworks, and compliances such as ISO 27001, NIST etc \nUnderstanding of the IT Risk Assessment methodologies and ability to comprehend and apply the knowledge during IT assessment lifecycle \nInterview client stakeholders and conducts walkthrough meetings and develop assessment artifacts \nSenior Associates will have to manage a team of associates and guide them on the project, lead the projects, client presentations, project management and manage client relationships. The Senior Associate will assist in creating proposals and developing go to market collaterals. \nCollaboration with the different stakeholders on the complex assessment issues to develop possible recommendations \nDocuments findings and proposes recommendations that deal with root cause of issues and impact to the organization \nShould be able to assist with the timely completion of tasks, development of client deliverables and status reporting \nWork in collaborative environment and virtual environment as per needs \nGreat communication skills and the ability to break down and explain complex data security problems \nExcellent presentation skills and ability to effectively communicate proposals and point of view at senior management levels \nTravel as per needs \n Education: \nMinimum Qualification: BE/ BTech/CA \nPostgraduates in any stream would be preferred (not mandatory) \nPrior Big 4 experience would be an added advantage \nExperience in IT Risk Advisory/ Assurance for varied industry segments preferred \nExcellent communication skills - both written and oral \n Certifications: \nCIA/CISA/DISA will be added advantage \n Mandatory Skill Set- ITGC, Controls \n Preferred Skill Set- ITGC, Controls \n Year of experience required- Intern \n Qualifications- BSC, BE, MBA, Msc, LLM \n Education (if blank, degree and/or field of study not specified) Degrees/Field of Study required:\n Degrees/Field of Study preferred:\n Certifications (if blank, certifications not specified) \n Required Skills Information Technology General Controls (ITGC)\n Optional Skills \n Desired Languages (If blank, desired languages not specified) \n Travel Requirements \n Available for Work Visa Sponsorship? \n Government Clearance Required? \n Job Posting End Date",
+   "status": 200
+  }
+ }
+}

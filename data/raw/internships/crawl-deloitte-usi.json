@@ -1,0 +1,12 @@
+{
+ "company": "Deloitte USI",
+ "ats": "avature",
+ "endpoint": "https://usijobs.deloitte.com/en_US/careersUSI/SearchJobs/?jobRecordsPerPage=50&jobOffset=N (full board walk)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "<full board>"
+ ],
+ "total_hits": 690,
+ "india_intern_hits": [],
+ "details": {}
+}

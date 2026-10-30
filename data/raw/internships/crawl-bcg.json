@@ -1,0 +1,36 @@
+{
+ "company": "BCG",
+ "ats": "phenom",
+ "endpoint": "https://careers.bcg.com/global/en/search-results (eagerLoadRefineSearch JSON) + job detail pages",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "India",
+  "Gurgaon",
+  "Mumbai",
+  "Bengaluru",
+  "analyst",
+  ""
+ ],
+ "total_hits": 947,
+ "india_intern_hits": [
+  {
+   "title": "BCG X Finance Intern",
+   "loc": "Gurgaon, Haryana, India",
+   "url": "https://careers.bcg.com/global/en/job/59487/BCG-X-Finance-Intern",
+   "id": "59487",
+   "posted": "2026-10-22"
+  }
+ ],
+ "details": {
+  "https://careers.bcg.com/global/en/job/59487/BCG-X-Finance-Intern": {
+   "title": "BCG X Finance Intern",
+   "loc": "Gurgaon, Haryana, India",
+   "posted": "2026-10-22T00:00:00.000+0000",
+   "apply": "https://experiencedtalent.bcg.com/careerhub/explore/jobs/790318515447?post_onboarding_pid=790318515447&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom",
+   "desc": "Who We Are \nBoston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we help clients with total transformation-inspiring complex change, enabling organizations to grow, building competitive advantage, and driving bottom-line impact.\nTo succeed, organizations must blend digital and human capabilities. Our diverse, global teams bring deep industry and functional expertise and a range of perspectives to spark change. BCG delivers solutions through leading-edge management consulting along with technology and design, corporate and digital ventures—and business purpose. We work in a uniquely collaborative model across the firm and throughout all levels of the client organization, generating results that allow our clients to thrive. \nWhat You'll Do \nThe Finance trainee will be a member of the BCG X Delivery Finance team, supporting BCG X Delivery leaders in managing our global business units and scaling our near-shore X Build capability hubs across regions. \n Main responsibilities include: \nSupport the development and reshaping of BCG X Delivery's reporting and digital reporting suite, including dashboards, reporting templates, and self-service reporting tools. \nBuild and maintain dashboards and data pipelines that consolidate data from multiple sources to deliver timely, accurate, and actionable business insights. \nApply data and AI tools - such as Power BI, Tableau Prep, and Claude - to automate reporting workflows, streamline data processing, and improve reporting quality and efficiency. Working knowledge of or hands-on experience with these or similar tools is expected. \nIn a secondary capacity, you will also support core finance responsibilities, including: \nSupport day-to-day finance operations and financial planning for BCG X Delivery, including project codes, timesheet corrections, budgeting, forecasting, and financial analysis. \nMonitor business performance and outlook by tracking actuals vs. forecasts/plans, pipeline, backlog, project wins, revenue impact, and key variances. \nWhat You'll Bring \nBachelor’s or Master’s Degree (or currently pursuing one) \nStrong interest in analytics topics (tools, data design and pipeline, visualizations) \nA proactive can-do attitude \nAbility to effectively communicate and hold discussions with peer group and staff \nHigh attention to detail and quality of work \nConfidence in following up with a structured, organized approach \nStrong computer proficiency (Outlook, Word, Excel, PowerPoint) and AI tools knowledge \nDemonstrated ability to streamline and automate reporting processes, paired with a strong working understanding of data and AI tools \nPrior project experience involving reporting automation, data analysis, or AI tools is a strong plus; candidates with a Finance educational or professional background are highly preferred \nFluency in English \nWho You'll Work With \nYou will work with BCG X leaders, BCG X and BCG Finance teams and with closely collaborate with other functions (Staffing, HR). You will build relationships and work effectively with members of billable and BST talent, Global X staffers, CDC, and the X leadership team. \nAdditional info \n BCG X is the tech build & design unit of BCG. Turbocharging BCG’s deep industry and functional expertise, BCG X brings together advanced tech knowledge and ambitious entrepreneurship to help organizations enable innovation at scale. With nearly 3,000 technologists, scientists, programmers, engineers, and designers located across 80+ cities, BCG X builds and designs platforms and software to address the world’s most important challenges and opportunities. Teaming across our practices, and in close collaboration with our clients, our end-to-end global team unlocks new possibilities. Together we’re creating the bold and disruptive products, services, and businesses of tomorrow. \nAt BCG, our people and relationships are at the heart of everything we do. We believe that in-person collaboration plays an important role in our culture, mentorship, and professional development. \nFor this role, you will generally be expected to work from a BCG office or in person with clients on a regular basis (typically around 50% of working time), depending on business needs and in line with local policies and practices. \nWe aim to provide a dynamic and collaborative environment that fosters connection and teamwork. \nBoston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws.\nBCG is an E - Verify Employer. Click here for more information on E-Verify."
+  }
+ }
+}

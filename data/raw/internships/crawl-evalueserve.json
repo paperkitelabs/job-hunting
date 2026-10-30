@@ -1,0 +1,12 @@
+{
+ "company": "Evalueserve",
+ "ats": "Darwinbox (lighthouse.darwinbox.com) listed on evalueserve.com/jobs",
+ "endpoint": "https://www.evalueserve.com/jobs/ (server-rendered job cards linking lighthouse.darwinbox.com)",
+ "queried_at": "2026-10-30T13:32:19.878239Z",
+ "queries": [
+  "whole listing"
+ ],
+ "total_hits": 42,
+ "india_intern_hits": [],
+ "details": {}
+}
