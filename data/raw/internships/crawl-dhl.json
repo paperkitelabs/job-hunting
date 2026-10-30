@@ -1,0 +1,21 @@
+{
+ "company": "DHL",
+ "ats": "phenom",
+ "endpoint": "https://careers.dhl.com/widgets (refineSearch, country=India)",
+ "queried_at": "2026-10-30T03:25:54",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "student",
+  "graduate",
+  "2027",
+  ""
+ ],
+ "total_hits": 295,
+ "india_intern_hits": [],
+ "details": {}
+}

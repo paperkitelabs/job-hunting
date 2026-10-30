@@ -122,11 +122,11 @@
   },
   {
    "name": "Lumiq",
-   "ats": "",
-   "endpoint": "",
+   "ats": "Zoho Recruit",
+   "endpoint": "https://lumiq.zohorecruit.in/careers",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "Zoho Recruit board: 7 jobs (sales, DevOps, architect, consultant), 0 intern/trainee"
   },
   {
    "name": "Polestar Solutions",
@@ -226,11 +226,11 @@
   },
   {
    "name": "Kanerika",
-   "ats": "",
-   "endpoint": "",
+   "ats": "Zoho Recruit",
+   "endpoint": "https://kanerika.zohorecruit.com/careers (embedded on kanerika.com/careers)",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "Zoho Recruit board: 25 jobs, all experienced engineering/data roles (Hyderabad/Indore/Ahmedabad); 0 intern/trainee"
   },
   {
    "name": "Straive",
@@ -242,11 +242,11 @@
   },
   {
    "name": "Cognida",
-   "ats": "",
-   "endpoint": "",
+   "ats": "Keka",
+   "endpoint": "https://cognida.keka.com/careers/api/embedjobs/default/active/22612058-82aa-4bfd-9017-771ca36cd0e3",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "Keka board: 8 jobs (6+ yrs experienced; India ones in Hyderabad), 0 intern/trainee"
   }
  ]
 }

@@ -7,7 +7,7 @@ window.TRACKER = {
  "checked": "30 Oct 2026",
  "exp_label": "Who can apply",
  "pay_label": "Stipend (₹/month)",
- "left_out": "Crawled the careers sites of 241 employers on 30 Oct 2026. Every link was checked against the employer's own hiring API or job board on that day. Left out 248 India internship postings: 137 outside the role list (sales, HR, finance, ops, design, hardware…); 36 software-engineering interns with no data/AI/product angle; 34 needs a Master's, MBA or PhD; 32 for 2025/2026 graduates or already-graduated candidates; 6 Summer 2027 / penultimate-year programmes; 3 closed or past deadline. Round-1/2 search leads re-checked: 99 not found, 18 closed, 8 matched, 2 live. Stipend is blank where the posting does not state one.",
+ "left_out": "Crawled the careers sites of 288 employers on 30 Oct 2026. Every link was checked against the employer's own hiring API or job board on that day. Left out 319 India internship postings: 177 outside the role list (sales, HR, finance, ops, design, hardware…); 57 for 2025/2026 graduates or already-graduated candidates; 38 needs a Master's, MBA or PhD; 38 software-engineering interns with no data/AI/product angle; 6 Summer 2027 / penultimate-year programmes; 3 closed or past deadline. Round-1/2 search leads re-checked: 110 not found, 26 closed, 8 matched, 2 live. Stipend is blank where the posting does not state one.",
  "tiers": {
   "soon": "Closing soon: apply this week",
   "bfsi": "Banks, financial services and insurance",
@@ -16,6 +16,22 @@ window.TRACKER = {
   "ai": "Data science, AI/ML and forward deployed interns"
  },
  "jobs": [
+  {
+   "id": "pfizer-4965781",
+   "tier": "soon",
+   "role": "Intern",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Intern_4965781",
+   "company": "Pfizer",
+   "location": "Chennai",
+   "job_id": "4965781",
+   "type": "Internship · dates not stated",
+   "exp": "Undergraduate or postgraduate student in Chemical/Biochemical/Mechanical/Process Control/Pharmaceutical Engineering, Biotechnology, Chemistry, Analytics or related discipline",
+   "pay": "",
+   "jd": "Intern in Global Technology Engineering & Launch - Analytical Technology building an E&L tracking app and computational/hybrid models (ML, AI, statistics + mechanistic) for process monitoring, plus AI-tool digital-fluency training. Asks for Python/R/MATLAB, numerical methods, app development and a basic chemistry/analytics background. Note: On-premise Chennai. CS not among listed disciplines ('Analytics or related' is); needs basic chemistry. Posting closes 2026-11-02 - apply immediately.",
+   "li": "Pfizer Global Technology Engineering & Launch - Analytical Technology",
+   "deadline": "2 Nov",
+   "resume": "DS / AI"
+  },
   {
    "id": "iqvia-r1567860",
    "tier": "soon",
@@ -301,6 +317,22 @@ window.TRACKER = {
    "pay": "",
    "jd": "Builds and tests GenAI applications in Python with LLMs: prompt engineering, data preprocessing, fine-tuning/evaluation and proof-of-concept prototypes. Skills: Python, LLM/transformer basics, OpenAI APIs/Hugging Face, NumPy/Pandas. Note: Posted Jan 2026 but still accepting applications; may be an evergreen req",
    "li": "CRISIL GenAI / Technology",
+   "deadline": "",
+   "resume": "DS / AI"
+  },
+  {
+   "id": "eaton-74436",
+   "tier": "ai",
+   "role": "Apprentice. IT. Development Program",
+   "url": "https://eaton.eightfold.ai/careers/job/687239452576?domain=eaton.com",
+   "company": "Eaton",
+   "location": "Pune",
+   "job_id": "74436",
+   "type": "Internship · dates not stated",
+   "exp": "Bachelor's degree in Computer Science, IT, Data Engineering or related field (as posted); no year stated",
+   "pay": "",
+   "jd": "Apprentice in Eaton's Master Data Management team supporting MDM on Snowflake, Medallion (bronze/silver/gold) pipelines, SQL transformation/validation, data quality, Streamlit apps, and prototyping GenAI use cases (matching, enrichment). Asks for SQL, data-warehousing basics, Snowflake/cloud data platform, Python, interest in GenAI. Note: Indian 'Apprentice' roles are usually Apprentices Act/NATS one-year programmes that need a completed degree; posting lists 'Bachelor's degree' - confirm a final-year (2027) student is eligible before applying. Data-engineering-leaning.",
+   "li": "Eaton IT Master Data Management (Pune)",
    "deadline": "",
    "resume": "DS / AI"
   },

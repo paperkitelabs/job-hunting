@@ -1,0 +1,34 @@
+{
+ "company": "Goldman Sachs",
+ "ats": "other (higher.gs.com GraphQL; apply via Oracle hdpc LateralHiring)",
+ "endpoint": "https://api-higher.gs.com/gateway/api/v1/graphql (GetCampusRoles/GetRoles, LOCATION=India)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "",
+  "intern",
+  "off-cycle",
+  "trainee",
+  "apprentice",
+  "analyst",
+  "(all 209 campus roles)"
+ ],
+ "total_hits": 96,
+ "india_intern_hits": [
+  {
+   "title": "2026 | India | Bengaluru/Hyderabad | Industrial Trainee",
+   "loc": "Bengaluru",
+   "url": "https://higher.gs.com/roles/158687",
+   "id": "158687",
+   "posted": "2026-07-02"
+  }
+ ],
+ "details": {
+  "https://higher.gs.com/roles/158687": {
+   "title": "2026 | India | Bengaluru/Hyderabad | Industrial Trainee",
+   "division": "Controllers",
+   "status": "POSTED",
+   "applyActive": true,
+   "desc": "Off-Cycle Program varies in length based on program/university for undergraduate students... Division: Controllers - manages the firm's financial and regulatory obligations; financial/regulatory reporting, accounting, valuation, capital, liquidity."
+  }
+ }
+}

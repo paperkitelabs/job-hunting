@@ -1,0 +1,44 @@
+{
+ "company": "Caterpillar",
+ "ats": "workday",
+ "endpoint": "https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs",
+ "queried_at": "2026-10-30T07:30:35",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "student",
+  "2027",
+  "co-op",
+  "graduate intern",
+  ""
+ ],
+ "total_hits": 146,
+ "india_intern_hits": [
+  {
+   "title": "India Production Apprentice",
+   "loc": "Thiruvallur, Tamil Nadu",
+   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice_R0000398480",
+   "id": "R0000398480",
+   "posted": "Posted 23 Days Ago"
+  }
+ ],
+ "details": {
+  "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice_R0000398480": {
+   "title": "India Production Apprentice",
+   "loc": "Thiruvallur, Tamil Nadu",
+   "country": "India",
+   "id": "R0000398480",
+   "posted": "2026-10-07",
+   "end": "2027-01-01",
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice_R0000398480",
+   "desc": "Career Area: Business Services\n Job Description: \n Your Work Shapes the World at Caterpillar Inc. \nWhen you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it. \n Role Summary \nAs an India Production Apprentice, you will play a key role in building world-class Backhoe Loader and Skid Steer Loader machines. This role involves hands-on assembly of machine components, ensuring safety, quality, and production standards are consistently met. \n Key Responsibilities \nPerform assembly of mechanical, hydraulic, and structural components as per Standard Work Instructions (SWI). \nUse hand tools, power tools, torque tools, and lifting equipment safely and effectively. \nFollow safety protocols and 5S practices to maintain a clean and safe shopfloor environment. \nWork closely with Team Leads to achieve daily production targets. \nPerform basic visual inspections for fitment accuracy, alignment, and torque compliance. \nEscalate abnormalities, defects, or process deviations immediately to supervisors. \nSupport continuous improvement activities like Kaizen, Lean initiatives, and waste reduction. \nMaintain documentation and data entries related to production and processes. \n Posting Dates: October 7, 2026 - December 31, 2026\n Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply \nNot ready to apply? Join our Talent Community .",
+   "status": 200
+  }
+ }
+}

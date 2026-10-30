@@ -1,0 +1,531 @@
+{
+ "cluster": "A-global-ibs",
+ "checked": "30 Oct 2026",
+ "openings": [],
+ "rejected": [
+  {
+   "company": "Goldman Sachs",
+   "role": "2026 | India | Bengaluru/Hyderabad | Industrial Trainee",
+   "url": "https://higher.gs.com/roles/158687",
+   "reason": "Controllers division (accounting/financial & regulatory reporting) - finance/accounting-only; titled 2026 cohort."
+  },
+  {
+   "company": "Citi",
+   "role": "Job Requisition: 25843173 Citi India Apprenticeship Program - SS Ops",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Job-Requisition--25843173-Citi-India-Apprenticeship-Program---SS-Ops_25843180",
+   "reason": "Govt (NATS) 12-month apprenticeship for graduates (eligibility counted from graduation end date); routine ops/admin support - needs completed degree, ops-only."
+  },
+  {
+   "company": "Citi",
+   "role": "Citi India Apprenticeship Program - Corporate Banking",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Citi-India-Apprenticeship-Program---Corporate-Banking_25849760",
+   "reason": "Govt (NATS) 12-month apprenticeship for graduates (eligibility counted from graduation end date); routine ops/admin support - needs completed degree, ops-only."
+  },
+  {
+   "company": "Citi",
+   "role": "Citi India Apprenticeship Program",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Citi-India-Apprenticeship-Program_25854531",
+   "reason": "Govt (NATS) 12-month apprenticeship for graduates (eligibility counted from graduation end date); routine ops/admin support - needs completed degree, ops-only."
+  },
+  {
+   "company": "Citi",
+   "role": "Citi India Apprenticeship Program - Treasury and Trade Solutions",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Citi-India-Apprenticeship-Program---Treasury-and-Trade-Solutions_25873675",
+   "reason": "Govt (NATS) 12-month apprenticeship for graduates (eligibility counted from graduation end date); routine ops/admin support - needs completed degree, ops-only."
+  },
+  {
+   "company": "Citi",
+   "role": "Citi India Apprenticeship Program - Investment Banking",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Citi-India-Apprenticeship-Program---Investment-Banking_261002180",
+   "reason": "Govt (NATS) 12-month apprenticeship for graduates (eligibility counted from graduation end date); routine ops/admin support - needs completed degree, ops-only."
+  },
+  {
+   "company": "Citi",
+   "role": "Young Apprentice - C00 - MUMBAI",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969219",
+   "reason": "Young Apprentice C00: basic operational/admin tasks (copying, document handling); ops-only."
+  },
+  {
+   "company": "Citi",
+   "role": "Young Apprentice - C00 - CHENNAI",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Young-Apprentice---C00---CHENNAI_26986323",
+   "reason": "Young Apprentice C00: basic operational/admin tasks (copying, document handling); ops-only."
+  },
+  {
+   "company": "Citi",
+   "role": "Young Apprentice - C00 - PUNE",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986450",
+   "reason": "Young Apprentice C00: basic operational/admin tasks (copying, document handling); ops-only."
+  },
+  {
+   "company": "Citi",
+   "role": "Young Apprentice - C00 - PUNE",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986436",
+   "reason": "Young Apprentice C00: basic operational/admin tasks (copying, document handling); ops-only."
+  },
+  {
+   "company": "Citi",
+   "role": "India Apprenticeship Program - Commercial Banking",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/India-Apprenticeship-Program---Commercial-Banking_26992827",
+   "reason": "Govt (NATS) 12-month apprenticeship for graduates (eligibility counted from graduation end date); routine ops/admin support - needs completed degree, ops-only."
+  },
+  {
+   "company": "Deutsche Bank",
+   "role": "CFO Intern",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/do-not-use-Mumbai-Nirlon-Knowledge-Pk-B1/CFO-Intern_R0415916",
+   "reason": "Evergreen req for CFO BITS interns (campus-tied, finance function); no open description."
+  },
+  {
+   "company": "Deutsche Bank",
+   "role": "Apprentice Hiring for 2026- 2027 (R0357981)",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/do-not-use-Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice---Non-Technology_R0357981",
+   "reason": "12-month NATS apprenticeship; needs completed university degree (Commerce/Science); DWS product/ops roles."
+  },
+  {
+   "company": "Deutsche Bank",
+   "role": "Apprentice Hiring for 2026- 2027 (R0456794)",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Knowledge-Park/Apprentice-Hiring-for-2026--2027_R0456794-1",
+   "reason": "12-month NATS apprenticeship (DWS sustainability product team); needs completed degree."
+  },
+  {
+   "company": "Deutsche Bank",
+   "role": "Operations Early Talent 2026-2027",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/do-not-use-Bangalore-Velankani-Tech-Park/Operations-Early-Talent-2026-2027_R0452987",
+   "reason": "Full-time NCT operations role (payments, reconciliations, KYC) - ops-only, not an internship."
+  },
+  {
+   "company": "HSBC",
+   "role": "Sales and Distribution Intern - Apprentice (12 months)",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612090839",
+   "reason": "12-month NATS apprenticeship in mutual-fund sales/distribution; graduates, NISM VA - sales."
+  },
+  {
+   "company": "HSBC",
+   "role": "Client Support Executive- Apprentice (12 Months)",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612539177",
+   "reason": "12-month NATS apprenticeship in client/branch operations; graduates - ops-only."
+  },
+  {
+   "company": "HSBC",
+   "role": "Assistant Manager Client Operations - Apprentice (12 Months)",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612377356",
+   "reason": "12-month NATS apprenticeship in client/branch operations; graduates - ops-only."
+  },
+  {
+   "company": "HSBC",
+   "role": "Assistant Manager Operations - Apprentice (12 Months)",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612377332",
+   "reason": "12-month NATS apprenticeship in client/branch operations; graduates - ops-only."
+  },
+  {
+   "company": "HSBC",
+   "role": "Assistant Manager Operations - Apprentice (12 Months)",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612365812",
+   "reason": "12-month NATS apprenticeship in client/branch operations; graduates - ops-only."
+  },
+  {
+   "company": "HSBC",
+   "role": "Assistant Manager Operations - Apprentice (12 Months)",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612317803",
+   "reason": "12-month NATS apprenticeship in client/branch operations; graduates - ops-only."
+  },
+  {
+   "company": "HSBC",
+   "role": "CA Industrial Trainee",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612505924",
+   "reason": "CA industrial training - requires CA Intermediate/pursuing CA; finance/accounting-only."
+  },
+  {
+   "company": "HSBC",
+   "role": "CA Industrial Trainee",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612505926",
+   "reason": "CA industrial training - requires CA Intermediate/pursuing CA; finance/accounting-only."
+  },
+  {
+   "company": "HSBC",
+   "role": "CA Industrial Trainee",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612437619",
+   "reason": "CA industrial training - requires CA Intermediate/pursuing CA; finance/accounting-only."
+  },
+  {
+   "company": "HSBC",
+   "role": "Assistant Manager Sales and Distribution - Apprentice (12 Months)",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612365747",
+   "reason": "12-month NATS apprenticeship in mutual-fund sales/distribution; graduates, NISM VA - sales."
+  },
+  {
+   "company": "HSBC",
+   "role": "Assistant Manager Sales and Distribution - Apprentice (12 Months)",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612123228",
+   "reason": "12-month NATS apprenticeship in mutual-fund sales/distribution; graduates, NISM VA - sales."
+  },
+  {
+   "company": "HSBC",
+   "role": "Sales Support - Apprentice (12 Months)",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612122841",
+   "reason": "12-month NATS apprenticeship in mutual-fund sales/distribution; graduates, NISM VA - sales."
+  },
+  {
+   "company": "HSBC",
+   "role": "GIFT City IWPB Business Development Manager, International Corridors",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612123197",
+   "reason": "Not an internship (full-time experienced role; matched fuzzy keyword)."
+  },
+  {
+   "company": "HSBC",
+   "role": "Java, Springboot, Docker / Consultant Specialist",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612550223",
+   "reason": "Not an internship (full-time experienced role; matched fuzzy keyword)."
+  },
+  {
+   "company": "HSBC",
+   "role": "Java, Springboot, Docker / Senior Consultant Specialist",
+   "url": "https://portal.careers.hsbc.com/careers/job/563774612545718",
+   "reason": "Not an internship (full-time experienced role; matched fuzzy keyword)."
+  },
+  {
+   "company": "Standard Chartered",
+   "role": "Apprentice Operations GBS India 2026 (Chennai, IN)",
+   "url": "https://jobs.standardchartered.com/job/Chennai-Apprentice-Operations-GBS-India-2026/1367501757/",
+   "reason": "12/24-month apprenticeship for students who graduated in 2024/2025/2026 (some B.Com/BBA only) - needs completed degree; ops/functions."
+  },
+  {
+   "company": "Standard Chartered",
+   "role": "Apprentice Operations India 2026 (Mumbai, IN)",
+   "url": "https://jobs.standardchartered.com/job/Mumbai-Apprentice-Operations-India-2026/1367422057/",
+   "reason": "12/24-month apprenticeship for students who graduated in 2024/2025/2026 (some B.Com/BBA only) - needs completed degree; ops/functions."
+  },
+  {
+   "company": "Standard Chartered",
+   "role": "Apprentice Functions GBS India 2026 (Bangalore, IN)",
+   "url": "https://jobs.standardchartered.com/job/Bangalore-Apprentice-Functions-GBS-India-2026/1373086357/",
+   "reason": "12/24-month apprenticeship for students who graduated in 2024/2025/2026 (some B.Com/BBA only) - needs completed degree; ops/functions."
+  },
+  {
+   "company": "Standard Chartered",
+   "role": "Apprentice Global Support Functions India 2026 (Mumbai, IN)",
+   "url": "https://jobs.standardchartered.com/job/Mumbai-Apprentice-Global-Support-Functions-India-2026/1372812457/",
+   "reason": "12/24-month apprenticeship for students who graduated in 2024/2025/2026 (some B.Com/BBA only) - needs completed degree; ops/functions."
+  },
+  {
+   "company": "Standard Chartered",
+   "role": "Apprentice Corporate & Investment Banking India 2026 (Mumbai, IN)",
+   "url": "https://jobs.standardchartered.com/job/Mumbai-Apprentice-Corporate-&-Investment-Banking-India-2026/1367419757/",
+   "reason": "12/24-month apprenticeship for students who graduated in 2024/2025/2026 (some B.Com/BBA only) - needs completed degree; ops/functions."
+  },
+  {
+   "company": "Standard Chartered",
+   "role": "Apprentice WRB India 2026 (Mumbai, IN)",
+   "url": "https://jobs.standardchartered.com/job/Mumbai-Apprentice-WRB-India-2026/1371885857/",
+   "reason": "12/24-month apprenticeship for students who graduated in 2024/2025/2026 (some B.Com/BBA only) - needs completed degree; ops/functions."
+  },
+  {
+   "company": "UBS",
+   "role": "CA Intern",
+   "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=352974",
+   "reason": "CA intern (Group Treasury/Finance reporting, financial statements) - finance/accounting-only."
+  },
+  {
+   "company": "UBS",
+   "role": "CA Intern",
+   "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=352782",
+   "reason": "CA intern (Group Treasury/Finance reporting, financial statements) - finance/accounting-only."
+  },
+  {
+   "company": "Societe Generale",
+   "role": "Trainee – Credit Portfolio Management, Societe Generale India (Mumbai)",
+   "url": "https://careers.societegenerale.com/en/job-offers/trainee-credit-portfolio-management-societe-generale-india-mumbai-26000KQX-en",
+   "reason": "Requires B.Com(Hons)/MBA/Master's in Finance/CA plus 1-2 yrs trainee experience; credit/finance - not open to B.Tech students."
+  },
+  {
+   "company": "Credit Agricole CIB",
+   "role": "Trainee - Global Markets Division",
+   "url": "https://jobs.ca-cib.com/job/job-trainee-global-markets-division_116032.aspx",
+   "reason": "Minimal education: postgraduate (management degree/CA); FX & rates desk / finance support."
+  },
+  {
+   "company": "Credit Agricole CIB",
+   "role": "Trainee - Global Markets Division (Foreign Exchange and Interest Rates)",
+   "url": "https://jobs.ca-cib.com/job/job-trainee-global-markets-division-foreign-exchange-and-interest-rates-_115317.aspx",
+   "reason": "Minimal education: postgraduate (management degree/CA); FX & rates desk / finance support."
+  },
+  {
+   "company": "Credit Agricole CIB",
+   "role": "Trainee",
+   "url": "https://jobs.ca-cib.com/job/job-trainee_113040.aspx",
+   "reason": "Minimal education: postgraduate (management degree/CA); FX & rates desk / finance support."
+  },
+  {
+   "company": "MUFG",
+   "role": "Apprentice",
+   "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Apprentice_10078663-WD",
+   "reason": "Apprentice for graduates in Business/Finance; transaction processing / operations maker role - ops-only."
+  },
+  {
+   "company": "MUFG",
+   "role": "Apprentice Global Operations",
+   "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Mumbai-Office-MGS/Apprentice-Global-Operations_10079688-WD-1",
+   "reason": "Apprentice for graduates in Business/Finance; transaction processing / operations maker role - ops-only."
+  }
+ ],
+ "round1": [
+  {
+   "company": "JPMorgan Chase",
+   "role": "Research Analyst Intern (Mumbai)",
+   "old_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No such req in the full Oracle India board (320) or keyword search; aggregator-only."
+  },
+  {
+   "company": "JPMorgan Chase",
+   "role": "Credit Analyst Intern (Mumbai)",
+   "old_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Not on Oracle India board; India credit reqs are full-time analysts."
+  },
+  {
+   "company": "Goldman Sachs",
+   "role": "Global Investment Research - Seasonal/Off-Cycle Internship (India)",
+   "old_url": "https://higher.gs.com/",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Not in higher.gs.com campus API (India has only the Controllers Industrial Trainee)."
+  },
+  {
+   "company": "Goldman Sachs",
+   "role": "Corporate Planning & Management - Seasonal/Off-Cycle Internship (Bengaluru)",
+   "old_url": "https://higher.gs.com/",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Not in higher.gs.com campus API (India has only the Controllers Industrial Trainee)."
+  },
+  {
+   "company": "Goldman Sachs",
+   "role": "FICC and Equities Apprenticeship (Bengaluru, Off-Cycle Program)",
+   "old_url": "https://higher.gs.com/",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Not in higher.gs.com campus API (India has only the Controllers Industrial Trainee)."
+  },
+  {
+   "company": "Citi",
+   "role": "US Consumer Cards Risk - Intern",
+   "old_url": "https://jobs.citi.com/job/bengaluru/us-consumer-cards-risk-intern/287/93375592576",
+   "status": "closed",
+   "new_url": "",
+   "note": "jobs.citi.com returns 404 'Job Not Found'; req absent from Workday."
+  },
+  {
+   "company": "Citi",
+   "role": "Intern - C00 - MUMBAI",
+   "old_url": "https://jobs.citi.com/job/mumbai/intern-c00-mumbai/287/96550957376",
+   "status": "closed",
+   "new_url": "",
+   "note": "jobs.citi.com returns 404 'Job Not Found'; req absent from Workday."
+  },
+  {
+   "company": "Citi",
+   "role": "Banking - Intern",
+   "old_url": "https://jobs.citi.com/job/mumbai/banking-intern/287/89151037584",
+   "status": "closed",
+   "new_url": "",
+   "note": "jobs.citi.com returns 404 'Job Not Found'; req absent from Workday."
+  },
+  {
+   "company": "Citi",
+   "role": "Markets & Quantitative Analysis Analyst Intern (Bengaluru)",
+   "old_url": "https://jobs.citi.com/location/india-jobs/287/1269750/2",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No MQA intern in Workday India or jobs.citi.com."
+  },
+  {
+   "company": "Deutsche Bank",
+   "role": "Intern",
+   "old_url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Intern_R0443954",
+   "status": "closed",
+   "new_url": "",
+   "note": "Workday detail for R0443954 not returned; req absent from India board."
+  },
+  {
+   "company": "Bank of America",
+   "role": "Apprentice",
+   "old_url": "https://careers.bankofamerica.com/en-us/job-detail/26037461/apprentice-multiple-locations",
+   "status": "closed",
+   "new_url": "",
+   "note": "Job-detail URL returns 404; not in India board."
+  }
+ ],
+ "companies": [
+  {
+   "name": "JPMorgan Chase",
+   "ats": "oracle",
+   "endpoint": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions (CX_1001, India 300000000289360)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Oracle India board fully paged (320 reqs, title-filtered): 0 intern/trainee/off-cycle postings; global intern/programme reqs are US/UK/APAC-ex-India only."
+  },
+  {
+   "name": "Goldman Sachs",
+   "ats": "other (higher.gs.com GraphQL; apply via Oracle hdpc LateralHiring)",
+   "endpoint": "https://api-higher.gs.com/gateway/api/v1/graphql (GetCampusRoles/GetRoles, LOCATION=India)",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "Only 1 India campus role live (Controllers Industrial Trainee, Bengaluru); GIR / CPM / FICC & Equities / AWM off-cycle roles not currently posted."
+  },
+  {
+   "name": "Morgan Stanley",
+   "ats": "workday",
+   "endpoint": "https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India (92 postings): 0 intern/spring/industrial-placement; only 'Return to Work Program' (returners). Campus programmes are on morganstanley.tal.net (Oleeo, captcha - not crawled)."
+  },
+  {
+   "name": "Citi",
+   "ats": "workday + Radancy (jobs.citi.com)",
+   "endpoint": "https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs ; https://jobs.citi.com/search-jobs/results",
+   "india_intern_hits": 10,
+   "kept": 0,
+   "note": "Workday India 946 postings + jobs.citi.com keyword search: no 'Intern' reqs live; 10 apprenticeship reqs, all graduate NATS/ops."
+  },
+  {
+   "name": "Barclays",
+   "ats": "workday",
+   "endpoint": "https://barclays.wd3.myworkdayjobs.com/wday/cxs/barclays/External_Career_Site_Barclays/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "No India facet on this tenant; whole board (718) pulled, 300 India postings by location: 0 intern/off-cycle/apprentice in India (2027 programmes are UK/EU/US/APAC-ex-India)."
+  },
+  {
+   "name": "Deutsche Bank",
+   "ats": "workday",
+   "endpoint": "https://db.wd3.myworkdayjobs.com/wday/cxs/db/DBWebsite/jobs",
+   "india_intern_hits": 4,
+   "kept": 0,
+   "note": "Workday India 293: 4 intern/apprentice reqs, none fit (NATS graduates / ops / BITS-only)."
+  },
+  {
+   "name": "Nomura",
+   "ats": "successfactors (RMK HTML)",
+   "endpoint": "https://careers.nomura.com/Nomura/go/Career-Opportunities-India/9050900/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "India listing 288 jobs: 0 intern/trainee titles. nomuracampus.tal.net (Oleeo) not crawled."
+  },
+  {
+   "name": "HSBC",
+   "ats": "eightfold",
+   "endpoint": "https://portal.careers.hsbc.com/api/apply/v2/jobs?domain=hsbc.com&location=India",
+   "india_intern_hits": 15,
+   "kept": 0,
+   "note": "Eightfold India: 13 apprentice/CA-trainee reqs (sales/ops/CA) - none fit; no DS/risk analytics intern live."
+  },
+  {
+   "name": "BNP Paribas",
+   "ats": "other",
+   "endpoint": "https://group.bnpparibas/en/careers/all-job-offers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Careers site answered HTTP 403 (bot protection) - could not crawl; not bypassed."
+  },
+  {
+   "name": "Standard Chartered",
+   "ats": "successfactors (RMK)",
+   "endpoint": "https://jobs.standardchartered.com/services/recruiting/v1/jobs + /services/rss/job/",
+   "india_intern_hits": 6,
+   "kept": 0,
+   "note": "India board 294: 6 'Apprentice ... India 2026' reqs, all for 2024-26 graduates."
+  },
+  {
+   "name": "UBS",
+   "ats": "brassring",
+   "endpoint": "https://jobs.ubs.com/TgNewUI/Search/Ajax/PowerSearchJobs (partnerid 25008, sites 5012/5131/5176)",
+   "india_intern_hits": 2,
+   "kept": 0,
+   "note": "India ~35 reqs: only CA Intern reqs (3) - finance."
+  },
+  {
+   "name": "Societe Generale",
+   "ats": "other (Quantum search via search-proxy.php)",
+   "endpoint": "https://careers.societegenerale.com/search-proxy.php -> api.socgen.com .../search-profile",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "India 233 jobs; 1 Trainee (credit portfolio mgmt, Mumbai) - needs B.Com/MBA/CA."
+  },
+  {
+   "name": "Credit Agricole CIB",
+   "ats": "talentsoft (HTML)",
+   "endpoint": "https://jobs.ca-cib.com/job/list-of-jobs.aspx?LCID=2057 (all 323 offers, detail pages parsed for location)",
+   "india_intern_hits": 3,
+   "kept": 0,
+   "note": "10 India offers; 3 Mumbai Internship/Trainee - all require postgraduate (MBA/CA)."
+  },
+  {
+   "name": "Bank of America",
+   "ats": "other (jobssearchservlet JSON)",
+   "endpoint": "https://careers.bankofamerica.com/services/jobssearchservlet?search=jobsByCountry&country=India ; /services/campusjobssearchservlet",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "India board 138 reqs: 0 intern/apprentice; campus board (35) has no India programmes."
+  },
+  {
+   "name": "Wells Fargo",
+   "ats": "workday",
+   "endpoint": "https://wd1.myworkdaysite.com/wday/cxs/wf/WellsFargoJobs/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India 88: 0 intern postings (India summer programmes open ~Jan)."
+  },
+  {
+   "name": "NatWest Group",
+   "ats": "other",
+   "endpoint": "https://jobs.natwestgroup.com/search/jobs/in/country/india",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Careers site answered HTTP 403 - could not crawl; not bypassed."
+  },
+  {
+   "name": "MUFG",
+   "ats": "workday",
+   "endpoint": "https://mufgub.wd3.myworkdayjobs.com/wday/cxs/mufgub/MUFG-Careers/jobs",
+   "india_intern_hits": 2,
+   "kept": 0,
+   "note": "Workday India 201: 2 operations apprentices only."
+  },
+  {
+   "name": "Mizuho",
+   "ats": "workday",
+   "endpoint": "https://mizuho.wd1.myworkdayjobs.com/wday/cxs/mizuho/mizuhoamericas/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Americas Workday (117) has no India postings; Mizuho Global Services India careers page lists no ATS - India ATS not located."
+  },
+  {
+   "name": "Jefferies",
+   "ats": "oleeo (tal.net)",
+   "endpoint": "https://jefferies.tal.net/vx/.../candidate/jobboard/vacancy/1/adv/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Oleeo job board returns a captcha ('Quick Check Needed') - could not crawl; not bypassed."
+  },
+  {
+   "name": "Macquarie",
+   "ats": "avature (HTML)",
+   "endpoint": "https://recruitment.macquarie.com/en_US/careers/SearchJobs/<kw>",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "78 India postings (Gurugram/Hyderabad/Mumbai): 0 intern/apprentice."
+  },
+  {
+   "name": "Lloyds Technology Centre",
+   "ats": "workday",
+   "endpoint": "https://lbg.wd3.myworkdayjobs.com/wday/cxs/lbg/LBG_Careers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "LBG Workday board (73) has no India postings; separate LTC India ATS not located."
+  }
+ ]
+}

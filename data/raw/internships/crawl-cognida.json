@@ -1,0 +1,12 @@
+{
+ "company": "Cognida",
+ "ats": "Keka",
+ "endpoint": "https://cognida.keka.com/careers/api/embedjobs/default/active/22612058-82aa-4bfd-9017-771ca36cd0e3",
+ "queried_at": "2026-10-30T13:26:44.356433Z",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 8,
+ "india_intern_hits": [],
+ "details": {}
+}

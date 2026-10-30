@@ -1,0 +1,22 @@
+{
+ "company": "Boeing India",
+ "ats": "workday",
+ "endpoint": "https://boeing.wd1.myworkdayjobs.com/wday/cxs/boeing/EXTERNAL_CAREERS/jobs",
+ "queried_at": "2026-10-30T07:30:12",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "student",
+  "2027",
+  "co-op",
+  "graduate intern",
+  ""
+ ],
+ "total_hits": 5,
+ "india_intern_hits": [],
+ "details": {}
+}

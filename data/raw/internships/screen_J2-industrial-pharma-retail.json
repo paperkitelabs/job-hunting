@@ -1,0 +1,488 @@
+{
+ "cluster": "J2-industrial-pharma-retail",
+ "checked": "30 Oct 2026",
+ "openings": [
+  {
+   "company": "Eaton",
+   "role": "Apprentice. IT. Development Program",
+   "url": "https://eaton.eightfold.ai/careers/job/687239452576?domain=eaton.com",
+   "location": "Pune",
+   "city_rank": 2,
+   "job_id": "74436",
+   "duration": "not stated",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "Bachelor's degree in Computer Science, IT, Data Engineering or related field (as posted); no year stated",
+   "pay": "",
+   "track": "ai",
+   "posted": "2026-10-09",
+   "deadline": "",
+   "jd": "Apprentice in Eaton's Master Data Management team supporting MDM on Snowflake, Medallion (bronze/silver/gold) pipelines, SQL transformation/validation, data quality, Streamlit apps, and prototyping GenAI use cases (matching, enrichment). Asks for SQL, data-warehousing basics, Snowflake/cloud data platform, Python, interest in GenAI.",
+   "li": "Eaton IT Master Data Management (Pune)",
+   "resume": "DS / AI",
+   "verified": "Eightfold pcsx position_details 200; in live India search list 30 Oct 2026",
+   "note": "Indian 'Apprentice' roles are usually Apprentices Act/NATS one-year programmes that need a completed degree; posting lists 'Bachelor's degree' - confirm a final-year (2027) student is eligible before applying. Data-engineering-leaning."
+  },
+  {
+   "company": "Pfizer",
+   "role": "Intern",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Intern_4965781",
+   "location": "Chennai",
+   "city_rank": 4,
+   "job_id": "4965781",
+   "duration": "not stated",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "Undergraduate or postgraduate student in Chemical/Biochemical/Mechanical/Process Control/Pharmaceutical Engineering, Biotechnology, Chemistry, Analytics or related discipline",
+   "pay": "",
+   "track": "ai",
+   "posted": "2026-10-27",
+   "deadline": "2026-11-02",
+   "jd": "Intern in Global Technology Engineering & Launch - Analytical Technology building an E&L tracking app and computational/hybrid models (ML, AI, statistics + mechanistic) for process monitoring, plus AI-tool digital-fluency training. Asks for Python/R/MATLAB, numerical methods, app development and a basic chemistry/analytics background.",
+   "li": "Pfizer Global Technology Engineering & Launch - Analytical Technology",
+   "resume": "DS / AI",
+   "verified": "Workday detail 200, canApply true, endDate 2026-11-02",
+   "note": "On-premise Chennai. CS not among listed disciplines ('Analytics or related' is); needs basic chemistry. Posting closes 2026-11-02 - apply immediately."
+  }
+ ],
+ "rejected": [
+  {
+   "company": "Philips",
+   "role": "Intern - HIC - Pune (Only for Selected Students - Others PLZ DO NOT APPLY)",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Intern---HIC---Pune_583018",
+   "reason": "Only for students from Philips-selected colleges; 10-month mech/electrical/E&TC/design engineering internship"
+  },
+  {
+   "company": "Maersk",
+   "role": "Intern- MGF",
+   "url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern--MGF_R198729",
+   "reason": "Ops/customer-service: Maersk Ground Freight dispatch and delivery-exception handling (Chennai)"
+  },
+  {
+   "company": "Maersk",
+   "role": "Intern - MGF NCS Specialist",
+   "url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern---MGF-NCS-Specialist_R199621",
+   "reason": "Ops/customer-service: Maersk Ground Freight dispatch and delivery-exception handling (Chennai)"
+  },
+  {
+   "company": "Maersk",
+   "role": "Intern - MGF NCS Specialist",
+   "url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern---MGF-NCS-Specialist_R199620",
+   "reason": "Ops/customer-service: Maersk Ground Freight dispatch and delivery-exception handling (Chennai)"
+  },
+  {
+   "company": "Maersk",
+   "role": "Intern - MGF NCS Specialist",
+   "url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern---MGF-NCS-Specialist_R199615",
+   "reason": "Ops/customer-service: Maersk Ground Freight dispatch and delivery-exception handling (Chennai)"
+  },
+  {
+   "company": "Maersk",
+   "role": "Intern - MGF NCS Specialist",
+   "url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern---MGF-NCS-Specialist_R199608",
+   "reason": "Ops/customer-service: Maersk Ground Freight dispatch and delivery-exception handling (Chennai)"
+  },
+  {
+   "company": "Airbus India",
+   "role": "Technical Data Authoring Intern - Airframe",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Authoring-Intern---Airframe_JR10449374",
+   "reason": "Aerospace/mechanical technical-data or aircraft-maintenance role; requires AME/B.Tech Aerospace/Mech"
+  },
+  {
+   "company": "Airbus India",
+   "role": "Technical Data Analyst Intern",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449384",
+   "reason": "Aerospace/mechanical technical-data or aircraft-maintenance role; requires AME/B.Tech Aerospace/Mech"
+  },
+  {
+   "company": "Airbus India",
+   "role": "Technical Data Analyst Intern",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Analyst-Intern_JR10449386",
+   "reason": "Aerospace/mechanical technical-data or aircraft-maintenance role; requires AME/B.Tech Aerospace/Mech"
+  },
+  {
+   "company": "Airbus India",
+   "role": "Intern - Maintenance Engineering & Services",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Intern---Maintenance-Engineering---Services_JR10449495",
+   "reason": "Aerospace/mechanical technical-data or aircraft-maintenance role; requires AME/B.Tech Aerospace/Mech"
+  },
+  {
+   "company": "Airbus India",
+   "role": "Internship - Technical Data Support & Services",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Technical-Data-Support---Services_JR10449171",
+   "reason": "Aerospace/mechanical technical-data or aircraft-maintenance role; requires AME/B.Tech Aerospace/Mech"
+  },
+  {
+   "company": "Airbus India",
+   "role": "FTM Intern",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/FTM-Intern_JR10448390",
+   "reason": "Aerospace/mechanical technical-data or aircraft-maintenance role; requires AME/B.Tech Aerospace/Mech"
+  },
+  {
+   "company": "Airbus India",
+   "role": "Internship- FTM MOC",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship--FTM-MOC_JR10449695",
+   "reason": "Aerospace/mechanical technical-data or aircraft-maintenance role; requires AME/B.Tech Aerospace/Mech"
+  },
+  {
+   "company": "Airbus India",
+   "role": "Internship - Technical Data",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Technical-Data_JR10449537",
+   "reason": "Aerospace/mechanical technical-data or aircraft-maintenance role; requires AME/B.Tech Aerospace/Mech"
+  },
+  {
+   "company": "Airbus India",
+   "role": "Internship - Technical Data",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Internship---Technical-Data_JR10449542",
+   "reason": "Aerospace/mechanical technical-data or aircraft-maintenance role; requires AME/B.Tech Aerospace/Mech"
+  },
+  {
+   "company": "Caterpillar",
+   "role": "India Production Apprentice",
+   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice_R0000398480",
+   "reason": "Shop-floor production/assembly apprentice (Thiruvallur)"
+  },
+  {
+   "company": "Eaton",
+   "role": "Apprentice - P&E Indirect",
+   "url": "https://eaton.eightfold.ai/careers/job/687237774178?domain=eaton.com",
+   "reason": "Procurement/purchasing ops apprentice"
+  },
+  {
+   "company": "Eaton",
+   "role": "HR Apprentice",
+   "url": "https://eaton.eightfold.ai/careers/job/687239798584?domain=eaton.com",
+   "reason": "HR apprentice"
+  },
+  {
+   "company": "Eaton",
+   "role": "Apprentice IT SAP ECC",
+   "url": "https://eaton.eightfold.ai/careers/job/687238812792?domain=eaton.com",
+   "reason": "SAP test-automation/QA apprentice - pure SWE/QA, no data/AI angle"
+  },
+  {
+   "company": "Eaton",
+   "role": "Apprentice - Materials",
+   "url": "https://eaton.eightfold.ai/careers/job/687239976322?domain=eaton.com",
+   "reason": "Materials/supply-chain apprentice for BE/Diploma Mechanical"
+  },
+  {
+   "company": "Eaton",
+   "role": "Apprentice. IT. Development Program",
+   "url": "https://eaton.eightfold.ai/careers/job/687239705382?domain=eaton.com",
+   "reason": "End-user computing / VDI incident-support ops apprentice"
+  },
+  {
+   "company": "Eaton",
+   "role": "Apprentice. IT. Development Program",
+   "url": "https://eaton.eightfold.ai/careers/job/687239705711?domain=eaton.com",
+   "reason": "Digital-workplace comms/content and adoption reporting apprentice - mostly comms/ops; no qualifications stated"
+  },
+  {
+   "company": "Vodafone Intelligent Solutions (VOIS)",
+   "role": "Apprentice-Network Monitoring Engineer - BangaloreVOIS",
+   "url": "https://jobs.vodafone.com/careers/job/563018698115582?domain=vodafone.com",
+   "reason": "24x7 network-monitoring (NOC) apprentice; permanent role type - ops/networking"
+  },
+  {
+   "company": "Vodafone Intelligent Solutions (VOIS)",
+   "role": "Apprentice-Network Monitoring Engineer - BangaloreVOIS",
+   "url": "https://jobs.vodafone.com/careers/job/563018698115492?domain=vodafone.com",
+   "reason": "24x7 network-monitoring (NOC) apprentice; permanent role type - ops/networking"
+  },
+  {
+   "company": "Vodafone Intelligent Solutions (VOIS)",
+   "role": "Apprentice-Network Monitoring Engineer - BangaloreVOIS",
+   "url": "https://jobs.vodafone.com/careers/job/563018698115693?domain=vodafone.com",
+   "reason": "24x7 network-monitoring (NOC) apprentice; permanent role type - ops/networking"
+  },
+  {
+   "company": "Vodafone Intelligent Solutions (VOIS)",
+   "role": "Apprentice-Network Monitoring Engineer - BangaloreVOIS",
+   "url": "https://jobs.vodafone.com/careers/job/563018698115581?domain=vodafone.com",
+   "reason": "24x7 network-monitoring (NOC) apprentice; permanent role type - ops/networking"
+  },
+  {
+   "company": "Cummins India",
+   "role": "Apprentice Trainee",
+   "url": "https://cummins.jobs/phaltan-ind/apprentice-trainee/29D0DE7AB1364F7184ED8104C4513125/job/",
+   "reason": "Plant apprentice trainee (Phaltan), posted Dec 2025; not a data/analytics role"
+  }
+ ],
+ "round1": [
+  {
+   "company": "Philips",
+   "role": "Intern - Data Science and AI Engineering",
+   "old_url": "https://www.careers.philips.com/student/in/en/job/587413/Intern-Data-Science-and-AI-Engineering",
+   "status": "closed",
+   "new_url": "",
+   "note": "Phenom job page returns HTTP 410 Gone; req 587413 not in Workday search"
+  },
+  {
+   "company": "Philips",
+   "role": "Intern (Bangalore) req 559186",
+   "old_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern_559186",
+   "status": "closed",
+   "new_url": "",
+   "note": "Workday detail 403 'permission denied' (unposted); not in live list"
+  },
+  {
+   "company": "Philips",
+   "role": "Intern - MDM (Bengaluru)",
+   "old_url": "https://swooped.co/job-postings/intern-mdm-bengaluru-philips-f2e7a",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No MDM intern in Philips Workday or Phenom India list (only India intern is HIC Pune)"
+  },
+  {
+   "company": "Maersk",
+   "role": "Business Analyst Intern (Pune)",
+   "old_url": "https://myinternships.in/job/maersk-india-is-hiring-business-analyst-intern-pune-2of4zl",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Maersk Workday India: only Chennai MGF interns live"
+  },
+  {
+   "company": "FedEx",
+   "role": "Intern (Chandivali Farm Road, Mumbai) RC786255",
+   "old_url": "https://careers.fedex.com/intern/job/EA3F78FCD3E465118AB5934353CF15F6",
+   "status": "closed",
+   "new_url": "",
+   "note": "careers.fedex.com page 404; RC786255 not in FXE-MEISA Workday"
+  },
+  {
+   "company": "Mercedes-Benz R&D India",
+   "role": "Data Science Intern (Pune, hybrid, 6 months)",
+   "old_url": "https://myinternships.in/job/mercedes-benz-r-and-d-india-data-science-intern-pune-add15d",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Full MB board (2,665) paged: 248 India postings, no intern"
+  },
+  {
+   "company": "John Deere India",
+   "role": "Data Science Intern (Pune)",
+   "old_url": "https://myinternships.in/job/john-deere-india-is-hiring-data-science-intern-pune-39dd18",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Deere Eightfold board has no India postings"
+  },
+  {
+   "company": "John Deere India",
+   "role": "Intelligent Solutions Group (ISG) Data Intern (Bengaluru)",
+   "old_url": "https://myinternships.in/internships/john-deere-india-is-hiring-intelligent-solutions-group-isg-data-intern-bengaluru-39a551",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Deere Eightfold board has no India postings"
+  }
+ ],
+ "companies": [
+  {
+   "name": "Philips",
+   "ats": "workday",
+   "endpoint": "https://philips.wd3.myworkdayjobs.com/wday/cxs/philips/jobs-and-careers/jobs",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "Workday India facet (59 postings; also Phenom careers.philips.com India = 56): 1 intern (HIC Pune, selected colleges only, mech/elec) - rejected"
+  },
+  {
+   "name": "Maersk",
+   "ats": "workday",
+   "endpoint": "https://maersk.wd3.myworkdayjobs.com/wday/cxs/maersk/Maersk_Careers/jobs",
+   "india_intern_hits": 5,
+   "kept": 0,
+   "note": "Workday India location facets (259 postings): 5 interns, all Chennai MGF customer-service/dispatch - rejected"
+  },
+  {
+   "name": "DHL",
+   "ats": "phenom",
+   "endpoint": "https://careers.dhl.com/widgets (refineSearch, country=India)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Phenom India filter: 295 postings, 0 intern/trainee"
+  },
+  {
+   "name": "FedEx",
+   "ats": "workday",
+   "endpoint": "https://fedex.wd1.myworkdayjobs.com/wday/cxs/fedex/FXE-MEISA-External/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday FXE-MEISA India facet (62 postings): 0 intern postings"
+  },
+  {
+   "name": "Boeing India",
+   "ats": "workday",
+   "endpoint": "https://boeing.wd1.myworkdayjobs.com/wday/cxs/boeing/EXTERNAL_CAREERS/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday EXTERNAL_CAREERS India facet: only 5 India postings, 0 intern"
+  },
+  {
+   "name": "Airbus India",
+   "ats": "workday",
+   "endpoint": "https://ag.wd3.myworkdayjobs.com/wday/cxs/ag/Airbus/jobs",
+   "india_intern_hits": 9,
+   "kept": 0,
+   "note": "Workday India facet (205 postings): 9 Bangalore interns, all aerospace/mech technical-data/maintenance roles - rejected"
+  },
+  {
+   "name": "Mercedes-Benz R&D India",
+   "ats": "beesite (SuccessFactors)",
+   "endpoint": "https://mercedes-benz-beesite-production-gjb.app.beesite.de/search/ (all 2,665 postings paged, India filtered)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "248 India postings (MBRDI Bengaluru), 0 intern/trainee"
+  },
+  {
+   "name": "Volkswagen / Skoda Auto VW India",
+   "ats": "other",
+   "endpoint": "https://skoda-vw.co.in/careers/ ; https://jobs.volkswagen-group.com/search/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "skoda-vw.co.in/careers has only an HR notice, no listing/ATS; VW Group SuccessFactors search ignores keyword/location (returns same 10 non-India jobs). No India intern found; not fully crawlable"
+  },
+  {
+   "name": "John Deere India",
+   "ats": "eightfold + successfactors",
+   "endpoint": "https://johndeere.eightfold.ai/api/pcsx/search?domain=johndeere.com ; https://jobs.deere.com/successfactors/search/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Eightfold board paged fully (331 postings): 0 India postings; SF board has 6 China jobs only. Deere India roles not on either public board"
+  },
+  {
+   "name": "Cummins India",
+   "ats": "directemployers (cummins.jobs)",
+   "endpoint": "https://prod-search-api.jobsyn.org/api/v1/solr/search (x-origin: cummins.jobs, location=India)",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "careers.cummins.com 403 to scripts; official cummins.jobs search API: 177 India postings, 1 'Apprentice Trainee' (Phaltan plant, posted Dec 2025) - rejected"
+  },
+  {
+   "name": "Caterpillar",
+   "ats": "workday",
+   "endpoint": "https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "Workday India facet (146 postings): 1 production apprentice (shop floor) - rejected"
+  },
+  {
+   "name": "Eaton",
+   "ats": "eightfold",
+   "endpoint": "https://eaton.eightfold.ai/api/pcsx/search?domain=eaton.com&location=India",
+   "india_intern_hits": 7,
+   "kept": 1,
+   "note": "189 India postings; 7 Pune apprentices; kept 1 (MDM/data+GenAI), rest rejected"
+  },
+  {
+   "name": "Novartis",
+   "ats": "workday",
+   "endpoint": "https://novartis.wd3.myworkdayjobs.com/wday/cxs/novartis/Novartis_Careers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet (125 postings): 0 intern postings"
+  },
+  {
+   "name": "Pfizer",
+   "ats": "workday",
+   "endpoint": "https://pfizer.wd1.myworkdayjobs.com/wday/cxs/pfizer/PfizerCareers/jobs",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "Workday India facet (28 postings): 1 intern (Chennai GTEL-AT AI/modeling) - kept with note"
+  },
+  {
+   "name": "AstraZeneca",
+   "ats": "workday",
+   "endpoint": "https://astrazeneca.wd3.myworkdayjobs.com/wday/cxs/astrazeneca/Careers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India location facets (32 postings): 0 intern postings"
+  },
+  {
+   "name": "Sanofi",
+   "ats": "workday",
+   "endpoint": "https://sanofi.wd3.myworkdayjobs.com/wday/cxs/sanofi/SanofiCareers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet (88 postings): 0 intern postings"
+  },
+  {
+   "name": "GSK",
+   "ats": "workday",
+   "endpoint": "https://gsk.wd5.myworkdayjobs.com/wday/cxs/gsk/GSKCareers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet (276 postings): 0 intern postings"
+  },
+  {
+   "name": "Eli Lilly",
+   "ats": "phenom",
+   "endpoint": "https://careers.lilly.com/widgets (refNum LILLUS, country=India)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Phenom India filter: 42 postings (Hyderabad/Bengaluru), 0 intern"
+  },
+  {
+   "name": "Johnson & Johnson / Kenvue",
+   "ats": "workday",
+   "endpoint": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs + https://kenvue.wd5.myworkdayjobs.com/wday/cxs/kenvue/Kenvue/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "J&J Workday India locations (97) + Kenvue Workday kenvue.wd5/Kenvue India facet (12): 0 intern postings"
+  },
+  {
+   "name": "Optum / UnitedHealth Group",
+   "ats": "radancy (taleo backend)",
+   "endpoint": "https://careers.unitedhealthgroup.com/search-jobs/results",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Radancy board, 223 India postings via keyword/city queries; 0 India intern (the 88 'intern' hits are US)"
+  },
+  {
+   "name": "Cigna / Evernorth",
+   "ats": "workday",
+   "endpoint": "https://cigna.wd5.myworkdayjobs.com/wday/cxs/cigna/cignacareers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet (113 postings): 0 intern postings"
+  },
+  {
+   "name": "Lowe's India",
+   "ats": "workday",
+   "endpoint": "https://lowes.wd5.myworkdayjobs.com/wday/cxs/lowes/LWS_External_CS/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday LWS_External_CS India (Bengaluru) locations: 0 intern postings; Phenom talent.lowes.com lists no India jobs"
+  },
+  {
+   "name": "Tesco",
+   "ats": "avature",
+   "endpoint": "https://careers.tesco.com/en_GB/careers/SearchJobs/<kw>",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Avature search (intern/internship/trainee/apprentice/graduate/India/Bengaluru): ~10 Tesco India Bengaluru postings, 0 intern"
+  },
+  {
+   "name": "IKEA",
+   "ats": "radancy",
+   "endpoint": "https://jobs.ikea.com/en/search-jobs/results",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "whole board 976 postings paged; 62 India postings, 0 intern"
+  },
+  {
+   "name": "Vodafone Intelligent Solutions (VOIS)",
+   "ats": "eightfold",
+   "endpoint": "https://jobs.vodafone.com/api/pcsx/search?domain=vodafone.com&location=India",
+   "india_intern_hits": 4,
+   "kept": 0,
+   "note": "298 India postings; 4 'Apprentice-Network Monitoring Engineer' (Bangalore, 24x7 NOC) - rejected"
+  },
+  {
+   "name": "Amdocs",
+   "ats": "eightfold",
+   "endpoint": "https://jobs.amdocs.com/api/pcsx/search?domain=amdocs.com",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "whole board only 35 postings, 6 India (Pune/Gurgaon), 0 intern"
+  }
+ ]
+}

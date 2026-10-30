@@ -1,0 +1,44 @@
+{
+ "company": "Philips",
+ "ats": "workday",
+ "endpoint": "https://philips.wd3.myworkdayjobs.com/wday/cxs/philips/jobs-and-careers/jobs",
+ "queried_at": "2026-10-30T07:29:03",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "student",
+  "2027",
+  "co-op",
+  "graduate intern",
+  ""
+ ],
+ "total_hits": 59,
+ "india_intern_hits": [
+  {
+   "title": "Intern - HIC - Pune (Only for Selected Students - Others PLZ DO NOT APPLY)",
+   "loc": "Pune",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Intern---HIC---Pune_583018",
+   "id": "583018",
+   "posted": "Posted Yesterday"
+  }
+ ],
+ "details": {
+  "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Intern---HIC---Pune_583018": {
+   "title": "Intern - HIC - Pune (Only for Selected Students - Others PLZ DO NOT APPLY)",
+   "loc": "Pune",
+   "country": "India",
+   "id": "583018",
+   "posted": "2026-10-29",
+   "end": "2026-10-31",
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Intern---HIC---Pune_583018",
+   "desc": "Job Title Intern - HIC - Pune (Only for Selected Students - Others PLZ DO NOT APPLY)\nJob Description \nJob Posting Description \n📌 10-Month Internship Program (BTech / MTech) \n Eligibility: \nThis internship is open only to students from Philips-selected colleges . \n Duration: \n🗓️ 10 months \n Disciplines We Hire From: \nMechanical Engineering \nElectrical Engineering \nE&TC (Electronics & Telecommunication) \nProject Management \nDesign Engineering \n Conversion Opportunity: \nUpon successful completion of the internship, high-performing interns may be considered for full-time roles , subject to performance and position availability at that time. \n #LI-DNI",
+   "status": 200
+  }
+ }
+}

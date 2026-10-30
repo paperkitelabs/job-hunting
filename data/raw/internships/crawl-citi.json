@@ -1,0 +1,229 @@
+{
+ "company": "Citi",
+ "ats": "workday + Radancy (jobs.citi.com)",
+ "endpoint": "https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs ; https://jobs.citi.com/search-jobs/results",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "summer analyst",
+  "winter analyst",
+  "industrial placement",
+  "industrial trainee",
+  "graduate",
+  "2027",
+  "spring",
+  "student",
+  "campus",
+  ""
+ ],
+ "total_hits": 946,
+ "india_intern_hits": [
+  {
+   "title": "Job Requisition: 25843173 Citi India Apprenticeship Program - SS Ops",
+   "loc": "Mumbai Maharashtra India",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Job-Requisition--25843173-Citi-India-Apprenticeship-Program---SS-Ops_25843180",
+   "id": "25843180",
+   "posted": "2025-03-17"
+  },
+  {
+   "title": "Citi India Apprenticeship Program - Corporate Banking",
+   "loc": "Mumbai Maharashtra India",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Citi-India-Apprenticeship-Program---Corporate-Banking_25849760",
+   "id": "25849760",
+   "posted": "2025-04-01"
+  },
+  {
+   "title": "Citi India Apprenticeship Program",
+   "loc": "Mumbai Maharashtra India",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Citi-India-Apprenticeship-Program_25854531",
+   "id": "25854531",
+   "posted": "2025-04-10"
+  },
+  {
+   "title": "Citi India Apprenticeship Program - Treasury and Trade Solutions",
+   "loc": "Mumbai Maharashtra India",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Citi-India-Apprenticeship-Program---Treasury-and-Trade-Solutions_25873675",
+   "id": "25873675",
+   "posted": "2025-07-16"
+  },
+  {
+   "title": "Citi India Apprenticeship Program - Investment Banking",
+   "loc": "Mumbai Maharashtra India",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Citi-India-Apprenticeship-Program---Investment-Banking_261002180",
+   "id": "261002180",
+   "posted": "2026-10-28"
+  },
+  {
+   "title": "Young Apprentice - C00 - MUMBAI",
+   "loc": "Mumbai Maharashtra India",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969219",
+   "id": "26969219",
+   "posted": "2026-10-29"
+  },
+  {
+   "title": "Young Apprentice - C00 - CHENNAI",
+   "loc": "1/124, SHIVAJI GARDENS, MOONLI",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Young-Apprentice---C00---CHENNAI_26986323",
+   "id": "26986323",
+   "posted": "2026-10-15"
+  },
+  {
+   "title": "Young Apprentice - C00 - PUNE",
+   "loc": "Pune Maharashtra India",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986450",
+   "id": "26986450",
+   "posted": "2026-10-15"
+  },
+  {
+   "title": "Young Apprentice - C00 - PUNE",
+   "loc": "Pune Maharashtra India",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986436",
+   "id": "26986436",
+   "posted": "2026-10-27"
+  },
+  {
+   "title": "India Apprenticeship Program - Commercial Banking",
+   "loc": "Mumbai Maharashtra India",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/India-Apprenticeship-Program---Commercial-Banking_26992827",
+   "id": "26992827",
+   "posted": "2026-10-14"
+  }
+ ],
+ "details": {
+  "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Job-Requisition--25843173-Citi-India-Apprenticeship-Program---SS-Ops_25843180": {
+   "title": "Job Requisition: 25843173 Citi India Apprenticeship Program - SS Ops",
+   "loc": "Mumbai Maharashtra India",
+   "country": "India",
+   "id": "25843180",
+   "posted": "2025-03-17",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Job-Requisition--25843173-Citi-India-Apprenticeship-Program---SS-Ops_25843180",
+   "desc": "Job Description: \nThe Citi apprentice is an entry level position at Citi where the student will receive a foundation of knowledge and training required to contribute as a valuable resource in Citi. Apprentices receive real-world work and add value to their teams during their time at Citi. \nWhy Apprenticeship is a great career path. \nMentorship and training from financial-services industry specialists and Citi subject-matter-experts \nBusiness-simulations, Team-based challenges and projects to reinforce new skills \nSelf-directed study with access to industry leading materials. \nProgram Duration: 12 months. \nEligibility \nNot more than 5 years of difference between graduation end date and Joining date. \nShould not have enrolled in any prior Government Apprenticeship programs. \nShould not have been registered on EPF/ ESIC Portal \nApprentices who enroll should have their Aadhaar seeded with their personal mobile no. and personal email id. This is a mandate. \nQualifications: \nProficient computer skills with a focus on Microsoft Office applications \nDemonstrated analytical skills \nConsistently demonstrates clear and concise written and verbal communication skills \nCommitment to personal growth and career development; a strong desire to learn and be successful in a team environment \nStrong communication and organizational skills \nAnalytical and quantitative skills \nDesire to develop a deep understanding of the financial industry \nUnquestioned commitment to integrity and ethical decision \nStrategic thinkers and solutions orientated \nEducation: \nBTech/ Graduation / CA Industrial Trainee \n------------------------------------------------------ \n Job Family Group: Business Strategy, Management & Administration\n------------------------------------------------------ \n Job Family: Administrative Support\n------------------------------------------------------ \n Time Type: Full time\n------------------------------------------------------ \nCiti is an equal opportunity and affirmative action employer. \nQualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. \nCitigroup Inc. and its subsidiaries (\"Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi . \nView the \" EEO is the Law \" poster. View the EEO is the Law Supplement . \nView the EEO Policy Statement . \nView the Pay Transparency Posting",
+   "status": 200
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Citi-India-Apprenticeship-Program---Corporate-Banking_25849760": {
+   "title": "Citi India Apprenticeship Program - Corporate Banking",
+   "loc": "Mumbai Maharashtra India",
+   "country": "India",
+   "id": "25849760",
+   "posted": "2025-04-01",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Citi-India-Apprenticeship-Program---Corporate-Banking_25849760",
+   "desc": "Job Description: \nThe Citi apprentice is an entry level position at Citi where the student will receive a foundation of knowledge and training required to contribute as a valuable resource in Citi. Apprentices receive real-world work and add value to their teams during their time at Citi. \nWhy Apprenticeship is a great career path. \nMentorship and training from financial-services industry specialists and Citi subject-matter-experts \n Business-simulations, Team-based challenges and projects to reinforce new skills \nSelf-directed study with access to industry leading materials. \nProgram Duration: 12 months. \n Eligibility \nNot more than 5 years of difference between graduation end date and Joining date. \nShould not have enrolled in any prior Government Apprenticeship programs. \nShould not have been registered on EPF/ ESIC Portal \nApprentices who enroll should have their Aadhaar seeded with their personal mobile no. and personal email id. This is a mandate. \nQualifications: \nProficient computer skills with a focus on Microsoft Office applications \nDemonstrated analytical skills \nConsistently demonstrates clear and concise written and verbal communication skills \nCommitment to personal growth and career development; a strong desire to learn and be successful in a team environment \nStrong communication and organizational skills \nAnalytical and quantitative skills \nDesire to develop a deep understanding of the financial industry \nUnquestioned commitment to integrity and ethical decision \nStrategic thinkers and solutions orientated \nEducation: \nBTech/ / CA Industrial Trainee \n------------------------------------------------------ \n Job Family Group: Business Strategy, Management & Administration\n------------------------------------------------------ \n Job Family: Administrative Support\n------------------------------------------------------ \n Time Type: Full time\n------------------------------------------------------ \nCiti is an equal opportunity and affirmative action employer. \nQualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. \nCitigroup Inc. and its subsidiaries (\"Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi . \nView the \" EEO is the Law \" poster. View the EEO is the Law Supplement . \nView the EEO Policy Statement . \nView the Pay Transparency Posting",
+   "status": 200
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Citi-India-Apprenticeship-Program_25854531": {
+   "title": "Citi India Apprenticeship Program",
+   "loc": "Mumbai Maharashtra India",
+   "country": "India",
+   "id": "25854531",
+   "posted": "2025-04-10",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Citi-India-Apprenticeship-Program_25854531",
+   "desc": "Job Description: \nThe Citi apprentice is an entry level position at Citi where the student will receive a foundation of knowledge and training required to contribute as a valuable resource in Citi. Apprentices receive real-world work and add value to their teams during their time at Citi. \nWhy Apprenticeship is a great career path. \nMentorship and training from financial-services industry specialists and Citi subject-matter-experts \n Business-simulations, Team-based challenges and projects to reinforce new skills \nSelf-directed study with access to industry leading materials. \nProgram Duration: 12 months. \n Eligibility \nNot more than 5 years of difference between graduation end date and Joining date. \nShould not have enrolled in any prior Government Apprenticeship programs. \nShould not have been registered on EPF/ ESIC Portal \nApprentices who enroll should have their Aadhaar seeded with their personal mobile no. and personal email id. This is a mandate. \nQualifications: \nProficient computer skills with a focus on Microsoft Office applications \nDemonstrated analytical skills \nConsistently demonstrates clear and concise written and verbal communication skills \nCommitment to personal growth and career development; a strong desire to learn and be successful in a team environment \nStrong communication and organizational skills \nAnalytical and quantitative skills \nDesire to develop a deep understanding of the financial industry \nUnquestioned commitment to integrity and ethical decision \nStrategic thinkers and solutions orientated \nEducation: \nBTech / CA Industrial Trainee \n------------------------------------------------------ \n Job Family Group: Business Strategy, Management & Administration\n------------------------------------------------------ \n Job Family: Administrative Support\n------------------------------------------------------ \n Time Type: Full time\n------------------------------------------------------ \nCiti is an equal opportunity and affirmative action employer. \nQualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. \nCitigroup Inc. and its subsidiaries (\"Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi . \nView the \" EEO is the Law \" poster. View the EEO is the Law Supplement . \nView the EEO Policy Statement . \nView the Pay Transparency Posting",
+   "status": 200
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Citi-India-Apprenticeship-Program---Treasury-and-Trade-Solutions_25873675": {
+   "title": "Citi India Apprenticeship Program - Treasury and Trade Solutions",
+   "loc": "Mumbai Maharashtra India",
+   "country": "India",
+   "id": "25873675",
+   "posted": "2025-07-16",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Citi-India-Apprenticeship-Program---Treasury-and-Trade-Solutions_25873675",
+   "desc": "Job Description: \nThe Citi apprentice is an entry level position at Citi where the student will receive a foundation of knowledge and training required to contribute as a valuable resource in Citi. Apprentices receive real-world work and add value to their teams during their time at Citi. \nWhy Apprenticeship is a great career path. \nMentorship and training from financial-services industry specialists and Citi subject-matter-experts \n Business-simulations, Team-based challenges and projects to reinforce new skills \nSelf-directed study with access to industry leading materials. \nProgram Duration: 12 months. \n Eligibility \nNot more than 5 years of difference between graduation end date and Joining date. \nShould not have enrolled in any prior Government Apprenticeship programs. \nShould not have been registered on EPF/ ESIC Portal \nApprentices who enroll should have their Aadhaar seeded with their personal mobile no. and personal email id. This is a mandate. \nQualifications: \nProficient computer skills with a focus on Microsoft Office applications \nDemonstrated analytical skills \nConsistently demonstrates clear and concise written and verbal communication skills \nCommitment to personal growth and career development; a strong desire to learn and be successful in a team environment \nStrong communication and organizational skills \nAnalytical and quantitative skills \nDesire to develop a deep understanding of the financial industry \nUnquestioned commitment to integrity and ethical decision \nStrategic thinkers and solutions orientated \n ------------------------------------------------------ \n Job Family Group: Business Strategy, Management & Administration\n ------------------------------------------------------ \n Job Family: Administrative Support\n ------------------------------------------------------ \n Time Type: Full time\n ------------------------------------------------------ \n Most Relevant Skills Please see the requirements listed above.\n------------------------------------------------------ \n Other Relevant Skills For complementary skills, please see above and/or contact the recruiter.\n------------------------------------------------------ \n Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law. \n If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi . \n View Citi’s EEO Policy Statement and the Know Your Rights poster.",
+   "status": 200
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Citi-India-Apprenticeship-Program---Investment-Banking_261002180": {
+   "title": "Citi India Apprenticeship Program - Investment Banking",
+   "loc": "Mumbai Maharashtra India",
+   "country": "India",
+   "id": "261002180",
+   "posted": "2026-10-28",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Citi-India-Apprenticeship-Program---Investment-Banking_261002180",
+   "desc": "Role Overview \nThe Citi Apprentice is an entry-level position at Citi, designed to provide a comprehensive foundation of knowledge and training. Apprentices will gain real-world work experience and contribute as valuable resources to their teams, while developing essential skills in a dynamic financial services environment. \n Key Responsibilities \nAs a Citi Apprentice, you will perform a variety of tasks under direct supervision, focusing on routine operations and administrative support. Your responsibilities will include: \nPerforming most basic, routine tasks and assignments with detailed procedural guidance. \nApplying knowledge of routine work area procedures to complete standardized activities. \nExchanging basic information with co-workers and contributing to team communication. \nResolving task-related problems in straightforward situations, selecting from clearly defined options. \nAssisting with operational and administrative functions of low to moderate complexity. \nProviding administrative support, including copying, printing, document transportation, and materials checking/receiving. \nPerforming basic computer activities as required. \nServicing a very limited number of products and/or services. \nAppropriately assessing risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency. \n Why Apprenticeship is a Great Career Path at Citi? \nThis program offers an unparalleled opportunity to launch your career in financial services with robust support and development: \n Mentorship and Training: Benefit from guidance and expertise provided by financial-services industry specialists and Citi subject-matter experts. \n Practical Application: Engage in business simulations, team-based challenges, and hands-on projects designed to reinforce new skills and provide real-world experience. \n Continuous Learning: Access industry-leading materials for self-directed study and professional growth. \n Program Duration :12-months \n Eligibility: \nNot more than 5 years of difference between graduation end date and Joining date. \nShould not have enrolled in any prior Government Apprenticeship programs. \nShould not have been registered on EPF/ ESIC Portal \nApprentices who enroll should have their Aadhaar seeded with their personal mobile no. and personal email ID. This is a mandate. \n ------------------------------------------------------ \n Job Family Group: Business Strategy, Management & Administration\n ------------------------------------------------------ \n Job Family: Administrative Support\n ------------------------------------------------------ \n Time Type: Full time\n ------------------------------------------------------ \n Most Relevant Skills Please see the requirements listed above.\n------------------------------------------------------ \n Other Relevant Skills For complementary skills, please see above and/or contact the recruiter.\n------------------------------------------------------ \n Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law. \n If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi . \n View Citi’s EEO Policy Statement and the Know Your Rights poster.",
+   "status": 200
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969219": {
+   "title": "Young Apprentice - C00 - MUMBAI",
+   "loc": "Mumbai Maharashtra India",
+   "country": "India",
+   "id": "26969219",
+   "posted": "2026-10-29",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969219",
+   "desc": "The Young Apprentice performs most basic, routine tasks/assignments. Works under direct supervision with detailed procedures. May service a very limited number of products/services. Applies knowledge of routine work area procedures. Completes standardized activities. Exchanges basic information with other co-workers. Resolves task related problems in straightforward situations. Selects from a limited number of clearly defined options.\n Responsibilities: \nOperational and administrative functions \nAdministrative Support with low level of complexity \nCopies, printing and document transportation \nMaterials checking/receiving \nBasic computer activities \nAppropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency. \n Qualifications: \nPrevious experience preferred \nConsistently demonstrates clear and concise written and verbal communication skills \n Education: \nHigh school diploma or equivalent experience \n ------------------------------------------------------ \n Job Family Group: Business Strategy, Management & Administration\n ------------------------------------------------------ \n Job Family: Administrative Support\n ------------------------------------------------------ \n Time Type: Full time\n ------------------------------------------------------ \n Most Relevant Skills Please see the requirements listed above.\n------------------------------------------------------ \n Other Relevant Skills For complementary skills, please see above and/or contact the recruiter.\n------------------------------------------------------ \n Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law. \n If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi . \n View Citi’s EEO Policy Statement and the Know Your Rights poster.",
+   "status": 200
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Young-Apprentice---C00---CHENNAI_26986323": {
+   "title": "Young Apprentice - C00 - CHENNAI",
+   "loc": "1/124, SHIVAJI GARDENS, MOONLI",
+   "country": "India",
+   "id": "26986323",
+   "posted": "2026-10-15",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Young-Apprentice---C00---CHENNAI_26986323",
+   "desc": "The Young Apprentice performs most basic, routine tasks/assignments. Works under direct supervision with detailed procedures. May service a very limited number of products/services. Applies knowledge of routine work area procedures. Completes standardized activities. Exchanges basic information with other co-workers. Resolves task related problems in straightforward situations. Selects from a limited number of clearly defined options.\n Responsibilities: \nOperational and administrative functions \nAdministrative Support with low level of complexity \nCopies, printing and document transportation \nMaterials checking/receiving \nBasic computer activities \nAppropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency. \n Qualifications: \nPrevious experience preferred \nConsistently demonstrates clear and concise written and verbal communication skills \n Education: \nHigh school diploma or equivalent experience \n ------------------------------------------------------ \n Job Family Group: Business Strategy, Management & Administration\n ------------------------------------------------------ \n Job Family: Administrative Support\n ------------------------------------------------------ \n Time Type: Full time\n ------------------------------------------------------ \n Most Relevant Skills Please see the requirements listed above.\n------------------------------------------------------ \n Other Relevant Skills For complementary skills, please see above and/or contact the recruiter.\n------------------------------------------------------ \n Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law. \n If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi . \n View Citi’s EEO Policy Statement and the Know Your Rights poster.",
+   "status": 200
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986450": {
+   "title": "Young Apprentice - C00 - PUNE",
+   "loc": "Pune Maharashtra India",
+   "country": "India",
+   "id": "26986450",
+   "posted": "2026-10-15",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986450",
+   "desc": "The Young Apprentice performs most basic, routine tasks/assignments. Works under direct supervision with detailed procedures. May service a very limited number of products/services. Applies knowledge of routine work area procedures. Completes standardized activities. Exchanges basic information with other co-workers. Resolves task related problems in straightforward situations. Selects from a limited number of clearly defined options.\n Responsibilities: \nOperational and administrative functions \nAdministrative Support with low level of complexity \nCopies, printing and document transportation \nMaterials checking/receiving \nBasic computer activities \nAppropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency. \n Qualifications: \nPrevious experience preferred \nConsistently demonstrates clear and concise written and verbal communication skills \n Education: \nHigh school diploma or equivalent experience \n ------------------------------------------------------ \n Job Family Group: Business Strategy, Management & Administration\n ------------------------------------------------------ \n Job Family: Administrative Support\n ------------------------------------------------------ \n Time Type: Full time\n ------------------------------------------------------ \n Most Relevant Skills Please see the requirements listed above.\n------------------------------------------------------ \n Other Relevant Skills For complementary skills, please see above and/or contact the recruiter.\n------------------------------------------------------ \n Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law. \n If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi . \n View Citi’s EEO Policy Statement and the Know Your Rights poster.",
+   "status": 200
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986436": {
+   "title": "Young Apprentice - C00 - PUNE",
+   "loc": "Pune Maharashtra India",
+   "country": "India",
+   "id": "26986436",
+   "posted": "2026-10-27",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986436",
+   "desc": "The Young Apprentice performs most basic, routine tasks/assignments. Works under direct supervision with detailed procedures. May service a very limited number of products/services. Applies knowledge of routine work area procedures. Completes standardized activities. Exchanges basic information with other co-workers. Resolves task related problems in straightforward situations. Selects from a limited number of clearly defined options.\n Responsibilities: \nOperational and administrative functions \nAdministrative Support with low level of complexity \nCopies, printing and document transportation \nMaterials checking/receiving \nBasic computer activities \nAppropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency. \n Qualifications: \nPrevious experience preferred \nConsistently demonstrates clear and concise written and verbal communication skills \n Education: \nHigh school diploma or equivalent experience \n ------------------------------------------------------ \n Job Family Group: Business Strategy, Management & Administration\n ------------------------------------------------------ \n Job Family: Administrative Support\n ------------------------------------------------------ \n Time Type: Full time\n ------------------------------------------------------ \n Most Relevant Skills Please see the requirements listed above.\n------------------------------------------------------ \n Other Relevant Skills For complementary skills, please see above and/or contact the recruiter.\n------------------------------------------------------ \n Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law. \n If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi . \n View Citi’s EEO Policy Statement and the Know Your Rights poster.",
+   "status": 200
+  },
+  "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/India-Apprenticeship-Program---Commercial-Banking_26992827": {
+   "title": "India Apprenticeship Program - Commercial Banking",
+   "loc": "Mumbai Maharashtra India",
+   "country": "India",
+   "id": "26992827",
+   "posted": "2026-10-14",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/India-Apprenticeship-Program---Commercial-Banking_26992827",
+   "desc": "The Young Apprentice performs most basic, routine tasks/assignments. Works under direct supervision with detailed procedures. May service a very limited number of products/services. Applies knowledge of routine work area procedures. Completes standardized activities. Exchanges basic information with other co-workers. Resolves task related problems in straightforward situations. Selects from a limited number of clearly defined options.\n Responsibilities: \nOperational and administrative functions \nAdministrative Support with low level of complexity \nCopies, printing and document transportation \nMaterials checking/receiving \nBasic computer activities \nAppropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency. \n Qualifications: \nPrevious experience preferred \nConsistently demonstrates clear and concise written and verbal communication skills \n Education: \nHigh school diploma or equivalent experience \n ------------------------------------------------------ \n Job Family Group: Business Strategy, Management & Administration\n ------------------------------------------------------ \n Job Family: Administrative Support\n ------------------------------------------------------ \n Time Type: Full time\n ------------------------------------------------------ \n Most Relevant Skills Please see the requirements listed above.\n------------------------------------------------------ \n Other Relevant Skills For complementary skills, please see above and/or contact the recruiter.\n------------------------------------------------------ \n Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law. \n If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi . \n View Citi’s EEO Policy Statement and the Know Your Rights poster.",
+   "status": 200
+  }
+ }
+}

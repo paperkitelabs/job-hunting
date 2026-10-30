@@ -1,0 +1,28 @@
+{
+ "company": "JPMorgan Chase",
+ "ats": "oracle",
+ "endpoint": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions (CX_1001, India 300000000289360)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "off cycle",
+  "apprentice",
+  "analyst intern",
+  "summer analyst",
+  "winter",
+  "2027",
+  "graduate",
+  "program",
+  "campus",
+  "student",
+  "industrial",
+  "spring",
+  "(full India board, 320)"
+ ],
+ "total_hits": 320,
+ "india_intern_hits": [],
+ "details": {}
+}

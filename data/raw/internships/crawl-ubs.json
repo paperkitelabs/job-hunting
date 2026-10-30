@@ -1,0 +1,48 @@
+{
+ "company": "UBS",
+ "ats": "brassring",
+ "endpoint": "https://jobs.ubs.com/TgNewUI/Search/Ajax/PowerSearchJobs (partnerid 25008, sites 5012/5131/5176)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "",
+  "intern",
+  "internship",
+  "trainee",
+  "graduate",
+  "apprentice",
+  "off-cycle",
+  "2027",
+  "program",
+  "India",
+  "Pune",
+  "Mumbai",
+  "Hyderabad"
+ ],
+ "total_hits": 35,
+ "india_intern_hits": [
+  {
+   "title": "CA Intern",
+   "loc": "India",
+   "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=352974",
+   "id": "352974",
+   "posted": "29-Oct-2026"
+  },
+  {
+   "title": "CA Intern",
+   "loc": "India",
+   "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=352782",
+   "id": "352782",
+   "posted": "21-Oct-2026"
+  }
+ ],
+ "details": {
+  "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=352974": {
+   "title": "CA Intern",
+   "desc": "Exciting opportunity available in PC team which is responsible for production of daily/monthly p&l and balance sheet.- Perform T0 v/s T1 checks\n- Provide P&L commentary of mark to market P&L including Market drivers\n- Review RSBPL Scallops\n- Reconcile source data to ledger, resolve any breaks\n- Ensure the maintenance of a strong internal control environment. Attest control tool and maintain evidence of same.\n - Manage ad hoc queries from stakeholders including front office, COO, financial/product controllers\n- Provide daily balance sheet commentary based on business drivers\n- Close books during month ends including clearing breaks, provide commentary on material P&L moves, posting journals\n- Perform balance sheet substantiation as per UBS guidelines."
+  },
+  "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=352782": {
+   "title": "CA Intern",
+   "desc": "• support the preparation, validation, and distribution of APAC Wealth Management management information (MI) and financial reporting deliverables. \n• support and track Infocenter tickets, including report access requests, data queries, report enhancements, and issue resolution support. \n• perform data validation, reconciliations, and exception analysis to identify discrepancies and ensure reporting accuracy."
+  }
+ }
+}

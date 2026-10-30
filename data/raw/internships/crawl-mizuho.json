@@ -1,0 +1,27 @@
+{
+ "company": "Mizuho",
+ "ats": "workday",
+ "endpoint": "https://mizuho.wd1.myworkdayjobs.com/wday/cxs/mizuho/mizuhoamericas/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "summer analyst",
+  "winter analyst",
+  "industrial placement",
+  "industrial trainee",
+  "graduate",
+  "2027",
+  "spring",
+  "student",
+  "campus",
+  ""
+ ],
+ "total_hits": 117,
+ "india_intern_hits": [],
+ "details": {}
+}

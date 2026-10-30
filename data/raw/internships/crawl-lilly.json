@@ -1,0 +1,21 @@
+{
+ "company": "Eli Lilly",
+ "ats": "phenom",
+ "endpoint": "https://careers.lilly.com/widgets (refNum LILLUS, country=India)",
+ "queried_at": "2026-10-30T07:33:39",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "student",
+  "2027",
+  "tech internship",
+  ""
+ ],
+ "total_hits": 42,
+ "india_intern_hits": [],
+ "details": {}
+}
