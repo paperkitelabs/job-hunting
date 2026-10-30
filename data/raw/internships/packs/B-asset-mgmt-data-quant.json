@@ -1,0 +1,564 @@
+{
+ "cluster": "B-asset-mgmt-data-quant",
+ "companies": [
+  {
+   "name": "BlackRock",
+   "hint": "blackrock.wd1.myworkdayjobs.com/BlackRock_Professional (Mumbai/Gurugram)",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.blackrock.com/search-jobs?l=India",
+     "ats": "workday",
+     "ats_endpoint": "https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professional/jobs (from list hint, unverified)",
+     "result": "none found",
+     "note": "The careers.blackrock.com front end lists 302 India jobs, none of them intern listings in the results. India intern hiring seems to be campus-led. No India 2027 intern postings were seen.",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "State Street",
+   "hint": "statestreet.wd1.myworkdayjobs.com/Global",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.statestreet.com/global/en/c/internships-and-development-programs-jobs",
+     "ats": "workday",
+     "ats_endpoint": "https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs",
+     "result": "none found (1 ops intern req seen, likely closed)",
+     "note": "R-777922 Bangalore Intern (ops, 2025 campus). The Ops Early Career programme closes 13 Nov 2026 (ops/finance). Analytics/BA intern leads are aggregator-only. Query the Workday API with 'intern' and India.",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "State Street",
+     "role": "Business Analyst Intern / MIS Analyst Intern / SQL Developer Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/job/state-street-business-analyst-intern-bengaluru-a5bde7",
+     "careers_url": "https://careers.statestreet.com/global/en/c/internships-and-development-programs-jobs",
+     "note": "Seen only on myinternships.in (also .../state-street-mis-analyst-intern-bengaluru-6a7fa0 and .../state-street-sql-developer-intern-bengaluru-884d72). Undated, template-like text ('built for 2026 freshers and final-year students'), so may not be real. No matching Workday req seen.",
+     "src": "B-asset-mgmt-data-quant"
+    },
+    {
+     "company": "State Street",
+     "role": "Data Analytics / PMO Analytics internship programme (India)",
+     "aggregator_url": "https://www.efinancialcareers.co.uk/jobs/pmo-analytics-summer-internship-programme/in-india",
+     "careers_url": "https://statestreet.wd1.myworkdayjobs.com/Global",
+     "note": "eFinancialCareers search pages for analytics internships in India list State Street with Bengaluru locations. Title says 'summer', so it may be a penultimate-year programme. Check Workday for India intern reqs.",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ]
+  },
+  {
+   "name": "BNY",
+   "hint": "bnymellon.eightfold.ai / Pune Chennai",
+   "round_notes": [
+    {
+     "careers_url": "https://bnymellon.eightfold.ai/careers",
+     "ats": "eightfold",
+     "ats_endpoint": "https://bnymellon.eightfold.ai/api/apply/v2/jobs?domain=bnymellon.com&query=intern&location=India (pattern, unverified)",
+     "result": "none found",
+     "note": "Pune and Chennai are early-career hubs. 2027 Summer Internship and Analyst Program applications reportedly open (LinkedIn). The India summer programme is penultimate-year, so check Eightfold for any off-cycle India intern.",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "BNY",
+     "role": "Data Quality Analyst Intern (Chennai)",
+     "aggregator_url": "https://myinternships.in/job/bny-data-quality-analyst-intern-chennai-ffbf05",
+     "careers_url": "https://bnymellon.eightfold.ai/careers",
+     "note": "Aggregator only. Says 2026 grads/final-year students, about 41K/month, rolling. Not confirmed on Eightfold. BNY's India early-careers hubs are Pune and Chennai.",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ]
+  },
+  {
+   "name": "Northern Trust",
+   "hint": "careers.northerntrust.com (Pune/Bengaluru)",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.northerntrust.com",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Only aggregator intern listings (BD intern Pune, F&A intern Bengaluru) and old apprentice programmes were seen. The careers site advises searching 'Intern Program'.",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Northern Trust",
+     "role": "Intern (Bengaluru)",
+     "aggregator_url": "https://apna.co/job/bengaluru/intern-1774137452",
+     "careers_url": "https://careers.northerntrust.com",
+     "note": "apna.co listing for freshers. Description is thin and the duration is blank. Another snippet calls it a Finance & Accounting (payables/receivables) intern, which is likely off-track. Search careers.northerntrust.com for 'Intern' in Bengaluru or Pune.",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ]
+  },
+  {
+   "name": "Fidelity International",
+   "hint": "fil careers Gurugram/Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.fidelityinternational.com/locations/india",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "India offices: Gurugram, Mumbai, Bengaluru. 2027 programmes were to be 'confirmed in early Autumn 2026' (UK page). No India intern posting was seen. The site warns about fake recruiters.",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Fidelity Investments (FMR India)",
+   "hint": "jobs.fidelity.com Bengaluru/Chennai",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.fidelity.com/in/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found (1 aggregator lead)",
+     "note": "Runs Apprentice-Graduates roles (india.fidelity.com/job-details/19462599/apprentice-graduates, older). Analytics & NLP intern lead is aggregator-only.",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Fidelity Investments (FMR India)",
+     "role": "Advanced Analytics & NLP Intern (Bengaluru, 3 months)",
+     "aggregator_url": "https://myinternships.in/job/fidelity-investments-is-hiring-advanced-analytics-and-nlp-intern-bengaluru-39a566",
+     "careers_url": "https://jobs.fidelity.com/in/",
+     "note": "Aggregator only, aimed at '2026 freshers and final-year students'. Not confirmed on jobs.fidelity.com. A 6-month 'Software Engineering Intern, Bengaluru' is on the same site (off-track).",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ]
+  },
+  {
+   "name": "Invesco",
+   "hint": "invesco careers Hyderabad",
+   "round_notes": [
+    {
+     "careers_url": "https://invesco.wd1.myworkdayjobs.com/IVZ",
+     "ats": "workday",
+     "ats_endpoint": "https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs (usual tenant, unverified)",
+     "result": "none found (1 aggregator lead)",
+     "note": "Hyderabad Graduate Engineer Intern for 2026/2027 batches, seen on freshersnow. The Business Trainee Hyderabad listing (talentd) has inconsistent text.",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Invesco",
+     "role": "Graduate Engineer Intern (Hyderabad, 2026/2027 batches)",
+     "aggregator_url": "https://www.freshersnow.com/invesco-internship/",
+     "careers_url": "https://invesco.wd1.myworkdayjobs.com/IVZ",
+     "note": "Freshersnow says it is open to 2026 and 2027 batches and needs 70% or 7.0 CGPA. The role may be pure SDE, so check the JD for a data angle. careers_url is Invesco's usual Workday tenant (not verified this session).",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ]
+  },
+  {
+   "name": "Franklin Templeton",
+   "hint": "franklintempleton.wd5.myworkdayjobs.com",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.franklintempleton.com/us/en/early-careers",
+     "ats": "workday",
+     "ats_endpoint": "https://franklintempleton.wd5.myworkdayjobs.com/wday/cxs/franklintempleton/Primary-External-1/jobs (site name unverified)",
+     "result": "programme not open yet / campus-only",
+     "note": "The India summer internship recruits Oct–Nov via partner universities. A Summer 2026 Mumbai marketing intern was seen (off-track, past).",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Franklin Templeton",
+     "role": "India Summer Internship / Graduate Trainee programme",
+     "aggregator_url": "https://foundthejob.com/franklin-templeton-internship-program-india/",
+     "careers_url": "https://careers.franklintempleton.com/us/en/early-careers",
+     "note": "The official early-careers page says India summer interns are recruited in Oct–Nov through partner universities (campus-led, mostly postgraduates). The aggregator lists an 'Off-Campus 2026' graduate trainee role in Hyderabad. Likely campus-only or summer, so low fit.",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ]
+  },
+  {
+   "name": "Morningstar",
+   "hint": "morningstar.wd5.myworkdayjobs.com (Mumbai/Navi Mumbai)",
+   "round_notes": [
+    {
+     "careers_url": "https://morningstar.wd5.myworkdayjobs.com",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass",
+     "src": "B-asset-mgmt-data-quant"
+    },
+    {
+     "careers_url": "https://careers.morningstar.com/us/en/",
+     "ats": "workday",
+     "ats_endpoint": "https://morningstar.wd5.myworkdayjobs.com/wday/cxs/morningstar/Americas/jobs",
+     "result": "none found",
+     "note": "Navi Mumbai 'Intern' reqs stale/finance; entry-level Data Analyst roles exist for fresh grads (Q2 2026 joining).",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "S&P Global",
+   "hint": "spgi.wd5.myworkdayjobs.com",
+   "round_notes": [
+    {
+     "careers_url": "https://spgi.wd5.myworkdayjobs.com",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass",
+     "src": "B-asset-mgmt-data-quant"
+    },
+    {
+     "careers_url": "https://careers.spglobal.com",
+     "ats": "workday",
+     "ats_endpoint": "https://spgi.wd5.myworkdayjobs.com",
+     "result": "none found",
+     "note": "India uses 12-month apprenticeships for recent grads; 2027 interns are summer/US.",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Moody's",
+   "hint": "careers.moodys.com",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.moodys.com",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass",
+     "src": "B-asset-mgmt-data-quant"
+    },
+    {
+     "careers_url": "https://careers.moodys.com/en/category/graduate-and-interns-jobs/49841/9383648/1",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found (1 lead)",
+     "note": "Noida Exposure Modelling / Geospatial Summer Intern listed (no direct URL).",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Moody's",
+     "role": "Exposure Modelling Summer Intern / Geospatial Summer Intern (Noida)",
+     "aggregator_url": "",
+     "careers_url": "https://careers.moodys.com/en/category/graduate-and-interns-jobs/49841/9383648/1",
+     "note": "Seen in careers.moodys.com search snippets (Noida / Greater Noida, posted 2026) but no direct job URL returned. Team: Data Analytics & Solutions (property exposure / cat-risk modelling). 'Summer' - check whether it is for penultimate-year (likely) and dates.",
+     "src": "R2a-banks-data"
+    }
+   ]
+  },
+  {
+   "name": "CRISIL",
+   "hint": "career.crisil.com (Mumbai)",
+   "round_notes": [
+    {
+     "careers_url": "https://career.crisil.com",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass",
+     "src": "B-asset-mgmt-data-quant"
+    },
+    {
+     "careers_url": "https://career.crisil.com",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "found 2 (low)",
+     "note": "GenAI Intern Pune (Jan 2026) and generic Intern Mumbai (Jun 2026); details/liveness unverified.",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_openings": [
+    {
+     "company": "CRISIL",
+     "role": "Generative AI Intern",
+     "url": "https://career.crisil.com/crisil/jobview/generative-ai-intern-pune-maharashtra-india-2026012011451279",
+     "location": "Pune, Maharashtra, India",
+     "job_id": "2026012011451279",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "not stated",
+     "track": "ai",
+     "posted": "2026-01-20 (from ID timestamp)",
+     "deadline": "not stated",
+     "jd": "GenAI internship at Crisil (S&P Global company) in Pune. Snippet showed only company description; duties/duration not visible.",
+     "evidence": "WebSearch allowed_domains career.crisil.com: 'Generative AI Intern - About Crisil Limited'. Posted ~Jan 2026, so may be filled/closed - low confidence.",
+     "confidence": "low",
+     "src": "R2a-banks-data"
+    },
+    {
+     "company": "CRISIL",
+     "role": "Intern",
+     "url": "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026061511050140",
+     "location": "Mumbai, Maharashtra, India",
+     "job_id": "2026061511050140",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "not stated",
+     "track": "analyst",
+     "posted": "2026-06-15 (from ID timestamp)",
+     "deadline": "not stated",
+     "jd": "Generic Intern requisition at Crisil Mumbai. Indexed text only company boilerplate; function unknown (could be research/analytics or non-target).",
+     "evidence": "WebSearch allowed_domains career.crisil.com: 'About Crisil Limited' page at intern-mumbai...2026061511050140. Function and liveness unverified.",
+     "confidence": "low",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_leads": []
+  },
+  {
+   "name": "Fitch Group",
+   "hint": "fitch careers Mumbai/Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.fitch.group",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass; careers_url is a guess",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "MSCI",
+   "hint": "careers.msci.com (Mumbai/Pune)",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.msci.com",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass",
+     "src": "B-asset-mgmt-data-quant"
+    },
+    {
+     "careers_url": "https://careers.msci.com/early-careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Only NY intern indexed; Mumbai/Pune roles are experienced hires.",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "LSEG",
+   "hint": "lseg careers Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.lseg.com",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass; careers_url is a guess",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Nasdaq",
+   "hint": "nasdaq.wd1.myworkdayjobs.com (Bengaluru)",
+   "round_notes": [
+    {
+     "careers_url": "https://nasdaq.wd1.myworkdayjobs.com",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "ICE",
+   "hint": "ice careers Pune/Hyderabad",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.ice.com",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass; careers_url is a guess",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ],
+   "round1_openings": [
+    {
+     "company": "Deloitte India (Deloitte Shared Services India LLP)",
+     "role": "EA - Information Technology - Intern - Bengaluru Eco space",
+     "url": "https://southasiacareers.deloitte.com/job/Bengaluru-Eco-space-EA-Information-Technology-Intern-Bengaluru-Eco-space/58741244/",
+     "location": "Bengaluru (Eco space)",
+     "job_id": "110583 (URL id 58741244)",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "not stated in snippet",
+     "track": "ai",
+     "posted": "not shown; URL id 58741244 is among the newest seen (likely Sep-Oct 2026)",
+     "deadline": "",
+     "jd": "IT intern in a Deloitte internal team that builds and ships generative models and ML algorithms; covers model building and data preparation; Python preferred.",
+     "evidence": "WebSearch result on southasiacareers.deloitte.com titled 'Job Title: EA - Information Technology - Intern - Bengaluru Eco space'; the search summary says the team focuses on generative models and ML (req 110583). An aggregator (yohire.in 'Deloitte machine learning India internship 2026') cites the same req 110583 as an ML & Generative AI intern. High URL id suggests it was posted recently.",
+     "confidence": "medium",
+     "src": "E-consulting"
+    }
+   ],
+   "round1_leads": []
+  },
+  {
+   "name": "Bloomberg",
+   "hint": "bloomberg careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.bloomberg.com/company/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "FactSet",
+   "hint": "factset careers Hyderabad/Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.factset.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Broadridge",
+   "hint": "broadridge careers",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.broadridge.com",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass; careers_url is a guess",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "D. E. Shaw India",
+   "hint": "deshawindia.com careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.deshawindia.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass",
+     "src": "B-asset-mgmt-data-quant"
+    },
+    {
+     "careers_url": "https://www.deshawindia.com/careers/internships",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Internships routed only via campus placement offices (8-12 week summer); Industrial Trainee roles are CA/finance.",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Tower Research Capital",
+   "hint": "tower-research.com careers Gurugram",
+   "round_notes": [
+    {
+     "careers_url": "https://www.tower-research.com/open-positions",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass; careers_url is a guess",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Arcesium",
+   "hint": "arcesium careers Hyderabad/Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://www.arcesium.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Optiver / Graviton / Quadeye",
+   "hint": "quant firm careers India",
+   "round_notes": [
+    {
+     "careers_url": "https://optiver.com/working-at-optiver/career-opportunities/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass; Graviton (gravitontrading.com) and Quadeye (quadeye.com) also not searched",
+     "src": "B-asset-mgmt-data-quant"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  }
+ ]
+}

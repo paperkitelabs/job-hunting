@@ -1,0 +1,501 @@
+{
+ "cluster": "J2-industrial-pharma-retail",
+ "companies": [
+  {
+   "name": "Philips",
+   "hint": "philips careers Pune/Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://www.careers.philips.com/student/in/en/internships-apprenticeship-and-graduate-careers",
+     "ats": "workday",
+     "ats_endpoint": "https://philips.wd3.myworkdayjobs.com/wday/cxs/philips/jobs-and-careers/jobs",
+     "result": "found 1 (low confidence) + 2 leads",
+     "note": "Phenom front end (careers.philips.com) over Workday philips.wd3.myworkdayjobs.com/jobs-and-careers. Philips India says it has interns 'throughout the year', typically 6-9 months. Most India intern reqs are Pune HIC engineering roles.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [
+    {
+     "company": "Philips",
+     "role": "Intern - Data Science and AI Engineering",
+     "url": "https://www.careers.philips.com/student/in/en/job/587413/Intern-Data-Science-and-AI-Engineering",
+     "location": "Bangalore, India",
+     "job_id": "587413",
+     "type": "Internship",
+     "duration": "not stated (Philips India says 6-9 months is typical)",
+     "overrun": "",
+     "exp": "B.E/B.Tech students in CS / Data Science / AI (per aggregator copy)",
+     "track": "ai",
+     "posted": "c. early Jul 2026 (search index: ~114 days old)",
+     "deadline": "one aggregator says 3 Jul 2026 (unconfirmed)",
+     "jd": "Intern on the Data Science and AI Engineering team at Philips Bangalore working on healthcare AI. Asks for Python and ML skills. Stipended.",
+     "evidence": "Seen in WebSearch restricted to careers.philips.com (title 'Intern', URL above). The snippet also showed 'We couldn't find any jobs that match your search', and freshershunt/yohire/talentd mirror it with a 3 Jul 2026 close date, so it may well be closed. Check the Workday req.",
+     "confidence": "low",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_leads": [
+    {
+     "company": "Philips",
+     "role": "Intern (Bangalore, Embassy Business Hub; role not stated)",
+     "aggregator_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Intern_559186",
+     "careers_url": "https://www.careers.philips.com/in/en/c/internship-apprenticeship-jobs",
+     "note": "This is a Philips Workday URL (req 559186), not an aggregator. Generic 'Intern' title. Requires active student enrolment, in-office 3 days/week. Older req number, so probably early 2026. The function is unknown, so it needs checking before it goes into openings.",
+     "src": "J2-industrial-pharma-retail"
+    },
+    {
+     "company": "Philips",
+     "role": "Intern - MDM (Bengaluru, hybrid)",
+     "aggregator_url": "https://swooped.co/job-postings/intern-mdm-bengaluru-philips-f2e7a",
+     "careers_url": "https://www.careers.philips.com/in/en/c/internship-apprenticeship-jobs",
+     "note": "Master-data-management intern dated 20 Jul 2026 on the aggregator. Borderline data role. Not seen on the careers site.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ]
+  },
+  {
+   "name": "Maersk",
+   "hint": "maersk careers Mumbai/Pune",
+   "round_notes": [
+    {
+     "careers_url": "https://www.maersk.com/careers/our-teams/students-graduates",
+     "ats": "workday",
+     "ats_endpoint": "https://maersk.wd3.myworkdayjobs.com/wday/cxs/maersk/Maersk_Careers/jobs",
+     "result": "none found (1 aggregator lead)",
+     "note": "Workday maersk.wd3.myworkdayjobs.com/Maersk_Careers. The India intern reqs seen were IT support, HR and content in Chennai. A BI/analytics full-time team exists in Pune/Bengaluru.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Maersk",
+     "role": "Business Analyst Intern (Pune)",
+     "aggregator_url": "https://myinternships.in/job/maersk-india-is-hiring-business-analyst-intern-pune-2of4zl",
+     "careers_url": "https://www.maersk.com/careers/vacancies",
+     "note": "2-month mentored internship per the aggregator. Status unknown. No matching Workday req found.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ]
+  },
+  {
+   "name": "DHL",
+   "hint": "dhl careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.dhl.com/global/en/its-india",
+     "ats": "phenom",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "careers.dhl.com (Phenom). India data roles in Mumbai/Chennai are experienced hires only. DHL ITS India offices: Chennai, Mumbai, Bangalore, Hyderabad, Indore.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "FedEx",
+   "hint": "fedex careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.fedex.com/career-areas/student-programs/",
+     "ats": "workday",
+     "ats_endpoint": "https://fedex.wd1.myworkdayjobs.com/wday/cxs/fedex/FXE-MEISA-External/jobs",
+     "result": "none found (1 careers-site lead, function unknown)",
+     "note": "Workday fedex.wd1.myworkdayjobs.com/FXE-MEISA-External. A Mumbai 'Intern' req RC786255 exists but looks admin. Hyderabad (FedEx ACC) has data scientist roles that are full-time only.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "FedEx",
+     "role": "Intern (Chandivali Farm Road, Mumbai) RC786255",
+     "aggregator_url": "https://careers.fedex.com/intern/job/EA3F78FCD3E465118AB5934353CF15F6",
+     "careers_url": "https://careers.fedex.com/career-areas/student-programs/",
+     "note": "This is a careers.fedex.com URL. The AMEA jobs page lists 'Intern RC786255 Chandivali Farm Road, Mumbai', but the function is unstated. A similar Mumbai req RC773690 is a work-study intern doing general admin / project support / basic research, so it is probably not a data role. Verify the JD.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ]
+  },
+  {
+   "name": "Boeing India",
+   "hint": "boeing careers Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.boeing.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster. Boeing India Engineering & Technology Center, Bengaluru.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Airbus India",
+   "hint": "airbus careers Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://ag.wd3.myworkdayjobs.com/Airbus",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster. Airbus India runs Bengaluru internships, often 6 months, Jan-Jun.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Mercedes-Benz R&D India",
+   "hint": "mbrdi careers Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.mercedes-benz.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found on careers site (1 aggregator lead)",
+     "note": "jobs.mercedes-benz.com search returned only full-time MBRDI roles. Contact: mbrdi_recruitment@mercedes-benz.com. Prosple shows many past MBRDI intern postings (expired).",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Mercedes-Benz R&D India",
+     "role": "Data Science Intern (Pune, hybrid, 6 months)",
+     "aggregator_url": "https://myinternships.in/job/mercedes-benz-r-and-d-india-data-science-intern-pune-add15d",
+     "careers_url": "https://jobs.mercedes-benz.com/",
+     "note": "Aggregator lists 6 months, ~22K/mo, rolling start. Skills: Python, ML, stats, SQL, pandas. Not found on jobs.mercedes-benz.com (search there returned only full-time roles).",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ]
+  },
+  {
+   "name": "Volkswagen / Skoda Auto VW India",
+   "hint": "vw careers Pune",
+   "round_notes": [
+    {
+     "careers_url": "https://www.skoda-vw.co.in/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "John Deere India",
+   "hint": "deere careers Pune",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.deere.com/",
+     "ats": "eightfold",
+     "ats_endpoint": "",
+     "result": "none found on careers site (2 aggregator leads)",
+     "note": "jobs.deere.com (Eightfold/SuccessFactors). Searches surfaced only US reqs. Campus drive for JDTCI Pune 2026-27 reported.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "John Deere India",
+     "role": "Data Science Intern (Pune, 3 months, in-office)",
+     "aggregator_url": "https://myinternships.in/job/john-deere-india-is-hiring-data-science-intern-pune-39dd18",
+     "careers_url": "https://jobs.deere.com/",
+     "note": "Aggregator lists 3 openings, ~25K/mo stipend, 'immediately'. Not found on jobs.deere.com (search there returned only US reqs).",
+     "src": "J2-industrial-pharma-retail"
+    },
+    {
+     "company": "John Deere India",
+     "role": "Intelligent Solutions Group (ISG) Data Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/internships/john-deere-india-is-hiring-intelligent-solutions-group-isg-data-intern-bengaluru-39a551",
+     "careers_url": "https://jobs.deere.com/",
+     "note": "Data science / analytics internship for 2026 freshers and final-year students, with a possible PPO, per the aggregator. A campus drive for Deere Pune 2026-27 was also seen (PPT 10 Aug 2026).",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ]
+  },
+  {
+   "name": "Cummins India",
+   "hint": "cummins careers Pune",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.cummins.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster. Pune GCC.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Caterpillar",
+   "hint": "caterpillar careers Chennai/Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.caterpillar.com/",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster. Chennai/Bengaluru.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Eaton",
+   "hint": "eaton careers Pune",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.eaton.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster. Pune EIIC.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Novartis",
+   "hint": "novartis careers Hyderabad/Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.novartis.com/careers",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster. Hyderabad NOCC.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Pfizer",
+   "hint": "pfizer careers Mumbai/Chennai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.pfizer.com/about/careers",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster. Mumbai/Chennai.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "AstraZeneca",
+   "hint": "astrazeneca careers Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.astrazeneca.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster. Chennai/Bengaluru GITC.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Sanofi",
+   "hint": "sanofi careers Hyderabad/Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.sanofi.com/en/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster. Hyderabad hub.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "GSK",
+   "hint": "gsk careers Bengaluru/Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.gsk.com/en-gb/careers/",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster. Bengaluru GCC.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Eli Lilly",
+   "hint": "lilly careers Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.lilly.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster. Bengaluru LCCI.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Johnson & Johnson / Kenvue",
+   "hint": "jnj careers Mumbai/Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://www.careers.jnj.com/",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Optum / UnitedHealth Group",
+   "hint": "optum careers Gurugram/Hyderabad",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.unitedhealthgroup.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster. Gurugram/Hyderabad/Bengaluru.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Cigna / Evernorth",
+   "hint": "cigna careers Hyderabad",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.thecignagroup.com/",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster. Hyderabad ITC.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Lowe's India",
+   "hint": "talent.lowes.com Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://talent.lowes.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster. Bengaluru.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Tesco",
+   "hint": "tesco careers Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://www.tesco-careers.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster. Tesco Business Solutions Bengaluru.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "IKEA",
+   "hint": "ikea careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.ikea.com/in/en/this-is-ikea/work-with-us/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Vodafone Intelligent Solutions (VOIS)",
+   "hint": "vois careers Pune",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.vodafone.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster. Pune.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Amdocs",
+   "hint": "amdocs careers Pune",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.amdocs.com/",
+     "ats": "eightfold",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched: shared WebSearch budget (200/turn) ran out after ~16 queries in this cluster. Pune/Gurugram.",
+     "src": "J2-industrial-pharma-retail"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  }
+ ]
+}
