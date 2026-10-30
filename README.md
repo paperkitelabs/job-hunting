@@ -46,6 +46,8 @@ npx vercel
 applications-october.html   the application + referral tracker: September list rechecked 27 Oct
 applications-november.html  same tracker, new openings from the 27 Oct search (data/applications-november.js)
 data/applications-october.js its rows: summarized JD, LinkedIn referrer searches, resume to send
+applications-internships.html internships only (Nov 2026 – May 2027), same tracker (data/applications-internships.js)
+data/raw/internships/        company universe, agent brief, search results and HANDOFF.md for the internship sheet
 tracker.js / tracker.css     shared by every applications-*.html page; ticks save in the browser
 index.html          the full research list
 styles.css          all styling

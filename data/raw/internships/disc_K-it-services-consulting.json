@@ -1,0 +1,374 @@
+{
+ "cluster": "K-it-services-consulting",
+ "openings": [
+  {
+   "company": "Wipro",
+   "role": "AI Native Intern",
+   "url": "https://careers.wipro.com/job/AI-Native-Intern/175471-en_US",
+   "location": "India - Bengaluru / Chennai / Hyderabad / Noida / Greater Noida (per aggregators)",
+   "job_id": "175471",
+   "type": "Internship",
+   "duration": "not stated",
+   "overrun": "",
+   "exp": "students / freshers (per aggregators)",
+   "track": "ai",
+   "posted": "2026-05-22 (per coursejoiner/jobinsider)",
+   "deadline": "",
+   "jd": "AI-native internship working on AI solutions, cloud systems, automation and enterprise transformation projects, reportedly with Wipro's North America Transformation Team; mentorship from senior leaders. Skills: Python/AI fundamentals (details not visible in snippet).",
+   "evidence": "Apply link careers.wipro.com/job/AI-Native-Intern/175471-en_US quoted by coursejoiner.com and jobinsider.in ('Wipro AI Native Internship for Students 2026 (Consultant)'); one aggregator (freshersrecruitment.co.in) frames it as 'Summer Internship 2026', so it may be a closed summer cohort. Could not open page.",
+   "confidence": "low"
+  },
+  {
+   "company": "Wipro",
+   "role": "AI Native Internship",
+   "url": "https://careers.wipro.com/job/AI-Native-Internship/166049-en_US/",
+   "location": "not stated in snippet",
+   "job_id": "166049",
+   "type": "Internship",
+   "duration": "not stated",
+   "overrun": "",
+   "exp": "not stated",
+   "track": "ai",
+   "posted": "",
+   "deadline": "",
+   "jd": "Indexed page shows only Wipro boilerplate; appears to be an earlier/sibling posting of the AI Native internship programme. Role details unconfirmed.",
+   "evidence": "Search result title 'Job Description' at careers.wipro.com/job/AI-Native-Internship/166049-en_US/ for query careers.wipro.com \"AI Native Intern\" India 2026. Lower ID than 175471 so likely older; liveness unknown.",
+   "confidence": "low"
+  }
+ ],
+ "leads": [
+  {
+   "company": "Wipro",
+   "role": "INTERN (role/location unknown)",
+   "aggregator_url": "",
+   "careers_url": "https://careers.wipro.com/job/INTERN/191075-en_US/",
+   "note": "Seen in site:careers.wipro.com intern results; highest (newest) job ID seen, so possibly recent. Title generic; check location and function via API before promoting."
+  },
+  {
+   "company": "Wipro",
+   "role": "Data Analytics Intern (Pune, 3 months, hybrid)",
+   "aggregator_url": "https://myinternships.in/internships/wipro-data-analytics-intern-pune-95a5c6",
+   "careers_url": "https://careers.wipro.com",
+   "note": "myinternships.in listings look auto-generated (uniform 21K/mo, 3 months); not found on careers site."
+  },
+  {
+   "company": "Tech Mahindra",
+   "role": "Generative AI Intern (Pune, 6 months, in-office)",
+   "aggregator_url": "https://myinternships.in/job/tech-mahindra-generative-ai-intern-pune-36aeaa",
+   "careers_url": "https://careers.techmahindra.com",
+   "note": "Aggregator says ~23K/mo, rolling, BE/BTech/MSc CS or DS; unverified, possibly auto-generated."
+  },
+  {
+   "company": "Tech Mahindra",
+   "role": "Data Analyst Intern (Pune, 3 months, hybrid)",
+   "aggregator_url": "https://myinternships.in/internships/tech-mahindra-data-analyst-intern-pune-9930db",
+   "careers_url": "https://careers.techmahindra.com",
+   "note": "Unverified aggregator listing."
+  },
+  {
+   "company": "Tech Mahindra",
+   "role": "Artificial Intelligence Intern (Pune)",
+   "aggregator_url": "https://myinternships.in/job/tech-mahindra-is-hiring-artificial-intelligence-intern-pune-1a2exy",
+   "careers_url": "https://careers.techmahindra.com",
+   "note": "Unverified aggregator listing."
+  },
+  {
+   "company": "Tech Mahindra",
+   "role": "Tech Mahindra Internship",
+   "aggregator_url": "https://jobs.weekday.works/tech-mahindra-tech-mahindra-internship",
+   "careers_url": "https://careers.techmahindra.com",
+   "note": "weekday listing; function not visible."
+  },
+  {
+   "company": "LTIMindtree",
+   "role": "Data Science Intern (Pune, 6 months)",
+   "aggregator_url": "https://myinternships.in/job/ltimindtree-is-hiring-data-science-intern-pune-e9aab7",
+   "careers_url": "https://www.ltimindtree.com/careers/",
+   "note": "Aggregator claims 40K/mo, 5 openings; unverified."
+  },
+  {
+   "company": "Capgemini",
+   "role": "Data Science Intern (Bengaluru, 3 months)",
+   "aggregator_url": "https://myinternships.in/internships/capgemini-data-science-intern-bengaluru-ad1de8",
+   "careers_url": "https://careers.capgemini.com",
+   "note": "Unverified; for freshers/final-year."
+  },
+  {
+   "company": "Capgemini",
+   "role": "Analytics Consultant Intern (Bengaluru)",
+   "aggregator_url": "https://myinternships.in/job/capgemini-analytics-consultant-intern-bengaluru-2761ee",
+   "careers_url": "https://careers.capgemini.com",
+   "note": "Unverified."
+  },
+  {
+   "company": "Capgemini",
+   "role": "Data Analytics Intern (Bengaluru, hybrid)",
+   "aggregator_url": "https://myinternships.in/job/capgemini-data-analytics-intern-bengaluru-a71937",
+   "careers_url": "https://careers.capgemini.com",
+   "note": "Unverified."
+  },
+  {
+   "company": "Capgemini",
+   "role": "Data Science Internship",
+   "aggregator_url": "https://jobs.weekday.works/capgemini-data-science-internship",
+   "careers_url": "https://careers.capgemini.com",
+   "note": "weekday listing; location/date unknown."
+  },
+  {
+   "company": "Mphasis",
+   "role": "Data Analyst Intern (Mumbai, 6 months)",
+   "aggregator_url": "https://myinternships.in/internships/mphasis-is-hiring-data-analyst-intern-mumbai-302d90",
+   "careers_url": "https://careers.mphasis.com",
+   "note": "Aggregator: 2026 freshers/final-year, 18K/mo; unverified."
+  },
+  {
+   "company": "Mphasis",
+   "role": "Data Science & Analytics Intern (Hyderabad, 6 months)",
+   "aggregator_url": "https://myinternships.in/job/mphasis-data-science-and-analytics-intern-hyderabad-5213c3",
+   "careers_url": "https://careers.mphasis.com",
+   "note": "Unverified."
+  },
+  {
+   "company": "Mphasis",
+   "role": "Next Gen Labs Cognitive Computing Intern (Bengaluru)",
+   "aggregator_url": "https://myinternships.in/internships/mphasis-is-hiring-next-gen-labs-cognitive-computing-intern-bengaluru-52dfc2",
+   "careers_url": "https://careers.mphasis.com",
+   "note": "Unverified; Mphasis NextLabs AI research."
+  },
+  {
+   "company": "HCLTech",
+   "role": "Artificial Intelligence Intern (Chennai)",
+   "aggregator_url": "https://myinternships.in/job/hcltech-is-hiring-artificial-intelligence-intern-chennai-1axod3",
+   "careers_url": "https://www.hcltech.com/careers",
+   "note": "Unverified; ~20K/mo. HCLTech also runs PM Internship Scheme (PMIS) roles - government scheme, not on careers site."
+  },
+  {
+   "company": "HCLTech",
+   "role": "Intern",
+   "aggregator_url": "https://jobs.weekday.works/intern-at-hcltech-4389176966",
+   "careers_url": "https://www.hcltech.com/careers",
+   "note": "LinkedIn-derived weekday listing (ID 4389176966); function unknown."
+  },
+  {
+   "company": "Cognizant",
+   "role": "Business Analyst Intern / short-term university internships (Jan-Apr)",
+   "aggregator_url": "https://apply.internset.com/cognizant-internship",
+   "careers_url": "https://careers.cognizant.com/global-en/",
+   "note": "Aggregator says Cognizant India runs short-term university-partnered internships Jan-April incl. Business Analyst Intern; no live posting found."
+  }
+ ],
+ "excluded": [
+  {
+   "company": "Wipro",
+   "role": "Business Analyst Intern",
+   "url": "https://careers.wipro.com/job/Business-Analyst-Intern/158805-en_US",
+   "reason": "Plano, Texas (USA) summer internship"
+  },
+  {
+   "company": "Wipro",
+   "role": "Business Analyst Intern",
+   "url": "https://careers.wipro.com/job/Business-Analyst-Intern/156144-en_US",
+   "reason": "USA summer internship"
+  },
+  {
+   "company": "Wipro",
+   "role": "New York City Media Consulting Internship",
+   "url": "https://careers.wipro.com/job/New-York-City-Media-Consulting-Internship-USA-10110/1350161955/",
+   "reason": "USA summer 6-8 weeks"
+  },
+  {
+   "company": "Wipro",
+   "role": "Intern L0 - SIPCHEM",
+   "url": "https://careers.wipro.com/job/Intern-L0-SIPCHEM/176384-en_US/",
+   "reason": "Saudi Arabia (Al Jubail) client internship"
+  },
+  {
+   "company": "Wipro",
+   "role": "Kochi Referral Intern",
+   "url": "https://careers.wipro.com/job/Kochi-Referral-Intern-1-IND/1331096655",
+   "reason": "Referral/ops intern, not data/AI track"
+  },
+  {
+   "company": "Wipro",
+   "role": "Enterprise Applications Internship",
+   "url": "https://careers.wipro.com/job/Enterprise-Applications-Internship/159354-en_US/",
+   "reason": "Enterprise apps (non-data) and likely non-India/older"
+  },
+  {
+   "company": "Infosys",
+   "role": "InStep AI Engineering Internship (Applied Agentic AI)",
+   "url": "https://career.uconn.edu/jobs/infosys-instep-ai-engineering-internship-applied-agentic-ai-intelligent-systems/",
+   "reason": "US (Hartford, CT) programme; not India"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Canada Internship",
+   "url": "https://hcltech.com/canada-internship",
+   "reason": "Canada; application window closed"
+  },
+  {
+   "company": "Capgemini",
+   "role": "Data Analyst (Mumbai, Pune, Bangalore & Kolkata)",
+   "url": "https://careers.capgemini.com/job/Pune-Data-Analyst-Mumbai%2C-Pune%2C-Bangalore-&amp;-Kolkata/1206446401",
+   "reason": "Full-time role requiring MBA, not an internship"
+  },
+  {
+   "company": "Capgemini",
+   "role": "Data BA | PAN India",
+   "url": "https://careers.capgemini.com/job/Mumbai-%28ex-Bombay%29-Data-BA-PAN-India/1169908401",
+   "reason": "Experienced hire (5-9+ yrs)"
+  },
+  {
+   "company": "KPIT Technologies",
+   "role": "Virtual Internship 2026",
+   "url": "https://alexahire.in/kpit-internship-2026-engineering-students-apply/",
+   "reason": "1-month online HR-ops/data internship per aggregator; HR-oriented"
+  }
+ ],
+ "companies": [
+  {
+   "name": "TCS",
+   "careers_url": "https://www.tcs.com/careers/india",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Only aggregator guides; TCS rarely posts DS internships publicly (campus via TCS NextStep / iBegin). No careers-site intern posting surfaced."
+  },
+  {
+   "name": "Infosys",
+   "careers_url": "https://www.infosys.com/instep.html",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "InStep is a global partner-university programme; only a US (Hartford) AI Engineering InStep listing surfaced. Apply via career.infosys.com / InStep portal."
+  },
+  {
+   "name": "Wipro",
+   "careers_url": "https://careers.wipro.com",
+   "ats": "successfactors",
+   "ats_endpoint": "",
+   "result": "found 2 (low confidence)",
+   "note": "SuccessFactors career site (careers.wipro.com/job/<title>/<id>-en_US). AI Native Intern 175471 posted May 2026, India locations; may be a summer-2026 cohort. Newer generic 'INTERN' 191075 worth checking."
+  },
+  {
+   "name": "HCLTech",
+   "careers_url": "https://www.hcltech.com/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Job pages live at hcltech.com/jobs/<slug>; no India intern posting surfaced. Interns mostly via PMIS and campus."
+  },
+  {
+   "name": "Tech Mahindra",
+   "careers_url": "https://careers.techmahindra.com",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Only aggregator leads (Pune GenAI/Data Analyst intern). Summer programme ~8 weeks May-Jul per hirist."
+  },
+  {
+   "name": "LTIMindtree",
+   "careers_url": "https://www.ltimindtree.com/careers/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Aggregator lead only (Pune DS intern)."
+  },
+  {
+   "name": "Cognizant",
+   "careers_url": "https://careers.cognizant.com/global-en/",
+   "ats": "phenom",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Reportedly runs short-term university internships Jan-Apr in India; no live posting surfaced."
+  },
+  {
+   "name": "Capgemini",
+   "careers_url": "https://careers.capgemini.com",
+   "ats": "successfactors",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Careers job URLs careers.capgemini.com/job/<loc-title>/<id>; only full-time data roles surfaced. Capgemini Invent covered in cluster E."
+  },
+  {
+   "name": "Persistent Systems",
+   "careers_url": "https://careers.persistent.com",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Search returned only Glassdoor/foundit; site: filter not honoured."
+  },
+  {
+   "name": "KPIT Technologies",
+   "careers_url": "https://www.kpit.com/careers/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "2027-batch internship-cum-PPO drive ran via partner campuses earlier in 2026 (embedded/automotive focus, not DS-specific)."
+  },
+  {
+   "name": "Mphasis",
+   "careers_url": "https://careers.mphasis.com",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Only careers.mphasis.com news page (Jul 2025, AI hiring, not intern). Aggregator leads only."
+  },
+  {
+   "name": "Hexaware",
+   "careers_url": "https://jobs.hexaware.com",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after first 8 companies; re-run needed",
+   "note": ""
+  },
+  {
+   "name": "Synechron",
+   "careers_url": "https://www.synechron.com/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after first 8 companies; re-run needed",
+   "note": ""
+  },
+  {
+   "name": "NTT DATA",
+   "careers_url": "https://www.nttdata.com/global/en/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after first 8 companies; re-run needed",
+   "note": ""
+  },
+  {
+   "name": "DXC Technology",
+   "careers_url": "https://careers.dxc.com",
+   "ats": "workday",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after first 8 companies; re-run needed",
+   "note": "Believed to use Workday (dxctechnology.wd1.myworkdayjobs.com) - unverified."
+  },
+  {
+   "name": "Zensar",
+   "careers_url": "https://www.zensar.com/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after first 8 companies; re-run needed",
+   "note": ""
+  },
+  {
+   "name": "Thoughtworks",
+   "careers_url": "https://www.thoughtworks.com/careers/jobs",
+   "ats": "greenhouse",
+   "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/thoughtworks/jobs",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after first 8 companies; re-run needed",
+   "note": "Greenhouse board slug 'thoughtworks' assumed from prior knowledge - verify."
+  },
+  {
+   "name": "EPAM",
+   "careers_url": "https://www.epam.com/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after first 8 companies; re-run needed",
+   "note": "India entry-level via EPAM campus/training programmes."
+  }
+ ]
+}

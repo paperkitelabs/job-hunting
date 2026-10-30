@@ -1,0 +1,1422 @@
+[
+ {
+  "cluster": "A-global-ibs",
+  "name": "JPMorgan Chase",
+  "hint": "jpmc.fa.oraclecloud.com CX_1001 / careers.jpmorgan.com"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "Goldman Sachs",
+  "hint": "higher.gs.com"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "Morgan Stanley",
+  "hint": "ms.wd5.myworkdayjobs.com/External"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "Citi",
+  "hint": "citi.wd5.myworkdayjobs.com/2 / jobs.citi.com"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "Barclays",
+  "hint": "barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays / search.jobs.barclays"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "Deutsche Bank",
+  "hint": "db.wd3.myworkdayjobs.com/DBWebsite"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "Nomura",
+  "hint": "careers.nomura.com / nomuracampus.tal.net"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "HSBC",
+  "hint": "mycareer.hsbc.com / portal.careers.hsbc.com"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "BNP Paribas",
+  "hint": "group.bnpparibas/en/careers (India ISPL Mumbai/Chennai)"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "Standard Chartered",
+  "hint": "jobs.standardchartered.com (SuccessFactors)"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "UBS",
+  "hint": "jobs.ubs.com (Pune/Mumbai)"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "Societe Generale",
+  "hint": "careers.societegenerale.com (SG GSC Bengaluru/Chennai)"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "Credit Agricole CIB",
+  "hint": "jobs.ca-cib.com (Mumbai)"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "Bank of America",
+  "hint": "careers.bankofamerica.com (BA Continuum Mumbai/GIFT/Hyd)"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "Wells Fargo",
+  "hint": "wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "NatWest Group",
+  "hint": "jobs.natwestgroup.com"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "MUFG",
+  "hint": "mufgub.wd3.myworkdayjobs.com"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "Mizuho",
+  "hint": "mizuho careers India"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "Jefferies",
+  "hint": "jefferies.com/careers"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "Macquarie",
+  "hint": "recruitment.macquarie.com"
+ },
+ {
+  "cluster": "A-global-ibs",
+  "name": "Lloyds Technology Centre",
+  "hint": "lloydsbankinggroup careers Hyderabad"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "BlackRock",
+  "hint": "blackrock.wd1.myworkdayjobs.com/BlackRock_Professional (Mumbai/Gurugram)"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "State Street",
+  "hint": "statestreet.wd1.myworkdayjobs.com/Global"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "BNY",
+  "hint": "bnymellon.eightfold.ai / Pune Chennai"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "Northern Trust",
+  "hint": "careers.northerntrust.com (Pune/Bengaluru)"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "Fidelity International",
+  "hint": "fil careers Gurugram/Bengaluru"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "Fidelity Investments (FMR India)",
+  "hint": "jobs.fidelity.com Bengaluru/Chennai"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "Invesco",
+  "hint": "invesco careers Hyderabad"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "Franklin Templeton",
+  "hint": "franklintempleton.wd5.myworkdayjobs.com"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "Morningstar",
+  "hint": "morningstar.wd5.myworkdayjobs.com (Mumbai/Navi Mumbai)"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "S&P Global",
+  "hint": "spgi.wd5.myworkdayjobs.com"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "Moody's",
+  "hint": "careers.moodys.com"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "CRISIL",
+  "hint": "career.crisil.com (Mumbai)"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "Fitch Group",
+  "hint": "fitch careers Mumbai/Bengaluru"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "MSCI",
+  "hint": "careers.msci.com (Mumbai/Pune)"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "LSEG",
+  "hint": "lseg careers Bengaluru"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "Nasdaq",
+  "hint": "nasdaq.wd1.myworkdayjobs.com (Bengaluru)"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "ICE",
+  "hint": "ice careers Pune/Hyderabad"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "Bloomberg",
+  "hint": "bloomberg careers Mumbai"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "FactSet",
+  "hint": "factset careers Hyderabad/Mumbai"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "Broadridge",
+  "hint": "broadridge careers"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "D. E. Shaw India",
+  "hint": "deshawindia.com careers"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "Tower Research Capital",
+  "hint": "tower-research.com careers Gurugram"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "Arcesium",
+  "hint": "arcesium careers Hyderabad/Bengaluru"
+ },
+ {
+  "cluster": "B-asset-mgmt-data-quant",
+  "name": "Optiver / Graviton / Quadeye",
+  "hint": "quant firm careers India"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "American Express",
+  "hint": "careers.americanexpress.com (Oracle CX_1)"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "Mastercard",
+  "hint": "mastercard.wd1.myworkdayjobs.com/CorporateCareers (Pune/Gurugram)"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "Visa",
+  "hint": "visa.wd5.myworkdayjobs.com / smartrecruiters Visa"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "PayPal",
+  "hint": "paypal.eightfold.ai"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "Synchrony",
+  "hint": "synchronyfinancial careers Hyderabad"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "FIS",
+  "hint": "fis careers Pune"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "Fiserv",
+  "hint": "fiserv careers Pune/Bengaluru"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "Global Payments",
+  "hint": "globalpayments careers"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "Swiss Re",
+  "hint": "swissre careers Bengaluru"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "Allianz",
+  "hint": "allianz careers Pune (Allianz Technology / Allianz Services)"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "AXA XL",
+  "hint": "axaxl careers Bengaluru/Gurugram"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "MetLife",
+  "hint": "metlife careers Noida"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "Prudential / PGIM",
+  "hint": "pgim / prudential careers Mumbai"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "Chubb",
+  "hint": "chubb careers Hyderabad/Bengaluru"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "Marsh McLennan (Marsh, Mercer, Oliver Wyman)",
+  "hint": "careers.marshmclennan.com"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "Aon",
+  "hint": "aon careers Gurugram/Mumbai"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "WTW",
+  "hint": "wtw careers Mumbai/Thane"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "Gallagher",
+  "hint": "ajg careers Mumbai/Bengaluru"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "Ameriprise Financial",
+  "hint": "ameriprise careers Gurugram/Hyderabad"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "Principal Global Services",
+  "hint": "principal careers Pune"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "Zurich / ZINFI",
+  "hint": "zurich careers India"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "Experian",
+  "hint": "experian careers Mumbai/Hyderabad"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "TransUnion CIBIL",
+  "hint": "transunion careers Mumbai/Pune"
+ },
+ {
+  "cluster": "C-payments-insurance",
+  "name": "Equifax",
+  "hint": "equifax careers Pune"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "HDFC Bank",
+  "hint": "hdfcbank careers"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "ICICI Bank",
+  "hint": "icicicareers"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "Axis Bank",
+  "hint": "axisbank careers"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "Kotak Mahindra Bank",
+  "hint": "kotak careers"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "IDFC FIRST Bank",
+  "hint": "idfcfirstbank careers"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "Yes Bank",
+  "hint": "yesbank careers"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "Bajaj Finserv / Bajaj Finance",
+  "hint": "bajajfinserv careers Pune"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "Tata Capital",
+  "hint": "tatacapital careers Mumbai"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "Aditya Birla Capital",
+  "hint": "adityabirlacapital careers Mumbai"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "Jio Financial Services",
+  "hint": "jfs careers Mumbai"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "Piramal Finance",
+  "hint": "piramal careers Mumbai"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "Mahindra Finance",
+  "hint": "mahindrafinance careers Mumbai"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "HDFC Life",
+  "hint": "hdfclife careers Mumbai"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "ICICI Lombard",
+  "hint": "icicilombard careers Mumbai"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "SBI Card",
+  "hint": "sbicard careers"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "NSE",
+  "hint": "nseindia careers Mumbai"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "BSE",
+  "hint": "bseindia careers Mumbai"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "NPCI",
+  "hint": "npci careers Mumbai"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "Motilal Oswal",
+  "hint": "motilaloswal careers Mumbai"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "Avendus",
+  "hint": "avendus careers Mumbai"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "Kotak Securities / Kotak AMC",
+  "hint": "kotak careers Mumbai"
+ },
+ {
+  "cluster": "D-indian-bfsi",
+  "name": "SEBI / RBI internship schemes",
+  "hint": "sebi.gov.in / rbi.org.in student internships"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "McKinsey & Company",
+  "hint": "mckinsey.com/careers"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "BCG",
+  "hint": "careers.bcg.com"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "Bain & Company",
+  "hint": "bain.com/careers"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "Kearney",
+  "hint": "kearney careers"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "Oliver Wyman",
+  "hint": "oliverwyman careers"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "Roland Berger",
+  "hint": "rolandberger careers"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "PwC India / PwC AC / Strategy&",
+  "hint": "pwc.in careers"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "Deloitte India / Deloitte USI",
+  "hint": "southasiacareers.deloitte.com / usijobs.deloitte.com"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "EY India / EY GDS / EY-Parthenon",
+  "hint": "careers.ey.com"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "KPMG India / KPMG Global Services",
+  "hint": "kpmg.com/in careers"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "Grant Thornton Bharat",
+  "hint": "grantthornton.in careers"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "BDO India",
+  "hint": "bdo.in careers"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "Alvarez & Marsal",
+  "hint": "alvarezandmarsal careers"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "Accenture (Strategy & Consulting, Song)",
+  "hint": "accenture.wd103.myworkdayjobs.com/AccentureCareers"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "Capgemini Invent",
+  "hint": "capgemini careers"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "ZS Associates",
+  "hint": "zs.com careers (Pune/Bengaluru/Gurugram)"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "Gartner",
+  "hint": "gartner.wd5.myworkdayjobs.com/EXT"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "Protiviti",
+  "hint": "protiviti careers"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "Kroll",
+  "hint": "kroll careers Mumbai"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "L.E.K. Consulting",
+  "hint": "lek careers Mumbai"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "Arthur D. Little",
+  "hint": "adlittle careers Mumbai"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "Redseer Strategy",
+  "hint": "redseer careers"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "Everest Group",
+  "hint": "everestgrp careers"
+ },
+ {
+  "cluster": "E-consulting",
+  "name": "IBM Consulting",
+  "hint": "ibm careers"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "Fractal Analytics",
+  "hint": "fractal.wd1.myworkdayjobs.com/Careers (Mumbai)"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "Mu Sigma",
+  "hint": "musigma careers Bengaluru"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "Tiger Analytics",
+  "hint": "tigeranalytics careers"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "LatentView Analytics",
+  "hint": "latentview careers"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "Tredence",
+  "hint": "tredence careers"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "Quantiphi",
+  "hint": "quantiphi.wd1.myworkdayjobs.com (Mumbai)"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "Course5 Intelligence",
+  "hint": "course5i careers"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "Sigmoid",
+  "hint": "sigmoid careers"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "Genpact",
+  "hint": "genpact.wd108.myworkdayjobs.com/External_Careers"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "EXL",
+  "hint": "exlservice careers"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "WNS",
+  "hint": "wns careers Mumbai/Pune"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "Axtria",
+  "hint": "axtria careers"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "IQVIA",
+  "hint": "iqvia careers"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "Kantar",
+  "hint": "kantar careers Mumbai"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "NielsenIQ",
+  "hint": "smartrecruiters NielsenIQ"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "Circana",
+  "hint": "circana careers Pune"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "dunnhumby",
+  "hint": "dunnhumby careers Gurugram"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "AB InBev GCC",
+  "hint": "ab-inbev careers Bengaluru"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "Publicis Sapient",
+  "hint": "publicissapient careers"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "Merkle (dentsu)",
+  "hint": "merkle careers Mumbai/Bengaluru"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "Gramener",
+  "hint": "gramener careers"
+ },
+ {
+  "cluster": "F-analytics-ai-services",
+  "name": "Infogain / Absolutdata",
+  "hint": "absolutdata careers"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Google",
+  "hint": "google.com/about/careers (students)"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Microsoft",
+  "hint": "jobs.careers.microsoft.com"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Amazon",
+  "hint": "amazon.jobs"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Apple",
+  "hint": "jobs.apple.com"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Meta",
+  "hint": "metacareers.com"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Adobe",
+  "hint": "adobe.wd5.myworkdayjobs.com"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Salesforce",
+  "hint": "salesforce.wd12.myworkdayjobs.com"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Oracle",
+  "hint": "oracle careers (Oracle Recruiting)"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "SAP Labs India",
+  "hint": "jobs.sap.com"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "IBM",
+  "hint": "ibm careers"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Intel",
+  "hint": "intel.wd1.myworkdayjobs.com"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "NVIDIA",
+  "hint": "nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Qualcomm",
+  "hint": "qualcomm careers"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Cisco",
+  "hint": "jobs.cisco.com"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "ServiceNow",
+  "hint": "servicenow careers (smartrecruiters)"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Atlassian",
+  "hint": "atlassian careers"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Intuit",
+  "hint": "intuit careers"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Uber",
+  "hint": "uber.com/careers"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "LinkedIn",
+  "hint": "linkedin careers"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Walmart Global Tech",
+  "hint": "walmart.wd5.myworkdayjobs.com"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Target India",
+  "hint": "target careers Bengaluru"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Autodesk",
+  "hint": "autodesk.wd1.myworkdayjobs.com"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Workday",
+  "hint": "workday.wd5.myworkdayjobs.com"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Expedia Group",
+  "hint": "expedia careers Gurugram/Bengaluru"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Dell Technologies",
+  "hint": "dell.wd1.myworkdayjobs.com"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "HP / HPE",
+  "hint": "hp / hpe careers Bengaluru"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "VMware / Broadcom",
+  "hint": "broadcom careers"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Zscaler",
+  "hint": "zscaler careers"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Nutanix",
+  "hint": "nutanix careers Pune/Bengaluru"
+ },
+ {
+  "cluster": "G-bigtech",
+  "name": "Texas Instruments",
+  "hint": "ti careers"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Anthropic",
+  "hint": "greenhouse anthropic (Bengaluru)"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "OpenAI",
+  "hint": "openai careers (India)"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Google DeepMind",
+  "hint": "deepmind careers"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Databricks",
+  "hint": "databricks careers / greenhouse"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Snowflake",
+  "hint": "snowflake careers"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Palantir",
+  "hint": "palantir careers / lever"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Scale AI",
+  "hint": "greenhouse scaleai"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Sarvam AI",
+  "hint": "ashby sarvam"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Krutrim",
+  "hint": "olakrutrim careers"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Glean",
+  "hint": "glean careers"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Rippling",
+  "hint": "rippling careers Bengaluru"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "MongoDB",
+  "hint": "mongodb careers"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Elastic",
+  "hint": "jobs.elastic.co"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Confluent",
+  "hint": "confluent careers"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "C3 AI",
+  "hint": "c3 ai careers"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Uniphore",
+  "hint": "uniphore careers"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Observe.AI",
+  "hint": "observe.ai careers"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Sprinklr",
+  "hint": "sprinklr careers"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Freshworks",
+  "hint": "smartrecruiters freshworks"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Zoho",
+  "hint": "zoho careers"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Postman",
+  "hint": "postman careers"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "BrowserStack",
+  "hint": "browserstack careers Mumbai"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Atlan",
+  "hint": "ashby atlan"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Turing",
+  "hint": "greenhouse turing"
+ },
+ {
+  "cluster": "H-ai-firms-fde",
+  "name": "Cohere / Mistral / Perplexity / Cursor (India roles)",
+  "hint": "ashby/greenhouse"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "Flipkart",
+  "hint": "flipkartcareers"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "Myntra",
+  "hint": "myntra careers"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "PhonePe",
+  "hint": "smartrecruiters PHONEPELIMITED"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "Paytm",
+  "hint": "paytm careers"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "Razorpay",
+  "hint": "razorpay careers"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "CRED",
+  "hint": "lever cred"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "Zerodha",
+  "hint": "zerodha careers"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "Groww",
+  "hint": "greenhouse groww"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "Swiggy",
+  "hint": "smartrecruiters swiggy"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "Zomato / Eternal / Blinkit",
+  "hint": "eternal careers"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "Zepto",
+  "hint": "zepto careers Mumbai"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "Meesho",
+  "hint": "lever meesho"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "Nykaa",
+  "hint": "nykaa careers Mumbai"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "Dream11 / Dream Sports",
+  "hint": "dreamsports careers Mumbai"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "Jio Platforms",
+  "hint": "careers.jio.com Mumbai"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "Ola / Ola Electric",
+  "hint": "ola careers"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "Urban Company",
+  "hint": "urbancompany careers"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "InMobi / Glance",
+  "hint": "inmobi careers"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "Tata Digital / Tata Neu",
+  "hint": "tatadigital careers"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "MakeMyTrip",
+  "hint": "makemytrip careers"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "Lenskart",
+  "hint": "lenskart careers"
+ },
+ {
+  "cluster": "I-indian-product-unicorns",
+  "name": "Physics Wallah / upGrad",
+  "hint": "careers"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Hindustan Unilever / Unilever",
+  "hint": "unilever careers Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Procter & Gamble",
+  "hint": "pgcareers Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Nestle India",
+  "hint": "nestle careers"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "ITC",
+  "hint": "itcportal careers"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Reliance Industries",
+  "hint": "careers.ril.com Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Tata Group (TCS, Tata Steel, Tata Motors, Tata Consumer)",
+  "hint": "tata careers"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Mahindra Group",
+  "hint": "mahindra careers Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Aditya Birla Group",
+  "hint": "adityabirla careers Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Larsen & Toubro (LTIMindtree, L&T Tech)",
+  "hint": "larsentoubro careers Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Godrej Group",
+  "hint": "godrej careers Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Asian Paints",
+  "hint": "asianpaints careers Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Marico",
+  "hint": "marico careers Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "L'Oreal India",
+  "hint": "loreal careers Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Coca-Cola",
+  "hint": "coca-cola careers"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "PepsiCo GBS",
+  "hint": "pepsico careers Hyderabad"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Diageo India",
+  "hint": "diageo careers Bengaluru/Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Mondelez",
+  "hint": "mondelez careers Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Colgate-Palmolive",
+  "hint": "colgate careers Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Shell",
+  "hint": "shell careers Bengaluru"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "bp",
+  "hint": "bp careers Pune"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Siemens",
+  "hint": "siemens careers Mumbai/Pune"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Schneider Electric",
+  "hint": "schneider careers Bengaluru/Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "ABB",
+  "hint": "abb careers Bengaluru"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Honeywell",
+  "hint": "honeywell careers Pune/Bengaluru"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "GE (Aerospace, Vernova, HealthCare)",
+  "hint": "ge careers Bengaluru/Pune"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Bosch",
+  "hint": "bosch careers Bengaluru"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Philips",
+  "hint": "philips careers Pune/Bengaluru"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Maersk",
+  "hint": "maersk careers Mumbai/Pune"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "DHL",
+  "hint": "dhl careers Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "FedEx",
+  "hint": "fedex careers Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Boeing India",
+  "hint": "boeing careers Bengaluru"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Airbus India",
+  "hint": "airbus careers Bengaluru"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Mercedes-Benz R&D India",
+  "hint": "mbrdi careers Bengaluru"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Volkswagen / Skoda Auto VW India",
+  "hint": "vw careers Pune"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "John Deere India",
+  "hint": "deere careers Pune"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Cummins India",
+  "hint": "cummins careers Pune"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Caterpillar",
+  "hint": "caterpillar careers Chennai/Bengaluru"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Eaton",
+  "hint": "eaton careers Pune"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Novartis",
+  "hint": "novartis careers Hyderabad/Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Pfizer",
+  "hint": "pfizer careers Mumbai/Chennai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "AstraZeneca",
+  "hint": "astrazeneca careers Bengaluru"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Sanofi",
+  "hint": "sanofi careers Hyderabad/Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "GSK",
+  "hint": "gsk careers Bengaluru/Mumbai"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Eli Lilly",
+  "hint": "lilly careers Bengaluru"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Johnson & Johnson / Kenvue",
+  "hint": "jnj careers Mumbai/Bengaluru"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Optum / UnitedHealth Group",
+  "hint": "optum careers Gurugram/Hyderabad"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Cigna / Evernorth",
+  "hint": "cigna careers Hyderabad"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Lowe's India",
+  "hint": "talent.lowes.com Bengaluru"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Tesco",
+  "hint": "tesco careers Bengaluru"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "IKEA",
+  "hint": "ikea careers"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Vodafone Intelligent Solutions (VOIS)",
+  "hint": "vois careers Pune"
+ },
+ {
+  "cluster": "J-conglomerates-fmcg-industrial-pharma",
+  "name": "Amdocs",
+  "hint": "amdocs careers Pune"
+ },
+ {
+  "cluster": "K-it-services-consulting",
+  "name": "TCS",
+  "hint": "tcs careers (TCS iON/ next step)"
+ },
+ {
+  "cluster": "K-it-services-consulting",
+  "name": "Infosys",
+  "hint": "infosys careers (InStep)"
+ },
+ {
+  "cluster": "K-it-services-consulting",
+  "name": "Wipro",
+  "hint": "wipro careers"
+ },
+ {
+  "cluster": "K-it-services-consulting",
+  "name": "HCLTech",
+  "hint": "hcltech careers"
+ },
+ {
+  "cluster": "K-it-services-consulting",
+  "name": "Tech Mahindra",
+  "hint": "techmahindra careers Pune"
+ },
+ {
+  "cluster": "K-it-services-consulting",
+  "name": "LTIMindtree",
+  "hint": "ltimindtree careers Mumbai/Pune"
+ },
+ {
+  "cluster": "K-it-services-consulting",
+  "name": "Cognizant",
+  "hint": "cognizant careers"
+ },
+ {
+  "cluster": "K-it-services-consulting",
+  "name": "Capgemini",
+  "hint": "capgemini careers Mumbai/Pune"
+ },
+ {
+  "cluster": "K-it-services-consulting",
+  "name": "Persistent Systems",
+  "hint": "persistent careers Pune"
+ },
+ {
+  "cluster": "K-it-services-consulting",
+  "name": "KPIT Technologies",
+  "hint": "kpit careers Pune"
+ },
+ {
+  "cluster": "K-it-services-consulting",
+  "name": "Mphasis",
+  "hint": "mphasis careers"
+ },
+ {
+  "cluster": "K-it-services-consulting",
+  "name": "Hexaware",
+  "hint": "hexaware careers Mumbai"
+ },
+ {
+  "cluster": "K-it-services-consulting",
+  "name": "Synechron",
+  "hint": "synechron careers Pune"
+ },
+ {
+  "cluster": "K-it-services-consulting",
+  "name": "NTT DATA",
+  "hint": "nttdata careers"
+ },
+ {
+  "cluster": "K-it-services-consulting",
+  "name": "DXC Technology",
+  "hint": "dxc careers"
+ },
+ {
+  "cluster": "K-it-services-consulting",
+  "name": "Zensar",
+  "hint": "zensar careers Pune"
+ },
+ {
+  "cluster": "K-it-services-consulting",
+  "name": "Thoughtworks",
+  "hint": "thoughtworks careers Pune"
+ },
+ {
+  "cluster": "K-it-services-consulting",
+  "name": "EPAM",
+  "hint": "epam careers"
+ }
+]

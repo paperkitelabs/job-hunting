@@ -1,0 +1,293 @@
+{
+ "cluster": "B-asset-mgmt-data-quant",
+ "openings": [],
+ "leads": [
+  {
+   "company": "State Street",
+   "role": "Business Analyst Intern / MIS Analyst Intern / SQL Developer Intern (Bengaluru)",
+   "aggregator_url": "https://myinternships.in/job/state-street-business-analyst-intern-bengaluru-a5bde7",
+   "careers_url": "https://careers.statestreet.com/global/en/c/internships-and-development-programs-jobs",
+   "note": "Seen only on myinternships.in (also .../state-street-mis-analyst-intern-bengaluru-6a7fa0 and .../state-street-sql-developer-intern-bengaluru-884d72). Undated, template-like text ('built for 2026 freshers and final-year students'), so may not be real. No matching Workday req seen."
+  },
+  {
+   "company": "State Street",
+   "role": "Data Analytics / PMO Analytics internship programme (India)",
+   "aggregator_url": "https://www.efinancialcareers.co.uk/jobs/pmo-analytics-summer-internship-programme/in-india",
+   "careers_url": "https://statestreet.wd1.myworkdayjobs.com/Global",
+   "note": "eFinancialCareers search pages for analytics internships in India list State Street with Bengaluru locations. Title says 'summer', so it may be a penultimate-year programme. Check Workday for India intern reqs."
+  },
+  {
+   "company": "BNY",
+   "role": "Data Quality Analyst Intern (Chennai)",
+   "aggregator_url": "https://myinternships.in/job/bny-data-quality-analyst-intern-chennai-ffbf05",
+   "careers_url": "https://bnymellon.eightfold.ai/careers",
+   "note": "Aggregator only. Says 2026 grads/final-year students, about 41K/month, rolling. Not confirmed on Eightfold. BNY's India early-careers hubs are Pune and Chennai."
+  },
+  {
+   "company": "Northern Trust",
+   "role": "Intern (Bengaluru)",
+   "aggregator_url": "https://apna.co/job/bengaluru/intern-1774137452",
+   "careers_url": "https://careers.northerntrust.com",
+   "note": "apna.co listing for freshers. Description is thin and the duration is blank. Another snippet calls it a Finance & Accounting (payables/receivables) intern, which is likely off-track. Search careers.northerntrust.com for 'Intern' in Bengaluru or Pune."
+  },
+  {
+   "company": "Fidelity Investments (FMR India)",
+   "role": "Advanced Analytics & NLP Intern (Bengaluru, 3 months)",
+   "aggregator_url": "https://myinternships.in/job/fidelity-investments-is-hiring-advanced-analytics-and-nlp-intern-bengaluru-39a566",
+   "careers_url": "https://jobs.fidelity.com/in/",
+   "note": "Aggregator only, aimed at '2026 freshers and final-year students'. Not confirmed on jobs.fidelity.com. A 6-month 'Software Engineering Intern, Bengaluru' is on the same site (off-track)."
+  },
+  {
+   "company": "Invesco",
+   "role": "Graduate Engineer Intern (Hyderabad, 2026/2027 batches)",
+   "aggregator_url": "https://www.freshersnow.com/invesco-internship/",
+   "careers_url": "https://invesco.wd1.myworkdayjobs.com/IVZ",
+   "note": "Freshersnow says it is open to 2026 and 2027 batches and needs 70% or 7.0 CGPA. The role may be pure SDE, so check the JD for a data angle. careers_url is Invesco's usual Workday tenant (not verified this session)."
+  },
+  {
+   "company": "Franklin Templeton",
+   "role": "India Summer Internship / Graduate Trainee programme",
+   "aggregator_url": "https://foundthejob.com/franklin-templeton-internship-program-india/",
+   "careers_url": "https://careers.franklintempleton.com/us/en/early-careers",
+   "note": "The official early-careers page says India summer interns are recruited in Oct–Nov through partner universities (campus-led, mostly postgraduates). The aggregator lists an 'Off-Campus 2026' graduate trainee role in Hyderabad. Likely campus-only or summer, so low fit."
+  }
+ ],
+ "excluded": [
+  {
+   "company": "State Street",
+   "role": "Intern (Bangalore, Operations), R-777922",
+   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Intern_R-777922",
+   "reason": "Operations-group intern from a Sept 2025 campus drive (ARKA Jain University placement PDF; 20K/month stipend). Probably closed, and ops-only. The URL is worth checking via the Workday API in case the req is still open."
+  },
+  {
+   "company": "State Street",
+   "role": "Operations Early Career (Entry) Program, Bengaluru",
+   "url": "https://www.talentd.in/jobs/state-street-operations-early-career-program-in-bangalore",
+   "reason": "Ops-only and limited to finance/accounting/economics final-year undergraduates. Apply by 13 Nov 2026 via the Workday form."
+  },
+  {
+   "company": "State Street",
+   "role": "Technology Business Office Intern – AI-Native Solutions & Process Innovation (6 months, July–Dec 2026)",
+   "url": "https://scoutify.com/companies/statestreet/jobs/1292298/",
+   "reason": "The cohort started July 2026, so it is already under way. Location was not confirmed as India and the listing was seen only on an aggregator."
+  },
+  {
+   "company": "BlackRock",
+   "role": "2027 Client and Product Summer Internship Program – EMEA",
+   "url": "https://targetjobs.co.uk/jobs/2027-client-and-product-summer-internship-program-emea-234533",
+   "reason": "EMEA summer programme for penultimate-year students, not India."
+  },
+  {
+   "company": "BNY",
+   "role": "2027 Summer Internship Program / 2027 Analyst Program",
+   "url": "https://www.bny.com/corporate/global/en/about-us/careers/students/campus-recruitment-events.html",
+   "reason": "Summer programme for penultimate-year students. The Analyst Program is a full-time graduate role. Only US/UK/Ireland/Singapore 2027 listings were seen, though Pune is a usual summer-intern site."
+  },
+  {
+   "company": "Fidelity International",
+   "role": "Summer Internships 2027 (register interest)",
+   "url": "https://www.brightnetwork.co.uk/graduate-jobs/fidelity-international/register-your-interest-summer-internships-2027",
+   "reason": "UK summer programme for penultimate-year students. No India intern posting was seen."
+  },
+  {
+   "company": "Northern Trust",
+   "role": "Business Development Intern (Pune)",
+   "url": "https://myinternships.in/job/northern-trust-business-development-intern-pune-e321f1",
+   "reason": "Sales/BD role (not wanted), aggregator only."
+  }
+ ],
+ "companies": [
+  {
+   "name": "BlackRock",
+   "careers_url": "https://careers.blackrock.com/search-jobs?l=India",
+   "ats": "workday",
+   "ats_endpoint": "https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professional/jobs (from list hint, unverified)",
+   "result": "none found",
+   "note": "The careers.blackrock.com front end lists 302 India jobs, none of them intern listings in the results. India intern hiring seems to be campus-led. No India 2027 intern postings were seen."
+  },
+  {
+   "name": "State Street",
+   "careers_url": "https://careers.statestreet.com/global/en/c/internships-and-development-programs-jobs",
+   "ats": "workday",
+   "ats_endpoint": "https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs",
+   "result": "none found (1 ops intern req seen, likely closed)",
+   "note": "R-777922 Bangalore Intern (ops, 2025 campus). The Ops Early Career programme closes 13 Nov 2026 (ops/finance). Analytics/BA intern leads are aggregator-only. Query the Workday API with 'intern' and India."
+  },
+  {
+   "name": "BNY",
+   "careers_url": "https://bnymellon.eightfold.ai/careers",
+   "ats": "eightfold",
+   "ats_endpoint": "https://bnymellon.eightfold.ai/api/apply/v2/jobs?domain=bnymellon.com&query=intern&location=India (pattern, unverified)",
+   "result": "none found",
+   "note": "Pune and Chennai are early-career hubs. 2027 Summer Internship and Analyst Program applications reportedly open (LinkedIn). The India summer programme is penultimate-year, so check Eightfold for any off-cycle India intern."
+  },
+  {
+   "name": "Northern Trust",
+   "careers_url": "https://careers.northerntrust.com",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Only aggregator intern listings (BD intern Pune, F&A intern Bengaluru) and old apprentice programmes were seen. The careers site advises searching 'Intern Program'."
+  },
+  {
+   "name": "Fidelity International",
+   "careers_url": "https://careers.fidelityinternational.com/locations/india",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "India offices: Gurugram, Mumbai, Bengaluru. 2027 programmes were to be 'confirmed in early Autumn 2026' (UK page). No India intern posting was seen. The site warns about fake recruiters."
+  },
+  {
+   "name": "Fidelity Investments (FMR India)",
+   "careers_url": "https://jobs.fidelity.com/in/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found (1 aggregator lead)",
+   "note": "Runs Apprentice-Graduates roles (india.fidelity.com/job-details/19462599/apprentice-graduates, older). Analytics & NLP intern lead is aggregator-only."
+  },
+  {
+   "name": "Invesco",
+   "careers_url": "https://invesco.wd1.myworkdayjobs.com/IVZ",
+   "ats": "workday",
+   "ats_endpoint": "https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs (usual tenant, unverified)",
+   "result": "none found (1 aggregator lead)",
+   "note": "Hyderabad Graduate Engineer Intern for 2026/2027 batches, seen on freshersnow. The Business Trainee Hyderabad listing (talentd) has inconsistent text."
+  },
+  {
+   "name": "Franklin Templeton",
+   "careers_url": "https://careers.franklintempleton.com/us/en/early-careers",
+   "ats": "workday",
+   "ats_endpoint": "https://franklintempleton.wd5.myworkdayjobs.com/wday/cxs/franklintempleton/Primary-External-1/jobs (site name unverified)",
+   "result": "programme not open yet / campus-only",
+   "note": "The India summer internship recruits Oct–Nov via partner universities. A Summer 2026 Mumbai marketing intern was seen (off-track, past)."
+  },
+  {
+   "name": "Morningstar",
+   "careers_url": "https://morningstar.wd5.myworkdayjobs.com",
+   "ats": "workday",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass"
+  },
+  {
+   "name": "S&P Global",
+   "careers_url": "https://spgi.wd5.myworkdayjobs.com",
+   "ats": "workday",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass"
+  },
+  {
+   "name": "Moody's",
+   "careers_url": "https://careers.moodys.com",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass"
+  },
+  {
+   "name": "CRISIL",
+   "careers_url": "https://career.crisil.com",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass"
+  },
+  {
+   "name": "Fitch Group",
+   "careers_url": "https://careers.fitch.group",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass; careers_url is a guess"
+  },
+  {
+   "name": "MSCI",
+   "careers_url": "https://careers.msci.com",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass"
+  },
+  {
+   "name": "LSEG",
+   "careers_url": "https://careers.lseg.com",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass; careers_url is a guess"
+  },
+  {
+   "name": "Nasdaq",
+   "careers_url": "https://nasdaq.wd1.myworkdayjobs.com",
+   "ats": "workday",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass"
+  },
+  {
+   "name": "ICE",
+   "careers_url": "https://careers.ice.com",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass; careers_url is a guess"
+  },
+  {
+   "name": "Bloomberg",
+   "careers_url": "https://www.bloomberg.com/company/careers/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass"
+  },
+  {
+   "name": "FactSet",
+   "careers_url": "https://www.factset.com/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass"
+  },
+  {
+   "name": "Broadridge",
+   "careers_url": "https://careers.broadridge.com",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass; careers_url is a guess"
+  },
+  {
+   "name": "D. E. Shaw India",
+   "careers_url": "https://www.deshawindia.com/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass"
+  },
+  {
+   "name": "Tower Research Capital",
+   "careers_url": "https://www.tower-research.com/open-positions",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass; careers_url is a guess"
+  },
+  {
+   "name": "Arcesium",
+   "careers_url": "https://www.arcesium.com/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass"
+  },
+  {
+   "name": "Optiver / Graviton / Quadeye",
+   "careers_url": "https://optiver.com/working-at-optiver/career-opportunities/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted after 8 companies; needs a follow-up pass; Graviton (gravitontrading.com) and Quadeye (quadeye.com) also not searched"
+  }
+ ]
+}
