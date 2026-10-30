@@ -1,0 +1,376 @@
+<title>The 15 LPA Shortlist</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<style>
+:root{
+  --ground:#F1F3F1; --surface:#FBFCFB; --surface-2:#E9EDEB;
+  --ink:#131C1A; --ink-2:#3D4B47; --muted:#5F6F6A; --line:#D2DAD6; --line-2:#C0CBC6;
+  --teal:#0F6E63; --teal-soft:#DCEBE7; --amber:#9C6612; --amber-soft:#F3E8D4;
+  --clay:#9E3626; --clay-soft:#F4DFDA;
+  --mark-yes:#008F7D; --mark-no:#B8391F;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --ground:#0E1412; --surface:#161E1C; --surface-2:#1E2825;
+    --ink:#E3EAE7; --ink-2:#BCC9C4; --muted:#8FA09B; --line:#28342F; --line-2:#36453F;
+    --teal:#56C4B2; --teal-soft:#153029; --amber:#D7A257; --amber-soft:#2E2617;
+    --clay:#DC8270; --clay-soft:#33201C;
+    --mark-yes:#35A895; --mark-no:#CB6B54;
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#0E1412; --surface:#161E1C; --surface-2:#1E2825;
+  --ink:#E3EAE7; --ink-2:#BCC9C4; --muted:#8FA09B; --line:#28342F; --line-2:#36453F;
+  --teal:#56C4B2; --teal-soft:#153029; --amber:#D7A257; --amber-soft:#2E2617;
+  --clay:#DC8270; --clay-soft:#33201C;
+  --mark-yes:#35A895; --mark-no:#CB6B54;
+}
+*{box-sizing:border-box}
+body{background:var(--ground); color:var(--ink);
+  font-family:"IBM Plex Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  font-size:15px; line-height:1.55; -webkit-font-smoothing:antialiased}
+.wrap{max-width:1080px; margin:0 auto; padding-inline:20px; padding-block:34px 72px}
+h1,h2,h3{font-family:Archivo,"IBM Plex Sans",sans-serif; text-wrap:balance; margin:0}
+.mono{font-family:"IBM Plex Mono",ui-monospace,monospace; font-variant-numeric:tabular-nums}
+.eyebrow{font-family:"IBM Plex Mono",monospace; font-size:11px; letter-spacing:.14em;
+  text-transform:uppercase; color:var(--muted)}
+h1{font-size:clamp(30px,5.4vw,46px); font-weight:700; letter-spacing:-.022em; line-height:1.05; margin-top:10px}
+.dek{font-size:17px; color:var(--ink-2); max-width:64ch; margin-top:14px}
+.dek b{color:var(--ink); font-weight:600}
+
+/* chart */
+.fig{margin-top:30px; border-block:1px solid var(--line); padding-block:20px}
+.fig h2{font-size:15.5px; font-weight:600}
+.fig .cap{font-size:13.3px; color:var(--muted); max-width:76ch; margin:4px 0 16px}
+.chart{display:grid; gap:9px}
+.crow{display:grid; grid-template-columns:186px 1fr 96px; gap:13px; align-items:center}
+.crow .nm{font-size:12.8px; color:var(--ink-2); text-align:right; line-height:1.25}
+.plot{position:relative; height:19px; background:var(--surface-2); border-radius:2px}
+.band{position:absolute; top:0; bottom:0; border-radius:4px}
+.band.yes{background:var(--mark-yes)} .band.no{background:var(--mark-no)}
+.thr{position:absolute; top:-7px; bottom:-7px; width:2px; background:var(--ink); opacity:.85}
+.thrlab{position:absolute; top:-21px; transform:translateX(-50%); font-family:"IBM Plex Mono",monospace;
+  font-size:9.5px; letter-spacing:.06em; text-transform:uppercase; color:var(--ink); white-space:nowrap}
+.crow .vv{font-family:"IBM Plex Mono",monospace; font-size:11.5px; color:var(--ink-2); font-variant-numeric:tabular-nums}
+.axis{display:grid; grid-template-columns:186px 1fr 96px; gap:13px; margin-top:8px}
+.ticks{display:flex; justify-content:space-between; font-family:"IBM Plex Mono",monospace;
+  font-size:9.5px; color:var(--muted)}
+.legend{display:flex; gap:18px; flex-wrap:wrap; margin-top:13px; font-family:"IBM Plex Mono",monospace;
+  font-size:10.5px; color:var(--muted); letter-spacing:.04em; text-transform:uppercase}
+.legend i{display:inline-block; width:10px; height:10px; border-radius:2px; margin-right:6px; vertical-align:-1px}
+.sw-y{background:var(--mark-yes)} .sw-n{background:var(--mark-no)}
+
+.tension{margin-top:22px; font-size:14px; color:var(--ink-2); max-width:78ch}
+.tension b{color:var(--ink); font-weight:600}
+
+/* live leads */
+.leads{margin-top:40px}
+.sechead{display:flex; gap:12px; align-items:baseline; flex-wrap:wrap; margin-bottom:3px}
+.sechead h2{font-size:19px; font-weight:600; letter-spacing:-.012em}
+.sechead .rule{flex:1 1 40px; height:1px; background:var(--line); min-width:20px}
+.sechead .num{font-family:"IBM Plex Mono",monospace; font-size:11px; color:var(--muted)}
+.secsub{font-size:13.5px; color:var(--muted); margin:0 0 15px; max-width:76ch}
+.lead{background:var(--surface); border:1px solid var(--line); border-radius:3px;
+  padding:14px 16px; margin-bottom:8px; display:grid; grid-template-columns:1fr 132px; gap:15px; align-items:start}
+.lead h3{font-family:Archivo,sans-serif; font-size:15.5px; font-weight:600; letter-spacing:-.008em; line-height:1.3}
+.lead h3 a{color:var(--ink); text-decoration:none; border-bottom:1.5px solid transparent}
+.lead h3 a:hover{color:var(--teal); border-bottom-color:var(--teal)}
+.lmeta{font-family:"IBM Plex Mono",monospace; font-size:10.5px; color:var(--muted);
+  margin-top:4px; display:flex; gap:10px; flex-wrap:wrap}
+.lead p{margin:9px 0 0; font-size:13.6px; color:var(--ink-2); max-width:68ch}
+.nobar{display:inline-block; font-family:"IBM Plex Mono",monospace; font-size:9.5px; font-weight:600;
+  letter-spacing:.07em; text-transform:uppercase; color:var(--teal); background:var(--teal-soft);
+  padding:3px 8px; border-radius:2px}
+.ctcbox{font-family:"IBM Plex Mono",monospace; font-size:11px; color:var(--muted); text-align:right}
+.ctcbox .big{display:block; font-family:Archivo,sans-serif; font-size:17px; font-weight:700;
+  letter-spacing:-.015em; color:var(--ink)}
+.ctcbox .lbl{display:block; font-size:9px; letter-spacing:.07em; text-transform:uppercase; margin-top:1px}
+
+/* company table */
+.controls{display:flex; flex-wrap:wrap; gap:7px; align-items:center; margin-top:38px;
+  padding-bottom:13px; border-bottom:1px solid var(--line)}
+.chip{font-family:"IBM Plex Mono",monospace; font-size:11.5px; letter-spacing:.04em;
+  padding:5px 11px; border:1px solid var(--line-2); background:transparent; color:var(--ink-2);
+  border-radius:2px; cursor:pointer; text-transform:uppercase}
+.chip:hover{border-color:var(--teal); color:var(--teal)}
+.chip[aria-pressed="true"]{background:var(--ink); color:var(--ground); border-color:var(--ink)}
+.chip:focus-visible,.go:focus-visible{outline:2px solid var(--teal); outline-offset:2px}
+.spacer{flex:1 1 auto; min-width:8px}
+.count{font-family:"IBM Plex Mono",monospace; font-size:11.5px; color:var(--muted)}
+.grp{margin-top:32px}
+.co{display:grid; grid-template-columns:1fr 128px 104px 86px; gap:14px;
+  background:var(--surface); border:1px solid var(--line); border-radius:3px;
+  padding:12px 15px; margin-bottom:6px; align-items:center}
+.co .nm{font-family:Archivo,sans-serif; font-size:14.8px; font-weight:600; letter-spacing:-.006em}
+.co .nm a{color:var(--ink); text-decoration:none; border-bottom:1.5px solid transparent}
+.co .nm a:hover{color:var(--teal); border-bottom-color:var(--teal)}
+.co .sub{font-size:12.6px; color:var(--muted); margin-top:2px}
+.cities{font-family:"IBM Plex Mono",monospace; font-size:10.5px; color:var(--ink-2); line-height:1.35}
+.ctc{font-family:"IBM Plex Mono",monospace; font-size:12.5px; font-weight:600; font-variant-numeric:tabular-nums}
+.ctc.hi{color:var(--mark-yes)} .ctc.lo{color:var(--muted)}
+.oc{font-family:"IBM Plex Mono",monospace; font-size:9.5px; font-weight:600; letter-spacing:.06em;
+  text-transform:uppercase; padding:3px 7px; border-radius:2px; text-align:center}
+.oc.high{background:var(--teal-soft); color:var(--teal)}
+.oc.med{background:var(--amber-soft); color:var(--amber)}
+.oc.low{background:var(--clay-soft); color:var(--clay)}
+
+.foot{margin-top:46px; border-top:1px solid var(--line); padding-top:22px}
+.foot h2{font-size:15.5px; font-weight:600; margin-bottom:10px}
+.foot p,.foot li{font-size:13.5px; color:var(--muted); max-width:80ch}
+.foot ol{margin:0; padding-left:19px} .foot li{margin-bottom:7px}
+.foot b{color:var(--ink-2); font-weight:600}
+
+@media (max-width:820px){
+  .crow,.axis{grid-template-columns:128px 1fr 78px; gap:9px}
+  .crow .nm{font-size:11.6px}
+  .co{grid-template-columns:1fr 92px 76px; gap:10px}
+  .co .c-cities{display:none}
+  .lead{grid-template-columns:1fr}
+  .ctcbox{text-align:left}
+}
+@media (max-width:520px){
+  .wrap{padding-inline:16px}
+  .crow,.axis{grid-template-columns:98px 1fr 66px; gap:7px}
+  .crow .nm{font-size:10.8px}
+  .co{grid-template-columns:1fr auto; gap:9px}
+  .co .c-ctc{text-align:right}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important; transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">off-campus &middot; 2027 batch &middot; mumbai · bengaluru · hyderabad · pune · gurgaon · chennai</div>
+    <h1>The 15 LPA shortlist</h1>
+    <p class="dek">You set a hard number, so here is the honest answer first: <b>15+ LPA as an off-campus
+      fresher is roughly a top-decile outcome in India.</b> Typical data-science and AI fresher offers land
+      at 6&ndash;12 LPA. But the premium is concentrated exactly where your portfolio already sits &mdash;
+      GenAI, LLM and AI-agent work carries a documented 25&ndash;45% pay premium, and product companies pay
+      2&ndash;3&times; what IT services pay for the same title.</p>
+
+    <section class="fig">
+      <h2>Where a fresher offer actually lands, by type of employer</h2>
+      <p class="cap">Typical off-campus fresher CTC bands for AI, data-science and analytics roles in India,
+        2026&ndash;27. Bands are indicative ranges compiled from public salary reporting, not quotes &mdash;
+        treat them as where to aim, not what you are owed.</p>
+      <div class="chart" id="chart"></div>
+      <div class="axis"><span></span><div class="ticks" id="ticks"></div><span></span></div>
+      <div class="legend">
+        <span><i class="sw-y"></i>Band reaches 15+ LPA</span>
+        <span><i class="sw-n"></i>Tops out below 15</span>
+        <span>&#9474; &nbsp;Your 15 LPA line</span>
+      </div>
+    </section>
+
+    <p class="tension">One tension you should see clearly rather than discover in an offer letter:
+      <b>your best-fitting role and your best-paying role are probably not the same company.</b> The
+      Accenture consulting analyst roles below are the cleanest match to your resume I have verified
+      anywhere &mdash; and that band sits at roughly 7&ndash;14 LPA, under your line. The employers that
+      clear 15 comfortably are product companies, AI-native startups, BFSI captives and the tier-1
+      strategy firms' analytics arms. If 15 is genuinely non-negotiable, aim there and treat the
+      consulting analyst roles as a fallback. If the work matters more, invert that.</p>
+  </header>
+
+  <section class="leads">
+    <div class="sechead"><h2>Verified open right now</h2><span class="rule"></span>
+      <span class="num mono">pulled from live careers APIs, 25 sep 2026</span></div>
+    <p class="secsub">Not scraped from an aggregator &mdash; these came straight out of each company's own
+      careers system today, with the qualification text read in full.</p>
+    <div id="leads"></div>
+  </section>
+
+  <div class="controls">
+    <button class="chip" data-f="all" aria-pressed="true">All</button>
+    <button class="chip" data-f="15" aria-pressed="false">Clears 15 LPA</button>
+    <button class="chip" data-f="oc" aria-pressed="false">Off-campus friendly</button>
+    <button class="chip" data-f="ai" aria-pressed="false">AI / GenAI</button>
+    <button class="chip" data-f="consult" aria-pressed="false">Consulting</button>
+    <span class="spacer"></span>
+    <span class="count" id="count"></span>
+  </div>
+
+  <main id="groups"></main>
+
+  <section class="foot">
+    <h2>What actually moves you from 10 to 15+</h2>
+    <ol>
+      <li><b>Lead with the agentic AI work, not the analytics.</b> Every analytics fresher has SQL, Power BI
+        and an EDA project. Almost none have shipped 10 stateful LLM agents in parallel and cut latency
+        7&times;, or built citation-grounded RAG over a statute corpus. That is the 25&ndash;45% premium
+        skill set, and it is the reason a product company or AI-native startup would pay you 18 rather
+        than 10. Your resume currently buries it under the internships &mdash; reorder it.</li>
+      <li><b>Use the freelance revenue as experience, not as a hobby line.</b> Rs 6L+ delivered across 10+
+        commercial projects, and a platform shipped in 8 days for 10,000+ users, reads as ownership.
+        Combined with four internships that is a defensible <b>16&ndash;20 months</b> of professional work,
+        which clears the "0&ndash;2 years" band that most of these roles actually screen on.</li>
+      <li><b>Referrals are worth most where the portal is a black hole</b> &mdash; product companies and
+        AI-native startups, where a hiring manager reading your GitHub in five minutes beats an ATS keyword
+        match. They are worth least at IT services and Big-4, where the process is volume-driven anyway.
+        Spend your connections on the first group.</li>
+      <li><b>The two-to-six week gap-closers that unlock the most postings:</b> Tableau Desktop basics
+        (your Power BI transfers; dozens of reqs say "Tableau or similar"), SQL window functions and CTEs,
+        one cloud fundamentals cert (AWS Cloud Practitioner or Azure AI-900), and Databricks/Snowflake
+        fundamentals. None of these is Java or C++, and each one is named explicitly in reqs you would
+        otherwise be filtered out of.</li>
+    </ol>
+  </section>
+</div>
+
+<script id="bands" type="application/json">
+[{"k":"Global product & Big Tech","lo":18,"hi":32,"eg":"Google, Microsoft, Adobe, NVIDIA, Databricks, Salesforce, Uber, Atlassian"},
+ {"k":"AI-native / GenAI startups","lo":12,"hi":28,"eg":"Sarvam AI, Krutrim, Observe.AI, Yellow.ai, Turing, Scale AI"},
+ {"k":"Tier-1 consulting analytics arms","lo":14,"hi":24,"eg":"BCG X, Bain Capability Network, McKinsey Knowledge Centre"},
+ {"k":"BFSI captives — quant & analytics","lo":13,"hi":22,"eg":"Goldman Sachs, Morgan Stanley, American Express, Mastercard, Visa"},
+ {"k":"Consumer internet & fintech","lo":12,"hi":22,"eg":"PhonePe, Razorpay, CRED, Groww, Meesho, Dream11, Swiggy"},
+ {"k":"Analytics pure-plays","lo":8,"hi":16,"eg":"Fractal, Tiger Analytics, Tredence, Quantiphi, ZS Associates"},
+ {"k":"Big-4 & Accenture consulting analyst","lo":7,"hi":14,"eg":"Deloitte, EY, PwC, KPMG, Accenture S&C Global Network"},
+ {"k":"IT services","lo":4,"hi":9,"eg":"TCS, Infosys, Wipro, LTIMindtree, Cognizant"}]
+</script>
+
+<script id="leaddata" type="application/json">
+[{"title":"S&C Global Network — AI — Software & Platform — GenAI — Analyst","co":"Accenture","loc":"Hyderabad (HDC5A) · Bengaluru (BDC7C)","bar":"No years requirement stated","ctc":"7–14","note":"Two separate reqs, both entry-titled Analyst inside Accenture Strategy & Consulting's Global Network — a different organisation from the Mumbai delivery roles, which are Record-to-Report and Procurement Ops. GenAI consulting is the exact intersection of your KOP AI and LawzyAI work and your case-competition record. The catch is the band: this is the best-fitting role I found and it sits under your line.","url":"https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers"},
+ {"title":"S&C Global Network — AI — Data Strategy — Analyst","co":"Accenture","loc":"Hyderabad (HDC2A) · Chennai (CDC5B)","bar":"No years requirement stated","ctc":"7–14","note":"Same Global Network org, data-strategy track rather than GenAI build. Reads closer to the business-analytics and requirement-translation work you say you are strongest at — turning a customer problem into a spec.","url":"https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers"},
+ {"title":"S&C GN — Data & AI — Resources — Analyst","co":"Accenture","loc":"Bengaluru","bar":"No years requirement stated","ctc":"7–14","note":"Third entry-titled Data & AI analyst req with no stated experience bar. Three live openings in one practice is a pipeline, not a fluke — worth one application each rather than one generic one.","url":"https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers"},
+ {"title":"Data Scientist (four live reqs, incl. Data Visualisation)","co":"Mastercard","loc":"Gurgaon · Navi Mumbai","bar":"Data Scientist II — expect a 2 yr screen","ctc":"15–22","note":"A BFSI captive that genuinely clears your line, with four live data-science reqs in Gurgaon. The II grade means a ~2-year screen you are short of on paper — this is where your 16–20 months plus a referral has to do the work. Mastercard's India centre is Pune-heavy overall (187 roles) so the Gurgaon data-science cluster is the specific target.","url":"https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers"},
+ {"title":"GenAI Data Scientist / Data Scientist — Gen AI","co":"Fractal Analytics","loc":"Multi-city incl. Mumbai, Bengaluru","bar":"Several reqs state 3–5 yrs; two state none","ctc":"8–16","note":"Fractal has live GenAI data-science reqs across seven locations. Read each one's years line before applying — the NLP/GenAI req explicitly says 3-to-5 years, but the general GenAI Data Scientist postings do not state a bar. Mumbai-headquartered, so no relocation.","url":"https://fractal.wd1.myworkdayjobs.com/Careers"},
+ {"title":"AI Engineer — Forward Deployed · AI Agent Engineer","co":"Databricks · Observe.AI · Scale AI · Turing","loc":"Bengaluru · remote-India","bar":"Varies; portfolio-screened","ctc":"15–30","note":"Databricks alone has 97 live India roles. Forward-deployed and agent-engineering titles at these firms are screened on what you have actually shipped rather than years served — which is the single best structural fit for someone with a 7× latency win and a working multi-agent system on GitHub. This is the category most likely to pay you 20+.","url":"https://boards.greenhouse.io/databricks"}]
+</script>
+
+<script id="codata" type="application/json">
+[
+{"g":"Product & Big Tech","n":"Google India","d":"Data Analyst, Business Analyst, gTech","c":"Bengaluru · Hyderabad · Gurgaon","lo":20,"hi":35,"oc":"med","u":"https://www.google.com/about/careers/applications/","tag":["15","ai"]},
+{"g":"Product & Big Tech","n":"Microsoft IDC","d":"Data & Applied Science, Analytics","c":"Hyderabad · Bengaluru · Noida","lo":18,"hi":30,"oc":"med","u":"https://jobs.careers.microsoft.com/","tag":["15","ai"]},
+{"g":"Product & Big Tech","n":"Adobe","d":"ML Engineer, Data Science, Research","c":"Bengaluru · Noida","lo":18,"hi":28,"oc":"med","u":"https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced","tag":["15","ai"]},
+{"g":"Product & Big Tech","n":"NVIDIA","d":"AI Developer Tech, Deep Learning","c":"Bengaluru · Pune · Hyderabad","lo":20,"hi":32,"oc":"med","u":"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite","tag":["15","ai"]},
+{"g":"Product & Big Tech","n":"Databricks","d":"AI Engineer, Forward-Deployed, Analytics","c":"Bengaluru","lo":22,"hi":38,"oc":"high","u":"https://boards.greenhouse.io/databricks","tag":["15","ai"]},
+{"g":"Product & Big Tech","n":"Salesforce","d":"Data Science, Business Analytics","c":"Hyderabad · Bengaluru","lo":18,"hi":28,"oc":"med","u":"https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site","tag":["15","ai"]},
+{"g":"Product & Big Tech","n":"Uber India","d":"Data Science, Ops Analytics","c":"Bengaluru · Hyderabad","lo":20,"hi":30,"oc":"med","u":"https://www.uber.com/us/en/careers/","tag":["15","ai"]},
+{"g":"Product & Big Tech","n":"Walmart Global Tech","d":"Data Analyst, Business Analyst, DS","c":"Bengaluru · Chennai","lo":16,"hi":26,"oc":"med","u":"https://careers.walmart.com/technology","tag":["15","ai"]},
+{"g":"Product & Big Tech","n":"Atlassian","d":"Data Science, Analytics","c":"Bengaluru","lo":20,"hi":30,"oc":"med","u":"https://www.atlassian.com/company/careers","tag":["15","ai"]},
+{"g":"Product & Big Tech","n":"Oracle / OCI","d":"Data Science, Analytics","c":"Bengaluru · Hyderabad","lo":12,"hi":20,"oc":"high","u":"https://careers.oracle.com/","tag":["15"]},
+
+{"g":"AI-native & GenAI","n":"Sarvam AI","d":"Applied AI, LLM research","c":"Bengaluru","lo":15,"hi":30,"oc":"high","u":"https://www.sarvam.ai/careers","tag":["15","ai"]},
+{"g":"AI-native & GenAI","n":"Krutrim (Ola)","d":"AI/ML, LLM engineering","c":"Bengaluru","lo":14,"hi":28,"oc":"high","u":"https://www.olakrutrim.com/careers","tag":["15","ai"]},
+{"g":"AI-native & GenAI","n":"Observe.AI","d":"AI Agent Engineer, Applied ML","c":"Bengaluru","lo":14,"hi":26,"oc":"high","u":"https://boards.greenhouse.io/observeai","tag":["15","ai"]},
+{"g":"AI-native & GenAI","n":"Yellow.ai","d":"Conversational AI, ML","c":"Bengaluru","lo":12,"hi":22,"oc":"high","u":"https://yellow.ai/careers/","tag":["15","ai"]},
+{"g":"AI-native & GenAI","n":"Turing","d":"Forward-Deployed AI Engineer","c":"Remote India","lo":15,"hi":30,"oc":"high","u":"https://boards.greenhouse.io/turing","tag":["15","ai"]},
+{"g":"AI-native & GenAI","n":"Scale AI","d":"Forward Deployed Engineer, GenAI","c":"Bengaluru · remote","lo":18,"hi":32,"oc":"high","u":"https://boards.greenhouse.io/scaleai","tag":["15","ai"]},
+{"g":"AI-native & GenAI","n":"Uniphore","d":"Conversational AI, Data Science","c":"Chennai · Bengaluru","lo":12,"hi":22,"oc":"high","u":"https://www.uniphore.com/careers/","tag":["15","ai"]},
+{"g":"AI-native & GenAI","n":"Gupshup","d":"AI/ML, product analytics","c":"Mumbai · Bengaluru","lo":12,"hi":20,"oc":"high","u":"https://www.gupshup.io/careers","tag":["15","ai"]},
+{"g":"AI-native & GenAI","n":"Sprinklr","d":"AI/ML, Data Science","c":"Gurgaon · Bengaluru","lo":14,"hi":24,"oc":"high","u":"https://www.sprinklr.com/careers/","tag":["15","ai"]},
+
+{"g":"BFSI captives — quant & analytics","n":"American Express","d":"Analytics, Risk & Info Management","c":"Gurgaon · Bengaluru","lo":16,"hi":22,"oc":"high","u":"https://www.americanexpress.com/en-us/careers/","tag":["15"]},
+{"g":"BFSI captives — quant & analytics","n":"Goldman Sachs","d":"Engineering, Risk, Data Analytics","c":"Bengaluru · Hyderabad","lo":20,"hi":28,"oc":"med","u":"https://www.goldmansachs.com/careers","tag":["15"]},
+{"g":"BFSI captives — quant & analytics","n":"Mastercard","d":"Data Science, Advisors & Consulting","c":"Gurgaon · Pune · Navi Mumbai","lo":15,"hi":22,"oc":"high","u":"https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers","tag":["15","consult"]},
+{"g":"BFSI captives — quant & analytics","n":"Visa","d":"Data Science, Visa Consulting & Analytics","c":"Bengaluru","lo":15,"hi":24,"oc":"med","u":"https://corporate.visa.com/en/jobs/","tag":["15","consult"]},
+{"g":"BFSI captives — quant & analytics","n":"Morgan Stanley","d":"Quant analytics, WM analytics","c":"Mumbai · Bengaluru","lo":16,"hi":25,"oc":"med","u":"https://www.morganstanley.com/careers","tag":["15"]},
+{"g":"BFSI captives — quant & analytics","n":"JPMorganChase","d":"Data analytics, quant research","c":"Mumbai · Bengaluru · Hyderabad","lo":13,"hi":20,"oc":"med","u":"https://careers.jpmorgan.com/","tag":["15"]},
+{"g":"BFSI captives — quant & analytics","n":"Optum / UnitedHealth","d":"Healthcare data science, analytics","c":"Hyderabad · Gurgaon · Chennai","lo":12,"hi":20,"oc":"high","u":"https://careers.unitedhealthgroup.com/","tag":["15"]},
+{"g":"BFSI captives — quant & analytics","n":"Wells Fargo","d":"Analytics, quantitative analytics","c":"Hyderabad · Bengaluru · Chennai","lo":12,"hi":20,"oc":"high","u":"https://www.wellsfargojobs.com/","tag":["15"]},
+
+{"g":"Consulting & strategy","n":"BCG X / BCG Gamma","d":"Data scientist, AI consultant","c":"Gurgaon · Bengaluru · Mumbai","lo":16,"hi":24,"oc":"med","u":"https://careers.bcg.com/","tag":["15","consult","ai"]},
+{"g":"Consulting & strategy","n":"Bain Capability Network","d":"Associate, Advanced Analytics","c":"Gurgaon · New Delhi","lo":14,"hi":20,"oc":"med","u":"https://www.bain.com/careers/","tag":["15","consult"]},
+{"g":"Consulting & strategy","n":"McKinsey Knowledge Centre","d":"Research & analytics associate","c":"Gurgaon · Chennai · Bengaluru","lo":14,"hi":20,"oc":"med","u":"https://www.mckinsey.com/careers/search-jobs","tag":["15","consult"]},
+{"g":"Consulting & strategy","n":"Accenture S&C Global Network","d":"Data & AI Analyst, GenAI Analyst","c":"Bengaluru · Hyderabad · Pune · Chennai","lo":7,"hi":14,"oc":"high","u":"https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers","tag":["consult","ai"]},
+{"g":"Consulting & strategy","n":"ZS Associates","d":"Decision Analytics Associate","c":"Pune · Gurgaon · Bengaluru","lo":12,"hi":18,"oc":"high","u":"https://www.zs.com/careers","tag":["15","consult"]},
+{"g":"Consulting & strategy","n":"Kearney","d":"Business analyst, analytics","c":"Gurgaon · Mumbai","lo":14,"hi":20,"oc":"med","u":"https://www.kearney.com/careers","tag":["15","consult"]},
+{"g":"Consulting & strategy","n":"EY India / EY-Parthenon","d":"Consulting analyst, Data & Analytics","c":"Bengaluru · Gurgaon · Mumbai · Chennai","lo":8,"hi":15,"oc":"high","u":"https://www.ey.com/en_in/careers","tag":["consult"]},
+{"g":"Consulting & strategy","n":"Deloitte India","d":"Business Technology Analyst, S&A","c":"Mumbai · Hyderabad · Bengaluru · Gurgaon","lo":8,"hi":14,"oc":"high","u":"https://www2.deloitte.com/in/en/careers.html","tag":["consult"]},
+
+{"g":"Consumer internet & fintech","n":"PhonePe","d":"Business Analyst, Data Science","c":"Bengaluru","lo":16,"hi":26,"oc":"high","u":"https://www.phonepe.com/careers/","tag":["15","ai"]},
+{"g":"Consumer internet & fintech","n":"Razorpay","d":"Data Science, Business Analyst","c":"Bengaluru","lo":14,"hi":24,"oc":"high","u":"https://razorpay.com/jobs/","tag":["15","ai"]},
+{"g":"Consumer internet & fintech","n":"CRED","d":"Data Science, Analytics","c":"Bengaluru","lo":16,"hi":28,"oc":"high","u":"https://careers.cred.club/","tag":["15","ai"]},
+{"g":"Consumer internet & fintech","n":"Groww","d":"Business Analyst, Data Science","c":"Bengaluru","lo":14,"hi":24,"oc":"high","u":"https://groww.in/careers","tag":["15"]},
+{"g":"Consumer internet & fintech","n":"Meesho","d":"Business Analyst, Data Science","c":"Bengaluru","lo":16,"hi":26,"oc":"high","u":"https://www.meesho.io/jobs","tag":["15","ai"]},
+{"g":"Consumer internet & fintech","n":"Swiggy","d":"Business Analyst, Data Science","c":"Bengaluru","lo":14,"hi":24,"oc":"high","u":"https://careers.swiggy.com/","tag":["15"]},
+{"g":"Consumer internet & fintech","n":"Dream11","d":"Data Science, Analytics","c":"Mumbai","lo":16,"hi":28,"oc":"high","u":"https://www.dream11.com/careers","tag":["15","ai"]},
+{"g":"Consumer internet & fintech","n":"Angel One","d":"Data Science, Product Analytics","c":"Mumbai · Bengaluru","lo":12,"hi":20,"oc":"high","u":"https://www.angelone.in/careers","tag":["15"]},
+{"g":"Consumer internet & fintech","n":"Zepto","d":"Business Analyst, Data Science","c":"Mumbai · Bengaluru","lo":14,"hi":26,"oc":"high","u":"https://www.zeptonow.com/careers","tag":["15"]},
+
+{"g":"Analytics pure-plays","n":"Fractal Analytics","d":"GenAI Data Scientist, Decision Sci","c":"Mumbai · Bengaluru","lo":8,"hi":16,"oc":"med","u":"https://fractal.wd1.myworkdayjobs.com/Careers","tag":["15","ai"]},
+{"g":"Analytics pure-plays","n":"Quantiphi","d":"ML Engineer, Applied AI","c":"Mumbai · Bengaluru","lo":9,"hi":16,"oc":"high","u":"https://quantiphi.com/careers/","tag":["15","ai"]},
+{"g":"Analytics pure-plays","n":"Tiger Analytics","d":"Analyst, Associate Data Scientist","c":"Chennai · Bengaluru · Hyderabad","lo":8,"hi":15,"oc":"high","u":"https://www.tigeranalytics.com/careers/","tag":["15"]},
+{"g":"Analytics pure-plays","n":"Tredence","d":"Data Analyst, Data Scientist","c":"Bengaluru · Chennai","lo":8,"hi":14,"oc":"high","u":"https://www.tredence.com/careers","tag":[]},
+{"g":"Analytics pure-plays","n":"Mu Sigma","d":"Decision Scientist (fresher cohorts)","c":"Bengaluru","lo":6,"hi":11,"oc":"high","u":"https://www.mu-sigma.com/careers","tag":[]},
+{"g":"Analytics pure-plays","n":"LatentView Analytics","d":"Analyst, Data Science","c":"Chennai · Bengaluru","lo":7,"hi":13,"oc":"high","u":"https://www.latentview.com/career/","tag":[]}
+]
+</script>
+
+<script>
+(function(){
+  "use strict";
+  var BANDS=JSON.parse(document.getElementById("bands").textContent);
+  var LEADS=JSON.parse(document.getElementById("leaddata").textContent);
+  var CO=JSON.parse(document.getElementById("codata").textContent);
+  var MAX=36, THR=15, filter="all";
+  function esc(s){var d=document.createElement("div"); d.textContent=s==null?"":String(s); return d.innerHTML;}
+  function pc(v){return (v/MAX)*100;}
+
+  // ---- chart ----
+  document.getElementById("chart").innerHTML=BANDS.map(function(b,i){
+    var cls=b.hi>=THR?"yes":"no";
+    var thr=i===0?'<span class="thrlab mono" style="left:'+pc(THR).toFixed(2)+'%">15 LPA</span>':'';
+    return '<div class="crow"><span class="nm">'+esc(b.k)+'</span>'+
+      '<span class="plot">'+thr+
+        '<span class="band '+cls+'" style="left:'+pc(b.lo).toFixed(2)+'%;width:'+(pc(b.hi)-pc(b.lo)).toFixed(2)+'%" '+
+        'title="'+esc(b.k)+': Rs '+b.lo+'–'+b.hi+' LPA. e.g. '+esc(b.eg)+'"></span>'+
+        '<span class="thr" style="left:'+pc(THR).toFixed(2)+'%"></span>'+
+      '</span>'+
+      '<span class="vv mono">'+b.lo+'–'+b.hi+' LPA</span></div>';
+  }).join("");
+  document.getElementById("ticks").innerHTML=[0,6,12,18,24,30,36]
+    .map(function(t){return '<span>'+t+'</span>';}).join("");
+
+  // ---- live leads ----
+  document.getElementById("leads").innerHTML=LEADS.map(function(l){
+    return '<article class="lead"><div><h3><a href="'+esc(l.url)+'" target="_blank" rel="noopener">'+
+      esc(l.title)+'</a></h3>'+
+      '<div class="lmeta"><span>'+esc(l.co)+'</span><span>'+esc(l.loc)+'</span></div>'+
+      '<p>'+esc(l.note)+'</p></div>'+
+      '<div class="ctcbox"><span class="big mono">'+esc(l.ctc)+'</span><span class="lbl">LPA band</span>'+
+      '<div style="margin-top:9px"><span class="nobar">'+esc(l.bar)+'</span></div></div></article>';
+  }).join("");
+
+  // ---- company list ----
+  function match(c){
+    if(filter==="all") return true;
+    if(filter==="15") return c.hi>=15;
+    if(filter==="oc") return c.oc==="high";
+    if(filter==="ai") return c.tag.indexOf("ai")>-1;
+    if(filter==="consult") return c.tag.indexOf("consult")>-1;
+    return true;
+  }
+  var OCL={high:"Direct",med:"Harder",low:"Campus"};
+  function render(){
+    var seen=[],html="",shown=0;
+    CO.forEach(function(c){ if(seen.indexOf(c.g)<0) seen.push(c.g); });
+    seen.forEach(function(g){
+      var list=CO.filter(function(c){return c.g===g && match(c);});
+      if(!list.length) return;
+      shown+=list.length;
+      html+='<section class="grp"><div class="sechead"><h2>'+esc(g)+'</h2><span class="rule"></span>'+
+        '<span class="num mono">'+list.length+'</span></div>'+
+        list.map(function(c){
+          return '<div class="co"><div><div class="nm"><a href="'+esc(c.u)+'" target="_blank" rel="noopener">'+
+            esc(c.n)+'</a></div><div class="sub">'+esc(c.d)+'</div></div>'+
+            '<div class="cities c-cities">'+esc(c.c)+'</div>'+
+            '<div class="c-ctc"><span class="ctc '+(c.hi>=15?"hi":"lo")+'">'+c.lo+'–'+c.hi+'</span>'+
+            '<span class="mono" style="font-size:9.5px;color:var(--muted);display:block">LPA</span></div>'+
+            '<div><span class="oc '+c.oc+'">'+OCL[c.oc]+'</span></div></div>';
+        }).join("")+'</section>';
+    });
+    document.getElementById("groups").innerHTML=html||'<p class="secsub" style="margin-top:26px">Nothing matches that filter.</p>';
+    document.getElementById("count").textContent=shown+" of "+CO.length+" companies";
+  }
+  document.addEventListener("click",function(e){
+    var c=e.target.closest(".chip[data-f]");
+    if(!c) return;
+    filter=c.getAttribute("data-f");
+    var chips=document.querySelectorAll(".chip[data-f]");
+    for(var i=0;i<chips.length;i++) chips[i].setAttribute("aria-pressed",String(chips[i]===c));
+    render();
+  });
+  render();
+})();
+</script>

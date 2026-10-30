@@ -1,0 +1,10 @@
+{
+ "company": "Scale AI",
+ "ats": "greenhouse",
+ "slug": "scaleai",
+ "total": 209,
+ "india_total": 2,
+ "relevant": 0,
+ "roles": [],
+ "feed": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs?content=true"
+}

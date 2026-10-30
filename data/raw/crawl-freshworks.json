@@ -1,0 +1,10 @@
+{
+ "company": "Freshworks",
+ "ats": "smartrecruiters",
+ "slug": "freshworks",
+ "total": 29,
+ "india_total": 29,
+ "relevant": 0,
+ "roles": [],
+ "feed": "https://api.smartrecruiters.com/v1/companies/freshworks/postings"
+}

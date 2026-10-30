@@ -1,0 +1,364 @@
+<title>Amazon India Shortlist</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<style>
+:root{
+  --ground:#F1F3F1; --surface:#FBFCFB; --surface-2:#E9EDEB;
+  --ink:#131C1A; --ink-2:#3D4B47; --muted:#5F6F6A; --line:#D2DAD6; --line-2:#C0CBC6;
+  --teal:#0F6E63; --teal-soft:#DCEBE7; --amber:#9C6612; --amber-soft:#F3E8D4;
+  --clay:#9E3626; --clay-soft:#F4DFDA;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --ground:#0E1412; --surface:#161E1C; --surface-2:#1E2825;
+    --ink:#E3EAE7; --ink-2:#BCC9C4; --muted:#8FA09B; --line:#28342F; --line-2:#36453F;
+    --teal:#56C4B2; --teal-soft:#153029; --amber:#D7A257; --amber-soft:#2E2617;
+    --clay:#DC8270; --clay-soft:#33201C;
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#0E1412; --surface:#161E1C; --surface-2:#1E2825;
+  --ink:#E3EAE7; --ink-2:#BCC9C4; --muted:#8FA09B; --line:#28342F; --line-2:#36453F;
+  --teal:#56C4B2; --teal-soft:#153029; --amber:#D7A257; --amber-soft:#2E2617;
+  --clay:#DC8270; --clay-soft:#33201C;
+}
+*{box-sizing:border-box}
+body{
+  background:var(--ground); color:var(--ink);
+  font-family:"IBM Plex Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  font-size:15px; line-height:1.55; -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1060px; margin:0 auto; padding-inline:20px; padding-block:34px 72px}
+h1,h2,h3{font-family:Archivo,"IBM Plex Sans",sans-serif; text-wrap:balance; margin:0}
+.mono{font-family:"IBM Plex Mono",ui-monospace,monospace; font-variant-numeric:tabular-nums}
+
+.eyebrow{font-family:"IBM Plex Mono",monospace; font-size:11px; letter-spacing:.14em;
+  text-transform:uppercase; color:var(--muted)}
+h1{font-size:clamp(30px,5.4vw,46px); font-weight:700; letter-spacing:-.022em; line-height:1.05; margin-top:10px}
+.dek{font-size:17px; color:var(--ink-2); max-width:62ch; margin-top:14px}
+.dek b{color:var(--ink); font-weight:600}
+
+.funnel{display:flex; flex-wrap:wrap; gap:0; margin-top:26px;
+  border:1px solid var(--line); border-radius:3px; overflow:hidden; background:var(--surface)}
+.fstep{flex:1 1 130px; padding:13px 16px; border-right:1px solid var(--line); min-width:0}
+.fstep:last-child{border-right:0}
+.fstep .n{font-family:Archivo,sans-serif; font-size:25px; font-weight:700; letter-spacing:-.02em; display:block; line-height:1.15}
+.fstep .l{font-size:11.5px; color:var(--muted); letter-spacing:.03em; display:block; margin-top:1px}
+.fstep.hi{background:var(--teal-soft)} .fstep.hi .n{color:var(--teal)}
+.fstep.no .n{color:var(--clay)}
+
+.flag{margin-top:26px; background:transparent; border-block:1px solid var(--line);
+  padding-block:17px}
+.flag h3{font-size:14.5px; font-weight:600; display:flex; gap:9px; align-items:center; flex-wrap:wrap}
+.flag h3 .tag{font-family:"IBM Plex Mono",monospace; font-size:10px; letter-spacing:.1em;
+  text-transform:uppercase; color:var(--amber); background:var(--amber-soft);
+  padding:2.5px 7px; border-radius:2px; font-weight:600}
+.flag p{margin:9px 0 0; font-size:14px; color:var(--ink-2); max-width:76ch}
+.flag p+p{margin-top:7px}
+.flag b{color:var(--ink); font-weight:600}
+
+.controls{display:flex; flex-wrap:wrap; gap:8px; align-items:center;
+  margin-top:34px; padding-bottom:14px; border-bottom:1px solid var(--line)}
+.chip{font-family:"IBM Plex Mono",monospace; font-size:11.5px; letter-spacing:.04em;
+  padding:5px 11px; border:1px solid var(--line-2); background:transparent; color:var(--ink-2);
+  border-radius:2px; cursor:pointer; text-transform:uppercase}
+.chip:hover{border-color:var(--teal); color:var(--teal)}
+.chip[aria-pressed="true"]{background:var(--ink); color:var(--ground); border-color:var(--ink)}
+.chip:focus-visible,.apply:focus-visible,.tick:focus-visible{outline:2px solid var(--teal); outline-offset:2px}
+.spacer{flex:1 1 auto; min-width:10px}
+.count{font-family:"IBM Plex Mono",monospace; font-size:11.5px; color:var(--muted)}
+
+.tier{margin-top:40px}
+.tier-head{display:flex; gap:12px; align-items:baseline; flex-wrap:wrap; margin-bottom:4px}
+.tier-head h2{font-size:19px; font-weight:600; letter-spacing:-.012em}
+.tier-head .rule{flex:1 1 40px; height:1px; background:var(--line); min-width:20px}
+.tier-head .num{font-family:"IBM Plex Mono",monospace; font-size:11px; color:var(--muted)}
+.tier-sub{font-size:13.5px; color:var(--muted); margin:0 0 16px; max-width:70ch}
+
+.row{display:grid; grid-template-columns:44px 1fr 210px; gap:18px;
+  background:var(--surface); border:1px solid var(--line); border-radius:3px;
+  padding:16px 18px; margin-bottom:9px; align-items:start}
+.row:hover{border-color:var(--line-2)}
+.row.done{opacity:.52}
+.rank{font-family:"IBM Plex Mono",monospace; font-size:12px; color:var(--muted); padding-top:3px}
+.rank .score{display:block; font-size:15px; color:var(--teal); font-weight:600; letter-spacing:-.01em}
+.rank .slash{display:block; font-size:9.5px; color:var(--muted); letter-spacing:.06em}
+
+.jt{font-family:Archivo,sans-serif; font-size:16.5px; font-weight:600; letter-spacing:-.011em; line-height:1.28}
+.jt a{color:var(--ink); text-decoration:none; border-bottom:1.5px solid transparent}
+.jt a:hover{border-bottom-color:var(--teal); color:var(--teal)}
+.meta{font-family:"IBM Plex Mono",monospace; font-size:11px; color:var(--muted);
+  margin-top:5px; display:flex; flex-wrap:wrap; gap:4px 12px}
+.badges{display:flex; flex-wrap:wrap; gap:6px; margin-top:9px}
+.bdg{font-family:"IBM Plex Mono",monospace; font-size:10px; letter-spacing:.07em;
+  text-transform:uppercase; padding:2.5px 7px; border-radius:2px; font-weight:500;
+  border:1px solid var(--line-2); color:var(--muted)}
+.bdg.yours{background:var(--teal-soft); color:var(--teal); border-color:transparent; font-weight:600}
+.bdg.open{background:var(--surface-2); color:var(--ink-2); border-color:transparent}
+.note{font-size:13.6px; color:var(--ink-2); margin-top:10px; max-width:64ch}
+.note .k{font-family:"IBM Plex Mono",monospace; font-size:9.5px; letter-spacing:.1em;
+  text-transform:uppercase; color:var(--teal); display:block; margin-bottom:1px}
+.note.gap{margin-top:8px; color:var(--muted)}
+.note.gap .k{color:var(--amber)}
+
+.right{display:flex; flex-direction:column; gap:10px}
+.gauge{border:1px solid var(--line); border-radius:2px; padding:9px 10px 7px; background:var(--ground)}
+.gauge .cap{font-family:"IBM Plex Mono",monospace; font-size:9.5px; letter-spacing:.08em;
+  text-transform:uppercase; color:var(--muted); display:flex; justify-content:space-between; gap:6px}
+.gauge .cap b{color:var(--ink); font-weight:600}
+.track{position:relative; height:9px; margin-top:7px; background:var(--surface-2);
+  border-radius:1px; overflow:hidden}
+.have{position:absolute; top:0; bottom:0; left:0; background:var(--teal); opacity:.24}
+.need{position:absolute; top:0; bottom:0; left:0; background:var(--teal); opacity:.9}
+.need.amb{background:var(--amber)} .need.cly{background:var(--clay)}
+.you{position:absolute; top:-3px; bottom:-3px; width:2px; background:var(--ink)}
+.ticks{display:flex; justify-content:space-between; font-family:"IBM Plex Mono",monospace;
+  font-size:9px; color:var(--muted); margin-top:3px}
+.nobar{display:inline-block; font-family:"IBM Plex Mono",monospace; font-size:10px;
+  letter-spacing:.07em; text-transform:uppercase; color:var(--teal); background:var(--teal-soft);
+  padding:3px 8px; border-radius:2px; font-weight:600}
+
+.acts{display:flex; gap:7px; align-items:center}
+.apply{flex:1 1 auto; text-align:center; text-decoration:none; font-size:13px; font-weight:600;
+  padding:7px 10px; border-radius:2px; background:var(--ink); color:var(--ground);
+  border:1px solid var(--ink); font-family:"IBM Plex Sans",sans-serif}
+.apply:hover{background:var(--teal); border-color:var(--teal); color:#fff}
+.tick{flex:0 0 auto; display:flex; align-items:center; gap:6px; cursor:pointer;
+  font-family:"IBM Plex Mono",monospace; font-size:10px; letter-spacing:.05em; text-transform:uppercase;
+  color:var(--muted); background:transparent; border:1px solid var(--line-2);
+  border-radius:2px; padding:7px 9px}
+.tick:hover{border-color:var(--teal); color:var(--teal)}
+.tick[aria-pressed="true"]{background:var(--teal-soft); color:var(--teal); border-color:transparent; font-weight:600}
+.tick .box{width:9px; height:9px; border:1.5px solid currentColor; border-radius:1px; display:inline-block}
+.tick[aria-pressed="true"] .box{background:currentColor}
+
+.verdict{margin-top:46px}
+.vcard{background:var(--surface); border:1px solid var(--line); border-radius:3px;
+  padding:15px 17px; margin-bottom:9px; display:grid; grid-template-columns:1fr 178px; gap:16px; align-items:start}
+.vcard.skip{background:transparent}
+.vcard h3{font-family:Archivo,sans-serif; font-size:15.5px; font-weight:600; letter-spacing:-.008em}
+.vcard h3 a{color:var(--ink-2); text-decoration:none}
+.vcard h3 a:hover{color:var(--clay)}
+.vcard p{margin:8px 0 0; font-size:13.6px; color:var(--ink-2); max-width:66ch}
+.vlabel{font-family:"IBM Plex Mono",monospace; font-size:10px; letter-spacing:.09em;
+  text-transform:uppercase; font-weight:600; color:var(--clay); background:var(--clay-soft);
+  padding:2.5px 7px; border-radius:2px; display:inline-block; margin-bottom:7px}
+
+.method{margin-top:48px; border-top:1px solid var(--line); padding-top:22px}
+.method h2{font-size:15px; font-weight:600; margin-bottom:10px}
+.method p,.method li{font-size:13.4px; color:var(--muted); max-width:78ch}
+.method ol{margin:0; padding-left:19px} .method li{margin-bottom:5px}
+.method b{color:var(--ink-2); font-weight:600}
+.sync{font-family:"IBM Plex Mono",monospace; font-size:10.5px; color:var(--muted); margin-top:16px}
+
+@media (max-width:840px){
+  .row{grid-template-columns:38px 1fr; gap:14px}
+  .right{grid-column:1 / -1; flex-direction:row; align-items:flex-end; gap:12px; flex-wrap:wrap}
+  .gauge{flex:1 1 200px; min-width:180px} .acts{flex:1 1 200px}
+  .vcard{grid-template-columns:1fr}
+}
+@media (max-width:460px){
+  .wrap{padding-inline:16px}
+  .row{grid-template-columns:1fr; gap:10px}
+  .rank{display:flex; gap:7px; align-items:baseline; padding-top:0}
+  .rank .slash{display:none}
+  .right{flex-direction:column; align-items:stretch}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important; transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">amazon.jobs &middot; india &middot; screened 24 sep 2026</div>
+    <h1>What you can actually apply to</h1>
+    <p class="dek">Every India opening on amazon.jobs, read for its real experience bar rather than its title.
+      <b>25 roles</b> sit at or under one year and match your profile. Ranked by how well the posted qualifications
+      line up with ~13 months of internships, two years of freelance delivery, and a Python/SQL/PowerBI stack.</p>
+
+    <div class="funnel">
+      <div class="fstep"><span class="n mono">2,339</span><span class="l">India openings live</span></div>
+      <div class="fstep"><span class="n mono">739</span><span class="l">bar &le; 1 year</span></div>
+      <div class="fstep"><span class="n mono">213</span><span class="l">match your skills</span></div>
+      <div class="fstep hi"><span class="n mono">25</span><span class="l">worth your time</span></div>
+      <div class="fstep no"><span class="n mono">3</span><span class="l">of your 8 to drop</span></div>
+    </div>
+
+    <div class="flag">
+      <h3><span class="tag">Read this first</span> There is no fresher channel open right now</h3>
+      <p>Your keyword search failed because it was telling the truth: amazon.jobs India currently lists
+        <b>zero</b> graduate, campus or University Talent postings. The only seven internships live are Financial
+        Analyst roles that require you to be pursuing CA. The 2027-batch SDE Intern req that ran earlier this
+        year is already a dead link.</p>
+      <p>So every role below is an experienced-hire req, and you graduate <b>June 2027</b>. Two consequences.
+        First, state your availability up front &mdash; a recruiter who assumes you can start Monday will drop you
+        at screening, and one who knows you are a final-year with four internships often will not. Second, the
+        Jan&ndash;Jun 2027 intake is your real shot: <b>set an amazon.jobs alert for India internships now</b>,
+        because that cycle reopens and closes fast.</p>
+    </div>
+  </header>
+
+  <div class="controls">
+    <button class="chip" data-f="all" aria-pressed="true">All</button>
+    <button class="chip" data-f="Bengaluru" aria-pressed="false">Bengaluru</button>
+    <button class="chip" data-f="Hyderabad" aria-pressed="false">Hyderabad</button>
+    <button class="chip" data-f="Chennai" aria-pressed="false">Chennai</button>
+    <span class="spacer"></span>
+    <button class="chip" id="hide" aria-pressed="false">Hide applied</button>
+    <span class="count" id="count"></span>
+  </div>
+
+  <main id="tiers"></main>
+
+  <section class="verdict">
+    <div class="tier-head">
+      <h2>The eight you sent me</h2><span class="rule"></span>
+      <span class="num mono">5 keep &middot; 3 drop</span>
+    </div>
+    <p class="tier-sub">Five are already ranked above with your pick marked. These three are not, and here is
+      why &mdash; they are the pattern to learn, not just three rejections.</p>
+    <div id="deny"></div>
+  </section>
+
+  <section class="method">
+    <h2>How this list was built</h2>
+    <ol>
+      <li>Pulled all <b>2,339</b> live India postings from the amazon.jobs search API, each with its full
+        basic and preferred qualifications text.</li>
+      <li>Parsed every qualification bullet for a stated experience threshold, in years or months. Bullets are
+        ANDed, so a posting's real bar is its <b>highest</b> requirement &mdash; that is what the gauge shows.</li>
+      <li>Kept roles at <b>&le; 1 year</b>, dropped manager and senior-titled reqs, then required the
+        qualifications to name a skill you hold (SQL, Python, Excel, PowerBI, analytics, ML/GenAI).</li>
+      <li>Ranked what survived by how directly the posted wording maps to what is on your resume.</li>
+    </ol>
+    <p class="sync" id="sync">Tracking in this browser.</p>
+  </section>
+</div>
+
+<script id="roles-data" type="application/json">[{"id": "10500642", "title": "Business Research Analyst - I, RBS Tech", "cat": "Business Intelligence", "loc": "IN, KA, Bengaluru", "city": "Bengaluru", "posted": "August 13, 2026", "bar": 0.0, "tier": 1, "score": 96, "verdict": "Apply first", "why": "BQ is literally your resume: Bachelor's STEM + GenAI/LLM prompt engineering + Python + SQL. No years of experience required at all.", "gap": "None material. Lead with LawzyAI (RAG), KOP AI (multi-agent LLM), CypherSOL ML.", "url": "https://www.amazon.jobs/en/jobs/10500642/business-research-analyst-i-rbs-tech", "openings": 3}, {"id": "10498991", "title": "Business Intelligence Engineer, EU Prime and Marketing Analytics & Science (PRIMAS)", "cat": "Business Intelligence", "loc": "IN, TS, Hyderabad", "city": "Hyderabad", "posted": "August 11, 2026", "bar": 0.0, "tier": 1, "score": 90, "verdict": "Apply", "why": "A real BIE title with NO years bar. Only asks: SQL + Python scripting + 'experience in the data/BI space'.", "gap": "Preferred asks Redshift/S3 — preferred, not required. Don't self-reject.", "url": "https://www.amazon.jobs/en/jobs/10498991/business-intelligence-engineer-eu-prime-and-marketing-analytics-science-primas", "openings": 1}, {"id": "10462523", "title": "Business Analyst, WHS Data", "cat": "Data Science", "loc": "IN, KA, Bengaluru", "city": "Bengaluru", "posted": "June 30, 2026", "bar": 1.0, "tier": 1, "score": 88, "verdict": "Apply (your pick #6)", "why": "Your best own pick. SQL-or-ETL + 1yr Excel/Tableau + 1yr data analysis + Bachelor's. Your internships + freelance clear this.", "gap": "'Tableau' — map PowerBI to it, the bullet reads 'Excel OR Tableau' and your Excel is strong.", "url": "https://www.amazon.jobs/en/jobs/10462523/business-analyst-whs-data", "openings": 1}, {"id": "10525257", "title": "Cap Planning & WFM Analyst, Account Integrity", "cat": "Business Intelligence", "loc": "IN, KA, Bengaluru", "city": "Bengaluru", "posted": "September  2, 2026", "bar": 1.0, "tier": 1, "score": 86, "verdict": "Apply (your pick #3)", "why": "Lowest bar of everything you shortlisted: Bachelor's + 1yr Excel/Tableau + complex SQL joins/ETL-DW concepts. Three bullets total.", "gap": "Capacity planning is learnable; nothing here is gated on it.", "url": "https://www.amazon.jobs/en/jobs/10525257/cap-planning-wfm-analyst-account-integrity", "openings": 1}, {"id": "10410821", "title": "Risk Analyst, Buyer Risk Prevention, Payment Risk Mining", "cat": "Business Intelligence", "loc": "IN, TS, Hyderabad", "city": "Hyderabad", "posted": "May  5, 2026", "bar": 1.0, "tier": 1, "score": 85, "verdict": "Apply", "why": "1yr business/financial analysis + SQL-or-ETL. Preferred quals ask for a quantitative degree + Python — both yours. CypherSOL fintech work maps directly to payment risk.", "gap": "Posted May 2026 — older req, may be stale. Apply anyway, costs nothing.", "url": "https://www.amazon.jobs/en/jobs/10410821/risk-analyst-buyer-risk-prevention-payment-risk-mining", "openings": 1}, {"id": "10486944", "title": "Business Analyst Support, IN Payments", "cat": "Business Intelligence", "loc": "IN, KA, Bengaluru", "city": "Bengaluru", "posted": "July 29, 2026", "bar": 1.0, "tier": 1, "score": 82, "verdict": "Apply", "why": "1yr data analytics/automation + SQL + Excel. 'Automation experience' is exactly your CypherSOL bank-statement pipelines.", "gap": "Second bullet wants capacity/ops planning — the weakest link, but one of six.", "url": "https://www.amazon.jobs/en/jobs/10486944/business-analyst-support-in-payments", "openings": 1}, {"id": "10485771", "title": "Business Analyst - AMZL S&OP, S&OP", "cat": "Administrative Support", "loc": "IN, KA, Bengaluru", "city": "Bengaluru", "posted": "July 28, 2026", "bar": 1.0, "tier": 1, "score": 80, "verdict": "Apply", "why": "Same BQ template as IN Payments, different org (AMZL S&OP). Separate req = separate shot.", "gap": "Same as above.", "url": "https://www.amazon.jobs/en/jobs/10485771/business-analyst-amzl-s-op-s-op", "openings": 1}, {"id": "10414592", "title": "Business Analyst Support, IN Supply Chain - Speed ", "cat": "Fulfillment & Operations Management", "loc": "IN, KA, Bengaluru", "city": "Bengaluru", "posted": "May  8, 2026", "bar": 1.0, "tier": 1, "score": 80, "verdict": "Apply", "why": "Softest of the whole 'Business Analyst Support' family — only ONE 1-year bullet (data analytics/automation) instead of two.", "gap": "Almost nothing. Highest-probability BA req on the board.", "url": "https://www.amazon.jobs/en/jobs/10414592/business-analyst-support-in-supply-chain-speed", "openings": 1}, {"id": "10410969", "title": "Business Analyst Support, CO (ROW APEX)", "cat": "Fulfillment & Operations Management", "loc": "IN, TS, Hyderabad", "city": "Hyderabad", "posted": "May  5, 2026", "bar": 1.0, "tier": 1, "score": 78, "verdict": "Apply", "why": "Same template, Hyderabad. Preferred quals name Python scripting and table joins — both yours.", "gap": "Older req (May 2026).", "url": "https://www.amazon.jobs/en/jobs/10410969/business-analyst-support-co-row-apex", "openings": 1}, {"id": "10554403", "title": "Business Analyst, Global Solutions & Risk Compliance (GSRC)", "cat": "Fulfillment & Operations Management", "loc": "IN, KA, Bengaluru", "city": "Bengaluru", "posted": "September 21, 2026", "bar": 1.0, "tier": 1, "score": 77, "verdict": "Apply", "why": "1yr BI/technical support + Bachelor's in Eng/BI/Analytics. Preferred quals explicitly name PowerBI — you have it certified in your stack.", "gap": "'BI/DE ticketing systems' — you have none; frame freelance client support instead.", "url": "https://www.amazon.jobs/en/jobs/10554403/business-analyst-global-solutions-risk-compliance-gsrc", "openings": 8}, {"id": "10532829", "title": "Production Planning Analyst, Supply Chain", "cat": "Corporate Operations", "loc": "IN, KA, Bengaluru", "city": "Bengaluru", "posted": "September  8, 2026", "bar": 0.0, "tier": 2, "score": 74, "verdict": "Apply", "why": "No years stated. Bachelor's in Eng/Business/Econ/analytics/math + advanced Excel + analytical ability. Preferred: SQL.", "gap": "VBA/macros named in BQ — your weakest Excel area. Brush up pivot/index-match/VBA basics.", "url": "https://www.amazon.jobs/en/jobs/10532829/production-planning-analyst-supply-chain", "openings": 2}, {"id": "10478320", "title": "Process Improvement Specialist, Seller Insights, EU FBA Support Operations", "cat": "Project/Program/Product Management--Non-Tech", "loc": "IN, TS, Hyderabad", "city": "Hyderabad", "posted": "July 20, 2026", "bar": 0.0, "tier": 2, "score": 72, "verdict": "Apply", "why": "No years stated. Bachelor's in Math/Eng/Sci/Business + 'using data and metrics to determine improvements'. Preferred: Excel, Python, SQL, Tableau.", "gap": "Vague req — high applicant noise. Worth a low-effort shot.", "url": "https://www.amazon.jobs/en/jobs/10478320/process-improvement-specialist-seller-insights-eu-fba-support-operations", "openings": 1}, {"id": "10502746", "title": "Science Annotation Ops Analyst", "cat": "Corporate Operations", "loc": "IN, TS, Hyderabad", "city": "Hyderabad", "posted": "August 14, 2026", "bar": 1.0, "tier": 2, "score": 71, "verdict": "Apply — explicit fresh-grad clause", "why": "Rare: BQ says 'Bachelor's degree WITHIN LAST 12 MONTHS in CS/ML/engineering'. That clause is written for people exactly like you.", "gap": "Needs AWS EC2/Lambda/S3/DynamoDB/SQS + web dashboards. This is your real gap — your AWS is the Academy cert only.", "url": "https://www.amazon.jobs/en/jobs/10502746/science-annotation-ops-analyst", "openings": 1}, {"id": "10513229", "title": "Catalog Specialist II, Global Catalog Operations", "cat": "Project/Program/Product Management--Non-Tech", "loc": "IN, KA, Bengaluru", "city": "Bengaluru", "posted": "August 25, 2026", "bar": 1.0, "tier": 2, "score": 68, "verdict": "Apply", "why": "1yr program/project management + 'using data to influence business decisions'. Your Bigul PM internship + Infiheal founder's office cover the PM bullet.", "gap": "Catalog ops is unglamorous; treat as a foot-in-door.", "url": "https://www.amazon.jobs/en/jobs/10513229/catalog-specialist-ii-global-catalog-operations", "openings": 2}, {"id": "10530755", "title": "Data Engineer I, SPS", "cat": "Data Science", "loc": "IN, KA, Bengaluru", "city": "Bengaluru", "posted": "September  6, 2026", "bar": 1.0, "tier": 2, "score": 66, "verdict": "Apply (your pick #8)", "why": "1yr data engineering + Bachelor's in CS — you have the degree bullet exactly. SPIA/Paragon is a genuinely good team.", "gap": "You have no true ETL/warehouse/Spark experience. CypherSOL pipelines are the closest honest claim.", "url": "https://www.amazon.jobs/en/jobs/10530755/data-engineer-i-sps", "openings": 1}, {"id": "10530756", "title": "Data Engineer, Selling Partner Insights and Analytics, SPS", "cat": "Data Science", "loc": "IN, KA, Bengaluru", "city": "Bengaluru", "posted": "September  6, 2026", "bar": 1.0, "tier": 2, "score": 66, "verdict": "Apply (your pick #7)", "why": "Identical BQ to 10530755, same org, separate req. Apply to both.", "gap": "Same DE gap.", "url": "https://www.amazon.jobs/en/jobs/10530756/data-engineer-selling-partner-insights-and-analytics-sps", "openings": 1}, {"id": "10551531", "title": "Data Engineer I, DSP Analytics", "cat": "Business Intelligence", "loc": "IN, TS, Hyderabad", "city": "Hyderabad", "posted": "September 17, 2026", "bar": 1.0, "tier": 2, "score": 64, "verdict": "Apply (your pick #4)", "why": "1yr DE + SQL + ETL. DSP Analytics explicitly wants GenAI/agent work in preferred quals — that is your differentiator.", "gap": "Same DE gap; Hyderabad.", "url": "https://www.amazon.jobs/en/jobs/10551531/data-engineer-i-dsp-analytics", "openings": 1}, {"id": "10499657", "title": "Data Engineer I, CMT", "cat": "Business Intelligence", "loc": "IN, KA, Bengaluru", "city": "Bengaluru", "posted": "August 12, 2026", "bar": 1.0, "tier": 2, "score": 62, "verdict": "Apply", "why": "Data Engineer I, CMT — same 1yr DE template, Bengaluru. More shots at the same bar.", "gap": "Same DE gap.", "url": "https://www.amazon.jobs/en/jobs/10499657/data-engineer-i-cmt", "openings": 1}, {"id": "10506604", "title": "Data Engineer-I, SmartCommerce", "cat": "Business Intelligence", "loc": "IN, KA, Bengaluru", "city": "Bengaluru", "posted": "August 19, 2026", "bar": 1.0, "tier": 2, "score": 62, "verdict": "Apply", "why": "Data Engineer-I, SmartCommerce — same template, Bengaluru.", "gap": "Same DE gap.", "url": "https://www.amazon.jobs/en/jobs/10506604/data-engineer-i-smartcommerce", "openings": 1}, {"id": "10513272", "title": "Data Engineer  I - FTC, Payfort", "cat": "Data Science", "loc": "IN, TN, Chennai", "city": "Chennai", "posted": "August 25, 2026", "bar": 1.0, "tier": 2, "score": 60, "verdict": "Apply", "why": "Data Engineer I - FTC, Payfort (Chennai). Fixed-term contract — lower bar in practice, and Payfort is fintech.", "gap": "FTC = contract, not permanent. Fine as a first role.", "url": "https://www.amazon.jobs/en/jobs/10513272/data-engineer-i-ftc-payfort", "openings": 1}, {"id": "10472184", "title": "Business Development Associate , Private Brands", "cat": "Business & Merchant Development", "loc": "IN, KA, Bengaluru", "city": "Bengaluru", "posted": "July 13, 2026", "bar": 0.0, "tier": 3, "score": 55, "verdict": "Backdoor", "why": "Bachelor's degree. That is the entire basic qualification.", "gap": "Sales-flavoured; preferred quals want 2yrs sales. Low fit, trivial eligibility.", "url": "https://www.amazon.jobs/en/jobs/10472184/business-development-associate-private-brands", "openings": 1}, {"id": "10502009", "title": "Senior associate - Catalog, IN Core Consumables", "cat": "Business & Merchant Development", "loc": "IN, KA, Bengaluru", "city": "Bengaluru", "posted": "August 14, 2026", "bar": 0.0, "tier": 3, "score": 52, "verdict": "Backdoor", "why": "Bachelor's + MS Office. Despite 'Senior associate' in the title the bar is a degree.", "gap": "Catalog ops work, little analytics.", "url": "https://www.amazon.jobs/en/jobs/10502009/senior-associate-catalog-in-core-consumables", "openings": 1}, {"id": "10506364", "title": "Financial Analyst I, FOAA", "cat": "Finance & Accounting", "loc": "IN, KA, Bengaluru", "city": "Bengaluru", "posted": "August 19, 2026", "bar": 0.0, "tier": 3, "score": 52, "verdict": "Backdoor", "why": "Financial Analyst I — sole BQ is 'Experience using data to influence business decisions'.", "gap": "Finance-track; your case comps are the story to tell.", "url": "https://www.amazon.jobs/en/jobs/10506364/financial-analyst-i-foaa", "openings": 2}, {"id": "10487477", "title": "Digital Marketing Associate, Amazon", "cat": "Editorial, Writing, & Content Management", "loc": "IN, TN, Chennai", "city": "Chennai", "posted": "July 29, 2026", "bar": 0.0, "tier": 3, "score": 50, "verdict": "Backdoor", "why": "Undergrad + intermediate Excel + analytic tools + 'Familiarity with AI'. Chennai.", "gap": "Marketing ops, not analytics.", "url": "https://www.amazon.jobs/en/jobs/10487477/digital-marketing-associate-amazon", "openings": 1}, {"id": "10541485", "title": "Operations Executive, AMXL S&OP", "cat": "Project/Program/Product Management--Non-Tech", "loc": "IN, KA, Bengaluru", "city": "Bengaluru", "posted": "September 15, 2026", "bar": 0.0, "tier": 3, "score": 45, "verdict": "Backdoor", "why": "Bachelor's + English + MS Office. Pure eligibility play.", "gap": "No analytics content.", "url": "https://www.amazon.jobs/en/jobs/10541485/operations-executive-amxl-s-op", "openings": 1}]</script>
+<script id="deny-data" type="application/json">[{"id": "10516157", "title": "Business Intelligence Engineer, Extended Producer Responsibility", "bar": "3+ years with Redshift/Oracle/NoSQL", "why": "This is a BIE II req. The 3-year bar is a hard screen and you have ~13 months of internships. You will not clear the resume filter. Skip it.", "url": "https://www.amazon.jobs/en/jobs/10516157/business-intelligence-engineer-extended-producer-responsibility", "barnum": 3.0}, {"id": "10547091", "title": "Business Intelligence Engineer, LMAQ", "bar": "2+ years with Redshift/Oracle/NoSQL", "why": "Also BIE II. Beyond the 2-year bar it wants Tableau/QuickSight and applied regression on business problems. Skip — but note LMAQ posts Quality Associate roles at a Bachelor's-only bar (ID 10403907) if you want into that org.", "url": "https://www.amazon.jobs/en/jobs/10547091/business-intelligence-engineer-lmaq", "barnum": 2.0}, {"id": "10551380", "title": "Product Operations Manager, Amazon Music", "bar": "2+ years program/project management + Lean & DMAIC + SDLC", "why": "Your Bigul PM stint was 2 months. The Lean/DMAIC bullet is a named-methodology screen you cannot honestly claim. Skip.", "url": "https://www.amazon.jobs/en/jobs/10551380/product-operations-manager-amazon-music", "barnum": 2.0}]</script>
+<script>
+(function(){
+  "use strict";
+  var ROLES = JSON.parse(document.getElementById("roles-data").textContent);
+  var DENY  = JSON.parse(document.getElementById("deny-data").textContent);
+  var YOURS = {"10525257":"your pick #3","10551531":"your pick #4","10462523":"your pick #6",
+               "10530756":"your pick #7","10530755":"your pick #8"};
+  var HAVE = 1.08, SCALE = 3;
+  var TIERS = [
+    {n:1, h:"Clears the bar", s:"The posted qualifications either state no years at all, or state one year — which your internships plus freelance work cover honestly. Send these first, this week."},
+    {n:2, h:"Worth a stretch", s:"You meet most bullets but one is a real gap — usually production ETL, warehousing or AWS. Apply anyway; Amazon treats basic qualifications as a filter, not a contract. Do not invent the gap away."},
+    {n:3, h:"Foot in the door", s:"A bachelor's degree is close to the whole requirement. Weaker work, trivial eligibility. Worth it only if you want an Amazon badge and an internal transfer in twelve months."}
+  ];
+  var state = {applied:{}}, docRef=null, filter="all", hideDone=false;
+
+  function esc(s){var d=document.createElement("div"); d.textContent=s==null?"":String(s); return d.innerHTML;}
+
+  function gauge(bar){
+    if(!bar){
+      return '<div class="gauge"><div class="cap"><span>Experience bar</span></div>'+
+             '<div style="margin-top:6px"><span class="nobar">No years required</span></div></div>';
+    }
+    var pct=Math.min(bar/SCALE,1)*100, hv=Math.min(HAVE/SCALE,1)*100;
+    var cls = bar<=HAVE ? "" : (bar<=2 ? " amb" : " cly");
+    var lab = bar<1 ? Math.round(bar*12)+" mo" : bar+(bar===1?" yr":" yrs");
+    return '<div class="gauge"><div class="cap"><span>Needs <b>'+esc(lab)+'</b></span>'+
+      '<span>you ≈ 13 mo</span></div>'+
+      '<div class="track"><div class="have" style="width:'+hv.toFixed(1)+'%"></div>'+
+      '<div class="need'+cls+'" style="width:'+pct.toFixed(1)+'%"></div>'+
+      '<div class="you" style="left:'+hv.toFixed(1)+'%"></div></div>'+
+      '<div class="ticks"><span>0</span><span>1 yr</span><span>2</span><span>3</span></div></div>';
+  }
+
+  function row(r){
+    var done=!!state.applied[r.id], yours=YOURS[r.id];
+    var b='<span class="bdg">'+esc(r.cat)+'</span>';
+    if(r.openings>1) b+='<span class="bdg open">'+r.openings+' open reqs</span>';
+    if(yours) b='<span class="bdg yours">'+esc(yours)+'</span>'+b;
+    return '<article class="row'+(done?" done":"")+'">'+
+      '<div class="rank"><span class="score mono">'+r.score+'</span><span class="slash mono">FIT</span></div>'+
+      '<div><h3 class="jt"><a href="'+esc(r.url)+'" target="_blank" rel="noopener">'+esc(r.title)+'</a></h3>'+
+        '<div class="meta"><span>'+esc(r.loc)+'</span><span>ID '+esc(r.id)+'</span><span>posted '+esc(r.posted)+'</span></div>'+
+        '<div class="badges">'+b+'</div>'+
+        '<p class="note"><span class="k">Why you</span>'+esc(r.why)+'</p>'+
+        '<p class="note gap"><span class="k">The gap</span>'+esc(r.gap)+'</p></div>'+
+      '<div class="right">'+gauge(r.bar)+
+        '<div class="acts"><a class="apply" href="'+esc(r.url)+'" target="_blank" rel="noopener">Open posting</a>'+
+        '<button class="tick" data-tick="'+esc(r.id)+'" aria-pressed="'+done+'">'+
+        '<span class="box"></span>'+(done?"Applied":"Mark")+'</button></div>'+
+      '</div></article>';
+  }
+
+  function render(){
+    var host=document.getElementById("tiers"), html="", shown=0;
+    TIERS.forEach(function(t){
+      var list=ROLES.filter(function(r){
+        if(r.tier!==t.n) return false;
+        if(filter!=="all" && r.city!==filter) return false;
+        if(hideDone && state.applied[r.id]) return false;
+        return true;
+      });
+      if(!list.length) return;
+      shown+=list.length;
+      html+='<section class="tier"><div class="tier-head"><h2>'+esc(t.h)+'</h2><span class="rule"></span>'+
+        '<span class="num mono">'+list.length+' role'+(list.length===1?"":"s")+'</span></div>'+
+        '<p class="tier-sub">'+esc(t.s)+'</p>'+list.map(row).join("")+'</section>';
+    });
+    host.innerHTML = html || '<p class="tier-sub" style="margin-top:28px">Nothing matches that filter.</p>';
+    var applied=ROLES.filter(function(r){return state.applied[r.id];}).length;
+    document.getElementById("count").textContent = shown+" shown · "+applied+" applied";
+  }
+
+  function renderDeny(){
+    document.getElementById("deny").innerHTML = DENY.map(function(d){
+      return '<article class="vcard skip"><div><span class="vlabel">Do not apply</span>'+
+        '<h3><a href="'+esc(d.url)+'" target="_blank" rel="noopener">'+esc(d.title)+'</a></h3>'+
+        '<p>'+esc(d.why)+'</p></div><div>'+gauge(d.barnum)+'</div></article>';
+    }).join("");
+  }
+
+  function saveLocal(){ try{ localStorage.setItem("amzn-tracker", JSON.stringify(state)); }catch(e){} }
+  function loadLocal(){
+    try{ var s=localStorage.getItem("amzn-tracker"); if(s){ var p=JSON.parse(s); if(p&&p.applied) state=p; } }catch(e){}
+    if(!state.applied) state.applied={};
+  }
+  function persist(){
+    saveLocal();
+    if(docRef){ docRef.set({applied:state.applied, updated:new Date().toISOString()}).catch(function(){}); }
+  }
+
+  document.addEventListener("click", function(e){
+    var t=e.target.closest("[data-tick]");
+    if(t){
+      var id=t.getAttribute("data-tick");
+      if(state.applied[id]) delete state.applied[id]; else state.applied[id]=new Date().toISOString();
+      persist(); render(); return;
+    }
+    var c=e.target.closest(".chip");
+    if(!c) return;
+    if(c.id==="hide"){ hideDone=!hideDone; c.setAttribute("aria-pressed",String(hideDone)); render(); return; }
+    filter=c.getAttribute("data-f");
+    var chips=document.querySelectorAll(".chip[data-f]");
+    for(var i=0;i<chips.length;i++){ chips[i].setAttribute("aria-pressed", String(chips[i]===c)); }
+    render();
+  });
+
+  loadLocal(); renderDeny(); render();
+
+  if(window.claude && window.claude.use){
+    window.claude.use("db").then(function(d){
+      if(!d) return;
+      docRef=d.doc("tracker/applications");
+      docRef.onSnapshot(function(snap){
+        var data = snap.exists ? snap.data() : null;
+        if(data && data.applied && typeof data.applied==="object"){
+          state.applied=data.applied; saveLocal(); render();
+        } else if(Object.keys(state.applied).length){
+          persist();
+        }
+        document.getElementById("sync").textContent="Synced — your ticks follow you to any device.";
+      }, function(){});
+    }).catch(function(){});
+  }
+})();
+</script>

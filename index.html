@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Off-campus — Omkar Haryan</title>
+<meta name="description" content="Every screened opening for a May 2027 graduate in data, AI, analytics and consulting — ranked, filterable, with direct application links.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="head">
+  <nav class="editions" aria-label="Editions">
+    <a href="index.html" aria-current="page">October</a>
+    <span class="soon">November — in progress</span>
+  </nav>
+  <p class="kicker">October edition · compiled 26 Sep 2026 · rechecked 27 Oct 2026</p>
+  <h1>Everything worth applying to</h1>
+  <p class="sub">The September list, rechecked for what is still open and re-ranked for business-analyst,
+    risk and analytics roles in BFSI and fintech first, then consulting arms, then product.
+    Closed and rejected roles are kept at the bottom, with the reason.</p>
+  <p class="stats" id="stats"></p>
+</header>
+
+<section class="urgent" id="urgent"></section>
+
+<nav class="controls" aria-label="Sort and filter">
+  <div class="ctl">
+    <span class="ctl-label">Sort</span>
+    <button class="lnk" data-sort="priority" aria-pressed="true">Priority</button>
+    <button class="lnk" data-sort="score" aria-pressed="false">Best match</button>
+    <button class="lnk" data-sort="chance" aria-pressed="false">Best chance</button>
+    <button class="lnk" data-sort="pay" aria-pressed="false">Highest pay</button>
+    <button class="lnk" data-sort="speed" aria-pressed="false">Quickest</button>
+    <button class="lnk" data-sort="deadline" aria-pressed="false">Deadline first</button>
+  </div>
+  <div class="ctl">
+    <span class="ctl-label">Show</span>
+    <button class="lnk" data-view="apply" aria-pressed="true">Apply now</button>
+    <button class="lnk" data-view="intern" aria-pressed="false">Internships</button>
+    <button class="lnk" data-view="grad" aria-pressed="false">Graduate programmes</button>
+    <button class="lnk" data-view="clear" aria-pressed="false">Eligible outright</button>
+    <button class="lnk" data-view="pay15" aria-pressed="false">Pays 15+</button>
+    <button class="lnk" data-view="all" aria-pressed="false">Everything</button>
+    <button class="lnk" data-view="closed" aria-pressed="false">Closed since Sep</button>
+    <button class="lnk" data-view="no" aria-pressed="false">Checked &amp; rejected</button>
+  </div>
+  <div class="ctl">
+    <span class="ctl-label">City</span>
+    <span id="cities"></span>
+  </div>
+  <div class="ctl">
+    <label class="ctl-label" for="q">Search</label>
+    <input id="q" type="search" placeholder="company, role, skill…" autocomplete="off">
+    <span class="count" id="count"></span>
+  </div>
+</nav>
+
+<main id="list"></main>
+
+<section class="companies">
+  <h2>Companies still to work through</h2>
+  <p class="sub">Researched at company level — pay band, how open they are to off-campus applicants, and
+    where they hire. These have not been screened posting-by-posting yet.</p>
+  <div id="cos"></div>
+</section>
+
+<section class="companies archive">
+  <h2>The research behind this</h2>
+  <p class="sub">The four full reports, kept as standalone pages. Every raw crawl sits in
+    <code>data/raw/</code> — including all 2,339 Amazon India postings with their qualification text.</p>
+  <div class="crow"><div><div class="cn"><a href="artifacts/04-deep-dive-20-employers.html">Deep dive — 20 employers</a></div>
+    <div class="cd">771 postings read in full, screened, then adversarially refuted. 28 survived.</div></div></div>
+  <div class="crow"><div><div class="cn"><a href="artifacts/03-fifteen-lpa-shortlist.html">The 15 LPA shortlist</a></div>
+    <div class="cd">48 companies across six cities, with honest pay bands against a 15 LPA target.</div></div></div>
+  <div class="crow"><div><div class="cn"><a href="artifacts/01-amazon-shortlist.html">Amazon India shortlist</a></div>
+    <div class="cd">All 2,339 India openings screened down to the 25 whose experience bar you clear.</div></div></div>
+  <div class="crow"><div><div class="cn"><a href="artifacts/02-where-mumbai-hires.html">Where Mumbai actually hires</a></div>
+    <div class="cd">Live Mumbai-vs-India opening counts pulled from seven careers APIs. Some company-level
+      estimates on this page were later corrected by the deep dive — trust the deep dive where they differ.</div></div></div>
+</section>
+
+<footer class="foot">
+  <h2>How to read this</h2>
+  <dl>
+    <dt>Match</dt><dd>How closely the posted requirements line up with the resume. It says nothing about pay or how good the job is.</dd>
+    <dt>Chance</dt><dd>Rough likelihood of getting through, built from the stated experience bar, whether it is an internship, and how far the requirements sit above ~16–20 months of experience. A planning estimate, not a promise.</dd>
+    <dt>Pay</dt><dd>Indicative India CTC band for that employer at that level, from public salary reporting. Not an offer, and internships pay a stipend rather than a CTC.</dd>
+    <dt>Verified</dt><dd>Read in full, screened against the resume, then adversarially re-checked with the link tested against the employer's own hiring API.</dd>
+    <dt>Unscreened</dt><dd>Found in a live crawl and kept because it looked relevant. Read the posting before applying.</dd>
+  </dl>
+  <h2>Asking for a referral</h2>
+  <p class="note">Open a row and use “Find a referrer”. Order: DJSCE alumni first, then people in the
+    named team, then recruiters. Send a connection note (under 300 characters), and only ask for the
+    referral once they reply. Always include the job ID.</p>
+  <pre class="tmpl">Hi [Name], I'm Omkar, a final-year CSE (Data Science) student at DJSCE graduating May 2027. I've done
+fintech analytics at CypherSOL (loan-eligibility / bank-statement work), a PM internship at Bigul and
+founder's office at Infiheal. I'm applying for [Role, Job ID] at [Company]. Would you be open to
+referring me? Happy to send my resume and a two-line summary. Thank you!</pre>
+  <p class="note">Availability line to use everywhere: <strong>graduating May 2027, available full-time from
+    June 2027; available for a full-time internship from January to May 2027.</strong></p>
+</footer>
+
+<script src="data/jobs.js"></script>
+<script src="data/companies.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

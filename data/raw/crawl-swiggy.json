@@ -1,0 +1,10 @@
+{
+ "company": "Swiggy",
+ "ats": "smartrecruiters",
+ "slug": "swiggy",
+ "total": 57,
+ "india_total": 57,
+ "relevant": 0,
+ "roles": [],
+ "feed": "https://api.smartrecruiters.com/v1/companies/swiggy/postings"
+}

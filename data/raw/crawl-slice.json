@@ -1,0 +1,10 @@
+{
+ "company": "slice",
+ "ats": "greenhouse",
+ "slug": "slice",
+ "total": 27,
+ "india_total": 0,
+ "relevant": 0,
+ "roles": [],
+ "feed": "https://boards-api.greenhouse.io/v1/boards/slice/jobs?content=true"
+}

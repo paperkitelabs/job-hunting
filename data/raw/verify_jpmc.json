@@ -1,0 +1,112 @@
+{
+ "company": "JPMorganChase",
+ "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779109",
+ "verified_picks": [
+  {
+   "title": "Business Analysis Associate II (CCB Disputes)",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792898",
+   "http_status": "200 — HTML shell 200; confirmed live via Oracle HCM REST detail API (Title 'Business Analysis Associate II', posted 24 Sep 2026, closes 02 Oct 2026 18:30 UTC = 03 Oct 00:00 IST); returns TotalJobsCount=1 in the public search index",
+   "still_live": true,
+   "original_score": 72,
+   "original_eligible": "stretch",
+   "corrected_score": 30,
+   "corrected_eligible": "no",
+   "refuted": true,
+   "reason": "I pulled the real requisition text. The screen called the gap a vocabulary problem fixable by a week of reading; it is not. Required bullet 2 reads 'Manage inventory, work-in-progress, queues, service levels, and operational performance using defined targets and routines' — that is a demonstrated-doing bullet, and he has never managed an operational queue. Required bullet 1, 'Demonstrate experience in business analysis, operations, transformation, project management, or a related discipline,' asks for professional tenure in the discipline. Required bullet 6, 'Support user acceptance testing and implementation activities,' he also cannot evidence. That is three required bullets failed, not one soft one. The screen also wrote off the title: the API confirms the posted title is literally 'Business Analysis Associate II'. Associate is the band above Analyst at JPMC and the 'II' is a further step inside it — the seniority is in the title, not merely 'unstated'. Layer on a req that closes in 8 days for an immediate start against a June 2027 availability, and the Ace The Case win — a student case competition — is not going to carry it. Referral leverage is real but a referrer cannot manufacture operations tenure.",
+   "keep": false
+  },
+  {
+   "title": "Process Improvement Associate (CCB)",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779109",
+   "http_status": "200 — HTML shell 200; confirmed live via Oracle HCM REST detail API (Title 'Process Improvement Associate', posted 23 Sep 2026, closes 04 Oct 2026 18:30 UTC = 05 Oct 00:00 IST); TotalJobsCount=1 in the live search index",
+   "still_live": true,
+   "original_score": 70,
+   "original_eligible": "stretch",
+   "corrected_score": 45,
+   "corrected_eligible": "stretch",
+   "refuted": true,
+   "reason": "Refuted on posted wording but kept anyway, and I want to be precise about why. The very first required bullet is 'Use process mapping tools (for example, Microsoft Visio, Signavio, or Business Process Model and Notation) to document and analyze workflows' — he has none of the three, so as posted he fails a required qualification today. 'Demonstrate strong problem-solving, client management, and executive-level communication skills' asks for client management he does not have; case competitions are not client engagements. It is an Associate-band seat. Two corrections to the screen: the posted title is plain 'Process Improvement Associate' — 'Performance Consulting / Process Intelligence' is embellishment the screen added — and the write-up's 'high-visibility internal consulting team' framing is not in the requirement text. That said, this is the only one of the eight where the remaining nine required bullets are genuinely capability-and-disposition based (structured hypotheses, executive-ready materials, owning a workstream, responsible AI tool use) rather than tenure or tooling, there is no years number and no degree bar anywhere, the BPMN gap is honestly closable in a weekend with draw.io's free shape library, and it is the closest thing in the set to the strategy/consulting work he actually wants. This is where the single application goes.",
+   "keep": true
+  },
+  {
+   "title": "Business Support Management - Expense Management Associate, Tooling & Automation",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786533",
+   "http_status": "200 — HTML shell 200; confirmed live via Oracle HCM REST detail API (posted 07 Sep 2026, closes 31 Oct 2026 04:00 UTC = 09:30 IST); TotalJobsCount=1 in the live search index",
+   "still_live": true,
+   "original_score": 65,
+   "original_eligible": "stretch",
+   "corrected_score": 32,
+   "corrected_eligible": "no",
+   "refuted": true,
+   "reason": "There are only five required bullets and he fails three of them. 'Experience in project management, business analysis, product delivery, or workflow tooling' — his Bigul product stint was two months. 'Demonstrated ability to translate business needs into user stories / acceptance criteria and run UAT' — he has never run a UAT cycle. 'Practical experience managing plans, dependencies, risks, and delivery milestones in an agile or hybrid environment' — he has no agile role, no Jira, no sprint ownership. The screen's fix was to write user stories for his own side project and call required bullet 2 'answered outright with evidence rather than a claim.' That is the clearest piece of self-deception in the write-up: a portfolio document written about your own project is not demonstrated ability to run UAT with business stakeholders, and a BSM recruiter will read it as exactly what it is. With only five required bullets there is nowhere to hide a 3/5 miss, and Associate band again.",
+   "keep": false
+  },
+  {
+   "title": "Quant Analytics Analyst (Consumer & Community Banking - Data & Analytics)",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787644",
+   "http_status": "200 — HTML shell 200; confirmed live via Oracle HCM REST detail API (posted 23 Sep 2026, closes 29 Sep 2026 18:30 UTC = 30 Sep 00:00 IST, ~5 days); TotalJobsCount=1 in the live search index",
+   "still_live": true,
+   "original_score": 62,
+   "original_eligible": "stretch",
+   "corrected_score": 25,
+   "corrected_eligible": "no",
+   "refuted": true,
+   "reason": "This is the single biggest overreach in the shortlist. Two independent hard fails sit in the REQUIRED block, not the preferred one. First: 'Bachelor's degree in statistics, economics, mathematics, or engineering with 2+ years of experience' — he has ~13 months of internships and, critically, does not yet hold the degree at all until May 2027, so he fails the degree half of that bullet on the calendar regardless of how the tenure is framed. Second: 'Familiarity with modern analytics platforms and data visualization tools, including SQL, Alteryx and Tableau' — he has SQL and neither of the other two, and that bullet is in the required list. My instruction is explicit that a lacked tool in the required block means refuted, and here there are two lacked tools in one required bullet. The KOP AI and LawzyAI match on the Conversational-AI bullet is real and I verified the responsibility line 'Build applications and utilities that call LLM APIs' genuinely exists — but genuine relevance on two bullets does not survive a degree bar he cannot meet for another eight months plus two named required tools he does not have. Calling referral leverage 'high' here was wishful.",
+   "keep": false
+  },
+  {
+   "title": "Asset Management - Global Real Estate Investment Specialist - Analyst",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788905",
+   "http_status": "200 — HTML shell 200; confirmed live via Oracle HCM REST detail API (posted 11 Sep 2026, closes 25 Sep 2026 04:00 UTC = 09:30 IST tomorrow, ~13 hours from now); TotalJobsCount=1 in the live search index",
+   "still_live": true,
+   "original_score": 60,
+   "original_eligible": "stretch",
+   "corrected_score": 25,
+   "corrected_eligible": "no",
+   "refuted": true,
+   "reason": "The screen claimed his tenure 'clears the stated number on its face with no framing gymnastics.' It does not. The bullet is 'Atleast 1 year experience in financial product analysis or client services' — his 13 months are a data-science internship cleaning bank statements and a two-month product-management internship, neither of which is financial product analysis or client services in the sense an Asset Management investor-relations desk means it. That is framing gymnastics, just performed confidently. I read the responsibilities and the actual day-job is pitch books, RFPs, RFIs, due-diligence questionnaires, consultant databases, client cash-flows, Fund AUMs and fund-level investor reporting for the Real Estate Americas platform — he has zero exposure to any of it, and 'Comfort working across multiple time zones' means US hours. Preferred wants MBA (Finance/Marketing) and CFA; he has neither. The screen itself conceded this is an investor-relations and client-service seat rather than an analytics seat, which puts it outside what he says he wants. Spending his one tonight-or-never slot on a role he does not want, cannot start, and has no domain footing in is the definition of a wasted application.",
+   "keep": false
+  },
+  {
+   "title": "Equity Research Analyst - Global Research Center, Mumbai",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791098",
+   "http_status": "200 — HTML shell 200; confirmed live via Oracle HCM REST detail API (posted 18 Sep 2026, closes 31 Oct 2026 04:00 UTC = 09:30 IST); TotalJobsCount=1 in the live search index",
+   "still_live": true,
+   "original_score": 56,
+   "original_eligible": "stretch",
+   "corrected_score": 28,
+   "corrected_eligible": "no",
+   "refuted": true,
+   "reason": "The screen's own gaps section admitted 'on posted wording he currently fails the req' and then scored it 56 and called it a stretch. Those two statements cannot both stand. I confirmed the required text: 'Advanced proficiency in Microsoft Excel, including financial modeling and VBA' and 'Strong knowledge of Bloomberg, FactSet, and other market intelligence platforms.' He has no VBA, no three-statement modelling, and has never touched either terminal. The proposed fix does not hold either — Bloomberg Market Concepts is an 8-to-10-hour introductory certificate and does not produce 'strong knowledge of Bloomberg, FactSet, and other market intelligence platforms' for a desk that will test it in the interview, and it does nothing for FactSet at all. Even granting five weeks for VBA and modelling, he would arrive as someone who learned the tools last month with no equity research experience, no Financials or Insurance sector knowledge, and no CFA, competing for a Global Research Center seat against CAs and MBAs. The Preferred bullet naming B.Tech is a preferred bullet; it does not offset two failed required ones.",
+   "keep": false
+  },
+  {
+   "title": "Quant Analytics Analyst (Finance cost analytics), Bengaluru",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791303",
+   "http_status": "200 — HTML shell 200; confirmed live via Oracle HCM REST detail API (posted 17 Sep 2026, closes 25 Sep 2026 04:00 UTC = 09:30 IST tomorrow, ~13 hours from now); TotalJobsCount=1 in the live search index",
+   "still_live": true,
+   "original_score": 54,
+   "original_eligible": "stretch",
+   "corrected_score": 20,
+   "corrected_eligible": "no",
+   "refuted": true,
+   "reason": "Three required bullets fail, and the screen missed a fourth problem entirely. Required: '2+ years of experience' against 13 months of internships. Required: 'Experience with one or many Intelligent Automation tools' — he has none. Required: 'Exposure to financial cost concepts such as P&L Statement, occupancy cost components, allocations, cost center structures, and reporting hierarchies' — zero cost accounting. What the screen did not flag: the responsibilities name Databricks twice ('prepare branch network and occupancy cost data from legacy sources and Databricks', 'support legacy-to-Databricks transition') and ThoughtSpot for dashboards. Databricks is explicitly on his does-not-have list, and the core of this job is a legacy-to-Databricks migration with reconciliation and lineage. The SQL and Python bullet genuinely matches him, which is what seduced the screen, but one matching bullet against three failed required ones, a Bengaluru relocation, and a 13-hour window is not an application, it is a lottery ticket.",
+   "keep": false
+  },
+  {
+   "title": "Risk Analyst - Structured Finance (APAC & EMEA)",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778334",
+   "http_status": "200 — HTML shell 200; confirmed live via Oracle HCM REST detail API (posted 02 Sep 2026). NOTE: ExternalPostedEndDate is null — no close date at all, which the screen did not report; TotalJobsCount=1 in the live search index",
+   "still_live": true,
+   "original_score": 47,
+   "original_eligible": "stretch",
+   "corrected_score": 22,
+   "corrected_eligible": "no",
+   "refuted": true,
+   "reason": "The screen was right that seven of nine required bullets are disposition rather than credential, and right that 'together with more senior members of the team' is junior framing. It was wrong about what that buys him. The first required bullet is 'Some credit/underwriting credentials, analytical skills' and he holds no credit or underwriting credential of any kind — and unlike a software tool, that is not a weekend purchase. More importantly I read the role description: this is evaluation, underwriting and monitoring of Public ABS, private asset-backed financing, conduits and other SPVs, partnering with Securitized Products and traders to risk-grade and approve credit exposures. Structured finance is one of the most domain-dense corners of the bank and he has literally none of it; soft required bullets about motivation and attention to detail do not compensate. It is also a second-line credit risk seat, not an analytics seat, so it falls outside his stated target. One fact the screen missed and that matters: there is no posted end date, meaning this has sat open since 2 September as an open-ended pipeline req — those convert poorly and are often filled internally.",
+   "keep": false
+  }
+ ],
+ "honesty_check": "The screen was flattering him, systematically and in a recognisable pattern. Its method was to quote a required bullet, pair it with a resume line that is thematically adjacent, and declare a match — then file the actual blockers under \"gaps\" where they do not affect the score. That is why every single one of eight came back \"stretch\" and nothing came back \"no\": the scoring never let a failed required bullet override a good story. Five specific overreaches. (1) On 210787644 it called referral leverage \"high\" and scored 62 on a req whose required block contains both a degree-plus-2-years bar he cannot meet until May 2027 and two named tools he does not have (Alteryx, Tableau) — that is the worst call in the file. (2) On 210791098 it wrote, in its own words, \"on posted wording he currently fails the req,\" then scored it 56 and called it a stretch anyway; a write-up that contradicts itself in the same paragraph is not assessing, it is consoling. (3) On 210788905 it claimed his tenure \"clears the stated number on its face with no framing gymnastics\" — a data-science internship and a two-month PM internship are not \"financial product analysis or client services,\" and asserting it confidently does not make it survive a 30-second read. (4) On 210792898 it downgraded a required doing-bullet (\"Manage inventory, work-in-progress, queues, service levels\") to a \"vocabulary gap\" curable by a week of reading, and waved off \"Associate II\" as an \"unstated bar\" when the API confirms the seniority is printed in the title. (5) On 210786533 it proposed that writing user stories about his own side project would answer \"run UAT\" outright \"with evidence rather than a claim.\" Two smaller accuracy problems: it dressed 210779109 up as \"Performance Consulting / Process Intelligence\" when the posted title is plain \"Process Improvement Associate,\" and it reported close dates for all eight when 210778334 has no end date at all. What the screen got right, and I want to say so plainly: every one of the eight links is genuinely live — I verified each through the Oracle HCM REST detail API and confirmed each returns in the public search index, so nothing here is link rot. Its structural diagnosis was also correct and I independently confirmed it: Code for Good is currently posted for Glasgow and the United States only, no India student or summer-analyst requisition surfaces anywhere in the portal, and the 2027 Full-Time Analyst Programs do not exist for India. The honest bottom line is that this is a company where he has roughly one worthwhile application, not eight.",
+ "final_recommendation": "Spend exactly one application at JPMorganChase, on Process Improvement Associate (210779109), and ignore the other seven. Do it in this order: this weekend, spend one day rebuilding the CypherSOL bank-statement ingestion flow as a proper BPMN current-state and target-state map with swimlanes and handoffs in draw.io's free BPMN library — that single artefact converts the only required bullet he outright fails into a screen-shareable work sample; then apply by 1 October, four days before the 5 October 00:00 IST close, with the map linked from the CV and the Ace The Case and Spotify decks attached, and ask the referrer to forward those decks rather than just the CV. Skip both 25 September closers (210788905 and 210791303) tonight — neither is worth a rushed application for a role he does not want, cannot start, and fails on three required bullets. Do not touch 210787644 or 210791098 at all: the first gates on a degree he does not hold until May 2027 plus Alteryx and Tableau in the required block, and the second requires Bloomberg, FactSet, VBA and financial modelling, none of which a two-week certificate credibly buys. The real JPMC play for a May 2027 graduate is not an experienced-hire requisition at all — it is Code for Good India, which historically opens January to March and is the one channel actually built for his year; set a calendar reminder for early January and work the DJSCE placement cell in parallel, because that is the higher-yield track here and the referral is worth more there than on any req in this list."
+}

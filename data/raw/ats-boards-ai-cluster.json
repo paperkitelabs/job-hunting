@@ -1,0 +1,176 @@
+[
+ {
+  "ats": "greenhouse",
+  "slug": "databricks",
+  "total": 883,
+  "india": 97
+ },
+ {
+  "ats": "greenhouse",
+  "slug": "gitlab",
+  "total": 201,
+  "india": 26
+ },
+ {
+  "ats": "greenhouse",
+  "slug": "rubrik",
+  "total": 140,
+  "india": 22
+ },
+ {
+  "ats": "greenhouse",
+  "slug": "elastic",
+  "total": 378,
+  "india": 14
+ },
+ {
+  "ats": "greenhouse",
+  "slug": "twilio",
+  "total": 136,
+  "india": 14
+ },
+ {
+  "ats": "greenhouse",
+  "slug": "groww",
+  "total": 7,
+  "india": 7
+ },
+ {
+  "ats": "greenhouse",
+  "slug": "turing",
+  "total": 35,
+  "india": 4
+ },
+ {
+  "ats": "greenhouse",
+  "slug": "anthropic",
+  "total": 624,
+  "india": 4
+ },
+ {
+  "ats": "greenhouse",
+  "slug": "mongodb",
+  "total": 400,
+  "india": 3
+ },
+ {
+  "ats": "greenhouse",
+  "slug": "amplitude",
+  "total": 38,
+  "india": 3
+ },
+ {
+  "ats": "greenhouse",
+  "slug": "scaleai",
+  "total": 209,
+  "india": 2
+ },
+ {
+  "ats": "greenhouse",
+  "slug": "cresta",
+  "total": 96,
+  "india": 2
+ },
+ {
+  "ats": "greenhouse",
+  "slug": "observeai",
+  "total": 15,
+  "india": 1
+ },
+ {
+  "ats": "ashby",
+  "slug": "confluent",
+  "total": 20,
+  "india": 1
+ },
+ {
+  "ats": "greenhouse",
+  "slug": "typeface",
+  "total": 13,
+  "india": 0
+ },
+ {
+  "ats": "lever",
+  "slug": "zeta",
+  "total": 21,
+  "india": 0
+ },
+ {
+  "ats": "ashby",
+  "slug": "sarvam",
+  "total": 61,
+  "india": 0
+ },
+ {
+  "ats": "ashby",
+  "slug": "harvey",
+  "total": 303,
+  "india": 0
+ },
+ {
+  "ats": "ashby",
+  "slug": "sierra",
+  "total": 205,
+  "india": 0
+ },
+ {
+  "ats": "ashby",
+  "slug": "navi",
+  "total": 3,
+  "india": 0
+ },
+ {
+  "ats": "ashby",
+  "slug": "cohere",
+  "total": 147,
+  "india": 0
+ },
+ {
+  "ats": "ashby",
+  "slug": "langchain",
+  "total": 103,
+  "india": 0
+ },
+ {
+  "ats": "ashby",
+  "slug": "llamaindex",
+  "total": 9,
+  "india": 0
+ },
+ {
+  "ats": "ashby",
+  "slug": "cerebras",
+  "total": 116,
+  "india": 0
+ },
+ {
+  "ats": "ashby",
+  "slug": "abridge",
+  "total": 47,
+  "india": 0
+ },
+ {
+  "ats": "ashby",
+  "slug": "writer",
+  "total": 51,
+  "india": 0
+ },
+ {
+  "ats": "ashby",
+  "slug": "gamma",
+  "total": 26,
+  "india": 0
+ },
+ {
+  "ats": "ashby",
+  "slug": "decagon",
+  "total": 146,
+  "india": 0
+ },
+ {
+  "ats": "ashby",
+  "slug": "vanta",
+  "total": 88,
+  "india": 0
+ }
+]

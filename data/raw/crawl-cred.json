@@ -1,0 +1,10 @@
+{
+ "company": "CRED",
+ "ats": "lever",
+ "slug": "cred",
+ "total": 12,
+ "india_total": 11,
+ "relevant": 0,
+ "roles": [],
+ "feed": "https://api.lever.co/v0/postings/cred?mode=json"
+}

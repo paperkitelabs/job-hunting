@@ -1,0 +1,10 @@
+{
+ "company": "Rubrik",
+ "ats": "greenhouse",
+ "slug": "rubrik",
+ "total": 140,
+ "india_total": 34,
+ "relevant": 0,
+ "roles": [],
+ "feed": "https://boards-api.greenhouse.io/v1/boards/rubrik/jobs?content=true"
+}

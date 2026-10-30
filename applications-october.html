@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Applications — October 2026</title>
+<meta name="description" content="Application and referral tracker: live openings, summarized JDs, LinkedIn referrer searches and progress checkboxes.">
+<link rel="stylesheet" href="tracker.css">
+</head>
+<body>
+
+<header class="bar">
+  <div class="bar-title">
+    <h1>Applications <span id="edition"></span></h1>
+    <p class="meta" id="meta"></p>
+  </div>
+  <nav class="editions" aria-label="Editions">
+    <a href="applications-october.html" aria-current="page">October</a>
+    <a href="applications-november.html">November</a>
+    <a href="index.html">Full research list</a>
+  </nav>
+</header>
+
+<section class="tools" aria-label="Filters and backup">
+  <label class="search"><span>Search</span>
+    <input id="q" type="search" placeholder="company, role, city…" autocomplete="off"></label>
+  <div class="seg" role="group" aria-label="Track">
+    <button type="button" data-track="all" aria-pressed="true">All</button>
+    <button type="button" data-track="analyst" aria-pressed="false">Analyst &amp; PM</button>
+    <button type="button" data-track="ai" aria-pressed="false">Data science &amp; AI</button>
+  </div>
+  <span class="spacer"></span>
+  <button type="button" id="csv">Download CSV</button>
+  <button type="button" id="save">Save backup</button>
+  <label class="btn">Restore backup<input id="restore" type="file" accept="application/json" hidden></label>
+</section>
+
+<section class="progress" id="progress" aria-label="Progress"></section>
+
+<div class="sheet" tabindex="0">
+  <table id="grid">
+    <thead>
+      <tr>
+        <th class="c-num sticky1">#</th>
+        <th class="c-role sticky2">Job role <small>(click to open the posting)</small></th>
+        <th class="c-co">Company</th>
+        <th class="c-loc">Location</th>
+        <th class="c-res">Resume to send</th>
+        <th class="c-id">Job ID</th>
+        <th class="c-exp">Experience asked</th>
+        <th class="c-pay">Est. pay<br><small>LPA</small></th>
+        <th class="c-jd">Summarized JD</th>
+        <th class="c-ref">Find a referrer</th>
+        <th class="c-ck">Sent LinkedIn request</th>
+        <th class="c-ck">Request accepted</th>
+        <th class="c-ck">DM'd about referral</th>
+        <th class="c-ck">Replied</th>
+        <th class="c-ck">Got referral</th>
+        <th class="c-ck">Applied</th>
+        <th class="c-note">Notes <small>(who, when)</small></th>
+      </tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
+</div>
+
+<footer class="foot">
+  <p id="leftout"></p>
+  <p><strong>Referral order:</strong> DJSCE alumni first, then people in the named team, then recruiters.
+    Send a connection note first; ask for the referral only after they reply, and always include the job ID.</p>
+  <p><strong>Your ticks are saved in this browser only.</strong> Use “Save backup” now and then;
+    clearing browser data or switching browsers starts the ticks over.</p>
+  <p><strong>Availability line:</strong> graduating May 2027, available full-time from June 2027;
+    available for a full-time internship from January to May 2027.</p>
+</footer>
+
+<script src="data/applications-october.js"></script>
+<script src="tracker.js"></script>
+</body>
+</html>

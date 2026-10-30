@@ -1,0 +1,137 @@
+/* Application tracker — bright, spreadsheet-style. Shared by every applications-*.html page. */
+
+:root{
+  --bg:#FFFFFF;
+  --chrome:#F3F3F3;
+  --head:#E9ECEA;
+  --grid:#D4D4D4;
+  --grid-strong:#B7B7B7;
+  --ink:#1F1F1F;
+  --ink2:#444;
+  --mute:#6B6B6B;
+  --green:#107C41;
+  --green-soft:#E7F3EC;
+  --tier1:#F2F8F4;
+  --link:#0B5CAD;
+  --font:"Segoe UI","Aptos",-apple-system,BlinkMacSystemFont,Roboto,Arial,sans-serif;
+}
+
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:13px/1.45 var(--font)}
+a{color:var(--link)}
+
+/* ---------- top bar ---------- */
+.bar{
+  display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px 24px;
+  padding:18px 16px 14px;background:var(--chrome);border-bottom:1px solid var(--grid);
+}
+.bar h1{margin:0;font-size:20px;font-weight:600;letter-spacing:-.01em}
+.bar h1 span{color:var(--green);font-weight:600}
+.meta{margin:4px 0 0;color:var(--mute);font-size:12.5px}
+.editions{display:flex;gap:14px;flex-wrap:wrap;font-size:13px}
+.editions a{color:var(--ink2);text-decoration:none;padding-bottom:2px;border-bottom:2px solid transparent}
+.editions a[aria-current]{color:var(--green);font-weight:600;border-bottom-color:var(--green)}
+.editions a:hover{color:var(--ink)}
+.editions .soon{color:var(--mute)}
+.editions .soon::after{content:" · coming";font-size:11px}
+
+/* ---------- tools ---------- */
+.tools{display:flex;flex-wrap:wrap;align-items:center;gap:10px 16px;padding:10px 16px;border-bottom:1px solid var(--grid)}
+.search{display:flex;align-items:center;gap:8px;color:var(--mute)}
+.search input{
+  font:inherit;width:min(260px,60vw);padding:5px 8px;border:1px solid var(--grid-strong);border-radius:2px;background:#fff;color:var(--ink);
+}
+.search input:focus{outline:2px solid var(--green);outline-offset:-1px;border-color:var(--green)}
+.toggle{display:flex;align-items:center;gap:6px;color:var(--ink2);cursor:pointer}
+.toggle input{accent-color:var(--green);width:15px;height:15px}
+.spacer{flex:1}
+.tools button,.tools .btn{
+  font:inherit;font-size:12.5px;padding:5px 11px;border:1px solid var(--grid-strong);border-radius:2px;
+  background:#fff;color:var(--ink);cursor:pointer;
+}
+.tools button:hover,.tools .btn:hover{border-color:var(--green);color:var(--green)}
+
+/* ---------- progress strip ---------- */
+.progress{
+  display:grid;grid-template-columns:repeat(6,minmax(120px,1fr));gap:0;border-bottom:1px solid var(--grid);overflow-x:auto;
+}
+.pstep{padding:10px 16px;border-right:1px solid var(--grid);min-width:120px}
+.pstep:last-child{border-right:0}
+.pnum{display:block;font-size:20px;font-weight:600;font-variant-numeric:tabular-nums;color:var(--green);line-height:1.1}
+.pnum small{font-size:12px;color:var(--mute);font-weight:400}
+.plabel{display:block;font-size:12px;color:var(--ink2);margin-top:2px}
+.pbar{display:block;height:4px;background:#ECECEC;margin-top:6px}
+.pbar span{display:block;height:100%;background:var(--green)}
+
+/* ---------- the sheet ---------- */
+.sheet{overflow:auto;max-height:calc(100vh - 210px);min-height:320px;border-bottom:1px solid var(--grid)}
+.sheet:focus{outline:none}
+table{border-collapse:separate;border-spacing:0;width:max-content}
+th,td{
+  border-right:1px solid var(--grid);border-bottom:1px solid var(--grid);
+  padding:6px 8px;vertical-align:top;text-align:left;background:var(--bg);
+}
+thead th{
+  position:sticky;top:0;z-index:3;background:var(--head);font-weight:600;font-size:12px;color:var(--ink);
+  border-bottom:1px solid var(--grid-strong);vertical-align:bottom;
+}
+thead th small{display:block;font-weight:400;color:var(--mute);font-size:11px}
+.sticky1{position:sticky;left:0;z-index:2}
+.sticky2{position:sticky;left:40px;z-index:2;box-shadow:1px 0 0 var(--grid-strong)}
+thead .sticky1,thead .sticky2{z-index:4}
+
+.c-num{width:40px;min-width:40px;text-align:right;color:var(--mute);background:var(--chrome);font-variant-numeric:tabular-nums}
+thead .c-num{text-align:right}
+.c-role{width:260px;min-width:260px}
+.c-role a{font-weight:600;text-decoration:none}
+.c-role a:hover{text-decoration:underline}
+.c-role .type{display:block;color:var(--mute);font-size:11.5px;margin-top:2px}
+.c-co{width:120px;min-width:120px;font-weight:500}
+.c-loc{width:130px;min-width:130px}
+.c-id{width:110px;min-width:110px;font-family:Consolas,"Cascadia Mono",ui-monospace,monospace;font-size:12px;color:var(--ink2)}
+.c-exp{width:170px;min-width:170px;color:var(--ink2)}
+.c-pay{min-width:64px;text-align:right;font-variant-numeric:tabular-nums}
+.c-jd{width:420px;min-width:420px;color:var(--ink2)}
+.c-ref{min-width:150px}
+.c-ref a{display:block;white-space:nowrap;line-height:1.7}
+.c-ck{width:84px;min-width:84px;text-align:center;vertical-align:middle}
+thead .c-ck{text-align:center}
+.c-ck input{width:18px;height:18px;accent-color:var(--green);cursor:pointer;margin:0}
+.c-note{min-width:200px;padding:0}
+.c-note textarea{
+  display:block;width:100%;min-height:100%;border:0;padding:6px 8px;resize:vertical;
+  font:inherit;color:var(--ink);background:transparent;
+}
+.c-note textarea:focus{outline:2px solid var(--green);outline-offset:-2px;background:#fff}
+
+tbody tr:hover td{background:#F7FAF8}
+tbody tr:hover td.c-num{background:#ECEFED}
+tr.t1 td.c-num{box-shadow:inset 3px 0 0 var(--green)}
+tr.complete td{background:var(--green-soft)}
+tr.grp td{
+  background:var(--chrome);font-weight:600;font-size:12px;color:var(--green);
+  text-transform:uppercase;letter-spacing:.04em;padding-top:10px;border-bottom:1px solid var(--grid-strong);
+}
+tr.grp td span{position:sticky;left:48px;white-space:nowrap}
+.empty{padding:24px;color:var(--mute);text-align:center}
+
+/* ---------- footer ---------- */
+.foot{padding:14px 16px 40px;color:var(--ink2);max-width:880px}
+.foot p{margin:0 0 8px}
+
+@media (max-width:640px){
+  .c-role{width:200px;min-width:200px}
+  .sticky2{left:40px}
+  .sheet{max-height:none}
+}
+
+/* track switch + resume column */
+.seg{display:inline-flex;border:1px solid var(--grid-strong);border-radius:2px;overflow:hidden}
+.seg button{font:inherit;font-size:12.5px;padding:5px 11px;border:0;border-right:1px solid var(--grid-strong);background:#fff;color:var(--ink2);cursor:pointer}
+.seg button:last-child{border-right:0}
+.seg button[aria-pressed="true"]{background:var(--green);color:#fff}
+.c-res{width:100px;min-width:100px;white-space:nowrap;font-size:12px;color:var(--ink2)}
+.c-res.ai{color:#6A3FA0}
+.c-role .due{display:block;margin-top:3px;font-size:11.5px;font-weight:600;color:#B42318}
+.c-jd .pending{color:var(--mute);font-style:italic}

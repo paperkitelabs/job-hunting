@@ -1,0 +1,86 @@
+{
+ "company": "Fractal Analytics",
+ "verified_picks": [
+  {
+   "title": "Growth Analytics Intern (third-party listing)",
+   "url": "NO URL EXISTS — screen's url field is prose, not a link",
+   "still_live": false,
+   "http_status": "untestable — no URL was supplied to test",
+   "original_score": 84,
+   "corrected_score": 0,
+   "original_eligible": "stretch",
+   "corrected_eligible": "no",
+   "refuted": true,
+   "reason": "The screen's highest-scored pick has no URL. The 'url' field contains the sentence 'No Fractal-owned URL exists.' I searched Fractal's Workday CXS API for intern/trainee/graduate/campus across all 137 global reqs: 'campus' returns total:0 and no intern or trainee TITLE appears anywhere. I then probed myinternships.in directly — the homepage contains zero occurrences of 'Fractal', /jobs/fractal-analytics and /fractal-analytics both return 404, and the site's search endpoints timed out. Nothing corroborates this posting on any domain. Scoring an unverifiable, linkless listing at 84 — above every real req — is the single biggest failure in this screen. He cannot apply to a thing with no link.",
+   "keep": false
+  },
+  {
+   "title": "Data Scientist - Gen AI (SR-42761)",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Data-Scientist--Gen-AI_SR-42761",
+   "still_live": true,
+   "http_status": "200 (page) + 200 CXS API, canApply:true, posted:true, no endDate",
+   "original_score": 66,
+   "corrected_score": 30,
+   "original_eligible": "stretch",
+   "corrected_eligible": "no",
+   "refuted": true,
+   "reason": "Link genuinely live — verified twice. But two screen claims collapse. (1) FABRICATION: the screen says 'Education demanded is B.E/B.Tech in CS or equivalent, which is exactly what he will hold.' I dumped the full posting body — there is NO education line in SR-42761 at all. That sentence was invented; the sibling reqs have it, this one does not. (2) The screen lists LangChain, llama index, Azure OpenAI/Vertex AI/AWS Bedrock, TensorFlow/PyTorch/HuggingFace, PEFT/RLHF/quantization/GPU utilization as 'gaps' — but the raw text puts every one of them under the heading 'Primary Skills'. Primary means required. Only 'Cloud certification is preferred' carries a preferred marker. By the screen's own stated rule, required tools he lacks makes this 'no', not 'stretch'. It is also Full time, billable, with no intern grade, and cannot hold a seat for a June-2027 joiner. TRUE on the good side: no years figure anywhere, no seniority prefix, no end date, Mumbai in additionalLocations, canApply true. Keep it as the ONE application and referral hook at this company — not because he is eligible, but because it is the only req where a referrer argues for a candidate rather than against a printed bar.",
+   "keep": true
+  },
+  {
+   "title": "Data Scientist / Senior Data Scientist - NLP GenAI (SR-20652)",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Data-Scientist--Senior-Data-Scientist--NLP-GenAI_SR-20652",
+   "still_live": true,
+   "http_status": "200 (page) + 200 CXS API, canApply:true, endDate 2026-11-30 confirmed",
+   "original_score": 62,
+   "corrected_score": 12,
+   "original_eligible": "stretch",
+   "corrected_eligible": "no",
+   "refuted": true,
+   "reason": "Live, and the screen's 30 Nov 2026 expiry is accurate — I confirmed endDate:'2026-11-30' in the raw JSON. But the requirement text is WORD-FOR-WORD identical to SR-42761, so this adds no new surface: same required Primary Skills he lacks (LangChain, llama index, Bedrock/Vertex/Azure OpenAI, PyTorch/TF/HuggingFace, PEFT/RLHF). It is strictly worse than SR-42761 on two axes — 'Senior Data Scientist' sits in the title (an ATS and recruiter tripwire the screen itself flags), and it dies in nine weeks. The screen advised applying here anyway 'to double the chance of landing in a recruiter's queue'. That is wrong: two near-identical applications from one fresher to one hiring pool reads as spray, not interest, and it burns the impression SR-42761 is meant to create.",
+   "keep": false
+  },
+  {
+   "title": "Senior Engineer / 'Hacker-Mind AI Engineer' (SR-32787)",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Senior-Engineer_SR-32787",
+   "still_live": true,
+   "http_status": "200 (page) + 200 CXS API, canApply:true, no endDate, startDate 2025-06-09",
+   "original_score": 52,
+   "corrected_score": 15,
+   "original_eligible": "stretch",
+   "corrected_eligible": "no",
+   "refuted": true,
+   "reason": "Live and genuinely evergreen — startDate 2025-06-09 with no end date confirms the screen's read. The '5+ years of experience in software/data/AI engineering (or equivalent open-source/portfolio proof)' clause is verbatim accurate; I pulled it from the raw body. But the screen overreads it. That clause discounts the YEARS; it does not discount the GRADE, and the grade is Senior Engineer. Worse, the required line 'Hands-on experience with AI/ML frameworks: PyTorch, TensorFlow, HuggingFace, LangChain' names four frameworks and he has ZERO of them — scikit-learn and ONNX are not on that list. Add missing Kubernetes, Terraform, CI/CD and MLOps. The decisive objection is the one the screen buries in its last line: this is a core software engineering seat, and he has explicitly said he does not want SDE roles. Do not spend an application arguing him into a job he does not want.",
+   "keep": false
+  },
+  {
+   "title": "Data Scientist / Senior Data Scientist - NLP GenAI, Bengaluru-only (SR-43796)",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Data-Scientist--Senior-Data-Scientist--NLP-GenAI_SR-43796",
+   "still_live": true,
+   "http_status": "200 (page) + 200 CXS API, canApply:true, no endDate",
+   "original_score": 58,
+   "corrected_score": 8,
+   "original_eligible": "stretch",
+   "corrected_eligible": "no",
+   "refuted": true,
+   "reason": "Live, and two screen facts check out: the JSON has no additionalLocations array at all (Bengaluru ONLY — Mumbai genuinely excluded), and the line '*Hands-on Python skills and Core GenAI Skills are mandatory and will be evaluated during the interviews*' is real. But the screen's central argument INVERTS on inspection. It claims a live skills evaluation favours him over a CV-years filter. The required Core GenAI Skills being evaluated are, by the posting's own text, 'Lang chain, llama index, vector databases, Prompt engineering' — and he has never used LangChain or LlamaIndex. A live build test in frameworks he has never opened is the worst possible format for him, not the best. He would be walked to a whiteboard and exposed. Add: Senior in title, relocation required, full-time billable, no intern grade.",
+   "keep": false
+  },
+  {
+   "title": "Data Scientist - NLP GenAI - 3 to 5yrs (SR-45903)",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Data-Scientist--NLP-GenAI--3-to-5yrs_SR-45903",
+   "still_live": true,
+   "http_status": "200 (page) + 200 CXS API, canApply:true, endDate 2026-11-30 confirmed",
+   "original_score": 46,
+   "corrected_score": 2,
+   "original_eligible": "no",
+   "corrected_eligible": "no",
+   "refuted": true,
+   "reason": "Live; the screen correctly called this 'no' and correctly read the title bar — I confirmed the title string is literally 'Data Scientist_ NLP GenAI_ 3 to 5yrs' and endDate is 2026-11-30. Credit where due. The refutation is of the ADVICE, not the verdict: the screen tells him to 'consciously spend one free click on it'. There is no such thing as a free click in one ATS tenant. Every Workday application is attached to the same candidate profile that a Fractal recruiter will open in December when the campus req is raised, and a fresher profile stacked against a 3-to-5-year req is the first thing they will see. Zero clicks here.",
+   "keep": false
+  }
+ ],
+ "apply_url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Data-Scientist--Gen-AI_SR-42761",
+ "honesty_check": "Flattering, and in one place it invented evidence — but its strategic conclusion is sound. Five specific overreaches. (1) The top-scored pick, at 84, is an internship with NO URL; the screen scored an unverifiable third-party rumour above every real, live req it found, and my probes of myinternships.in found no trace of Fractal at all. (2) It FABRICATED an education requirement for SR-42761 — \"Education demanded is B.E/B.Tech in CS, which is exactly what he will hold\" — that posting has no education line whatsoever. It manufactured a match out of nothing. (3) It called four reqs \"stretch\" while listing LangChain, LlamaIndex, Bedrock/Vertex/Azure OpenAI, PyTorch/TF/HuggingFace and PEFT/RLHF as \"gaps\" — the raw text files all of these under \"Primary Skills\", i.e. required. By the screen's own rule that basic means required, all four are \"no\". (4) The SR-43796 argument inverts: a live GenAI skills evaluation does not favour a candidate who has never opened the two frameworks being evaluated. (5) The entire \"Imagineers\" programme — the 28-30 Jan 2026 window, the 7.0 CGPA bar, referral-only submission — is presented as established fact with specific dates and I could corroborate NONE of it from any Fractal-controlled source. He should treat it as a lead to verify with a human, not a calendar entry. What it got RIGHT and deserves credit for: every one of the five Workday links is genuinely live (I verified each against the CXS API with a 404 control), both 30 Nov 2026 end dates are real, the \"3 to 5yrs\" title bar is real, the \"5+ years or equivalent portfolio proof\" clause is verbatim accurate, and the core verdict — that Fractal's portal is structurally closed to a May-2027 graduate and the only real door is a referral into a campus intake — is correct, and I independently confirmed it: zero intern, trainee, graduate or campus reqs exist across all 137 Fractal jobs globally, with \"campus\" returning literally zero results.",
+ "final_recommendation": "Spend exactly ONE application at Fractal, on SR-42761, and spend it this week — it is the only req with no years figure, no seniority prefix, no end date, Mumbai in its location set, and canApply:true, which makes it the one link a referrer can argue FOR him on rather than against a printed bar. Drop the other four entirely: SR-20652 is a word-for-word duplicate of SR-42761 with \"Senior\" in the title and nine weeks left, SR-45903 says 3-to-5-years in its own title, SR-43796 is Bengaluru-only and would test him live in LangChain and LlamaIndex which he has never used, and SR-32787 is a Senior Engineer SDE seat he has said he does not want. Then stop treating the portal as the game: between now and 30 November 2026 his real deliverable is six to eight warm Fractal contacts from the DJSCE alumni network, built the way only he can — as Head of Marketing at DJS S4DS, invite a Fractal data scientist to judge an event in Oct-Nov, which makes him the one offering rather than asking. Before any of that converts, do the single highest-leverage technical fix: port KOP AI's retrieval to LlamaIndex and its agent loop to LangGraph over two weekends, because \"Lang chain, llama index\" sits in the REQUIRED Primary Skills block of every GenAI req at this company and it is a refactor of code he already wrote, not a new project. Finally, have a human contact confirm the \"Imagineers\" trainee programme actually exists and when its 2027 window opens — that claim is the entire strategy here and it is currently unverified, so do not let a December calendar reminder be the only thing standing between him and this company."
+}

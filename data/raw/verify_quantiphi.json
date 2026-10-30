@@ -1,0 +1,92 @@
+{
+ "company": "Quantiphi",
+ "verified_picks": [
+  {
+   "title": "Resume Dropbox (JR467)",
+   "url": "https://quantiphi.wd1.myworkdayjobs.com/Careers_at_Quantiphi/job/IN-MH-Mumbai-Eureka/Resume-Dropbox_JR467",
+   "http_status": "200 (page) + 200 from CXS API with canApply=true, posted=true",
+   "still_live": true,
+   "original_score": 55,
+   "original_eligible": "yes",
+   "corrected_score": 40,
+   "corrected_eligible": "yes",
+   "refuted": false,
+   "keep": true,
+   "reason": "Link audit: live. Page 200; CXS API returns jobPostingInfo with canApply=true, posted=true, includeResumeParsing=true, jobRequisitionLocation = IN MH Mumbai Eureka (India), plus Bengaluru, Trivandrum, Canada-Remote, USA-Remote. startDate 2023-04-12, no endDate. Eligibility claim SURVIVES — there is literally no posted requirement, so he cannot fail one. But the 'eligible: yes' framing is a category error the screen half-admits: this is a queue, not a requisition, and you cannot be eligible FOR nothing. Score cut 55 -> 40 because the screen ranked a no-req dropbox above three actual analyst reqs; its own gaps field says conversion is 'close to zero' while the number says otherwise. Keep it only because it is 10 minutes of work and the single door on this entire portal that is not closed by the years bar.",
+   "original_eligible_note": "yes"
+  },
+  {
+   "title": "PMO Analyst (JR11629)",
+   "url": "https://quantiphi.wd1.myworkdayjobs.com/Careers_at_Quantiphi/job/IN-KA-Bengaluru/PMO-Analyst_JR11629",
+   "http_status": "200 (page) + 200 from CXS API",
+   "still_live": true,
+   "original_score": 68,
+   "original_eligible": "stretch",
+   "corrected_score": 30,
+   "corrected_eligible": "no",
+   "refuted": true,
+   "keep": false,
+   "reason": "THE ONE REFUTATION THAT MATTERS. Link is live, posting is real, but 'stretch' does not survive. (1) LOCATION: I pulled the raw CXS record — location = 'IN KA Bengaluru', additionalLocations = None. Not a display quirk; there is no Mumbai tag on this requisition. The JD body's 'Location - Bangalore/Mumbai' is prose, the facet is the filter recruiters actually screen on. A Mumbai student who cannot relocate while enrolled at DJSCE is filtered out before qualifications are read. (2) EXPERIENCE: must-have #1 is verbatim '1-2 years of experience in a coordination, administrative, or project support role within a professional services or project-driven environment.' He has ~13 months of internships and ZERO months in professional services. Header says 'Experience - 1 to 3 Years.' (3) THE why_fit COLLAPSES IN A 30-SECOND SCREEN: the screen evidences 'organizational skills' and 'managing multiple tasks' with Vice Chairperson of Trinity and Head of Marketing at DJS S4DS — college club offices offered as proof of professional project-coordination experience. No PMO recruiter converts that. (4) TIMING: timeType=Full time, workerSubType=FTE, startDate 2026-08-10, i.e. 45 days stale on a 1-3yr req wanting a current joiner — filled by November 2026, seven months before he is free. (5) Workday itself is named in both 'Tools Used' and the good-to-have block and he has never touched it, and the screen correctly notes it is not self-learnable. Verdict: no, not stretch. Do not spend an application. Its only legitimate use is as evidence to a referrer that the PMO function hires at the junior end.",
+   "original_eligible_note": "stretch"
+  },
+  {
+   "title": "Senior Business Analyst - Conversational AI (JR9904)",
+   "url": "https://quantiphi.wd1.myworkdayjobs.com/Careers_at_Quantiphi/job/IN-MH-Mumbai-Eureka/Senior-Business-Analyst---Conversational-AI_JR9904",
+   "http_status": "200 (page) + 200 from CXS API",
+   "still_live": true,
+   "original_score": 58,
+   "original_eligible": "no",
+   "corrected_score": 30,
+   "corrected_eligible": "no",
+   "refuted": false,
+   "keep": false,
+   "reason": "Link live; JD text confirmed verbatim from the API: 'Experience: 3 to 6 years'. The screen already called it 'no' and that holds — 'Senior' is in the title, the floor is 3x his tenure, and qualification bullets are ANDed. Score cut 58 -> 30 because a 58 next to a 'no' invites him to apply anyway; nothing about a posting he cannot enter deserves a score in the same band as ones he can. Also posted 2026-04-28, five months stale. Zero hands-on with any named bot platform (Dialogflow, Lex, Watson, Bot Framework, Einstein). Do not apply.",
+   "original_eligible_note": "no"
+  },
+  {
+   "title": "Senior Business Analyst (JR10303)",
+   "url": "https://quantiphi.wd1.myworkdayjobs.com/Careers_at_Quantiphi/job/IN-MH-Mumbai-Eureka/Senior-Business-Analyst_JR10303",
+   "http_status": "200 (page) + 200 from CXS API",
+   "still_live": true,
+   "original_score": 48,
+   "original_eligible": "no",
+   "corrected_score": 20,
+   "corrected_eligible": "no",
+   "refuted": false,
+   "keep": false,
+   "reason": "Link live. I pulled the full requirements block and the screen actually UNDER-stated the gap, which is to its credit: alongside the insurance responsibilities the requirements demand 'Expands and applies healthcare and/or life sciences subject matter expertise' — a second domain he also lacks, which the screen never mentioned. Confirmed verbatim: header 'Experience Level: 4-7 Years' and requirements bullet '3+ years of experience in decision support, business analysis, business consulting or project management.' Senior title, contradictory but uniformly out-of-reach floor, plus 'In-depth knowledge of business intelligence functions, advanced analytics, industry standards and best practices' and customer-facing migration experience. Posted 2026-05-20. Not applicable and not learnable-into. Do not apply.",
+   "original_eligible_note": "no"
+  },
+  {
+   "title": "Senior Machine Learning Engineer (JR11938)",
+   "url": "https://quantiphi.wd1.myworkdayjobs.com/Careers_at_Quantiphi/job/IN-MH-Mumbai-Eureka/Senior-Machine-Learning-Engineer_JR11938",
+   "http_status": "200 (page) + 200 from CXS API",
+   "still_live": true,
+   "original_score": 52,
+   "original_eligible": "no",
+   "corrected_score": 18,
+   "corrected_eligible": "no",
+   "refuted": false,
+   "keep": false,
+   "reason": "Freshest req on the list — API says 'Posted 17 Days Ago', startDate 2026-09-07, Mumbai Eureka only — and JD text confirmed: 'Experience Level: 3-6 years', 'hands-on role for builders'. The 'no' is correct on the floor, but there is a second disqualifier the screen buried in its gaps rather than leading with: this is a Senior ML ENGINEER title on a core-engineering ladder, and he has explicitly said he does not want SDE-shaped work. A posting that is both out of reach AND off-target should not carry a 52. Cut to 18. Its residual value is exactly what the screen said — a referral artefact, because its five qualification lines do read like KOP AI's and LearnSphere's spec sheets — but do not let that seduce him into the ML-engineer ladder he did not ask for.",
+   "original_eligible_note": "no"
+  },
+  {
+   "title": "Associate Client Solutions Partner - P&C Insurance (JR11268)",
+   "url": "https://quantiphi.wd1.myworkdayjobs.com/Careers_at_Quantiphi/job/IN-MH-Mumbai-Eureka/Associate-Client-Solutions-Partner_JR11268",
+   "http_status": "200 (page) + 200 from CXS API",
+   "still_live": true,
+   "original_score": 38,
+   "original_eligible": "no",
+   "corrected_score": 10,
+   "corrected_eligible": "no",
+   "refuted": false,
+   "keep": false,
+   "reason": "Link live; JD confirmed verbatim: 'Years of Experience: 6 to 8'. Six to eight years against thirteen months of internships, plus zero insurance/P&C domain, zero US client selling, zero CRM. 'Associate' here is a seniority marker in a partner-track title, not a junior one. This should not have been on a shortlist at all — carrying it to six picks padded the list. Corrected to 10. Do not apply, do not study for it, do not mention it to a referrer.",
+   "original_eligible_note": "no"
+  }
+ ],
+ "apply_url": "https://quantiphi.wd1.myworkdayjobs.com/Careers_at_Quantiphi/job/IN-MH-Mumbai-Eureka/Resume-Dropbox_JR467",
+ "honesty_check": "Mostly honest, with one real overreach and one systematic one. The honest part is verifiable and I verified it independently rather than taking its word: I queried the Workday CXS jobs API directly and the board returns 110 total postings, workerSubType facet = FTE 108 / Intern (Fixed Term)(Trainee) 1 / Contractor 1, and searchText for 'graduate', 'campus' and 'fresher' each return 0; the single intern req on the planet is 'Intern - IT & Facilities Support' in Boston (JR10760), and 'entry level' resolves to that same Boston posting plus a Senior Sales Engineer. The screen's central claim — that Quantiphi's India portal has no student lane at all — is true, and it had the discipline to mark four of its own six picks 'no'. That is rare and it deserves credit. THE OVERREACH IS JR11629. Calling PMO Analyst a 'stretch' at 68 is the one call that could actually cost him an application, and it fails on a fact the screen itself surfaced and then talked past: the raw requisition record has location = IN KA Bengaluru with additionalLocations = None. The screen flagged this in its 'gaps' prose, then scored it as if the JD's 'Bangalore/Mumbai' body text won. It doesn't — the facet is what recruiters filter on. Worse, the why_fit sells college-club offices (Vice Chairperson of Trinity, Head of Marketing at S4DS) as evidence against a must-have that reads 'within a professional services or project-driven environment.' That is flattery that dies in thirty seconds. SECOND, SYSTEMATIC PROBLEM: score inflation across the board. Four picks marked 'no' carry scores of 38, 48, 52 and 58 — high enough that a tired candidate at 11pm applies anyway. A posting he cannot enter should score in the teens, not the fifties. Same for the Resume Dropbox at 55: its own gaps field says 'realistic conversion is close to zero' while the number says 'better than half these reqs.' THIRD: the nine-item skills_to_learn list is a misallocation the screen's own conclusion contradicts. It tells him Looker Studio is the 'highest leverage item for Quantiphi specifically' because JR11629 names it twice — but JR11629 is Bengaluru-only, FTE, and will be closed by November. Learn Looker Studio and Tableau because the whole Indian BI market asks for them, not for Quantiphi. Do not learn Dialogflow CX 'for JR9904', a five-month-stale req with a 3-year floor. Net: trust the screen's structural verdict, discard its numbers, and delete JR11629 from the apply list.",
+ "final_recommendation": "Spend exactly one evening here, this week, and nothing more. Tonight (by 27 Sep 2026), submit the Resume Dropbox JR467 at the verified link above — it is live, canApply=true, and tagged to Mumbai Eureka — with these two lines opening the cover letter: 'Available January-May 2027 for a full-time final-semester internship, Mumbai on-site' and 'Available for full-time employment from June 2027', followed by the phrases Quantiphi's own reqs repeat (Advanced SQL, Power BI, RAG, vector databases, multi-agent orchestration). Apply to nothing else on this portal: all five remaining picks are refuted, JR11629 included, and every one of them wants a joiner who can start in 2026. By 10 Oct, run the referral play the screen got right — LinkedIn search 'Quantiphi' + 'Dwarkadas J. Sanghvi College of Engineering' filtered to Mumbai, prioritise Engagement Managers and PMO/resource leads, and make the ask 'is there an intern or trainee seat for Jan-May 2027?' rather than 'refer me to a req', attaching KOP AI as the artefact. Then close the Quantiphi tab and put the real hours into the DJSCE TPO — ask them directly whether Quantiphi recruits on campus and for which cycle, because off-portal campus hiring is the only channel in which a May-2027 graduand is the intended audience, and if the TPO says no, Quantiphi is a 2028 target and not a 2026 one."
+}

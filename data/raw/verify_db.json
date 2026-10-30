@@ -1,0 +1,112 @@
+{
+ "company": "Deutsche Bank",
+ "verified_picks": [
+  {
+   "title": "2027 Graduate Programme — Investment Bank & Corporate Bank (campus-routed)",
+   "url": "https://careers.db.com/students-graduates/your-application/",
+   "http_status": "200 (172,797 bytes, server-rendered, full table present)",
+   "still_live": true,
+   "original_score": 92,
+   "original_eligible": "yes",
+   "corrected_score": 68,
+   "corrected_eligible": "yes",
+   "refuted": false,
+   "reason": "I pulled the page and confirmed the India row verbatim: 'Mumbai | Bangalore | 2027 Graduate Programme | Investment Bank | Corporate Bank | We hire from partner campuses in India between October and December' and 'Complete your studies ... between 1st January 2027 and 1st July 2028. Be able to start full time work in July 2027.' May 2027 + no backlogs clears it cleanly. The eligibility claim SURVIVES — I am not refuting it. What I am refuting is the score of 92. Ninety-two implies a high-value application; this is not an application at all. I searched the DB Workday tenant for '2027 Graduate Programme' (6 results) and 'Graduate Singapore' (5 results) and there is NO India graduate requisition anywhere. There is no form, no req ID, no URL that accepts a CV. Eligibility is necessary but not sufficient, and the binding gate — whether DJSCE is on DB's undisclosed Oct–Dec partner-campus list — is something neither he nor a referral controls. Scoring an unverifiable institutional gate at 92 is the screen confusing 'he meets the criteria' with 'he can get in'.",
+   "keep": true
+  },
+  {
+   "title": "2027 Graduate Programme — Technology, Data & Innovation (campus-routed)",
+   "url": "https://careers.db.com/students-graduates/your-application/",
+   "http_status": "200 (same page as the IB/CB row)",
+   "still_live": true,
+   "original_score": 78,
+   "original_eligible": "yes",
+   "corrected_score": 30,
+   "corrected_eligible": "yes",
+   "refuted": false,
+   "reason": "Verified verbatim: 'Pune | Bangalore | 2027 Graduate Programme | Technology, Data & Innovation | We hire from partner campuses in India between July and December' with the identical Jan-2027-to-Jul-2028 graduation band. So he IS eligible and I will not pretend otherwise. But keep=false, because this is not a separate action — it is the same single sentence to the same placement cell as the IB/CB row, so it consumes no application slot and deserves no independent score. Worse, it points at the one DB India track he has explicitly ruled out: TDI graduate intake skews software engineering, and the standard toolkit (Java, Scala, Spark) is precisely what he will not learn. The screen was right to say 'do NOT learn Java or Spark to chase this' and then contradicted itself by scoring it 78. If the placement cell says DB has filed for TDI and not IB/CB, he can take it — but he does not pursue it, and he does not relocate to Pune for an SDE-flavoured seat he does not want.",
+   "keep": false
+  },
+  {
+   "title": "2027 DWS Graduate Program (P.A.C.E.) — Client Coverage Division, Singapore (R0439327)",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/XMLNAME-2027-DWS-Graduate-Program--PACE-----Client-Coverage-Division---Singapore_R0439327-1",
+   "http_status": "200 — confirmed via Workday CxS JSON API (real posting body returned, startDate 2026-09-15); /apply endpoint also returns 200",
+   "still_live": true,
+   "original_score": 76,
+   "original_eligible": "yes",
+   "corrected_score": 80,
+   "corrected_eligible": "yes",
+   "refuted": false,
+   "reason": "I raised this one. I pulled the requisition JSON and every eligibility line is verbatim-confirmed and he clears all four: 'Already graduated or on track to graduate from a bachelor's or master's degree in either 2026 or 2027' (May 2027); 'Must be available to start on the 6th September 2027' (free); 'Less than 12 months of full-time relevant work experience (excluding internships)' — his ~13 months are ENTIRELY internships, which the bracket excludes, so he screens at zero; 'initial exposure to digital and Artificial Intelligence (AI)-related projects' — KOP AI and LawzyAI are far past 'initial'. I then confirmed the apply form loads. This is the ONLY graduate programme in the entire Deutsche Bank set with a working apply button that he is eligible for — the India routes have no form and the APAC window has no requisition. Two honest risks the screen stated correctly and I am not softening: Client Coverage is asset-management sales and distribution, not BI or analytics, so the application must be pitched off Infiheal (Series A materials, IndiGo/HDFC pipeline to proposal), not his Python stack; and Singapore work authorisation is unresolved — an Employment Pass for an Indian fresh graduate runs through the COMPASS framework, which scores the candidate's university, and DJSCE is not on Singapore's recognised list. Neither is a posted disqualifier. Apply anyway — it is the only live door.",
+   "keep": true
+  },
+  {
+   "title": "2027 Graduate Programme — APAC direct-apply windows (Singapore / Hong Kong / Non-Hub)",
+   "url": "https://careers.db.com/students-graduates/your-application/",
+   "http_status": "200 — page live; but NO backing requisition found on Workday",
+   "still_live": true,
+   "original_score": 72,
+   "original_eligible": "yes",
+   "corrected_score": 25,
+   "corrected_eligible": "stretch",
+   "refuted": true,
+   "reason": "REFUTED, and this is the audit's most useful catch. The posted text checks out exactly: 'Singapore | 2027 Graduate Programme | ... Corporate Bank | Private Bank | Human Resources | Chief Financial Office | 1 Sep - 11 Oct 2026', eligibility 'between 1st January 2026 and 31st July 2027' plus 'Possess no more than 12 months full-time, relevant work experience' — he clears every line. But the screen sold this as the 'secondary channel, genuinely useful because it has no campus gate: direct online application', and attached a HARD DEADLINE of 11 Oct to create urgency. I went looking for the form. Two POST searches against the DB Workday CxS jobs API returned every live graduate-tagged req: the three DWS P.A.C.E. programmes and the two apprentice reqs. There is no Singapore or Hong Kong 2027 Graduate Programme requisition for IB FIC / IBCM / Corporate Bank / Private Bank / HR / CFO. The careers-page apply link resolves to a hash-routed SPA, not a posting. So the 'direct online application' the screen told him to race a 17-day clock for is not verified to exist. Separately: the Non-Hub list is 'Philippines, South Korea, Indonesia, Malaysia, Taiwan' — India is NOT on it, so this is a foreign-market intake where he has no right to work and competes against NUS/NTU/HKU cohorts at home. He should not burn the next 17 days on a form I could not find. If he wants a second APAC shot, the verified substitutes are the two live Hong Kong DWS P.A.C.E. reqs, R0446314 (Investment) and R0445385 (Communications, Brand & CSR), both confirmed live on Workday today.",
+   "keep": false
+  },
+  {
+   "title": "Apprentice Hiring for 2026-2027 — Role 14: Corporate Bank, Project Management / Business Analyst (R0357981)",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice---Non-Technology_R0357981",
+   "http_status": "200 — confirmed via Workday CxS JSON (52,609 chars of description, startDate 2026-08-28)",
+   "still_live": true,
+   "original_score": 84,
+   "original_eligible": "stretch",
+   "corrected_score": 12,
+   "corrected_eligible": "no",
+   "refuted": true,
+   "reason": "REFUTED HARD — this was the screen's biggest error, ranking at 84 a programme he is structurally barred from. I pulled the full req and Role 14's skills block is a genuine match, exactly as claimed: 'Prompt Engineering to develop complicated AI prompts to solve business problems', 'Familiarity with tools like Tableau or Power BI' (the 'or' does let Power BI close it), 'Bachelor's degree (Computer Engineering/Computing)'. The match is real. The eligibility is not. The requisition's own first line reads verbatim: 'This 12-month apprenticeship, under India's National Apprenticeship Training Scheme, provides valuable on-the-job training.' NATS requires a COMPLETED degree, and it is a TWELVE-MONTH placement in the 2026-27 cycle beginning now. He is enrolled at DJSCE until May 2027. He cannot start it, and he cannot defer it — the screen's advice to 'apply, state availability from JUNE 2027' asks DB to hold a 12-month apprenticeship seat vacant for eight months, which no NATS cycle does. Compounding it: 20 sub-roles sit behind one apply button and I found no mechanism anywhere in the 52,609 characters to express a preference for Role 14, so he would be pooled against Role 1 (Jaipur, 'German Language B1/B2 level is must', mandatory night shifts). Do not spend an application. The Role 14 match is real but it belongs to the 2027-28 cycle — put ~Aug 2027 in his calendar, and note a fresher sibling req R0441975 (Mumbai Nirlon B7, posted 7 days ago) exists for tracking the cycle's rhythm.",
+   "keep": false
+  },
+  {
+   "title": "Lender Finance EU — Associate (R0452758)",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Lender-Finance-EU----Associate_R0452758",
+   "http_status": "200 — confirmed via Workday CxS JSON, startDate 2026-09-23, 'Posted Yesterday', endDate null",
+   "still_live": true,
+   "original_score": 79,
+   "original_eligible": "stretch",
+   "corrected_score": 22,
+   "corrected_eligible": "no",
+   "refuted": true,
+   "reason": "REFUTED on four independent axes, any one of which is fatal. (1) TOOLS IN THE REQUIRED LINE: I confirmed the verbatim bullet 'Proficiency in Python, SQL, MS Excel, VBA' — VBA sits inside the hard proficiency requirement, not a preferred list, and he has zero. The next bullet, 'Knowledge of ETL (Power Query), dashboarding (Power BI/Tableau), and modern data architecture concepts', contains two more zeros: Power Query and any warehouse/pipeline-at-scale exposure. His Power BI does close the dashboarding half. That is 2 hard misses inside the only explicit tool list DB India published — the screen called this 'nearly owns it outright', which is flattery. (2) SENIORITY IN THE TITLE: the req title is 'Lender Finance EU - Associate' and the body opens 'Job Title- Associate'. At DB, Associate is a formal corporate grade above Analyst and NCT, roughly the 3-6 year band. The screen noted the absence of a written year count as if that helped; I searched the full description and confirmed no year count exists — but an unwritten grade bar is still a bar, and it is the first thing a recruiter applies. (3) DOMAIN: the desk is 'a market-leading private credit financing platform providing bespoke financing solutions to leading direct lending funds', and he has never looked at a direct-lending fund, a loan tape, or a CLO. (4) TIMING: posted YESTERDAY with no closing date, on a small specialised EU desk staffed out of Mumbai. It will be filled within weeks. He cannot start until June 2027, nine months out. The screen's own framing — 'realistically this is a relationship play, not a conversion this quarter' — is correct and is itself the argument against spending an application slot on it.",
+   "keep": false
+  },
+  {
+   "title": "Business Management Analyst, NCT (R0437666)",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Margarpatta/Business-Management-Analyst_R0437666-1",
+   "http_status": "200 — confirmed via Workday CxS JSON, startDate 2026-09-16",
+   "still_live": true,
+   "original_score": 68,
+   "original_eligible": "stretch",
+   "corrected_score": 18,
+   "corrected_eligible": "no",
+   "refuted": true,
+   "reason": "REFUTED on the experience bar, which is the first number a recruiter screens. Verbatim from the req: '1-3 years of proven experience in business analysis, process improvement, change management, or consulting support roles within the financial services industry.' The screen leaned on the 'or' to argue CONSULTING SUPPORT lets his case-competition record in — that collapses in a 30-second screen. Ace The Case, the Spotify case at KJ Somaiya and the IES runner-up are competitions, not employment; no recruiter counts a podium finish as a consulting support role. And the qualifier 'within the financial services industry' binds the entire list, which narrows his relevant experience to CypherSOL plus Bigul: about FOUR MONTHS, against a floor of twelve. He is a third of the way to the minimum. The screen states this fact plainly ('roughly a third of the way to the floor, not at it') and then grades it 'stretch' anyway — that is the internal contradiction this audit exists to catch. Per the standing rule, a posted requirement exceeding ~13 months of internships is 'no', not 'stretch'. Secondary misses confirmed in the text: 'Basic understanding of Agile, Scrum, and Waterfall methodologies' (straight miss, no Scrum or Waterfall exposure) and 'Successful management of (sub-)projects' (thin outside ungoverned freelance work). Plus it is an immediate-joiner req in Pune, not Mumbai, and he cannot start for nine months. The Agile/Scrum credential advice is still sound for his general framing problem — it signals 'business analyst' rather than 'data person' — but it does not rescue THIS requisition.",
+   "keep": false
+  },
+  {
+   "title": "CSG LAF — Credit Solutions EU, Trading Enabler Associate (R0432129)",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/CSG-LAF_R0432129",
+   "http_status": "200 — live, but Workday JSON shows startDate 2026-04-08, 'Posted 30+ Days Ago' (actually 5.5 months stale)",
+   "still_live": true,
+   "original_score": 58,
+   "original_eligible": "stretch",
+   "corrected_score": 8,
+   "corrected_eligible": "no",
+   "refuted": true,
+   "reason": "REFUTED, and the screen misread the one sentence its whole case rested on. It argued 'DB is explicitly offering to teach the domain, which converts his biggest gap into a training item.' I pulled the verbatim four-bullet block: 'attention to details; short term interest rates knowledge (can be further developed on the desk); understanding of bonds / loans /swaps; ABS / CLO knowledge is a plus; desire to learn and curiosity about financial markets.' The 'can be further developed on the desk' parenthetical attaches ONLY to short-term interest rates. 'Understanding of bonds / loans / swaps' is its own bullet carrying NO such caveat — and he has none of it. DB offered to teach one thing and the screen generalised it into teaching everything. Second, the date: this requisition was posted 8 April 2026, making it 5.5 months old in a bank that posted three other reqs on this list within the last nine days. A req that age is either filled-and-not-closed or a perpetually-open evergreen, and neither converts for a candidate who cannot start for another nine months. Third, 'Trading Enabler Associate' is an Associate-grade front-office trading seat. Lowest written bar in the set, yes — but a low written bar on a stale req for a desk whose actual substance is ABS/CLOs and total return swaps is not an opening, it is an illusion. Score 58 was already the screen's lowest; it should have been a cut.",
+   "keep": false
+  }
+ ],
+ "apply_url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/XMLNAME-2027-DWS-Graduate-Program--PACE-----Client-Coverage-Division---Singapore_R0439327-1",
+ "honesty_check": "The screen is flattering him, and it overreached in four specific places. (1) The Apprentice req at score 84 was its worst call: the requisition's own opening line says '12-month apprenticeship, under India's National Apprenticeship Training Scheme', and NATS needs a completed degree — he is in college until May 2027, so he is structurally barred, not a 'stretch'. Telling him to 'apply and state availability from JUNE 2027' asks a 12-month cycle to hold a seat vacant for eight months. (2) The APAC window at 72 was sold as a 'direct online application' with a hard 11 Oct deadline, but I searched the DB Workday tenant twice and there is NO requisition behind that window — the screen manufactured urgency for a form it never confirmed exists. (3) Business Management Analyst counted case-competition podiums as 'consulting support roles' to clear a '1-3 years within the financial services industry' bar he meets with about four months. The screen even wrote 'roughly a third of the way to the floor' and then graded it stretch anyway — it knew and softened it. (4) CSG LAF misread the posting: DB's 'can be further developed on the desk' caveat covers short-term interest rates ONLY, not the separate uncaveated 'understanding of bonds / loans / swaps' bullet, and the screen generalised one training offer into a general amnesty on a req that is 5.5 months stale. A pattern runs through all four: the screen states the disqualifying fact accurately in its own 'gaps' field and then declines to let it change the verdict. Where it was RIGHT and I raised the score: DWS P.A.C.E. Singapore genuinely clears every written line, including the 'less than 12 months full-time (excluding internships)' clause where his all-internship history is an active qualification. It was also right that the India campus routes have no form, right to say do not learn Java or Spark for TDI, and right that Power BI closes every 'Tableau or Power BI' bullet in the set. Net: 8 picks in, 1 real application out.",
+ "final_recommendation": "Do exactly two things at Deutsche Bank, in this order, and ignore the other six. FIRST, this week: apply to the 2027 DWS P.A.C.E. Graduate Program, Client Coverage, Singapore (R0439327) — I verified the posting is live (posted 15 Sep) and the apply form loads, and it is the only DB graduate programme anywhere with a working button he is eligible for; pitch it off the commercial half of his resume (Infiheal Series A materials, the IndiGo and HDFC pipeline, Korea Market Access and HEC Paris/Station F selections), state 6 September 2027 as his start date because that is DB's own stated date, and ask the recruiter at dws.ECrecruitment@db.com directly whether they sponsor an Employment Pass for an Indian fresh graduate — the public record does not answer it and a visa is not something a certificate fixes. If he wants a second shot at the same programme, the Hong Kong siblings R0446314 and R0445385 are both verified live today. SECOND, this week and it costs nothing: email the DJSCE placement cell asking whether Deutsche Bank has filed for the Oct–Dec 2026 campus slot for the 2027 Graduate Programme, Investment Bank and Corporate Bank — he verifiably meets DB's published eligibility ('complete your studies between 1st January 2027 and 1st July 2028', 'start full time work in July 2027'), the gate is purely institutional, and this single question is also the one place a DB Mumbai referral genuinely helps because no public source lists the partner campuses. Spend his one referral there, not on R0452758. Do NOT spend an application on the Apprentice req, Lender Finance, Business Management Analyst, CSG LAF, or the APAC window — four are refuted outright and one has no findable form. His prep time goes to rehearsing the Ace The Case IIT Bombay and Spotify case wins to a crisp four-minute telling for the campus round, not to learning VBA or Power Query for a Lender Finance Associate seat that will be filled long before he graduates; the one tool worth learning, MS Power Automate, should wait for the 2027-28 apprentice cycle he opens in roughly August 2027."
+}

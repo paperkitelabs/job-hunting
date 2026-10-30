@@ -1,0 +1,10 @@
+{
+ "company": "Cresta",
+ "ats": "greenhouse",
+ "slug": "cresta",
+ "total": 96,
+ "india_total": 2,
+ "relevant": 0,
+ "roles": [],
+ "feed": "https://boards-api.greenhouse.io/v1/boards/cresta/jobs?content=true"
+}

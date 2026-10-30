@@ -1,0 +1,389 @@
+<title>Where Mumbai Actually Hires</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<style>
+:root{
+  --ground:#F1F3F1; --surface:#FBFCFB; --surface-2:#E9EDEB;
+  --ink:#131C1A; --ink-2:#3D4B47; --muted:#5F6F6A; --line:#D2DAD6; --line-2:#C0CBC6;
+  --teal:#0F6E63; --teal-soft:#DCEBE7; --amber:#9C6612; --amber-soft:#F3E8D4;
+  --clay:#9E3626; --clay-soft:#F4DFDA;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --ground:#0E1412; --surface:#161E1C; --surface-2:#1E2825;
+    --ink:#E3EAE7; --ink-2:#BCC9C4; --muted:#8FA09B; --line:#28342F; --line-2:#36453F;
+    --teal:#56C4B2; --teal-soft:#153029; --amber:#D7A257; --amber-soft:#2E2617;
+    --clay:#DC8270; --clay-soft:#33201C;
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#0E1412; --surface:#161E1C; --surface-2:#1E2825;
+  --ink:#E3EAE7; --ink-2:#BCC9C4; --muted:#8FA09B; --line:#28342F; --line-2:#36453F;
+  --teal:#56C4B2; --teal-soft:#153029; --amber:#D7A257; --amber-soft:#2E2617;
+  --clay:#DC8270; --clay-soft:#33201C;
+}
+*{box-sizing:border-box}
+body{background:var(--ground); color:var(--ink);
+  font-family:"IBM Plex Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  font-size:15px; line-height:1.55; -webkit-font-smoothing:antialiased}
+.wrap{max-width:1100px; margin:0 auto; padding-inline:20px; padding-block:34px 72px}
+h1,h2,h3{font-family:Archivo,"IBM Plex Sans",sans-serif; text-wrap:balance; margin:0}
+.mono{font-family:"IBM Plex Mono",ui-monospace,monospace; font-variant-numeric:tabular-nums}
+.eyebrow{font-family:"IBM Plex Mono",monospace; font-size:11px; letter-spacing:.14em;
+  text-transform:uppercase; color:var(--muted)}
+h1{font-size:clamp(30px,5.4vw,46px); font-weight:700; letter-spacing:-.022em; line-height:1.05; margin-top:10px}
+.dek{font-size:17px; color:var(--ink-2); max-width:64ch; margin-top:14px}
+.dek b{color:var(--ink); font-weight:600}
+
+/* evidence strip: the verified finding */
+.eviz{margin-top:28px; border-block:1px solid var(--line); padding-block:18px}
+.eviz h2{font-size:14.5px; font-weight:600; margin-bottom:3px}
+.eviz .sub{font-size:13.3px; color:var(--muted); max-width:74ch; margin-bottom:14px}
+.bars{display:grid; gap:7px}
+.brow{display:grid; grid-template-columns:150px 1fr 74px; gap:12px; align-items:center}
+.brow .nm{font-size:12.6px; color:var(--ink-2); text-align:right; overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+.btrack{position:relative; height:16px; background:var(--surface-2); border-radius:1px; overflow:hidden}
+.bmum{position:absolute; top:0; bottom:0; left:0; background:var(--teal)}
+.brest{position:absolute; top:0; bottom:0; background:var(--line-2)}
+.brow .vv{font-family:"IBM Plex Mono",monospace; font-size:11px; color:var(--muted)}
+.brow .vv b{color:var(--teal); font-weight:600}
+.legend{display:flex; gap:16px; flex-wrap:wrap; margin-top:11px; font-family:"IBM Plex Mono",monospace;
+  font-size:10.5px; color:var(--muted); letter-spacing:.04em; text-transform:uppercase}
+.legend i{display:inline-block; width:9px; height:9px; margin-right:5px; vertical-align:-1px}
+.sw-t{background:var(--teal)} .sw-r{background:var(--line-2)}
+
+.verdict{margin-top:20px; font-size:14px; color:var(--ink-2); max-width:76ch}
+.verdict b{color:var(--ink); font-weight:600}
+
+/* controls */
+.controls{display:flex; flex-wrap:wrap; gap:8px; align-items:center;
+  margin-top:34px; padding-bottom:13px; border-bottom:1px solid var(--line)}
+.chip{font-family:"IBM Plex Mono",monospace; font-size:11.5px; letter-spacing:.04em;
+  padding:5px 11px; border:1px solid var(--line-2); background:transparent; color:var(--ink-2);
+  border-radius:2px; cursor:pointer; text-transform:uppercase}
+.chip:hover{border-color:var(--teal); color:var(--teal)}
+.chip[aria-pressed="true"]{background:var(--ink); color:var(--ground); border-color:var(--ink)}
+.chip:focus-visible,.co:focus-visible,.go:focus-visible{outline:2px solid var(--teal); outline-offset:2px}
+.spacer{flex:1 1 auto; min-width:8px}
+.count{font-family:"IBM Plex Mono",monospace; font-size:11.5px; color:var(--muted)}
+
+/* group */
+.grp{margin-top:34px}
+.grp-head{display:flex; gap:12px; align-items:baseline; flex-wrap:wrap; margin-bottom:3px}
+.grp-head h2{font-size:18.5px; font-weight:600; letter-spacing:-.012em}
+.grp-head .rule{flex:1 1 40px; height:1px; background:var(--line); min-width:20px}
+.grp-head .num{font-family:"IBM Plex Mono",monospace; font-size:11px; color:var(--muted)}
+.grp-sub{font-size:13.4px; color:var(--muted); margin:0 0 14px; max-width:74ch}
+
+/* company row */
+.co{display:grid; grid-template-columns:1fr 92px 92px 108px; gap:16px; width:100%; text-align:left;
+  background:var(--surface); border:1px solid var(--line); border-radius:3px;
+  padding:13px 16px; margin-bottom:7px; align-items:center; cursor:pointer;
+  font-family:inherit; font-size:inherit; color:inherit}
+.co:hover{border-color:var(--line-2)}
+.co[aria-expanded="true"]{border-color:var(--teal)}
+.cname{font-family:Archivo,sans-serif; font-size:15.5px; font-weight:600; letter-spacing:-.008em; display:block}
+.cmeta{font-family:"IBM Plex Mono",monospace; font-size:10.5px; color:var(--muted); margin-top:3px;
+  display:flex; gap:10px; flex-wrap:wrap}
+.cell{font-family:"IBM Plex Mono",monospace; font-size:11px; color:var(--muted); line-height:1.35}
+.cell .big{display:block; font-family:Archivo,sans-serif; font-size:15px; font-weight:600;
+  color:var(--ink); letter-spacing:-.01em}
+.cell .big.tealed{color:var(--teal)}
+.cell .lbl{display:block; font-size:9.5px; letter-spacing:.07em; text-transform:uppercase; margin-top:1px}
+.pill{display:inline-block; font-family:"IBM Plex Mono",monospace; font-size:10px; font-weight:600;
+  letter-spacing:.07em; text-transform:uppercase; padding:3px 8px; border-radius:2px}
+.pill.fast{background:var(--teal-soft); color:var(--teal)}
+.pill.med{background:var(--amber-soft); color:var(--amber)}
+.pill.slow{background:var(--clay-soft); color:var(--clay)}
+.vtag{font-family:"IBM Plex Mono",monospace; font-size:9px; letter-spacing:.06em;
+  text-transform:uppercase; color:var(--teal); border:1px solid var(--teal); border-radius:2px;
+  padding:1px 5px; margin-left:7px; vertical-align:2px; font-weight:600}
+
+.detail{background:var(--surface); border:1px solid var(--line); border-top:0;
+  border-radius:0 0 3px 3px; margin:-8px 0 9px; padding:15px 17px 16px}
+.detail p{margin:0 0 9px; font-size:13.8px; color:var(--ink-2); max-width:74ch}
+.detail p:last-of-type{margin-bottom:12px}
+.detail .k{font-family:"IBM Plex Mono",monospace; font-size:9.5px; letter-spacing:.1em;
+  text-transform:uppercase; color:var(--teal); display:block; margin-bottom:1px}
+.detail .k.w{color:var(--amber)}
+.go{display:inline-block; text-decoration:none; font-size:12.5px; font-weight:600;
+  padding:6px 13px; border-radius:2px; background:var(--ink); color:var(--ground); border:1px solid var(--ink)}
+.go:hover{background:var(--teal); border-color:var(--teal); color:#fff}
+
+.foot{margin-top:46px; border-top:1px solid var(--line); padding-top:22px}
+.foot h2{font-size:15px; font-weight:600; margin-bottom:9px}
+.foot p,.foot li{font-size:13.4px; color:var(--muted); max-width:78ch}
+.foot ul{margin:0; padding-left:18px} .foot li{margin-bottom:5px}
+.foot b{color:var(--ink-2); font-weight:600}
+
+@media (max-width:860px){
+  .co{grid-template-columns:1fr 80px 96px; gap:12px}
+  .co .c-scale{display:none}
+  .brow{grid-template-columns:110px 1fr 66px; gap:9px}
+}
+@media (max-width:560px){
+  .wrap{padding-inline:16px}
+  .co{grid-template-columns:1fr auto; gap:10px}
+  .co .c-open{display:none}
+  .brow{grid-template-columns:88px 1fr 58px}
+  .brow .nm{font-size:11.5px}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important; transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">company screen &middot; india &amp; mumbai &middot; 24 sep 2026</div>
+    <h1>Where Mumbai actually hires</h1>
+    <p class="dek">Thirty employers big enough to run Amazon-scale intake, filtered for the ones that move fast
+      and hire your profile. But first, a finding that should change your search: <b>I pulled live opening counts
+      straight from seven companies' careers systems, and Mumbai is not a product-tech city.</b></p>
+
+    <section class="eviz">
+      <h2>Live openings today, Mumbai vs rest of India</h2>
+      <p class="sub">Queried directly from each company's careers API on 24 Sep 2026 &mdash; not scraped from a
+        jobs aggregator. The split is the whole argument.</p>
+      <div class="bars" id="bars"></div>
+      <div class="legend">
+        <span><i class="sw-t"></i>Mumbai</span>
+        <span><i class="sw-r"></i>Rest of India</span>
+      </div>
+    </section>
+
+    <p class="verdict">Read the top three rows against the bottom three. The banks and the analytics firm put
+      <b>most of their India hiring in Mumbai</b>. The product-tech companies put almost none of it there &mdash;
+      NVIDIA has 199 roles in Bengaluru and 13 in Mumbai; S&amp;P Global has 13 in Hyderabad and 1 in Mumbai.
+      So the honest answer to your question splits in two: <b>if you stay in Mumbai, your volume is BFSI
+      captives, analytics pure-plays and consulting.</b> If you want product-tech scale, that is a Bengaluru,
+      Hyderabad or Pune decision, and worth making deliberately rather than by accident.</p>
+  </header>
+
+  <div class="controls">
+    <button class="chip" data-f="all" aria-pressed="true">All 30</button>
+    <button class="chip" data-f="mumbai" aria-pressed="false">Mumbai-strong</button>
+    <button class="chip" data-f="fast" aria-pressed="false">Fast movers</button>
+    <button class="chip" data-f="consult" aria-pressed="false">Consulting fit</button>
+    <span class="spacer"></span>
+    <span class="count" id="count"></span>
+  </div>
+
+  <main id="groups"></main>
+
+  <section class="foot">
+    <h2>Two things before you start working through these</h2>
+    <ul>
+      <li><b>Your campus is the cheat code, and it expires.</b> DJ Sanghvi is a target school for TCS, Accenture,
+        Deloitte, LTIMindtree, Fractal and ZS. A campus process converts in weeks and skips the resume filter
+        that just blocked you at Amazon. You are in your final year &mdash; this channel is open now and gone
+        after June 2027. Work it before, not after, the off-campus list.</li>
+      <li><b>"Fast" here means hiring model, not a measured stat.</b> I rated speed on how each company hires:
+        cohort and volume recruiters (IT services, analytics pure-plays, BPM) run batched drives and close in
+        two to four weeks; BFSI captives and consulting run four to eight weeks with more rounds; Big Tech
+        runs headcount-approval hiring that stalls for months, which is exactly what you hit with Microsoft.
+        Treat the pill as a planning estimate, not a promise.</li>
+    </ul>
+  </section>
+</div>
+
+<script id="ev" type="application/json">
+[{"n":"Deutsche Bank","m":88,"t":296,"v":1},
+ {"n":"Morgan Stanley","m":81,"t":108,"v":1},
+ {"n":"Fractal Analytics","m":53,"t":94,"v":1},
+ {"n":"Salesforce","m":24,"t":120,"v":1},
+ {"n":"NVIDIA","m":13,"t":245,"v":1},
+ {"n":"Mastercard","m":13,"t":236,"v":1},
+ {"n":"S&P Global","m":1,"t":35,"v":1}]
+</script>
+
+<script id="co" type="application/json">
+[
+{"name":"JPMorganChase","grp":1,"city":"Mumbai (Powai), Hyd, Blr","scale":"~55k India","mum":"10k+","open":"Very high","speed":"med","fit":95,
+ "why":"The single largest GCC employer in Mumbai, and building Asia's largest GCC campus in Powai — 2M sq ft for 30,000 people by 2029. That build-out means sustained analyst hiring, not a one-off wave. Runs real Analyst tracks in data analytics, risk and quant that take non-CS quantitative backgrounds.",
+ "watch":"Its own site search is clunky and buries India roles. Filter by location first, then keyword 'analyst' — do not browse by function.",
+ "ch":"Campus + off-campus Analyst Programme","url":"https://careers.jpmorgan.com/global/en/students/programs"},
+{"name":"Morgan Stanley","grp":1,"city":"Mumbai (India HQ)","scale":"~12k India","mum":"Majority","open":"108 live","speed":"med","fit":93,
+ "why":"Verified today: 81 of its 108 live India roles are Mumbai. No other employer I checked concentrates hiring in Mumbai that heavily. Strong quantitative analyst and business-intelligence bench, and its India centre does real analytical work rather than support.",
+ "watch":"Bar is high and rounds are quantitative. Your case-competition record and CGPA 8.82 matter here more than anywhere else on this list.",
+ "ch":"Off-campus + campus","url":"https://www.morganstanley.com/careers","verified":1},
+{"name":"Deutsche Bank","grp":1,"city":"Mumbai (Nirlon), Pune, Blr","scale":"~20k India","mum":"~88 live","open":"296 live","speed":"med","fit":90,
+ "why":"Verified today: 296 live India roles, with roughly 88 across its three Nirlon Knowledge Park towers in Mumbai. Deep analytics, risk and data-engineering bench, and it hires at analyst level continuously rather than in bursts.",
+ "watch":"Many Mumbai reqs are regulatory-reporting flavoured. Read the JD for whether it is genuine analytics or controls work — both exist under the same titles.",
+ "ch":"Off-campus","url":"https://careers.db.com/","verified":1},
+{"name":"Fractal Analytics","grp":1,"city":"Mumbai (co-HQ)","scale":"~4.6k","mum":"53 live","open":"94 live","speed":"fast","fit":94,
+ "why":"Verified today: 53 of 94 live India roles are Mumbai. An analytics pure-play headquartered in your city, where Business Analyst and Data Analyst are the actual entry titles rather than a rebranded support role. Python plus SQL plus a case-solving instinct is precisely its screen.",
+ "watch":"Fresher intake is selective — it prefers a strong internship record over raw marks. Lead with CypherSOL and the Spotify and retail case wins, not coursework.",
+ "ch":"Campus + off-campus","url":"https://fractal.ai/careers/","verified":1},
+{"name":"WNS","grp":1,"city":"Mumbai (HQ), Pune, Blr","scale":"~60k","mum":"Heavy","open":"High","speed":"fast","fit":82,
+ "why":"Mumbai-headquartered, sixty thousand people, and an analytics arm (WNS Triange) that hires analysts in volume. Batch recruitment means a decision in weeks, and the entry bar is genuinely fresher-friendly.",
+ "watch":"Role quality varies sharply between the analytics arm and general BPM delivery. Target Triange explicitly or you will land in process work.",
+ "ch":"Campus + walk-in drives","url":"https://www.wns.com/careers"},
+{"name":"Accenture India","grp":1,"city":"Mumbai, Blr, Hyd, Pune","scale":"~300k+ global","mum":"Heavy","open":"Very high","speed":"fast","fit":88,
+ "why":"The highest-volume professional-services recruiter in India and a genuine Amazon-scale operation. Its Strategy & Consulting and Song arms take analytical non-CS profiles, and Applied Intelligence is a direct fit for your data plus business mix.",
+ "watch":"Volume hiring means you can get slotted into generic delivery. Apply to a named practice, not the general pool.",
+ "ch":"Campus (DJSCE target) + off-campus","url":"https://www.accenture.com/in-en/careers"},
+{"name":"Deloitte India (USI)","grp":1,"city":"Mumbai, Hyd, Blr, Gurgaon","scale":"~120k global","mum":"Heavy","open":"Very high","speed":"med","fit":91,
+ "why":"Hires into consulting and analytics in the thousands annually and recruits at DJ Sanghvi. This is where your consulting resume does the most work — the case-competition record reads as directly relevant evidence rather than as a hobby.",
+ "watch":"USI (the India delivery arm) and Deloitte India (client-facing) are different entities with different pay and work. Know which one a req belongs to before you apply.",
+ "ch":"Campus + off-campus","url":"https://www2.deloitte.com/in/en/careers.html"},
+{"name":"TCS","grp":1,"city":"Mumbai (HQ), pan-India","scale":"~600k","mum":"Heavy","open":"Very high","speed":"fast","fit":72,
+ "why":"India's largest private employer, headquartered in Mumbai, and the fastest structured entry on this entire list. The NQT sits an aptitude test and can produce an offer in weeks with no referral and no network.",
+ "watch":"Entry pay and early role quality are the weakest here. Worth it as a guaranteed floor under your search, not as a first choice.",
+ "ch":"NQT (National Qualifier Test) + campus","url":"https://www.tcs.com/careers"},
+{"name":"Nomura","grp":1,"city":"Mumbai (Powai)","scale":"~5k India","mum":"Almost all","open":"Moderate","speed":"med","fit":86,
+ "why":"Its India centre is effectively all Mumbai and does quantitative, research and analytics work rather than support. Smaller intake than the big banks, but the work-to-headcount ratio is unusually good for an analyst.",
+ "watch":"Low volume. Two or three good openings at a time, so set an alert rather than checking monthly.","ch":"Off-campus + campus","url":"https://www.nomura.com/asia/careers/"},
+{"name":"Morningstar","grp":1,"city":"Navi Mumbai (Vashi)","scale":"~3k India","mum":"Almost all","open":"Moderate","speed":"fast","fit":88,
+ "why":"A genuine analyst factory in Navi Mumbai — investment data, equity and fund research — that hires final-year and early-career analysts steadily and decides quickly. Financial-data work maps cleanly onto your CypherSOL fintech experience.",
+ "watch":"Commute from Mumbai proper to Vashi is real. Check the specific office before accepting.",
+ "ch":"Off-campus + campus","url":"https://www.morningstar.com/careers"},
+{"name":"CRISIL","grp":1,"city":"Mumbai (HQ)","scale":"~4k+","mum":"Heavy","open":"Moderate","speed":"fast","fit":85,
+ "why":"Mumbai-headquartered, now an S&P Global company, and one of the country's densest concentrations of research and analytics roles. Hires analysts continuously and runs a short process.",
+ "watch":"Ratings and research roles lean finance-heavy. The Global Analytical Centre is the arm that wants your Python and SQL.",
+ "ch":"Off-campus + campus","url":"https://www.crisil.com/en/home/careers.html"},
+{"name":"Quantiphi","grp":1,"city":"Mumbai, Blr","scale":"~4k","mum":"Strong","open":"Moderate","speed":"fast","fit":87,
+ "why":"Mumbai-rooted AI and analytics firm growing fast, with applied ML and GenAI as the actual product. Your RAG and multi-agent projects are the portfolio this kind of firm screens on, and they move quickly.",
+ "watch":"Smaller than the banks, so intake is lumpy. Apply when a req is fresh rather than waiting for a cycle.",
+ "ch":"Off-campus + campus","url":"https://quantiphi.com/careers/"},
+{"name":"LTIMindtree","grp":1,"city":"Mumbai (HQ), pan-India","scale":"~85k","mum":"Heavy","open":"High","speed":"fast","fit":74,
+ "why":"Mumbai-headquartered, large, and a consistent volume recruiter with a data and analytics practice. Batch hiring closes fast.",
+ "watch":"Same caveat as TCS — the floor is reliable, the ceiling early on is low.","ch":"Campus + off-campus","url":"https://www.ltimindtree.com/careers/"},
+{"name":"Reliance Jio","grp":1,"city":"Navi Mumbai (HQ)","scale":"~90k+","mum":"Heavy","open":"High","speed":"fast","fit":78,
+ "why":"Enormous, Mumbai-headquartered, and running consumer data at a scale very few Indian companies touch. Hires analysts and data roles in volume and decides fast.",
+ "watch":"Process can be informal and referral-driven. A warm intro moves you far more than a portal application here.",
+ "ch":"Off-campus + campus","url":"https://careers.jio.com/"},
+{"name":"HDFC Bank","grp":1,"city":"Mumbai (HQ)","scale":"~210k","mum":"Heavy","open":"High","speed":"fast","fit":76,
+ "why":"Mumbai-headquartered with a large and growing in-house analytics and data-science team. Domestic banks now run serious BI functions and hire freshers into them directly.",
+ "watch":"Analytics roles sit inside a very large retail-banking org — be specific about which team, or you will be routed to branch-track roles.",
+ "ch":"Off-campus + campus","url":"https://www.hdfcbank.com/personal/about-us/careers"},
+{"name":"ICICI Bank","grp":1,"city":"Mumbai (HQ)","scale":"~150k","mum":"Heavy","open":"High","speed":"fast","fit":75,
+ "why":"Mumbai-headquartered, runs a large analytics and digital org, and is among the faster movers in domestic BFSI. Structured entry programmes recruit final-years directly.",
+ "watch":"Same routing risk as HDFC. Target the analytics or digital verticals by name.","ch":"Structured entry programmes","url":"https://www.icicicareers.com/"},
+{"name":"Axis Bank","grp":1,"city":"Mumbai (HQ)","scale":"~100k","mum":"Heavy","open":"Moderate","speed":"fast","fit":73,
+ "why":"Mumbai-headquartered with a well-regarded data and analytics unit that hires at entry level and moves quickly.",
+ "watch":"Smaller analytics intake than HDFC or ICICI.","ch":"Off-campus + campus","url":"https://www.axisbank.com/careers"},
+{"name":"Nykaa","grp":1,"city":"Mumbai (HQ)","scale":"~3k","mum":"Almost all","open":"Moderate","speed":"fast","fit":80,
+ "why":"Mumbai-headquartered consumer internet with real category, pricing and growth analytics work. Small enough that an analyst owns something visible, large enough to be a credible first employer.",
+ "watch":"Below the scale bar you set. Include it because the work quality and Mumbai base are unusually good, not because it hires in thousands.",
+ "ch":"Off-campus","url":"https://www.nykaa.com/careers"},
+{"name":"Dream11","grp":1,"city":"Mumbai (HQ)","scale":"~1k","mum":"Almost all","open":"Low-moderate","speed":"fast","fit":79,
+ "why":"Mumbai-headquartered, genuinely data-led, and known for a short, sharp hiring process. Strong analytics and data-science culture for its size.",
+ "watch":"Small intake and a high bar. A stretch on volume, but the fastest decision on this page.","ch":"Off-campus","url":"https://www.dream11.com/careers"},
+{"name":"Angel One","grp":1,"city":"Mumbai (HQ)","scale":"~4k","mum":"Heavy","open":"Moderate","speed":"fast","fit":81,
+ "why":"Mumbai-headquartered fintech broker with heavy investment in data and product analytics. Your Bigul algo-trading product internship is near-identical domain experience — that is a rare, direct match.",
+ "watch":"Smaller than the banks; openings come in waves.","ch":"Off-campus","url":"https://www.angelone.in/careers"},
+
+{"name":"ZS Associates","grp":2,"city":"Pune, Gurgaon, Blr","scale":"~13k global","mum":"Light","open":"High","speed":"med","fit":92,
+ "why":"The best pure fit on this page for your consulting resume. ZS hires analytics-and-strategy hybrids and screens with business cases — the exact format you have placed in four times, including fourth of 400+ at IIT Bombay. Decision Analytics Associate is written for your profile.",
+ "watch":"No meaningful Mumbai office. This is a relocation decision to Pune or Gurgaon.","ch":"Campus (DJSCE target) + off-campus","url":"https://www.zs.com/careers"},
+{"name":"Mu Sigma","grp":2,"city":"Bengaluru","scale":"~3.5k","mum":"None","open":"High","speed":"fast","fit":86,
+ "why":"Hires freshers into Decision Scientist roles in large cohorts and is one of the fastest processes in Indian analytics. Explicitly builds its intake from fresh graduates rather than lateral hires, which removes the experience-bar problem entirely.",
+ "watch":"Known for intense workload and a strong bond-and-training model. Read the terms carefully before signing.",
+ "ch":"Campus + off-campus cohorts","url":"https://www.mu-sigma.com/careers"},
+{"name":"Tiger Analytics","grp":2,"city":"Chennai, Blr, Hyd","scale":"~5k","mum":"Light","open":"High","speed":"fast","fit":88,
+ "why":"Fast-growing analytics pure-play that hires analysts and associate data scientists continuously and runs a short loop. Python, SQL and a real project portfolio is the whole screen.",
+ "watch":"Mumbai presence is thin. Plan on relocating or on a remote-first req.","ch":"Off-campus + campus","url":"https://www.tigeranalytics.com/careers/"},
+{"name":"Tredence","grp":2,"city":"Bengaluru, Chennai","scale":"~3.5k","mum":"Light","open":"Moderate","speed":"fast","fit":85,
+ "why":"Analytics pure-play with strong retail and supply-chain practices — the domains your IES retail case and Spotify consumption analysis already speak to. Quick process, fresher-friendly analyst tier.",
+ "watch":"Smaller intake than Fractal or Tiger.","ch":"Off-campus","url":"https://www.tredence.com/careers"},
+{"name":"LatentView Analytics","grp":2,"city":"Chennai, Blr","scale":"~2.5k","mum":"Light","open":"Moderate","speed":"fast","fit":84,
+ "why":"Consistent fresher recruiter into analyst roles with a short, structured process. Good first-analytics-job reputation and genuine client-facing exposure early.",
+ "watch":"Chennai-centred. Smaller brand weight than Fractal for a second job.","ch":"Campus + off-campus","url":"https://www.latentview.com/career/"},
+{"name":"EXL Service","grp":2,"city":"Noida, Pune, Blr","scale":"~55k","mum":"Light","open":"Very high","speed":"fast","fit":80,
+ "why":"Large analytics and BPM firm hiring into data and analytics roles at real volume, with a fast batch process. Scale comparable to what you asked for.",
+ "watch":"Analytics and operations sit under one roof. Target the analytics vertical explicitly.","ch":"Campus + walk-in drives","url":"https://www.exlservice.com/careers"},
+{"name":"Genpact","grp":2,"city":"Gurgaon, Hyd, Blr","scale":"~125k","mum":"Light","open":"Very high","speed":"fast","fit":78,
+ "why":"Very large, hires analysts in volume, and moves quickly. Its data and analytics practice takes fresh graduates with SQL and Python.",
+ "watch":"Same analytics-versus-operations routing risk as EXL.","ch":"Campus + drives","url":"https://www.genpact.com/careers"},
+{"name":"EY India / GDS","grp":2,"city":"Blr, Gurgaon, Kochi, Mumbai","scale":"~100k+ India","mum":"Medium","open":"Very high","speed":"med","fit":86,
+ "why":"Among the highest-volume professional-services recruiters in India, with consulting and data-analytics tracks that take engineering graduates. Your consulting resume travels well here.",
+ "watch":"GDS (delivery) and EY India (client-facing) differ materially in work and pay. Check the entity on the req.","ch":"Campus + off-campus","url":"https://www.ey.com/en_in/careers"},
+{"name":"Goldman Sachs","grp":2,"city":"Bengaluru, Hyderabad","scale":"~9k India","mum":"Light","open":"Moderate","speed":"med","fit":83,
+ "why":"Engineering and analytics roles with a genuinely high work bar, and a structured Analyst programme that recruits final-year students directly — one of the few here designed for your graduation timing.",
+ "watch":"Bengaluru and Hyderabad, not Mumbai. Very competitive, and the campus route is far higher-yield than the portal.","ch":"Campus Analyst Programme","url":"https://www.goldmansachs.com/careers"},
+{"name":"Walmart Global Tech India","grp":2,"city":"Bengaluru, Chennai","scale":"~25k India","mum":"None","open":"High","speed":"med","fit":82,
+ "why":"Retail data at Amazon-comparable scale, with real business-analyst and data-analyst tracks rather than only engineering. Closest thing on this list to the Amazon roles you already shortlisted.",
+ "watch":"Bengaluru-only for practical purposes, and the experience bar reads much like Amazon's — screen the JD the same way.","ch":"Off-campus + campus","url":"https://careers.walmart.com/technology"}
+]
+</script>
+
+<script>
+(function(){
+  "use strict";
+  var EV=JSON.parse(document.getElementById("ev").textContent);
+  var CO=JSON.parse(document.getElementById("co").textContent);
+  var GROUPS=[
+    {n:1,h:"Mumbai, at scale",s:"Big enough to hire continuously, headquartered or heavily staffed in Mumbai, and they take your profile. Start here — no relocation, no waiting for a cycle."},
+    {n:2,h:"Worth relocating for",s:"The same scale and speed, but the jobs are in Bengaluru, Pune, Gurgaon or Chennai. Several are a better fit for your resume than anything in Mumbai — decide whether the city or the work is the fixed constraint."}
+  ];
+  var SPEED={fast:"Fast",med:"Medium",slow:"Slow"};
+  var filter="all", open=null;
+  function esc(s){var d=document.createElement("div"); d.textContent=s==null?"":String(s); return d.innerHTML;}
+
+  // evidence bars
+  (function(){
+    var max=Math.max.apply(null,EV.map(function(e){return e.t;}));
+    document.getElementById("bars").innerHTML=EV.map(function(e){
+      var tw=(e.t/max)*100, mw=(e.m/max)*100;
+      return '<div class="brow"><span class="nm">'+esc(e.n)+'</span>'+
+        '<span class="btrack"><span class="brest" style="left:'+mw.toFixed(1)+'%;width:'+(tw-mw).toFixed(1)+'%"></span>'+
+        '<span class="bmum" style="width:'+mw.toFixed(1)+'%"></span></span>'+
+        '<span class="vv mono"><b>'+e.m+'</b>/'+e.t+'</span></div>';
+    }).join("");
+  })();
+
+  function match(c){
+    if(filter==="all") return true;
+    if(filter==="mumbai") return c.grp===1;
+    if(filter==="fast") return c.speed==="fast";
+    if(filter==="consult") return c.fit>=85 && /consult|analytic|advis|strategy|case/i.test(c.why+c.name+c.ch);
+    return true;
+  }
+
+  function rowHtml(c,i){
+    var id="co-"+i, isOpen=(open===i);
+    var h='<button class="co" data-i="'+i+'" aria-expanded="'+isOpen+'" aria-controls="'+id+'">'+
+      '<span><span class="cname">'+esc(c.name)+(c.verified?'<span class="vtag">live data</span>':'')+'</span>'+
+        '<span class="cmeta"><span>'+esc(c.city)+'</span><span>'+esc(c.ch)+'</span></span></span>'+
+      '<span class="cell c-scale"><span class="big">'+esc(c.scale)+'</span><span class="lbl">Scale</span></span>'+
+      '<span class="cell c-open"><span class="big'+(c.verified?' tealed':'')+'">'+esc(c.open)+'</span><span class="lbl">Openings</span></span>'+
+      '<span class="cell"><span class="pill '+c.speed+'">'+SPEED[c.speed]+'</span><span class="lbl">Fit '+c.fit+'/100</span></span>'+
+      '</button>';
+    if(isOpen){
+      h+='<div class="detail" id="'+id+'"><p><span class="k">Why it fits you</span>'+esc(c.why)+'</p>'+
+         '<p><span class="k w">Watch out</span>'+esc(c.watch)+'</p>'+
+         '<p style="margin-bottom:12px"><span class="k">Mumbai presence</span>'+esc(c.mum)+'</p>'+
+         '<a class="go" href="'+esc(c.url)+'" target="_blank" rel="noopener">Open careers site</a></div>';
+    }
+    return h;
+  }
+
+  function render(){
+    var host=document.getElementById("groups"), html="", shown=0;
+    GROUPS.forEach(function(g){
+      var list=[]; CO.forEach(function(c,i){ if(c.grp===g.n && match(c)) list.push([c,i]); });
+      list.sort(function(a,b){return b[0].fit-a[0].fit;});
+      if(!list.length) return;
+      shown+=list.length;
+      html+='<section class="grp"><div class="grp-head"><h2>'+esc(g.h)+'</h2><span class="rule"></span>'+
+        '<span class="num mono">'+list.length+'</span></div><p class="grp-sub">'+esc(g.s)+'</p>'+
+        list.map(function(p){return rowHtml(p[0],p[1]);}).join("")+'</section>';
+    });
+    host.innerHTML=html||'<p class="grp-sub" style="margin-top:26px">Nothing matches that filter.</p>';
+    document.getElementById("count").textContent=shown+" of "+CO.length+" shown";
+  }
+
+  document.addEventListener("click",function(e){
+    var b=e.target.closest(".co");
+    if(b){ var i=+b.getAttribute("data-i"); open=(open===i?null:i); render(); return; }
+    var c=e.target.closest(".chip[data-f]");
+    if(!c) return;
+    filter=c.getAttribute("data-f"); open=null;
+    var chips=document.querySelectorAll(".chip[data-f]");
+    for(var k=0;k<chips.length;k++) chips[k].setAttribute("aria-pressed",String(chips[k]===c));
+    render();
+  });
+
+  render();
+})();
+</script>
