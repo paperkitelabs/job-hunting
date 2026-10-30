@@ -1,0 +1,19 @@
+{
+ "company": "Oracle",
+ "ats": "oracle",
+ "endpoint": "https://eeho.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions (site CX_45001, India loc 300000000106947)",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "graduate",
+  "student",
+  "campus",
+  "university"
+ ],
+ "total_hits": 87,
+ "india_intern_hits": [],
+ "details": {}
+}

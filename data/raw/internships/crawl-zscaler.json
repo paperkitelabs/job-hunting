@@ -1,0 +1,12 @@
+{
+ "company": "Zscaler",
+ "ats": "greenhouse",
+ "endpoint": "https://boards-api.greenhouse.io/v1/boards/zscaler/jobs",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 362,
+ "india_intern_hits": [],
+ "details": {}
+}

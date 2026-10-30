@@ -1,0 +1,32 @@
+{
+ "company": "Walmart Global Tech India",
+ "ats": "walmart-careers (own ATS; Workday tenant retired)",
+ "endpoint": "https://careers.walmart.com/api/ai/search-ai/api/v1/combined/hybrid-search",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "intern India",
+  "grad intern India",
+  "data science grad intern India",
+  "CA industrial trainee India",
+  "trainee India",
+  "apprentice India",
+  "+8 more"
+ ],
+ "total_hits": 138,
+ "india_intern_hits": [
+  {
+   "title": "(IND) Grad Intern - No Work Experience",
+   "loc": "Bengaluru",
+   "url": "https://careers.walmart.com/jobs/R-2557935",
+   "id": "R-2557935",
+   "posted": "2026-06-29"
+  }
+ ],
+ "details": {
+  "https://careers.walmart.com/jobs/R-2557935": {
+   "title": "(IND) Grad Intern - No Work Experience",
+   "status": "Open (requisitionStatus)",
+   "desc": "Job Posting Title: (IND) Grad Intern - No Work Experience\nJob Summary: ABOUT WALMART GLOBAL TECH INDIA At Walmart Global Tech India (IDC Bengaluru), we drive retail innovation at a massive global scale, enabling seamless experiences for over 270 million customers weekly across 19 countries. Powering the world's largest retail enterprise ($713B+ annual revenue, $1 Trillion+ valuation) requires a world-class financial backbone. Our finance teams work on complex operations, controllership, compliance, and strategic planning, providing a high-performance environment where learning meets scale.\nAdditional Description: WHO SHOULD APPLY (CANDIDATE ELIGIBILITY) ICAI Compliance & Education - Must be pursuing CA and eligible for Industrial Training per ICAI guidelines - Must not have completed CA final - Must have cleared CA Intermediate (Groups I & II) Core Skills & Competencies - Strong finance, budgeting, and analytical skills - Proficiency in MS Excel; exposure to AI tools is a plus - Passion for technology and business partnering WHAT YOU'LL GAIN - Exposure to global finance segments - Experience with AI-driven finance tools - Mentorship from global finance leaders Location: Bengaluru (In-office) Duration: 9-12 months\nJob Posting Description: Position Summary... ABOUT WALMART GLOBAL TECH INDIA At Walmart Global Tech India (IDC Bengaluru), we drive retail innovation at a massive global scale, enabling seamless experiences for over 270 million customers weekly across 19 countries. Powering the world's largest retail enterprise ($713B+ annual revenue, $1 Trillion+ valuation) requires a world-class financial backbone. Our finance teams work on complex operations, controllership, compliance, and strategic planning, providing a high-performance environment where learning meets scale. What you'll do... ABOUT THE OPPORTUNITY This is an ICAI-aligned Industrial Training opportunity designed for high-potential Chartered Accountancy (CA) students. In this role, you will support our Global Segments Finance teams, assisting in segment-level financial tracking, operational analysis, and forecasting. You will also participate in cutting-edge AI-led finance transformation initiatives, exploring automation, predictive dashboards, and process improvements to reduce manual workflows. This internship offers robust exposure to global business finance without traditional accounting silos. CA Industrial Trainee – Finance Focus: Global Segments Finance & AI-Led Transformation Open Positions: 4 Location: Bengaluru, India Function: Global Segments Finance Focus Area: AI-Led Transformation WHAT YOU'LL LEARN & DO Global Segments Finance & FP&A Segment Support: Assist global segment teams with financial reporting, business tracking, and segment reviews Forecasting & Close: Support weekly, monthly, and quarterly budgets, headcount forecasting, variance analyses, and close activities Supply Chain & Ops: Provide data support for supply chain and operational finance analyses AI-Led Transformation & Dashboards Process Automation: Automate recurring reports and variance trackers Modern AI Tools: Support testing and piloting AI tools Intelligent Insights: Build dashboards using tools like Copilot, Gemini, and internal AI systems Minimum Qualifications... Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications. Preferred Qualifications... Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications. Primary Location... Building 10 (sez), Cessna Business Park, Kadubeesanahalli Village, Varthur Hobli , India\nMinimum Pay: 66000\nMaximum Pay: 160000\nPay Frequency: Monthly\nCity: BENGALURU\nState: KA\nCountry: INDIA\nJob Area: : [Students]\nJob Category: : [Internship]\nManagement Level: I\nJob Family: Intern\nShift: Weekday Day\nShift: Weekend Day\nEmployment Type: Intern\nBrand: Walmart"
+  }
+ }
+}

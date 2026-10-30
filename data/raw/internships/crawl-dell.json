@@ -1,0 +1,18 @@
+{
+ "company": "Dell Technologies",
+ "ats": "oracle",
+ "endpoint": "https://enterpriseplatform.dell.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions (site CX_1001, India loc 300000000471053)",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "graduate",
+  "student"
+ ],
+ "total_hits": 10,
+ "india_intern_hits": [],
+ "details": {}
+}

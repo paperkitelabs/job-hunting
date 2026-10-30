@@ -1,0 +1,33 @@
+{
+ "company": "Apple",
+ "ats": "apple-jobs (hydration JSON)",
+ "endpoint": "https://jobs.apple.com/en-in/search?location=india-INDC",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "internships team filter",
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "student",
+  "all India (174 paged)"
+ ],
+ "total_hits": 174,
+ "india_intern_hits": [
+  {
+   "title": "PhD Intern, Apple Ads (Machine Learning)",
+   "loc": "Hyderabad",
+   "url": "https://jobs.apple.com/en-in/details/200684719/phd-intern-apple-ads-machine-learning",
+   "id": "200684719",
+   "posted": "2026-09-20"
+  },
+  {
+   "title": "PhD Intern, Machine Learning: MSI, Product Operations Team",
+   "loc": "Bengaluru",
+   "url": "https://jobs.apple.com/en-in/details/200676908/phd-intern-machine-learning-msi-product-operations-team",
+   "id": "200676908",
+   "posted": "2026-09-17"
+  }
+ ],
+ "details": {}
+}

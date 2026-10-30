@@ -1,0 +1,12 @@
+{
+ "company": "Uber",
+ "ats": "jobs.uber.com",
+ "endpoint": "https://jobs.uber.com/en/jobs/?query=intern&location=IND",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "intern"
+ ],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {}
+}

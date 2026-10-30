@@ -1,0 +1,20 @@
+{
+ "company": "Workday",
+ "ats": "workday",
+ "endpoint": "https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "graduate intern",
+  "student",
+  "co-op",
+  "university"
+ ],
+ "total_hits": 25,
+ "india_intern_hits": [],
+ "details": {}
+}

@@ -1,0 +1,16 @@
+{
+ "company": "Intuit",
+ "ats": "talentbrew",
+ "endpoint": "https://jobs.intuit.com/search-jobs/results (India facet 1269750)",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "India facet listing"
+ ],
+ "total_hits": 27,
+ "india_intern_hits": [],
+ "details": {}
+}

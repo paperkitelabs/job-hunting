@@ -1,0 +1,12 @@
+{
+ "company": "Atlassian",
+ "ats": "atlassian-json",
+ "endpoint": "https://www.atlassian.com/endpoint/careers/listings",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 365,
+ "india_intern_hits": [],
+ "details": {}
+}

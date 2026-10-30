@@ -1,0 +1,42 @@
+{
+ "company": "Autodesk",
+ "ats": "workday",
+ "endpoint": "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "graduate intern",
+  "student",
+  "co-op",
+  "university"
+ ],
+ "total_hits": 2,
+ "india_intern_hits": [
+  {
+   "title": "Apprentice, Talent Acquisition & People Experience",
+   "loc": "Bengaluru, IND",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Apprentice--Talent-Acquisition---People-Experience_23WD73769-1",
+   "id": "23WD73769",
+   "posted": "Posted 30+ Days Ago"
+  }
+ ],
+ "details": {
+  "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Apprentice--Talent-Acquisition---People-Experience_23WD73769-1": {
+   "title": "Apprentice, Talent Acquisition & People Experience",
+   "loc": "Bengaluru, IND",
+   "country": "India",
+   "id": "23WD73769",
+   "posted": "2024-01-18",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Apprentice--Talent-Acquisition---People-Experience_23WD73769-1",
+   "desc": "Job Requisition ID # \n 23WD73769\n Note: Please add the job role you're looking for from the profile below to the top of your CV/Resume while applying online.\nJob Title: Apprentice, Talent Acquisition & People Experience \n Job Location: Bengaluru & Pune \n Position Overview \n We are looking for motivated individuals for multiple roles in our People and Places (PPL) division which includes Talent Attraction Coordinator, Early Career Program Coordinator, PPL Advisor, and People Insight Analyst . \n Talent Attraction Coordinator Role : Responsible for coordinating candidate interviews, manages communication between hiring teams and applicants, and maintains recruitment databases. Collaborate with recruiters to organize recruitment events and contribute to talent acquisition strategies. Ensure a comprehensive onboarding process, handling administrative tasks and maintaining accurate records. \n Campus Coordinator Role: Responsible for overseeing daily university campus operations, managing recruitment, coordinating with all stakeholders for campus drives. Ensure a smooth campus and candidate experience, organize student engagement programs, and provide support for onboarding activities. \n PPL Advisor Role : T he PPL Advisor contributes to HR service delivery improvement. Responsibilities include handling HR-related inquiries , case management , and data reporting. Create and interpret reports, manage ServiceNow cases, ensure employee support and m aintain a ccurate employee files. Following Standard Operating Procedures for high-quality and service delivery. \n People Insight BI (Business Intelligence) Apprentices Role: Data Analyst with exposure in creating visualizations and dashboards for leadership using AWS, Python, R, and SQL. Possess SQL, scripting languages (R, Python), and BI tools (Tableau, Qlikview , Power BI). Collaborate with teams to transform data insights into applicable strategies . \n People Insight Data Scientist Apprentice Role: Responsible for creating insightful visualizations and dashboards, translating complex data findings into understandable formats for leadership and business. Extract data from diverse sources using AWS, Python/R, SQL, and other automated tools. Perform data analysis to assess quality and obtain meaningful insights. Collaborate with teams, using knowledge in SQL for building complex and optimized queries, scripting languages (R, Python), and BI tools (Tableau, Qlikview , Power BI, etc.) to transform data insights into applicable business strategies . \n Qualifications: \n B.tech i n computer science, B .Com , BBA, or a related field (2023 & 2024 graduates only) \n Thrive in a fast-paced environment with high volume and complex demands \n Excellent communication and interpersonal skills \n Ability to work both independently and collaboratively \n About Autodesk: \nAt Autodesk, we're building a diverse workplace and an inclusive culture to give more people the chance to imagine, design, and make a better world. Autodesk is proud to be an equal opportunity employer and considers all qualified applicants for employment without regard to race, color, religion, age, sex, sexual orientation, gender, gender identity, national origin, disability, veteran status or any other legally protected characteristic. We also consider for employment all qualified applicants regardless of criminal histories, consistent with applicable law. \n Are you an existing contractor or consultant with Autodesk? Please search for open jobs and apply internally (not on this external site). If you have any questions or require support, contact Autodesk Careers .",
+   "status": 200
+  }
+ }
+}

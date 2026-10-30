@@ -1,0 +1,198 @@
+{
+ "cluster": "R4e-analytics-kpo-2",
+ "checked": "30 Oct 2026",
+ "openings": [],
+ "rejected": [
+  {
+   "company": "Eclerx",
+   "role": "intern",
+   "url": "https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/81650",
+   "reason": "Placeholder 'intern' req whose JD is a UI-design role (asks 10+ yrs UI design) - design, not in scope"
+  },
+  {
+   "company": "Eclerx",
+   "role": "intern",
+   "url": "https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/82326",
+   "reason": "Placeholder 'intern' req with no JD ('Shared in email separately'); no role/dates to screen, posted May 2026"
+  }
+ ],
+ "round1": [],
+ "companies": [
+  {
+   "name": "MathCo (TheMathCompany)",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "Affine",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "Evalueserve",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "Acuity Knowledge Partners",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "The Smart Cube",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "Aays Analytics",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "Lumiq",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "Polestar Solutions",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "Indium Software",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "Decision Point",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "Cartesian Consulting",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "Eclerx",
+   "ats": "Oracle Recruiting Cloud",
+   "endpoint": "https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1 (India locationId 300000000467203)",
+   "india_intern_hits": 2,
+   "kept": 0,
+   "note": "Oracle India: 2 'intern' reqs (Mumbai), both rejected: one is a UI-design JD, one has no JD; rest are Analyst/Process Manager experienced roles"
+  },
+  {
+   "name": "Firstsource",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "Hinduja Global Solutions",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "Startek",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "Exusia",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "Sutherland",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "TaskUs",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "Ascendion",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "Kanerika",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "Straive",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  },
+  {
+   "name": "Cognida",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "pending crawl"
+  }
+ ]
+}

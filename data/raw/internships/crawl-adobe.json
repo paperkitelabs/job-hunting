@@ -1,0 +1,42 @@
+{
+ "company": "Adobe",
+ "ats": "workday",
+ "endpoint": "https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "graduate intern",
+  "student",
+  "co-op",
+  "university"
+ ],
+ "total_hits": 39,
+ "india_intern_hits": [
+  {
+   "title": "2027 Intern - Research PhD Intern",
+   "loc": "Bangalore",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/XMLNAME-2027-Intern---Research-PhD-Intern_R173016",
+   "id": "R173016",
+   "posted": "Posted 11 Days Ago"
+  }
+ ],
+ "details": {
+  "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/XMLNAME-2027-Intern---Research-PhD-Intern_R173016": {
+   "title": "2027 Intern - Research PhD Intern",
+   "loc": "Bangalore",
+   "country": "India",
+   "id": "R173016",
+   "posted": "2026-10-19",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/XMLNAME-2027-Intern---Research-PhD-Intern_R173016",
+   "desc": "Adobe Researchers are developing the next generation of advanced technologies and user experiences, inventing a future where Adobe enables new forms of creativity, frees people from routine tasks, and allows enterprises to understand and act quickly on customer and business insights. Our research labs are actively published in leading journals and conferences, work with product teams on high profile features, and explore new product opportunities across various domains. We are especially interested in fostering ongoing collaborations that last beyond the internship and become part of your PhD thesis. \nAdobe Research focuses on the following research areas: \n Agentic foundations: planning, memory, tool use, marketplaces, and agent infrastructure. \n Agent evaluation: simulation, AI judges, coverage analysis, and quality flywheels. \n Learning agents: feedback, credit assignment, adaptation, and skill acquisition. \n Generated experiences: podcasts, videos, presentations, and interactive media. \n Document intelligence: context-aware understanding, generation, and adaptation. \n Design intelligence: creative variation, quality assessment, and collaborative workflows. \n Brand intelligence: brand-safe creation, customer insights, and workflow automation. \n What you will need \nCurrent PhD student in computer science, or related field \nSufficient research skills and background in your chosen subject area \nStrong communication skills and teamwork experience \nPassion for solving real-world problems with web-scale data using and inventing innovative Machine Learning algorithms. \n About Adobe \nAdobe empowers everyone to create through innovative platforms and tools that unleash creativity, productivity and personalized customer experiences. Adobe’s industry-leading offerings including Adobe Acrobat Studio, Adobe Express, Adobe Firefly, Creative Cloud, Adobe Experience Platform, Adobe Experience Manager, and GenStudio enable people and businesses to turn ideas into impact, powered by AI and driven by human ingenuity. \nOur 30,000+ employees worldwide are creating the future and raising the bar as we drive the next decade of growth. We’re on a mission to hire the very best and believe in creating a company culture where all employees are empowered to make an impact. At Adobe, we believe that great ideas can come from anywhere in the organization. The next big idea could be yours. \nLet’s Adobe together \nAt Adobe, we believe in creating a company culture where all employees are empowered to make an impact. Learn more about Adobe life, including our values and culture , focus on people, purpose and community , Adobe for All , comprehensive benefits programs , the stories we tell , the customers we serve, and how you can help us advance our mission of empowering everyone to create. \nAdobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other protected characteristic. Learn more. \nAdobe aims to make our Careers website and recruiting process accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com . \n AI Use Guidelines for Interviews: \nOur interviews are designed to reflect your own skills and thinking. The use of AI or recording tools during live interviews is not permitted unless explicitly invited by the interviewer or approved in advance as part of a reasonable accommodation. If these tools are used inappropriately or in a way that misrepresents your work, your application may not move forward in the process. \nAt Adobe, we empower employees to innovate with AI — and we look for candidates eager to do the same. As part of the hiring experience, we provide clear guidance on where AI is encouraged during the process and where it’s restricted during live interviews. See how we think about AI in the hiring experience .",
+   "status": 200
+  }
+ }
+}

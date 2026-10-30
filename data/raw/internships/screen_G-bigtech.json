@@ -1,0 +1,531 @@
+{
+ "cluster": "G-bigtech",
+ "checked": "30 Oct 2026",
+ "openings": [
+  {
+   "company": "Microsoft",
+   "role": "Applied Sciences INTERN",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556917519?domain=microsoft.com",
+   "location": "India (Multiple Locations)",
+   "city_rank": 4,
+   "job_id": "200041777",
+   "duration": "not stated",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "Currently pursuing a Bachelor's in Statistics, Econometrics, CS, ECE or related; must have at least one more semester of school after the internship",
+   "pay": "",
+   "track": "ai",
+   "posted": "2026-10-26",
+   "deadline": "",
+   "jd": "Applied Science intern: analyse and improve ML algorithms on large-scale datasets, frame product scenarios as ML tasks and design experiments, prototype scalable AI systems, and prepare/clean datasets for modelling. Statistics/CS background asked.",
+   "li": "Microsoft Applied Sciences",
+   "resume": "DS / AI",
+   "verified": "Eightfold PCSX search (location India) lists it; position_details API 200 on 30 Oct 2026",
+   "note": "Dates not stated. 'Must have one more semester after the internship' - a May-2027 graduate qualifies only if it ends before the final semester; confirm timing with recruiter. Location shown only as 'India, Multiple Locations'."
+  }
+ ],
+ "rejected": [
+  {
+   "company": "HPE",
+   "role": "Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/Intern_1211844",
+   "reason": "Generic boilerplate intern req (support/troubleshoot hardware & software, 'Job: Administration'); no data/AI/product angle; JD aimed at students returning to university"
+  },
+  {
+   "company": "HPE",
+   "role": "College Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/College-Intern_1211843-2",
+   "reason": "Generic boilerplate intern req (support/troubleshoot hardware & software, 'Job: Administration'); no data/AI/product angle; JD aimed at students returning to university"
+  },
+  {
+   "company": "HPE",
+   "role": "External Intern",
+   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bengaluru-Karntaka-India/External-Intern_1215608-1",
+   "reason": "Generic boilerplate intern req (support/troubleshoot hardware & software, 'Job: Administration'); no data/AI/product angle; JD aimed at students returning to university"
+  },
+  {
+   "company": "Adobe",
+   "role": "2027 Intern - Research PhD Intern",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/XMLNAME-2027-Intern---Research-PhD-Intern_R173016",
+   "reason": "Requires current PhD student"
+  },
+  {
+   "company": "NVIDIA",
+   "role": "PhD Intern, AI ML in Wireless L1/L2 - Fall 2026",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423",
+   "reason": "PhD students only; started Jan 2026 (Fall 2026 cycle)"
+  },
+  {
+   "company": "Autodesk",
+   "role": "Apprentice, Talent Acquisition & People Experience",
+   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Apprentice--Talent-Acquisition---People-Experience_23WD73769-1",
+   "reason": "HR/people apprentice; 2023 & 2024 graduates only; posted Jan 2024"
+  },
+  {
+   "company": "Amazon",
+   "role": "Financial Analyst Intern",
+   "url": "https://www.amazon.jobs/en/jobs/10498382/financial-analyst-intern",
+   "reason": "CA article trainees only (Industrial Training, 12-18 months); finance/accounting"
+  },
+  {
+   "company": "Microsoft",
+   "role": "Research Sciences INTERN",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556641091?domain=microsoft.com",
+   "reason": "PhD intern (Research Science PhD Intern), posted Feb 2026"
+  },
+  {
+   "company": "Microsoft",
+   "role": "Security Research INTERN",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557043380?domain=microsoft.com",
+   "reason": "Security research (malware/threat analysis) - not a target role family"
+  },
+  {
+   "company": "Microsoft",
+   "role": "Product Design INTERN",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556992502?domain=microsoft.com",
+   "reason": "Design role"
+  },
+  {
+   "company": "Microsoft",
+   "role": "Product Management INTERN",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556978896?domain=microsoft.com",
+   "reason": "Requires current MBA"
+  },
+  {
+   "company": "Microsoft",
+   "role": "Software Engineer Apprenticeship",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557022190?domain=microsoft.com",
+   "reason": "2026 graduates only; pure SWE"
+  },
+  {
+   "company": "Google",
+   "role": "Software Engineering PhD Intern, Summer 2027",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/109976286780105414",
+   "reason": "Summer 2027 programme (PhD-only, or 2028 graduates returning to studies for UX)"
+  },
+  {
+   "company": "Google",
+   "role": "User Experience Design Intern, Summer 2027, YouTube UX",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/78252225691820742",
+   "reason": "Summer 2027 programme (PhD-only, or 2028 graduates returning to studies for UX)"
+  },
+  {
+   "company": "Google",
+   "role": "Silicon Engineering Intern, PhD, Summer 2027",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/109375266236572358",
+   "reason": "Summer 2027 programme (PhD-only, or 2028 graduates returning to studies for UX)"
+  },
+  {
+   "company": "Google",
+   "role": "Research Scientist PhD Intern, Summer 2027",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/87534302853505734",
+   "reason": "Summer 2027 programme (PhD-only, or 2028 graduates returning to studies for UX)"
+  },
+  {
+   "company": "Apple",
+   "role": "PhD Intern, Apple Ads (Machine Learning)",
+   "url": "https://jobs.apple.com/en-in/details/200684719/phd-intern-apple-ads-machine-learning",
+   "reason": "PhD students only"
+  },
+  {
+   "company": "Apple",
+   "role": "PhD Intern, Machine Learning: MSI, Product Operations Team",
+   "url": "https://jobs.apple.com/en-in/details/200676908/phd-intern-machine-learning-msi-product-operations-team",
+   "reason": "PhD students only"
+  },
+  {
+   "company": "Qualcomm",
+   "role": "Interim Engineering Intern_2027_HW",
+   "url": "https://careers.qualcomm.com/careers/job/446719784824?domain=qualcomm.com",
+   "reason": "Hardware/VLSI intern (EE/VLSI/ECE)"
+  },
+  {
+   "company": "Qualcomm",
+   "role": "Interim Engineering Intern_2027_SW",
+   "url": "https://careers.qualcomm.com/careers/job/446719785836?domain=qualcomm.com",
+   "reason": "Embedded/systems SWE intern (drivers, modem, kernel); no data/AI angle"
+  },
+  {
+   "company": "Qualcomm",
+   "role": "Interim Patent Intern",
+   "url": "https://careers.qualcomm.com/careers/job/446721413787?domain=qualcomm.com",
+   "reason": "Patent intern (legal/IP); JD empty"
+  },
+  {
+   "company": "Walmart Global Tech India",
+   "role": "(IND) Grad Intern - No Work Experience (R-2557935)",
+   "url": "https://careers.walmart.com/jobs/R-2557935",
+   "reason": "CA Industrial Trainee (finance), must be pursuing CA"
+  },
+  {
+   "company": "IBM",
+   "role": "IBM Research/Research Software - Intern",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=137471",
+   "reason": "Software Engineering job family (research software dev); full JD not retrievable (careers.ibm.com returns empty 202) - recheck manually if research/ML"
+  }
+ ],
+ "round1": [
+  {
+   "company": "Google",
+   "role": "Student Researcher (131518356678156998 / 134313315235963590 / 132362676918461126)",
+   "old_url": "https://google.com/about/careers/applications/jobs/results/131518356678156998-student-researcher",
+   "status": "not_found",
+   "new_url": "",
+   "note": "All three pages live but US-only locations (BS/MS Winter-Summer 2027, PhD Winter-Summer 2027, BS/MS Fall 2026); no India Student Researcher"
+  },
+  {
+   "company": "Microsoft",
+   "role": "Applied Sciences Intern, job 200041777",
+   "old_url": "https://jobs.careers.microsoft.com/global/en/search?q=intern&lc=India",
+   "status": "matched",
+   "new_url": "https://apply.careers.microsoft.com/careers/job/1970393556917519?domain=microsoft.com",
+   "note": "Live, kept"
+  },
+  {
+   "company": "Microsoft",
+   "role": "Research Sciences Intern, jobs 200015233 / 200013369",
+   "old_url": "https://jobs.careers.microsoft.com/global/en/search?q=intern&lc=India",
+   "status": "matched",
+   "new_url": "https://apply.careers.microsoft.com/careers/job/1970393556641091?domain=microsoft.com",
+   "note": "200015233 live but PhD-only (rejected); 200013369 not found"
+  },
+  {
+   "company": "Microsoft",
+   "role": "Technology Consulting Intern (Hyderabad)",
+   "old_url": "https://jobs.careers.microsoft.com/global/en/search?q=technology%20consulting%20intern&lc=India",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No such posting in Eightfold India search"
+  },
+  {
+   "company": "Microsoft",
+   "role": "Data Science Intern (India)",
+   "old_url": "https://jobs.careers.microsoft.com/global/en/search?q=data%20science%20intern&lc=India",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No such posting on Microsoft careers"
+  },
+  {
+   "company": "Amazon",
+   "role": "Programmer Analyst Intern, 2027 batch (Hyderabad)",
+   "old_url": "https://www.amazon.jobs/en/search?base_query=intern&loc_query=India",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Not among 2,144 India postings"
+  },
+  {
+   "company": "Amazon",
+   "role": "amazon.jobs/jobs/2868632",
+   "old_url": "https://amazon.jobs/jobs/2868632",
+   "status": "closed",
+   "new_url": "",
+   "note": "404"
+  },
+  {
+   "company": "Adobe",
+   "role": "Applied Data Scientist Intern (Mumbai)",
+   "old_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Not on Adobe Workday India (only a PhD research intern)"
+  },
+  {
+   "company": "Intel",
+   "role": "AI Software Engineer Intern JR0288692",
+   "old_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/AI-Software-Engineer-Intern_JR0288692",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Workday detail 200, canApply true, but location is PRC (Shanghai/Shenzhen/Beijing), not India"
+  },
+  {
+   "company": "Cisco",
+   "role": "AI Solution (Intern) - India UHR Sales 2005756",
+   "old_url": "https://careers.cisco.com/global/en/job/2005756/AI-Solution-Intern-India-UHR-Sales",
+   "status": "closed",
+   "new_url": "",
+   "note": "HTTP 410; not in Phenom India list"
+  },
+  {
+   "company": "Cisco",
+   "role": "Ideathon -> 6-month internship Jan-Jun 2027",
+   "old_url": "https://careers.cisco.com/global/en/india/etr/ideathon",
+   "status": "closed",
+   "new_url": "",
+   "note": "Registration was 8-12 Jun 2026; Cisco Networking Academy finalists only"
+  },
+  {
+   "company": "Cisco",
+   "role": "Code with Cisco (2027 pass-outs)",
+   "old_url": "https://careers.cisco.com/global/en/india/etr/code-with-cisco",
+   "status": "closed",
+   "new_url": "",
+   "note": "Registration opened 1 Jun 2026 via placement cells; assessment 25 Jun 2026"
+  },
+  {
+   "company": "Cisco",
+   "role": "Entry-level / intern jobs India",
+   "old_url": "https://careers.cisco.com/global/en/india/etr-jobs",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Phenom India: 0 intern/UHR postings"
+  },
+  {
+   "company": "Walmart Global Tech India",
+   "role": "(IND) Grad Intern R-2485481",
+   "old_url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2485481",
+   "status": "closed",
+   "new_url": "",
+   "note": "Workday tenant retired (422); not in careers.walmart.com index"
+  },
+  {
+   "company": "Walmart Global Tech India",
+   "role": "(IND) Grad Intern R-2463399",
+   "old_url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2463399",
+   "status": "closed",
+   "new_url": "",
+   "note": "Workday tenant retired (422); not in careers.walmart.com index"
+  }
+ ],
+ "companies": [
+  {
+   "name": "Target India",
+   "ats": "workday",
+   "endpoint": "https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet: 70 India postings, 0 intern/trainee"
+  },
+  {
+   "name": "Workday",
+   "ats": "workday",
+   "endpoint": "https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet: 25 India postings, 0 intern"
+  },
+  {
+   "name": "VMware / Broadcom",
+   "ats": "workday",
+   "endpoint": "https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India location facets: 51 India postings, 0 intern"
+  },
+  {
+   "name": "Expedia Group",
+   "ats": "workday",
+   "endpoint": "https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday (expedia.wd108/search) India location facets: 17 India postings, 0 intern; only intern globally relevant is London PhD"
+  },
+  {
+   "name": "Intel",
+   "ats": "workday",
+   "endpoint": "https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India location facets (Bangalore + Virtual India): 90 postings, 0 intern; JR0288692 is China"
+  },
+  {
+   "name": "HP / HPE",
+   "ats": "workday",
+   "endpoint": "https://hp.wd5.myworkdayjobs.com/wday/cxs/hp/ExternalCareerSite/jobs ; https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/jobs",
+   "india_intern_hits": 3,
+   "kept": 0,
+   "note": "HP Workday India: 89 postings, 0 intern. HPE Workday India: 377 postings, 3 generic intern reqs (rejected)"
+  },
+  {
+   "name": "Adobe",
+   "ats": "workday",
+   "endpoint": "https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "Workday India: 39 postings, 1 intern (PhD research) rejected; Applied Data Scientist Intern Mumbai lead not on Workday"
+  },
+  {
+   "name": "NVIDIA",
+   "ats": "workday",
+   "endpoint": "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "Workday India facet: 230 postings, 1 intern (PhD) rejected"
+  },
+  {
+   "name": "Autodesk",
+   "ats": "workday",
+   "endpoint": "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "Workday Ext site shows only ~6 postings globally; 1 India apprentice (Jan 2024, 2023/24 grads) rejected; aggregator reqs 25WD93914/26WD96850 return 404"
+  },
+  {
+   "name": "Salesforce",
+   "ats": "workday",
+   "endpoint": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs ; https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Futureforce_Internships/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "External_Career_Site India facet: 89 postings, 0 intern. Futureforce_Internships: 18 global, none India (multi-location ones checked via detail: all US)"
+  },
+  {
+   "name": "Dell Technologies",
+   "ats": "oracle",
+   "endpoint": "https://enterpriseplatform.dell.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions (site CX_1001, India loc 300000000471053)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday tenant retired (422); now Oracle Recruiting at enterpriseplatform.dell.com CX_1001; India: 0 intern"
+  },
+  {
+   "name": "Oracle",
+   "ats": "oracle",
+   "endpoint": "https://eeho.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions (site CX_45001, India loc 300000000106947)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Oracle Recruiting CX_45001 India: 87 keyword matches, 0 intern"
+  },
+  {
+   "name": "Texas Instruments",
+   "ats": "oracle",
+   "endpoint": "https://edbz.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions (site CX, India loc 300000000361484)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Oracle Recruiting (edbz, site CX) India: 68 matches, 0 intern (all VLSI/analog)"
+  },
+  {
+   "name": "Amazon",
+   "ats": "amazon",
+   "endpoint": "https://www.amazon.jobs/en/search.json?country=IND",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "All 2,144 India postings paged; only 1 intern (CA industrial trainee) rejected; no Applied/Data Scientist or BA intern in India"
+  },
+  {
+   "name": "Microsoft",
+   "ats": "eightfold_pcsx",
+   "endpoint": "https://apply.careers.microsoft.com/api/pcsx/search?domain=microsoft.com&location=India",
+   "india_intern_hits": 6,
+   "kept": 1,
+   "note": "Eightfold PCSX India: 6 intern/apprentice postings; 1 kept (Applied Sciences INTERN)"
+  },
+  {
+   "name": "Google",
+   "ats": "google-careers (embedded AF_initDataCallback ds:1)",
+   "endpoint": "https://www.google.com/about/careers/applications/jobs/results/?location=India&target_level=INTERN_AND_APPRENTICE",
+   "india_intern_hits": 4,
+   "kept": 0,
+   "note": "India intern listing: 4 postings, all Summer 2027 PhD/2028-grad tracks (rejected); Student Researcher leads are US-only"
+  },
+  {
+   "name": "Apple",
+   "ats": "apple-jobs (hydration JSON)",
+   "endpoint": "https://jobs.apple.com/en-in/search?location=india-INDC",
+   "india_intern_hits": 2,
+   "kept": 0,
+   "note": "Internships team filter for India: 0; all 174 India postings paged: 2 PhD ML interns (rejected)"
+  },
+  {
+   "name": "Qualcomm",
+   "ats": "eightfold_pcsx",
+   "endpoint": "https://careers.qualcomm.com/api/pcsx/search?domain=qualcomm.com&location=India",
+   "india_intern_hits": 3,
+   "kept": 0,
+   "note": "3 India intern reqs, all rejected (HW/VLSI, embedded SW, patent)"
+  },
+  {
+   "name": "Cisco",
+   "ats": "phenom",
+   "endpoint": "https://careers.cisco.com/widgets (refineSearch, country=India)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Phenom India: 0 intern postings (40 interns globally, all US); 2005756 returns 410; Ideathon/Code with Cisco registrations closed Jun 2026"
+  },
+  {
+   "name": "Walmart Global Tech India",
+   "ats": "walmart-careers (own ATS; Workday tenant retired)",
+   "endpoint": "https://careers.walmart.com/api/ai/search-ai/api/v1/combined/hybrid-search",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "walmart.wd5 Workday returns 422 (retired); careers.walmart.com search index: 138 India postings, 1 intern (CA industrial trainee) rejected; R-2485481/R-2463399 not in index"
+  },
+  {
+   "name": "IBM",
+   "ats": "ibm-search-api",
+   "endpoint": "https://www-api.ibm.com/search/api/v2 (appId careers, field_keyword_05=India)",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "1 India intern in live index (Research Software, Software Engineering family) - rejected; detail page blocked"
+  },
+  {
+   "name": "ServiceNow",
+   "ats": "smartrecruiters",
+   "endpoint": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings?country=in",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "SmartRecruiters India: 82 postings, 0 intern"
+  },
+  {
+   "name": "Atlassian",
+   "ats": "atlassian-json",
+   "endpoint": "https://www.atlassian.com/endpoint/careers/listings",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Whole board 365 postings; 42 India, 0 intern/grad"
+  },
+  {
+   "name": "Zscaler",
+   "ats": "greenhouse",
+   "endpoint": "https://boards-api.greenhouse.io/v1/boards/zscaler/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Greenhouse whole board 362; 84 India, 0 intern"
+  },
+  {
+   "name": "Intuit",
+   "ats": "talentbrew",
+   "endpoint": "https://jobs.intuit.com/search-jobs/results (India facet 1269750)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "India facet: 27 postings, 0 intern; Summer 2027 interns are US"
+  },
+  {
+   "name": "LinkedIn",
+   "ats": "linkedin-jobs-guest",
+   "endpoint": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?f_C=1337&geoId=102713980",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "LinkedIn-as-employer India: intern queries 0 results"
+  },
+  {
+   "name": "SAP Labs India",
+   "ats": "successfactors (careers.sap.com)",
+   "endpoint": "https://careers.sap.com/search/?locationsearch=India",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "jobs.sap.com Cloudflare-blocked; careers.sap.com search India: 13 fuzzy matches, 0 intern"
+  },
+  {
+   "name": "Meta",
+   "ats": "metacareers",
+   "endpoint": "https://www.metacareers.com/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHED: metacareers.com returned 429/400 to scripted requests"
+  },
+  {
+   "name": "Uber",
+   "ats": "jobs.uber.com",
+   "endpoint": "https://jobs.uber.com/en/jobs/?query=intern&location=IND",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHED: jobs.uber.com behind Cloudflare challenge (403); old loadSearchJobsResults RPC removed"
+  },
+  {
+   "name": "Nutanix",
+   "ats": "unknown",
+   "endpoint": "https://careers.nutanix.com/en/jobs/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHED: careers.nutanix.com Cloudflare 403; nutanix.eightfold.ai 404; no Workday tenant"
+  }
+ ]
+}
