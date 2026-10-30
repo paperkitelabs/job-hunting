@@ -1,0 +1,1532 @@
+[
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "Citizens Financial Group",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "U.S. Bank",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "PNC",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "Truist",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "Fifth Third",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "KeyBank",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "Ally",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "Charles Schwab",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "Vanguard",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "T. Rowe Price",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "Edward Jones",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "TIAA / Nuveen",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "Discover / Capital One",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "DBS Bank",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "OCBC",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "ANZ",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "Westpac",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "Commonwealth Bank (CBA India)",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "NAB",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "ABN AMRO",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "ING",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "Rabobank",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "Commerzbank",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "Natixis",
+  "hint": ""
+ },
+ {
+  "cluster": "R4a-global-banks-2",
+  "name": "Julius Baer",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Allstate",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Travelers",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "The Hartford",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Liberty Mutual",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Munich Re",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Hannover Re",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Generali",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Aviva",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Legal & General",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Manulife / John Hancock",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Sun Life",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Canada Life / Great-West",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Max Life / Axis Max Life",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Tata AIG",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Star Health",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Acko",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Go Digit",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "PolicyBazaar / PB Fintech",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Lombard Odier",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Verisk",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "LexisNexis Risk / RELX",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Guidewire",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Prudential plc (ICICI Prudential Life)",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "Bajaj Allianz",
+  "hint": ""
+ },
+ {
+  "cluster": "R4b-insurance-2",
+  "name": "SBI Life",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "State Bank of India",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "Bank of Baroda",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "IndusInd Bank",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "RBL Bank",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "Federal Bank",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "AU Small Finance Bank",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "Bandhan Bank",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "Nippon India AMC",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "Angel One",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "Upstox",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "Nuvama",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "IIFL Finance",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "JM Financial",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "Edelweiss",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "Cholamandalam Finance",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "Shriram Finance",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "Muthoot Finance",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "L&T Finance",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "Poonawalla Fincorp",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "Hero FinCorp",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "CDSL",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "NSDL",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "MCX",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "ICRA",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "CareEdge Ratings",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "India Ratings",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "HDFC AMC",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "SBI Funds Management",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "ICICI Securities",
+  "hint": ""
+ },
+ {
+  "cluster": "R4c-indian-fin-2",
+  "name": "HDFC Securities",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "Pine Labs",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "BharatPe",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "Juspay",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "Cashfree Payments",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "PayU India",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "MobiKwik",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "Navi",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "Jupiter",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "KreditBee",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "Fibe",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "Simpl",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "Zeta",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "M2P Fintech",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "Perfios",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "Setu",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "Paisabazaar",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "Jar",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "OneCard (FPL Technologies)",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "Scapia",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "InCred",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "Lendingkart",
+  "hint": ""
+ },
+ {
+  "cluster": "R4d-fintech-india-2",
+  "name": "Rupeek",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "MathCo (TheMathCompany)",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Affine",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Evalueserve",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Acuity Knowledge Partners",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "The Smart Cube",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Aays Analytics",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Lumiq",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Polestar Solutions",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Indium Software",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Decision Point",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Cartesian Consulting",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Eclerx",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Firstsource",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Hinduja Global Solutions",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Startek",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Exusia",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Sutherland",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "TaskUs",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Ascendion",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Kanerika",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Straive",
+  "hint": ""
+ },
+ {
+  "cluster": "R4e-analytics-kpo-2",
+  "name": "Cognida",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "Stripe",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "Coinbase",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "Booking Holdings / Agoda",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "Amadeus",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "Sabre",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "eBay",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "Okta",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "Palo Alto Networks",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "CrowdStrike",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "Akamai",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "Red Hat",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "Informatica",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "Teradata",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "Cloudera",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "HubSpot",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "Zendesk",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "DocuSign",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "Box",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "Twilio",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "Warner Bros Discovery",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "JioStar / Disney Star",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "Media.net",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-1",
+  "name": "Rakuten India",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Synopsys",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Cadence",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Micron",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "AMD",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Arm",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Samsung R&D India",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Sony India Software Centre",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Hitachi (India / Hitachi Vantara)",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Fujitsu / NEC / Toshiba India",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "LG Soft India",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Thomson Reuters",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Wolters Kluwer",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Nagarro",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Globant",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Virtusa",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Coforge",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Birlasoft",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Happiest Minds",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "L&T Technology Services",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Cyient",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Tata Elxsi",
+  "hint": ""
+ },
+ {
+  "cluster": "R4f-tech-mnc-2-2",
+  "name": "Quest Global",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "Ather Energy",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "Rapido",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "OYO",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "Delhivery",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "Cars24",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "Spinny",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "ShareChat / Moj",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "Unacademy",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "BigBasket",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "Tata 1mg",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "PharmEasy",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "Practo",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "Innovaccer",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "Chargebee",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "Darwinbox",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "Druva",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "Icertis",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "CleverTap",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "MoEngage",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-1",
+  "name": "Info Edge (Naukri, 99acres)",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "IndiaMART",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "FirstCry",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "Licious",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "Mamaearth / Honasa",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "boAt",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "Pocket FM",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "Games24x7",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "Nazara",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "Ixigo",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "Cleartrip",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "Udaan",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "Ninjacart",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "Jumbotail",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "Shiprocket",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "Xpressbees",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "Porter",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "CarDekho",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "Housing.com / PropTiger",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "NoBroker",
+  "hint": ""
+ },
+ {
+  "cluster": "R4g-indian-product-2-2",
+  "name": "Vedantu",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Home Depot",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Kroger / 84.51",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Best Buy",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "McDonald's (GCC Hyderabad)",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Nike",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Levi Strauss",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "H&M",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Marks & Spencer",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Sainsbury's",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Ralph Lauren",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Gap Inc",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Carrier",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Otis",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Trane Technologies",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Emerson",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Rockwell Automation",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Danaher",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Thermo Fisher",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Medtronic",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Abbott",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Baxter",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "BD (Becton Dickinson)",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Stryker",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Roche",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Bayer",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "MSD (Merck)",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Novo Nordisk",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Takeda",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-1",
+  "name": "Teva",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Kimberly-Clark",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Kellanova",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "General Mills",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Mars",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Heineken / United Breweries",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Carlsberg",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Reckitt",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Haleon",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Estee Lauder",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Puma",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Adidas",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Walgreens / Boots",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "CVS Health / Aetna",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Elevance Health",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Humana",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "McKesson",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Cardinal Health",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Ford",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "General Motors",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Stellantis",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Volvo Group",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Continental",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "ZF",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Hyundai Mobis / Hyundai Motor India",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Toyota Kirloskar",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Michelin",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Bridgestone",
+  "hint": ""
+ },
+ {
+  "cluster": "R4h-retail-consumer-gcc-2",
+  "name": "Siemens Healthineers",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "Adani Group",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "JSW Group",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "Vedanta / Hindustan Zinc",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "Hero MotoCorp",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "TVS Motor",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "Maruti Suzuki",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "Ashok Leyland",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "Dabur",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "Britannia",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "Emami",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "Titan",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "Trent / Westside",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "Avenue Supermarts (DMart)",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "Bharti Airtel",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "Tata Communications",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "Zee Entertainment",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "IndiGo (InterGlobe)",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "Air India",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "Sun Pharma",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-1",
+  "name": "Dr. Reddy's",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Cipla",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Lupin",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Biocon",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Zydus",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Torrent",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Pidilite",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Havells",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Polycab",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Bharat Forge / Kalyani",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Thermax",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Forbes Marshall",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Jubilant",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Apollo Hospitals",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Max Healthcare",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Manipal Health",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Fortis",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Infra.Market",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Bajaj Auto",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Vodafone Idea",
+  "hint": ""
+ },
+ {
+  "cluster": "R4i-indian-industry-2-2",
+  "name": "Piramal Pharma",
+  "hint": ""
+ }
+]
