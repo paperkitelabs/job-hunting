@@ -13,7 +13,8 @@ INTERN_QUERIES = ["intern", "internship", "trainee", "off-cycle", "apprentice"]
 INDIA_WORDS = ["india", "mumbai", "pune", "bengaluru", "bangalore", "hyderabad", "chennai", "gurugram", "gurgaon",
                "noida", "delhi", "kolkata", "ahmedabad", "gift city", "gandhinagar", "jaipur", "kochi", "coimbatore",
                "thane", "navi mumbai", "vadodara", "indore", "chandigarh", "mohali", "trivandrum", "thiruvananthapuram",
-               "mysore", "mysuru", "nagpur", "bhubaneswar", "lucknow", "goa", "vizag", "visakhapatnam", "surat", " ind", "in-"]
+               "mysore", "mysuru", "nagpur", "bhubaneswar", "lucknow", "goa", "vizag", "visakhapatnam", "surat"]
+INDIA_RE = re.compile(r"\b(" + "|".join(INDIA_WORDS) + r"|ind|in-[a-z]{2})\b", re.I)
 INTERN_RE = re.compile(r"\b(intern|interns|internship|trainee|off[- ]?cycle|apprentice|apprenticeship|co-?op|industrial training|winter analyst|summer analyst|stipend)\b", re.I)
 
 
@@ -28,8 +29,7 @@ def strip(h):
 
 
 def is_india(*texts):
-    t = " ".join(x for x in texts if x).lower()
-    return any(w in t for w in INDIA_WORDS)
+    return bool(INDIA_RE.search(" ".join(x for x in texts if x)))
 
 
 def is_intern(*texts):
