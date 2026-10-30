@@ -210,19 +210,19 @@
   },
   {
    "name": "TaskUs",
-   "ats": "",
-   "endpoint": "",
+   "ats": "Workday",
+   "endpoint": "https://taskus.wd1.myworkdayjobs.com/Careers (India country facet)",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "Workday India: 140 postings matched the queries (fuzzy), 0 intern/trainee/apprentice titles - all BPO ops/team-lead/experienced roles"
   },
   {
    "name": "Ascendion",
-   "ats": "",
-   "endpoint": "",
+   "ats": "Eightfold (PCSX)",
+   "endpoint": "https://jobs.ascendion.com/api/pcsx/search?domain=ascendion.com&location=India",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "Eightfold PCSX India: 213 postings (whole India board via empty query), 0 intern/trainee"
   },
   {
    "name": "Kanerika",

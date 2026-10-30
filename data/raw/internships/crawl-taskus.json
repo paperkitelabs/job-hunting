@@ -1,0 +1,20 @@
+{
+ "company": "TaskUs",
+ "ats": "Workday",
+ "endpoint": "https://taskus.wd1.myworkdayjobs.com/Careers (India country facet)",
+ "queried_at": "2026-10-30T13:36:53.291733Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "graduate",
+  "fresher"
+ ],
+ "total_hits": 140,
+ "india_intern_hits": [],
+ "details": {}
+}
