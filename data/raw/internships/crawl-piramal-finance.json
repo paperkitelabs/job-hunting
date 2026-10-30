@@ -1,0 +1,11 @@
+{
+ "company": "Piramal Finance",
+ "ats": "darwinbox",
+ "endpoint": "https://piramalgroup.darwinbox.in/ms/candidateapi/job",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "NOT REACHABLE / no feed: Darwinbox candidate API behind Cloudflare challenge (403); listing not readable."
+}

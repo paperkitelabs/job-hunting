@@ -1,0 +1,409 @@
+{
+ "company": "Aditya Birla Capital",
+ "ats": "peoplestrong (ABG careers)",
+ "endpoint": "GET https://careers.adityabirla.com/api/v3/jobs?offset=<page>&limit=100&searchString=<q> (Bearer token from page)",
+ "queried_at": "2026-10-30",
+ "queries": {
+  "intern": 6,
+  "internship": 0,
+  "trainee": 39,
+  "apprentice": 0,
+  "off-cycle": 0,
+  "graduate": 0,
+  "": 1985
+ },
+ "total_hits": 1985,
+ "india_intern_hits": [
+  {
+   "title": "Sales Trainee - Retail Secured - Jaipur",
+   "loc": "India>Rajasthan>International Busi cntr,Jaipur",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG111636",
+   "id": "ABG111636",
+   "posted": "2026-09-09",
+   "closes": "2027-03-08",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Retail Assets>Retail - Secured"
+  },
+  {
+   "title": "Sales Trainee - Retail Secured - Udaipur",
+   "loc": "India>Rajasthan>Udaipur",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG111633",
+   "id": "ABG111633",
+   "posted": "2026-09-09",
+   "closes": "2027-03-08",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Retail Assets>Retail - Secured"
+  },
+  {
+   "title": "Sales Trainee - Retail Secured - Noida",
+   "loc": "India>Uttar Pradesh>Noida - Sector 3",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG111639",
+   "id": "ABG111639",
+   "posted": "2026-09-09",
+   "closes": "2027-03-08",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Retail Assets>Retail - Secured"
+  },
+  {
+   "title": "Sales Trainee - Retail Secured - Saharanpur",
+   "loc": "India>Uttar Pradesh>Mohalla Ram Nagar Sharanpur",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG111631",
+   "id": "ABG111631",
+   "posted": "2026-09-09",
+   "closes": "2027-03-08",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Retail Assets>Retail - Secured"
+  },
+  {
+   "title": "Sales Trainee - Retail Secured - Jodhpur",
+   "loc": "India>Rajasthan>Jodhpur, Ansari Tower",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG111634",
+   "id": "ABG111634",
+   "posted": "2026-09-09",
+   "closes": "2027-03-08",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Retail Assets>Retail - Secured"
+  },
+  {
+   "title": "Sales Trainee - Retail Secured - Panipat",
+   "loc": "India>Haryana>Panipat",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG111638",
+   "id": "ABG111638",
+   "posted": "2026-09-09",
+   "closes": "2027-03-08",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Retail Assets>Retail - Secured"
+  },
+  {
+   "title": "Sales Trainee - Retail Secured - Jaipur",
+   "loc": "India>Rajasthan>Jaipur Branch, , G. S. Trade C",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG111635",
+   "id": "ABG111635",
+   "posted": "2026-09-09",
+   "closes": "2027-03-08",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Retail Assets>Retail - Secured"
+  },
+  {
+   "title": "Sales Trainee - Bangalore",
+   "loc": "India>Karnataka>Tavarekere Main Road,Bangalore",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG111054",
+   "id": "ABG111054",
+   "posted": "2026-08-31",
+   "closes": "2027-02-27",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Retail Assets>Retail - Secured"
+  },
+  {
+   "title": "Sales Trainee - Retail Unsecured Self Employed STUL - Kolkata",
+   "loc": "India>West Bengal>Camac Street, Kolkata",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG109777",
+   "id": "ABG109777",
+   "posted": "2026-08-14",
+   "closes": "2027-02-10",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Retail Assets>Retail - Unsec Self Emp STUL"
+  },
+  {
+   "title": "Sales Trainee - Retail Unsecured Self Employed - Patna",
+   "loc": "India>Bihar>Patna",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG109780",
+   "id": "ABG109780",
+   "posted": "2026-08-14",
+   "closes": "2027-02-10",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Retail - Unsec Self Emp BL"
+  },
+  {
+   "title": "Sales Trainee - Bangalore",
+   "loc": "India>Karnataka>Star Avenue, Bangalore",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG109738",
+   "id": "ABG109738",
+   "posted": "2026-08-13",
+   "closes": "2027-02-09",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Retail - Unsecured CESB"
+  },
+  {
+   "title": "Sales Trainee - Hyderabad",
+   "loc": "India>Telangana>Secunderabad - Mayfair Complex",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG109740",
+   "id": "ABG109740",
+   "posted": "2026-08-13",
+   "closes": "2027-02-09",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Retail - Unsecured CESB"
+  },
+  {
+   "title": "Sales Trainee - Bangalore",
+   "loc": "India>Karnataka>Tavarekere Main Road,Bangalore",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG109741",
+   "id": "ABG109741",
+   "posted": "2026-08-13",
+   "closes": "2027-02-09",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Retail Assets>Retail - Unsec Self Emp STUL"
+  },
+  {
+   "title": "Trainee",
+   "loc": "India>Maharashtra>G-Corp Tech Park, Thane",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG108979",
+   "id": "ABG108979",
+   "posted": "2026-07-31",
+   "closes": "2027-01-27",
+   "unit": "Financial Services>AB Sun Life Insurance Co Ltd>AB Sun Life Insurance Co Ltd>AB Sun Life Insurance Co Ltd>CFOs Office>Finance & Planning -BSLI>Accounts"
+  },
+  {
+   "title": "Trainee",
+   "loc": "India>Maharashtra>G-Corp Tech Park, Thane",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG108984",
+   "id": "ABG108984",
+   "posted": "2026-07-31",
+   "closes": "2027-01-27",
+   "unit": "Financial Services>AB Sun Life Insurance Co Ltd>AB Sun Life Insurance Co Ltd>AB Sun Life Insurance Co Ltd>CFOs Office>Finance & Planning -BSLI>Accounts"
+  },
+  {
+   "title": "Sales Trainee - Chennai",
+   "loc": "India>Tamil Nadu>Chennai-The Oval",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG108163",
+   "id": "ABG108163",
+   "posted": "2026-07-19",
+   "closes": "2027-01-15",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Credit - Retail Unsec Salaried"
+  },
+  {
+   "title": "Sales Trainee - Hyderabad",
+   "loc": "India>Telangana>Secunderabad - Mayfair Complex",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG108094",
+   "id": "ABG108094",
+   "posted": "2026-07-17",
+   "closes": "2027-01-13",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Credit - SME SEG"
+  },
+  {
+   "title": "Sales Trainee - Coimbatore",
+   "loc": "India>Tamil Nadu>Coimbatore - ESR Avenue",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG108095",
+   "id": "ABG108095",
+   "posted": "2026-07-17",
+   "closes": "2027-01-13",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Credit,Risk,Legal& Collections>Credit - SME Retail"
+  },
+  {
+   "title": "Sales Trainee - Bangalore",
+   "loc": "India>Karnataka>Star Avenue, Bangalore",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG108096",
+   "id": "ABG108096",
+   "posted": "2026-07-17",
+   "closes": "2027-01-13",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Credit - SME SEG"
+  },
+  {
+   "title": "Sales Trainee - Retail Gold Loan - Thane",
+   "loc": "India>Maharashtra>G-Corp Tech Park, Thane",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG107884",
+   "id": "ABG107884",
+   "posted": "2026-07-14",
+   "closes": "2027-01-10",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Retail - Gold Loan"
+  },
+  {
+   "title": "Sales Trainee - Collections - Retail Telecollections - Chandigarh",
+   "loc": "India>Chandigarh>Madhya Marg, Chandigarh",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG107727",
+   "id": "ABG107727",
+   "posted": "2026-07-13",
+   "closes": "2027-01-09",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Collections - Retail Telecoll"
+  },
+  {
+   "title": "Sales Trainee - Hyderabad",
+   "loc": "India>Telangana>Secunderabad - Mayfair Complex",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG107660",
+   "id": "ABG107660",
+   "posted": "2026-07-10",
+   "closes": "2027-01-06",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Credit - Retail Unsec Self Emp"
+  },
+  {
+   "title": "Sales Trainee - Bangalore",
+   "loc": "India>Karnataka>Tavarekere Main Road,Bangalore",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG107662",
+   "id": "ABG107662",
+   "posted": "2026-07-10",
+   "closes": "2027-01-06",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Credit - Retail Secured"
+  },
+  {
+   "title": "Sales Trainee - Hyderabad",
+   "loc": "India>Telangana>Secunderabad - Mayfair Complex",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG107663",
+   "id": "ABG107663",
+   "posted": "2026-07-10",
+   "closes": "2027-01-06",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Collections - Retail Unsecured"
+  },
+  {
+   "title": "Sales Trainee - Hyderabad",
+   "loc": "India>Telangana>Secunderabad - Mayfair Complex",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG107664",
+   "id": "ABG107664",
+   "posted": "2026-07-10",
+   "closes": "2027-01-06",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Collections - Retail Secured"
+  },
+  {
+   "title": "Sales Trainee - Hyderabad",
+   "loc": "India>Telangana>Secunderabad - Mayfair Complex",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG107665",
+   "id": "ABG107665",
+   "posted": "2026-07-10",
+   "closes": "2027-01-06",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Collections - Retail Recovery"
+  },
+  {
+   "title": "Sales Trainee - Chennai",
+   "loc": "India>Tamil Nadu>Thiru-Vi-Ka Industrial Guindy",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG107666",
+   "id": "ABG107666",
+   "posted": "2026-07-10",
+   "closes": "2027-01-06",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Collections - Retail Telecoll"
+  },
+  {
+   "title": "Sales Trainee - Chennai",
+   "loc": "India>Tamil Nadu>Chennai-The Oval",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG107667",
+   "id": "ABG107667",
+   "posted": "2026-07-10",
+   "closes": "2027-01-06",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Credit - Retail Secured"
+  },
+  {
+   "title": "Sales Trainee - Hyderabad",
+   "loc": "India>Telangana>Hyderabad",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG107668",
+   "id": "ABG107668",
+   "posted": "2026-07-10",
+   "closes": "2027-01-06",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Credit - Retail Secured"
+  },
+  {
+   "title": "Sales Trainee - Chennai",
+   "loc": "India>Tamil Nadu>Chennai-The Oval",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG107659",
+   "id": "ABG107659",
+   "posted": "2026-07-10",
+   "closes": "2027-01-06",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Credit - Retail Unsec Self Emp"
+  },
+  {
+   "title": "Sales Trainee - Credit - Retail Unsecured - Mumbai",
+   "loc": "India>Maharashtra>R-Tech Park Goregaon",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG107550",
+   "id": "ABG107550",
+   "posted": "2026-07-09",
+   "closes": "2027-01-05",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Credit - Retail Unsec Self Emp"
+  },
+  {
+   "title": "TM-Trainee-UW-Thane",
+   "loc": "India>Maharashtra>G-Corp Tech Park, Thane",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG106723",
+   "id": "ABG106723",
+   "posted": "2026-06-25",
+   "closes": "2026-12-22",
+   "unit": "Financial Services>AB Sun Life Insurance Co Ltd>AB Sun Life Insurance Co Ltd>AB Sun Life Insurance Co Ltd>COOs Office>Corporate Operations>Underwriting"
+  },
+  {
+   "title": "Sales Trainee - Delhi",
+   "loc": "India>Delhi>Delhi - CP2",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG106102",
+   "id": "ABG106102",
+   "posted": "2026-06-15",
+   "closes": "2026-12-12",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>SME – Tier 1 Corporate Channel"
+  },
+  {
+   "title": "Sales Trainee - SME - Vijaywada",
+   "loc": "India>Andhra Pradesh>Labbipet-vijayawada",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG105752",
+   "id": "ABG105752",
+   "posted": "2026-06-09",
+   "closes": "2026-12-06",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>SME - Small Enterprises Group"
+  },
+  {
+   "title": "Trainee",
+   "loc": "India>Maharashtra>G-Corp Tech Park, Thane",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG105020",
+   "id": "ABG105020",
+   "posted": "2026-05-26",
+   "closes": "2026-11-22",
+   "unit": "Financial Services>AB Sun Life Insurance Co Ltd>AB Sun Life Insurance Co Ltd>AB Sun Life Insurance Co Ltd>CFOs Office>Finance & Planning -BSLI>Accounts"
+  },
+  {
+   "title": "Sales Trainee - DE - Mumbai",
+   "loc": "India>Maharashtra>R-Tech Park Goregaon",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG104518",
+   "id": "ABG104518",
+   "posted": "2026-05-16",
+   "closes": "2026-11-12",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>DE - Partnership Sales"
+  },
+  {
+   "title": "Sales Trainee - SME - Haridwar",
+   "loc": "India>Uttarakhand>Naya haridwar colony, haridwar",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG104529",
+   "id": "ABG104529",
+   "posted": "2026-05-16",
+   "closes": "2026-11-12",
+   "unit": "Financial Services>Aditya Birla Capital Limited>Aditya Birla Capital Limited>Aditya Birla Capital Limited>SME - Small Enterprises Group"
+  },
+  {
+   "title": "Relationship Manager - PSU & Coop Banks, Ghatkopar",
+   "loc": "India>Maharashtra>Mumbai - Ghatkopar",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG110747",
+   "id": "ABG110747",
+   "posted": "2026-08-26",
+   "closes": "2027-02-22",
+   "unit": "Financial Services>Aditya Birla Sun Life AMC Ltd>Aditya Birla Sun Life AMC Ltd>Aditya Birla Sun Life AMC Ltd>Sales>Retail Sales - BSLAMC>Retail Sales"
+  },
+  {
+   "title": "Relationship Manager - PSUs & Coop Banks, Andheri",
+   "loc": "India>Maharashtra>Mumbai - Andheri",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG110745",
+   "id": "ABG110745",
+   "posted": "2026-08-26",
+   "closes": "2027-02-22",
+   "unit": "Financial Services>Aditya Birla Sun Life AMC Ltd>Aditya Birla Sun Life AMC Ltd>Aditya Birla Sun Life AMC Ltd>Sales>Retail Sales - BSLAMC>Retail Sales"
+  },
+  {
+   "title": "Relationship Manager - PSU & Co-op Banks, Vashi",
+   "loc": "India>Maharashtra>Mumbai - Vashi",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG110064",
+   "id": "ABG110064",
+   "posted": "2026-08-17",
+   "closes": "2027-02-13",
+   "unit": "Financial Services>Aditya Birla Sun Life AMC Ltd>Aditya Birla Sun Life AMC Ltd>Aditya Birla Sun Life AMC Ltd>Sales>Retail Sales - BSLAMC>Retail Sales"
+  }
+ ],
+ "details": {
+  "https://abgcareers.peoplestrong.com/job/detail/ABG108979": {
+   "title": "Trainee",
+   "unit": "Financial Services>AB Sun Life Insurance Co Ltd>AB Sun Life Insurance Co Ltd>AB Sun Life Insurance Co Ltd>CFOs Office>Finance & Planning -BSLI>Accounts",
+   "exp": "1-2 years",
+   "closes": "2027-01-27",
+   "desc": "Job Purpose \nJob Purpose Description \nPrepare monthly, quarterly, and annual financial reports. \nEnsure compliance with IFRS/GAAP and company policies. \nSupport month-end and year-end close activities. \nPerform account reconciliations and variance analysis. \nAssist with internal and external audits. \nCollaborate with cross-functional teams to improve reporting processes. \n Requirements: \nBachelor's degree in Accounting or Finance. \n2–5 years of financial reporting/accounting experience. \nStrong knowledge of financial statements and accounting standards. \nProficiency in Excel and ERP systems (SAP/Oracle preferred). \nStrong analytical, communication, and problem-solving skills."
+  },
+  "https://abgcareers.peoplestrong.com/job/detail/ABG108984": {
+   "title": "Trainee",
+   "unit": "Financial Services>AB Sun Life Insurance Co Ltd>AB Sun Life Insurance Co Ltd>AB Sun Life Insurance Co Ltd>CFOs Office>Finance & Planning -BSLI>Accounts",
+   "exp": "1-2 years",
+   "closes": "2027-01-27",
+   "desc": "Job Purpose \nJob Purpose Description \nSupport business planning and strategic initiatives. \nAnalyze performance and prepare reports. \nTrack KPIs and provide business insights. \nCollaborate with cross-functional teams to drive growth. \n Requirements: \nBachelor's degree in Business, Finance, or a related field. \nExperience in planning, strategy, or business analysis. \nStrong analytical, communication, and Excel skills."
+  },
+  "https://abgcareers.peoplestrong.com/job/detail/ABG106723": {
+   "title": "TM-Trainee-UW-Thane",
+   "unit": "Financial Services>AB Sun Life Insurance Co Ltd>AB Sun Life Insurance Co Ltd>AB Sun Life Insurance Co Ltd>COOs Office>Corporate Operations>Underwriting",
+   "exp": "0-1 years",
+   "closes": "2026-12-22",
+   "desc": "Function \n Operations \nJob Title \nTrainee – Underwriting \nLocation \n G Corp Tech Park, Thane \nDepartment \nUnderwriting \nUnit \nAditya Birla Sun Life Insurance Company Ltd \n1) Job Purpose \nAnalyse and underwrite life insurance cases as per assigned financial limits within the defined timelines while maintaining high standards of accuracy. \n2) Principal Accountabilities \n Accountability \nSupporting Actions \nApprove & sign off cases within financial limits to ensure prudent selection of Risks \nUnderwrite cases & provide appropriate decision with the available information on hand \nCountersign cases within the specified financial limits \nReview & discuss the underwriting decisions with superiors wherever necessary \nMonitor and maintain productivity at individual level & help colleagues in achieving the productivity for team. \nTo maintain TATs for sourced business. \nKeep regular check at the flow of work within the team & ensure completion within TATs. \nAnalyze branch queries & resolve the same in order to maintain the best interests of the internal customers. \nProvide regular updates to the Branches regarding processing of cases through effective communication. \nResolve their queries within timelines."
+  },
+  "https://abgcareers.peoplestrong.com/job/detail/ABG105020": {
+   "title": "Trainee",
+   "unit": "Financial Services>AB Sun Life Insurance Co Ltd>AB Sun Life Insurance Co Ltd>AB Sun Life Insurance Co Ltd>CFOs Office>Finance & Planning -BSLI>Accounts",
+   "exp": "0-1 years",
+   "closes": "2026-11-22",
+   "desc": "Job Purpose \nRole Overview \nWe are looking for a Planning & Strategy professional to support business growth through strategic planning, market analysis, performance tracking, and cross-functional coordination. The role involves identifying business opportunities, improving operational efficiency, and driving data-backed decision-making. \nKey Responsibilities \nDevelop short-term and long-term business strategies aligned with company goals \nConduct market research, competitor benchmarking, and industry analysis \nSupport annual operating plans, budgeting, and forecasting processes \nTrack key business KPIs and prepare management dashboards/reports \nIdentify growth opportunities, cost optimization areas, and process improvements \nCollaborate with departments such as Sales, Finance, Operations, and Product teams \nPrepare presentations and strategic recommendations for leadership reviews \nMonitor execution of strategic initiatives and ensure timely delivery \nAnalyze business performance and provide actionable insights \nRequired Skills & Qualifications \nBachelor’s degree in Business Administration, Management, Economics, Finance, or related field \nMBA preferred for mid/senior roles \nStrong analytical and problem-solving skills \nExcellent knowledge of Excel, PowerPoint, and data analysis tools \nExperience with business planning, MIS reporting, and strategy frameworks \nStrong communication and stakeholder management abilities \nAbility to work in a fast-paced, cross-functional environment \nPreferred Experience \n2–8 years of experience in Strategy, Business Planning, Consulting, FP&A, or Corporate Planning \nExperience in sectors such as FMCG, Retail, Manufacturing, Technology, or Startups is a plus \nKey Competencies \nStrategic thinking \nBusiness acumen \nData-driven decision making \nProject management \nFinancial analysis \nPresentation & storytelling skills \nKPIs / Success Metrics \nAchievement of strategic business targets \nForecast accuracy \nProcess efficiency improvements \nRevenue growth initiatives \nTimely execution of strategic projects \nIf you want, I can also help with: \nA shorter startup-style JD \nA senior leadership Strategy Head JD \nA Planning & Strategy Analyst JD \nAn ATS-friendly version \nA LinkedIn job post format \nAn industry-specific JD (FMCG, retail, pharma, tech, manufacturing, etc.)"
+  }
+ },
+ "note": "Whole ABG board 1985 jobs, 1736 Financial Services. Trainee hits are 35 Sales Trainee + 4 ABSLI 'Trainee' (finance/UW) full-time grade roles; no internships."
+}

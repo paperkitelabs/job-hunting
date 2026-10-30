@@ -1,0 +1,23 @@
+{
+ "company": "Prudential / PGIM",
+ "ats": "workday",
+ "endpoint": "https://pru.wd5.myworkdayjobs.com/wday/cxs/pru/Careers/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "",
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "graduate",
+  "2027",
+  "industrial",
+  "student",
+  "campus"
+ ],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {}
+}

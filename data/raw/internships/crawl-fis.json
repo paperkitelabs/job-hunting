@@ -1,0 +1,23 @@
+{
+ "company": "FIS",
+ "ats": "workday",
+ "endpoint": "https://fis.wd5.myworkdayjobs.com/wday/cxs/fis/SearchJobs/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "",
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "graduate",
+  "2027",
+  "industrial",
+  "student",
+  "campus"
+ ],
+ "total_hits": 114,
+ "india_intern_hits": [],
+ "details": {}
+}

@@ -1,0 +1,17 @@
+{
+ "company": "Allianz",
+ "ats": "phenom",
+ "endpoint": "https://careers.allianz.com/widgets (refineSearch, country=India)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "",
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "graduate"
+ ],
+ "total_hits": 78,
+ "india_intern_hits": [],
+ "details": {}
+}

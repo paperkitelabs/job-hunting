@@ -1,0 +1,165 @@
+{
+ "company": "Kotak Mahindra Bank",
+ "ats": "oracle",
+ "endpoint": "https://hcbt.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions siteNumber=CX (+CX_1001/CX_3001/CX_4001/CX_5001 checked)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "summer",
+  "winter",
+  "graduate"
+ ],
+ "total_hits": 11682,
+ "india_intern_hits": [
+  {
+   "title": "Management Trainee-Relationship Manager_Loan Against Property-Sales_Bhubaneswar",
+   "loc": "Bhubaneswar, Odisha, India",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/271895",
+   "id": "271895",
+   "posted": "2026-10-24"
+  },
+  {
+   "title": "Management Trainee-Kotak Private Banking-Product Manager",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/217048",
+   "id": "217048",
+   "posted": "2025-11-06"
+  },
+  {
+   "title": "Management Trainee-TREASURY-FOREX MERCHANT-Retail Sales",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/220365",
+   "id": "220365",
+   "posted": "2025-12-02"
+  },
+  {
+   "title": "Management Trainee-Product Manager_TRANSACTION BANKING-GTS Cash_Mumbai",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/260863",
+   "id": "260863",
+   "posted": "2026-09-28"
+  },
+  {
+   "title": "Management Trainee-Process Analyst_Support Services-Consumer Risk_Mumbai",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/267051",
+   "id": "267051",
+   "posted": "2026-09-28"
+  },
+  {
+   "title": "Management Trainee-Product Manager_HO & Support-Branch Programme Team_Mumbai",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/265740",
+   "id": "265740",
+   "posted": "2026-09-28"
+  },
+  {
+   "title": "Management Trainee-Customer Assistance Manager_CREDIT CARD-Hardship Assistance Unit_Chennai",
+   "loc": "Chennai, Tamil Nadu, India",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/260319",
+   "id": "260319",
+   "posted": "2026-09-28"
+  },
+  {
+   "title": "Management Trainee-Business Relationship Manager-SBE_Small Business Enterprise-Sales_Indore",
+   "loc": "Indore, Madhya Pradesh, India",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/263634",
+   "id": "263634",
+   "posted": "2026-09-28"
+  },
+  {
+   "title": "Management Trainee-Business Relationship Manager-Business Loans_Business Loans-Sales_Ahmedabad",
+   "loc": "Ahmedabad, Gujarat, India",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/264305",
+   "id": "264305",
+   "posted": "2026-09-28"
+  },
+  {
+   "title": "Management Trainee-Digital Banking-Net & Mobile Banking HO Team",
+   "loc": "India",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/95790",
+   "id": "95790",
+   "posted": "2023-03-15"
+  }
+ ],
+ "details": {
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/267051": {
+   "title": "Management Trainee-Process Analyst_Support Services-Consumer Risk_Mumbai",
+   "loc": "Mumbai, Maharashtra, India",
+   "posted": "2026-09-28T00:00:00+00:00",
+   "end": null,
+   "desc": ""
+  },
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/260863": {
+   "title": "Management Trainee-Product Manager_TRANSACTION BANKING-GTS Cash_Mumbai",
+   "loc": "Mumbai, Maharashtra, India",
+   "posted": "2026-09-28T00:00:00+00:00",
+   "end": null,
+   "desc": ""
+  },
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/265740": {
+   "title": "Management Trainee-Product Manager_HO & Support-Branch Programme Team_Mumbai",
+   "loc": "Mumbai, Maharashtra, India",
+   "posted": "2026-09-28T00:00:00+00:00",
+   "end": null,
+   "desc": ""
+  },
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/217048": {
+   "title": "Management Trainee-Kotak Private Banking-Product Manager",
+   "loc": "Mumbai, Maharashtra, India",
+   "posted": "2025-11-06T00:00:00+00:00",
+   "end": null,
+   "desc": ""
+  },
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/95790": {
+   "title": "Management Trainee-Digital Banking-Net & Mobile Banking HO Team",
+   "loc": "India",
+   "posted": "2023-03-15T12:12:32+00:00",
+   "end": null,
+   "desc": "About Kotak Mahindra Bank Limited \n Established in 1985, Kotak Mahindra Group is one of India's leading financial services conglomerates. In February 2003, Kotak Mahindra Finance Ltd. (KMFL), the Group's flagship company, received banking licence from the Reserve Bank of India (RBI), becoming the first non-banking finance company in India to convert into a bank - Kotak Mahindra Bank Ltd. \n The Bank has four Strategic Business Units – Consumer Banking, Corporate Banking, Commercial Banking, and Treasury, which cater to retail and corporate customers across urban and rural India. The premise of Kotak Mahindra Group’s business model is concentrated India, diversified financial services. The bold vision that underscores the Group’s growth is an inclusive one, with a host of products and services designed to address the needs of the unbanked and insufficiently banked. As on 30th September, 2022, Kotak Mahindra Bank Ltd has a national footprint of 1,710 branches and 2,802 ATMs, and branches in GIFT City and DIFC (Dubai). \n KYMP – Kotak Youm Managers Program is a Kotak Group level Fast Track General Management Career Program for candidates selected from Top Management institutes in India. It is aimed at creating a pipeline of future leaders and accelerating their development by cross functional / Business stints. \n The Program aims to provide at least 3 rotations in first 12 months within the same business unit. \n For more information, please visit the company’s website at https://www.kotak.com/ ."
+  },
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/271895": {
+   "title": "Management Trainee-Relationship Manager_Loan Against Property-Sales_Bhubaneswar",
+   "loc": "Bhubaneswar, Odisha, India",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "end": "2027-01-21T00:00:00+00:00",
+   "desc": ""
+  },
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/220365": {
+   "title": "Management Trainee-TREASURY-FOREX MERCHANT-Retail Sales",
+   "loc": "Mumbai, Maharashtra, India",
+   "posted": "2025-12-02T00:00:00+00:00",
+   "end": null,
+   "desc": ""
+  },
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/260319": {
+   "title": "Management Trainee-Customer Assistance Manager_CREDIT CARD-Hardship Assistance Unit_Chennai",
+   "loc": "Chennai, Tamil Nadu, India",
+   "posted": "2026-09-28T00:00:00+00:00",
+   "end": null,
+   "desc": ""
+  },
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/263634": {
+   "title": "Management Trainee-Business Relationship Manager-SBE_Small Business Enterprise-Sales_Indore",
+   "loc": "Indore, Madhya Pradesh, India",
+   "posted": "2026-09-28T00:00:00+00:00",
+   "end": null,
+   "desc": ""
+  },
+  "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/264305": {
+   "title": "Management Trainee-Business Relationship Manager-Business Loans_Business Loans-Sales_Ahmedabad",
+   "loc": "Ahmedabad, Gujarat, India",
+   "posted": "2026-09-28T00:00:00+00:00",
+   "end": null,
+   "desc": ""
+  }
+ },
+ "note": "India facet 300000000258248; only 'Management Trainee' full-time grade roles, no internships. CX_5001 (290, Kotak Prime-type sales/credit) and CX_3001/4001 (3) have no intern titles."
+}

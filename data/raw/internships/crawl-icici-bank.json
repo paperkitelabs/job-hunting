@@ -1,0 +1,11 @@
+{
+ "company": "ICICI Bank",
+ "ats": "custom (icicicareers.com)",
+ "endpoint": "https://www.icicicareers.com/CareerApplicant/Career/Home",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "NOT REACHABLE / no feed: WAF error page ('This page can't be displayed', incident ID) to scripted requests; not reachable."
+}

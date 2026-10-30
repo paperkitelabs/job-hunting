@@ -1,0 +1,17 @@
+{
+ "company": "MetLife",
+ "ats": "avature",
+ "endpoint": "https://www.metlifecareers.com/en_US/ml/SearchJobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "(full board 411)",
+  "intern",
+  "internship",
+  "trainee",
+  "graduate",
+  "india"
+ ],
+ "total_hits": 411,
+ "india_intern_hits": [],
+ "details": {}
+}

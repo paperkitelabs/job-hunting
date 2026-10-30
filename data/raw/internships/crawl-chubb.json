@@ -1,0 +1,21 @@
+{
+ "company": "Chubb",
+ "ats": "oracle",
+ "endpoint": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com (site CX_2001)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "(full board 743)",
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "graduate",
+  "campus",
+  "student",
+  "2027"
+ ],
+ "total_hits": 743,
+ "india_intern_hits": [],
+ "details": {}
+}

@@ -1,0 +1,11 @@
+{
+ "company": "Yes Bank",
+ "ats": "unknown",
+ "endpoint": "https://www.yes.bank.in/careers",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "NOT REACHABLE / no feed: Careers URLs 404 on yes.bank.in; no ATS link found on homepage; 2 WebSearches gave only aggregators."
+}

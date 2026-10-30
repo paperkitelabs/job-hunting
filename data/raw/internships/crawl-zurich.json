@@ -1,0 +1,15 @@
+{
+ "company": "Zurich / ZINFI",
+ "ats": "successfactors",
+ "endpoint": "https://www.careers.zurich.com/search/",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "",
+  "intern",
+  "trainee",
+  "graduate"
+ ],
+ "total_hits": 349,
+ "india_intern_hits": [],
+ "details": {}
+}

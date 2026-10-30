@@ -1,0 +1,52 @@
+{
+ "company": "American Express",
+ "ats": "oracle",
+ "endpoint": "https://egug.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions (site CX_1, India locationId 300000000228786)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "graduate",
+  "campus",
+  "student",
+  "2027",
+  "(full India list)"
+ ],
+ "total_hits": 41,
+ "india_intern_hits": [
+  {
+   "title": "Apprentice - Enterprise Technology Services",
+   "loc": "Bengaluru, KA, India",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009713",
+   "id": "26009713",
+   "posted": "2026-10-28"
+  },
+  {
+   "title": "Apprentice",
+   "loc": "Gurugram, HR, India",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015791",
+   "id": "26015791",
+   "posted": "2026-10-27"
+  }
+ ],
+ "details": {
+  "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009713": {
+   "title": "Apprentice - Enterprise Technology Services",
+   "loc": "Bengaluru, KA, India",
+   "posted": "2026-10-28T10:15:54+00:00",
+   "end": "2026-11-01T17:30:00+00:00",
+   "desc": "Innovation is at the heart of everything we do. Every single day, our technologists enable our customers around the globe to achieve their goals. They design and deliver American Express infrastructure and applications across all markets and business units. To meet these demands, we’re looking for problem solvers who can get results through precise analysis and programming methodologies, individuals with a strong intellectual curiosity and a passion for innovation, and teammates who can convert their ideas into execution. \nJoin our 12-month paid apprenticeship program where you will have opportunities for development, networking and engaging with our executives. An apprenticeship at American Express will give you the chance to influence and strengthen the core businesses across the organization. \nJoin the team and make an impact right away: \nWrite code with one or more programming languages (e.g., Java, JavaScript, .NET, Python) \nFunction as a core member of an agile team working on API specs, conducting code reviews and testing in ongoing sprints, or doing proof of concepts/automation tools \nDesign and develop new customer-facing applications on multiple channels like native iOS, Android, web, social integration and Java services/APIs \nDesign and implement web-enabled systems for data collection \nWe have the know-how, technology, and global reach to make nearly any idea a reality. All that’s missing is you! Do you have? \nPassion for technology and strong desire to learn \nCurious mind to explore new possibilities and act on them \nNever-settle attitude and continuously looking for improvements \nCustomer-focus to think differently and deliver value to customers \nData-driven nature to drive decisions and results based on data \nThe candidate must have completed graduation under Bachelor’s or Master’s degree program in Computer Science and Information Technology Engineering or other technical discipline \nAmerican Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, disability status, age, or any other status protected by law. \nOffer of employment with American Express is conditioned upon the successful completion of a background verification check, subject to applicable laws and regulations. \n Flexible working model with hybrid, onsite or virtual arrangements depending on role and business need \n Career development and training opportunities"
+  },
+  "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015791": {
+   "title": "Apprentice",
+   "loc": "Gurugram, HR, India",
+   "posted": "2026-10-27T05:07:15+00:00",
+   "end": "2026-11-03T18:30:00+00:00",
+   "desc": "How will you make an impact in this role? \nAmerican Express Global Commercial Services (GCS) is the leading payment card issuer for businesses in the United States and various international markets and supports business owners and companies with products and services to help them run and grow their businesses. GCS trainee apprentice will be responsible for supporting GCS India Operations and the role will involve structured training, collaboration, and opportunity to experience the dynamic world of American Express. \n Key responsibilities \n• Manage day-to-day business operations supporting GCS India. Assist teams and leaders in customer deliverables and control related activities to ensure seamless service delivery and control environment \n• Ensure adherence to Company policies, Standard Operating Procedures (SOPs), and American Express compliance standards in all operational processes \n• Execute tasks in alignment with Service Level Agreements (SLAs) and maintain process quality in line with established guidelines to maintain consistency and accuracy \n• Collaborate with cross-functional teams and stakeholders to facilitate the smooth execution of assigned tasks, initiatives, and projects \n• Identify process improvement opportunities by recognizing gaps and recommending enhancements to increase efficiency, elevate the client/customer experience and enhance the control environment \n• Maintain high performance standards by ensuring effectiveness, efficiency, and quality in all deliverables \n• Provide operational support including developing and maintaining reports, dashboards, presentations and status updates for ongoing activities \n Skills and Experience Requirements \n• Graduates in any discipline (preferably Commerce/Business Administration/Economics/Banking and Finance) \n• Excellent verbal & written communication skills \n• Working knowledge of MS-Office (Excel, PowerPoint, Word) \n• Ability to collaborate effectively across all levels of management \n• Demonstrate positive attitude, agility, and willingness to learn and develop. Ability to work independently in a fast paced, structured, high-volume environment with minimal supervision \n• Strong flexibility/adaptability to manage multiple tasks within stringent time frames while maintaining accuracy \n• Must be flexible to work across different shifts \n Compliance Language \nWe back our colleagues and their loved ones with benefits and programs that support their holistic well being. That means we prioritize their physical, and mental health through each stage of life. Benefits include: \n• Cab facility \n• Free meals \n• Flexible working model with hybrid arrangement \n• Training and development opportunities \nAmerican Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, disability status, age, or any other status protected by law. Offer of contractual employment as an Apprentice with American Express is conditioned upon the successful completion of a background verification check, subject to applicable laws and regulations. Apprentices will be required to abide by Blue Box values and always maintain Code of Conduct."
+  }
+ }
+}

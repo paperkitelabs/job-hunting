@@ -1,0 +1,26 @@
+{
+ "company": "IDFC FIRST Bank",
+ "ats": "phenom",
+ "endpoint": "https://careers.idfcfirst.bank.in/in/en/search-results?keywords=<q>&from=<n> (phApp.ddo eagerLoadRefineSearch)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  ""
+ ],
+ "total_hits": 1403,
+ "india_intern_hits": [],
+ "details": {
+  "https://careers.idfcfirst.bank.in/in/en/job/P-233012": {
+   "title": "Data Analyst - Cx",
+   "type": "Full-Time",
+   "experienceLevel": "Fresher/ Entry (0-2 years)",
+   "posted": "2026-10-26",
+   "note": "checked for round-1 lead; full-time, not intern"
+  }
+ },
+ "note": "Keyword search intern/internship/trainee/apprentice = 0; whole board scanned. Internships run only via campus partner colleges."
+}

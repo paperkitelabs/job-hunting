@@ -83,19 +83,21 @@ def workday(base_url, queries=INTERN_QUERIES, india_only=True, max_pages=15):
     if india_only:  # find India country facet id
         r = post(api, {"appliedFacets": {}, "limit": 1, "offset": 0, "searchText": ""})
         if r is not None and r.ok:
+            def walk(node, param):
+                for v in node.get("values", []) or []:
+                    p = v.get("facetParameter") or param
+                    if v.get("descriptor", "").strip().lower() == "india" and param and "id" in v:
+                        facets.setdefault(param, []).append(v["id"])
+                    if v.get("values"):  # nested groups, e.g. locationMainGroup -> locations
+                        walk(v, p)
             for f in r.json().get("facets", []):
-                vals = f.get("values", [])
-                for v in vals:
-                    if v.get("descriptor", "").strip().lower() == "india" and "facetParameter" in f:
-                        facets.setdefault(f["facetParameter"], []).append(v["id"])
-                    for vv in v.get("values", []) or []:  # nested facet groups
-                        if vv.get("descriptor", "").strip().lower() == "india":
-                            facets.setdefault(v.get("facetParameter", f.get("facetParameter")), []).append(vv["id"])
+                walk(f, f.get("facetParameter"))
         # keep only country-type facet if several
         for k in list(facets):
             if "country" in k.lower():
                 facets = {k: facets[k]}; break
     for q in queries:
+        total = None  # Workday returns total only on the first page
         for page in range(max_pages):
             r = post(api, {"appliedFacets": facets, "limit": 20, "offset": page * 20, "searchText": q})
             if r is None or not r.ok:
@@ -109,7 +111,9 @@ def workday(base_url, queries=INTERN_QUERIES, india_only=True, max_pages=15):
                 out.append({"title": p.get("title"), "loc": p.get("locationsText"), "url": pub + path,
                             "id": (p.get("bulletFields") or [""])[0], "posted": p.get("postedOn"),
                             "api": f"https://{host}/wday/cxs/{tenant}/{site}{path}", "query": q})
-            if len(posts) < 20 or (page + 1) * 20 >= js.get("total", 0):
+            if total is None:
+                total = js.get("total", 0)
+            if len(posts) < 20 or (page + 1) * 20 >= total:
                 break
     return out, {"api": api, "india_facet": facets}
 

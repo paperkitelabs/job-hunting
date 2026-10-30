@@ -1,0 +1,23 @@
+{
+ "company": "Equifax",
+ "ats": "workday",
+ "endpoint": "https://equifax.wd5.myworkdayjobs.com/wday/cxs/equifax/External/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "",
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "graduate",
+  "2027",
+  "industrial",
+  "student",
+  "campus"
+ ],
+ "total_hits": 28,
+ "india_intern_hits": [],
+ "details": {}
+}

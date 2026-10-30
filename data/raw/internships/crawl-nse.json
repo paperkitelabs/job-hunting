@@ -1,0 +1,11 @@
+{
+ "company": "NSE",
+ "ats": "unknown",
+ "endpoint": "https://www.nseindia.com/careers",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "NOT REACHABLE / no feed: 403 Access Denied (WAF) on nseindia.com."
+}
