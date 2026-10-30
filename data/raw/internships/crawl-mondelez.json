@@ -1,0 +1,19 @@
+{
+ "company": "Mondelez",
+ "ats": "workday",
+ "endpoint": "https://mdlz.wd3.myworkdayjobs.com/wday/cxs/mdlz/External/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "graduate",
+  "2027",
+  "(India country facet)"
+ ],
+ "total_hits": 60,
+ "india_intern_hits": [],
+ "details": {}
+}

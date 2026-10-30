@@ -1,0 +1,21 @@
+{
+ "company": "Schneider Electric",
+ "ats": "jibe/icims",
+ "endpoint": "https://careers.se.com/api/jobs (Jibe; iCIMS apply)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "off-cycle",
+  "2027",
+  "analyst intern",
+  "graduate",
+  "'' (all India)"
+ ],
+ "total_hits": 690,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "All intern-titled hits are Indonesia (helper is_india matches 'Indonesia'); 0 India intern postings among 614 India jobs."
+}

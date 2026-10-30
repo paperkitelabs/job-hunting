@@ -1,0 +1,13 @@
+{
+ "company": "Reliance Industries",
+ "ats": "custom (ASP.NET)",
+ "endpoint": "https://careers.ril.com/rilcareers/frmJobSearch.aspx; https://careers.jio.com/frmJobCategories.aspx",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "landing/listing HTML"
+ ],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "RIL job search page has no intern postings (only campus Summer Internship Program info page); Jio portal lists categories behind profile login."
+}

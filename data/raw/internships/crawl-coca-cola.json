@@ -1,0 +1,19 @@
+{
+ "company": "Coca-Cola",
+ "ats": "workday",
+ "endpoint": "https://coke.wd1.myworkdayjobs.com/wday/cxs/coke/coca-cola-careers/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "graduate",
+  "2027",
+  "(India country facet)"
+ ],
+ "total_hits": 6,
+ "india_intern_hits": [],
+ "details": {}
+}

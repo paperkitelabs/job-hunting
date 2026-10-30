@@ -1,0 +1,16 @@
+{
+ "company": "Nestle India",
+ "ats": "successfactors-rmk",
+ "endpoint": "https://jobdetails.nestle.com/search/?locationsearch=India (nestle.in/jobs answers 403)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "2027"
+ ],
+ "total_hits": 20,
+ "india_intern_hits": [],
+ "details": {}
+}

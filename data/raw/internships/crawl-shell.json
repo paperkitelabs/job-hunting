@@ -1,0 +1,19 @@
+{
+ "company": "Shell",
+ "ats": "workday",
+ "endpoint": "https://shell.wd3.myworkdayjobs.com/wday/cxs/shell/ShellCareers/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "graduate",
+  "2027",
+  "(India country facet)"
+ ],
+ "total_hits": 19,
+ "india_intern_hits": [],
+ "details": {}
+}

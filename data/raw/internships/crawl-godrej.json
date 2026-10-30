@@ -1,0 +1,17 @@
+{
+ "company": "Godrej Group",
+ "ats": "phenom",
+ "endpoint": "https://careers.godrejindustries.com/widgets (refineSearch, refNum GGXGGZIN)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "2027",
+  "'' country India"
+ ],
+ "total_hits": 607,
+ "india_intern_hits": [],
+ "details": {}
+}

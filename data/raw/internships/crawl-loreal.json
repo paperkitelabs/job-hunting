@@ -1,0 +1,17 @@
+{
+ "company": "L'Oreal India",
+ "ats": "radancy-talentbrew",
+ "endpoint": "https://careers.loreal.com/en/search-jobs/results (OrganizationIds 3456)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  ""
+ ],
+ "total_hits": 582,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "582 global results; only 2 India postings (Hyderabad tech, full-time), no India intern."
+}

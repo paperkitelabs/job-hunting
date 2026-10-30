@@ -1,0 +1,13 @@
+{
+ "company": "Larsen & Toubro (LTIMindtree, L&T Tech)",
+ "ats": "peoplestrong / ripplehire",
+ "endpoint": "https://larsentoubrocareers.peoplestrong.com/ ; ltm.com/careers (ripplehire)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "landing/listing HTML"
+ ],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "JS-only portals; no public JSON listing found; no intern mention on landing pages."
+}

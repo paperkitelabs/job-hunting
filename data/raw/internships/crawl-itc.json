@@ -1,0 +1,13 @@
+{
+ "company": "ITC",
+ "ats": "zoho-recruit",
+ "endpoint": "https://recruitment.itcportal.com/jobs/Careers (embedded job JSON)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "whole board (48 postings)"
+ ],
+ "total_hits": 48,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Board lists only full-time roles; site links a Summer Internship Program (B-school campus)."
+}
