@@ -118,11 +118,11 @@
   },
   {
    "name": "The Smart Cube",
-   "ats": "",
-   "endpoint": "",
+   "ats": "None found (WNS company)",
+   "endpoint": "https://www.thesmartcube.com/about-us/careers/ (current-vacancies redirects to careers home)",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "No job listing/ATS: current-vacancies redirects to careers landing; student-hires page only describes Summer Internships/Resolvr programmes with no open posting or apply link"
   },
   {
    "name": "Aays Analytics",
@@ -158,19 +158,19 @@
   },
   {
    "name": "Decision Point",
-   "ats": "",
-   "endpoint": "",
+   "ats": "Darwinbox (LatentView)",
+   "endpoint": "https://latentview.darwinbox.in/ms/candidate/careers (decisionpoint.in -> decisionpoint.ai -> latentview.com/decisionpoint)",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "UNREACHABLE: Decision Point is now part of LatentView; careers go to latentview.darwinbox.in whose candidate API is behind a Cloudflare block (403). Not crawled"
   },
   {
    "name": "Cartesian Consulting",
-   "ats": "",
-   "endpoint": "",
+   "ats": "None found",
+   "endpoint": "https://cartesianconsulting.com/careers/ (now SOLUS React SPA; solus.ai/careers 404)",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "No careers listing: cartesianconsulting.com is now a SOLUS single-page app with no careers content; solus.ai has no careers page (404)"
   },
   {
    "name": "Eclerx",
@@ -214,11 +214,11 @@
   },
   {
    "name": "Sutherland",
-   "ats": "",
-   "endpoint": "",
+   "ats": "Shazamme job board (jobs.sutherlandglobal.com)",
+   "endpoint": "https://www.jobs.sutherlandglobal.com/sitemap.xml (job-details URLs, lastmod 2026-10-28); listing widget is Firebase/Shazamme JS with no plain API",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "Scanned 424 live job-details slugs from the sitemap (all countries): 0 intern/trainee/apprentice. Only a Riyadh \"recent IT graduates\" assignment (not India). Locations not in slugs, so India filter not applied - no intern titles at all"
   },
   {
    "name": "TaskUs",
@@ -246,11 +246,11 @@
   },
   {
    "name": "Straive",
-   "ats": "",
-   "endpoint": "",
+   "ats": "None found",
+   "endpoint": "https://www.straive.com/careers/ (contact form + regional careers mailboxes)",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "No ATS: careers page is a CV-submission form and email addresses (INCareers@straive.com); 1 WebSearch found only aggregator walk-in posts (not usable)"
   },
   {
    "name": "Cognida",

@@ -1,0 +1,12 @@
+{
+ "company": "Sutherland",
+ "ats": "Shazamme job board (jobs.sutherlandglobal.com)",
+ "endpoint": "https://www.jobs.sutherlandglobal.com/sitemap.xml (job-details URLs, lastmod 2026-10-28); listing widget is Firebase/Shazamme JS with no plain API",
+ "queried_at": "2026-10-30T13:45:28.370769Z",
+ "queries": [
+  "sitemap slug scan: intern|trainee|apprentice|graduate|fresher|data|analyst"
+ ],
+ "total_hits": 424,
+ "india_intern_hits": [],
+ "details": {}
+}
