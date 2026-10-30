@@ -1,0 +1,697 @@
+{
+ "cluster": "E-consulting",
+ "checked": "30 Oct 2026",
+ "openings": [
+  {
+   "company": "Deloitte India (Deloitte Touche Tohmatsu India LLP)",
+   "role": "Intern | CEO'S OFFICE | Delhi | CEO's Office",
+   "url": "https://southasiacareers.deloitte.com/job/Delhi-Intern-CEO%26apos%3BS-OFFICE-Delhi-CEO%26apos%3Bs-Office/60770544/",
+   "location": "Delhi",
+   "city_rank": 4,
+   "job_id": "60770544",
+   "duration": "not stated",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "not stated (no eligibility line in posting)",
+   "pay": "",
+   "track": "consult",
+   "posted": "2026-10-16",
+   "deadline": "",
+   "jd": "Intern in Deloitte India's CEO's Office on high-priority strategic initiatives: primary and secondary research on markets, competitors and trends, analysing data to shape points of view, and building executive-ready presentations for senior leadership.",
+   "li": "Deloitte India CEO's Office",
+   "resume": "Analyst / PM",
+   "verified": "southasiacareers.deloitte.com detail page 200 with Apply now, not 'position filled'; listed on live board (Oct 16, 2026)",
+   "note": "Very short JD; dates, duration and eligibility not stated. Delhi only."
+  },
+  {
+   "company": "BCG (BCG X Delivery Finance)",
+   "role": "BCG X Finance Intern",
+   "url": "https://careers.bcg.com/global/en/job/59487/BCG-X-Finance-Intern",
+   "location": "Gurgaon",
+   "city_rank": 4,
+   "job_id": "59487",
+   "duration": "not stated",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "Bachelor's or Master's degree, or currently pursuing one; strong interest in analytics",
+   "pay": "",
+   "track": "consult",
+   "posted": "2026-10-22",
+   "deadline": "",
+   "jd": "Trainee in BCG X Delivery Finance: builds dashboards, reporting suites and data pipelines consolidating multiple sources, and automates reporting with Power BI, Tableau Prep and AI tools (Claude); secondary support on budgeting, forecasting and variance tracking.",
+   "li": "BCG X Delivery Finance",
+   "resume": "Analyst / PM",
+   "verified": "Phenom job detail page 200, jobDetail JSON present with applyUrl (experiencedtalent.bcg.com), postedDate 2026-10-22",
+   "note": "Finance-reporting analytics inside BCG X, not client consulting. A sibling req (59156) once described a 1-year internship, so it may run past May 2027."
+  },
+  {
+   "company": "Oliver Wyman (Marsh McLennan)",
+   "role": "Oliver Wyman – Actuarial Intern – Life",
+   "url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---Horizon/Oliver-Wyman---Actuarial-Intern---Life_R_303261-1",
+   "location": "Gurugram / Bengaluru",
+   "city_rank": 3,
+   "job_id": "R_303261",
+   "duration": "not stated",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "Currently pursuing or recently obtained a Bachelor's or Master's, ideally in Actuarial Science, Mathematics, Statistics, Finance or related; commitment to actuarial exams",
+   "pay": "",
+   "track": "consult",
+   "posted": "2026-01-12",
+   "deadline": "",
+   "jd": "Actuarial intern on Oliver Wyman life/annuity insurance consulting projects: actuarial model development, testing, validation and conversions, plus data/process transformation and analytics for insurers and reinsurers. Asks for Excel/Access and VBA or other programming.",
+   "li": "Oliver Wyman Actuarial (Life)",
+   "resume": "Analyst / PM",
+   "verified": "Workday detail 200, canApply true, country India",
+   "note": "Evergreen posting (Jan 2026). Actuarial focus; expects commitment to actuarial exams. Treat as a stretch."
+  }
+ ],
+ "rejected": [
+  {
+   "company": "Deloitte India",
+   "role": "Intern | Income Tax Laws | Bengaluru | Business Tax",
+   "url": "https://southasiacareers.deloitte.com/job/Bengaluru-Intern-Income-Tax-Laws-Bengaluru-Business-Tax/61058244/",
+   "reason": "Tax internship (US Form 1040 / income tax; B.Com/CA/MBA eligibility)"
+  },
+  {
+   "company": "Deloitte India",
+   "role": "Intern | Income Tax Laws | Bengaluru | Business Tax",
+   "url": "https://southasiacareers.deloitte.com/job/Bengaluru-Intern-Income-Tax-Laws-Bengaluru-Business-Tax/60911244/",
+   "reason": "Tax internship (US Form 1040 / income tax; B.Com/CA/MBA eligibility)"
+  },
+  {
+   "company": "Deloitte India",
+   "role": "Tax | Intern | Income Tax Laws | Hyderabad | Business Tax",
+   "url": "https://southasiacareers.deloitte.com/job/Hyderabad-Tax-Intern-Income-Tax-Laws-Hyderabad-Business-Tax/60859144/",
+   "reason": "Tax internship (US Form 1040 / income tax; B.Com/CA/MBA eligibility)"
+  },
+  {
+   "company": "Deloitte India",
+   "role": "Intern | Income Tax Laws | Mumbai | Business Tax",
+   "url": "https://southasiacareers.deloitte.com/job/Mumbai-Intern-Income-Tax-Laws-Mumbai-Business-Tax/60812044/",
+   "reason": "Tax internship (US Form 1040 / income tax; B.Com/CA/MBA eligibility)"
+  },
+  {
+   "company": "Deloitte India",
+   "role": "Tax | Intern | Income Tax Laws | Bengaluru | Business Tax",
+   "url": "https://southasiacareers.deloitte.com/job/Bengaluru-Tax-Intern-Income-Tax-Laws-Bengaluru-Business-Tax/60807444/",
+   "reason": "Tax internship (US Form 1040 / income tax; B.Com/CA/MBA eligibility)"
+  },
+  {
+   "company": "Deloitte India",
+   "role": "Intern | Income Tax Laws | Hyderabad | Business Tax",
+   "url": "https://southasiacareers.deloitte.com/job/Hyderabad-Intern-Income-Tax-Laws-Hyderabad-Business-Tax/60808644/",
+   "reason": "Tax internship (US Form 1040 / income tax; B.Com/CA/MBA eligibility)"
+  },
+  {
+   "company": "Deloitte India",
+   "role": "Intern | Income Tax Laws | Business Tax",
+   "url": "https://southasiacareers.deloitte.com/job/Hyderabad-Intern-Income-Tax-Laws-Business-Tax/60807744/",
+   "reason": "Tax internship (US Form 1040 / income tax; B.Com/CA/MBA eligibility)"
+  },
+  {
+   "company": "Deloitte India",
+   "role": "Intern | Not Applicable | Mumbai | Talent",
+   "url": "https://southasiacareers.deloitte.com/job/Mumbai-Intern-Not-Applicable-Mumbai-Talent/60813044/",
+   "reason": "HR / talent acquisition internship"
+  },
+  {
+   "company": "Deloitte India",
+   "role": "Intern | Talent Acquisition | Delhi | Talent",
+   "url": "https://southasiacareers.deloitte.com/job/Delhi-Intern-Talent-Acquisition-Delhi-Talent/60811444/",
+   "reason": "HR / talent acquisition internship"
+  },
+  {
+   "company": "Deloitte India",
+   "role": "Intern | Talent Acquisition | Delhi | Talent",
+   "url": "https://southasiacareers.deloitte.com/job/Bengaluru-Intern-Talent-Acquisition-Delhi-Talent/60564644/",
+   "reason": "HR / talent acquisition internship"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - Business Consulting Risk - TMT - CNS - Risk - Process & Controls - Hyderabad",
+   "url": "https://careers.ey.com/ey/job/Hyderabad-Industrial-Trainee-Business-Consulting-Risk-TMT-CNS-Risk-Process-%26-Controls-Hyderabad-500032/1451881033/",
+   "reason": "Internal controls / process-risk trainee; requires B.Com and 2+ years technical support experience"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - Business Consulting Risk - National - CNS - Risk - Process & Controls - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-Business-Consulting-Risk-National-CNS-Risk-Process-%26-Controls-Mumbai-MH-400028/1451095233/",
+   "reason": "Internal audit / GRC risk-consulting trainee; requires CA/CIA/MBA with 0-1 yr post-qualification experience"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - Business Consulting Risk - National - CNS - Risk - Process & Controls - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-Business-Consulting-Risk-National-CNS-Risk-Process-%26-Controls-Mumbai-MH-400028/1451054533/",
+   "reason": "Internal audit / GRC risk-consulting trainee; requires CA/CIA/MBA with 0-1 yr post-qualification experience"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - Business Consulting Risk - National - CNS - Risk - Process & Controls - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-Business-Consulting-Risk-National-CNS-Risk-Process-%26-Controls-Mumbai-MH-400028/1451060133/",
+   "reason": "Internal audit / GRC risk-consulting trainee; requires CA/CIA/MBA with 0-1 yr post-qualification experience"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - Business Consulting Risk - National - CNS - Risk - Process & Controls - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-Business-Consulting-Risk-National-CNS-Risk-Process-%26-Controls-Mumbai-MH-400028/1451049333/",
+   "reason": "Internal audit / GRC risk-consulting trainee; requires CA/CIA/MBA with 0-1 yr post-qualification experience"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - Business Consulting Risk - National - CNS - Risk - Process & Controls - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-Business-Consulting-Risk-National-CNS-Risk-Process-%26-Controls-Mumbai-MH-400028/1451080133/",
+   "reason": "Internal audit / GRC risk-consulting trainee; requires CA/CIA/MBA with 0-1 yr post-qualification experience"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - Business Consulting Risk - National - CNS - Risk - Process & Controls - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-Business-Consulting-Risk-National-CNS-Risk-Process-%26-Controls-Mumbai-MH-400028/1451089833/",
+   "reason": "Internal audit / GRC risk-consulting trainee; requires CA/CIA/MBA with 0-1 yr post-qualification experience"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - Business Consulting Risk - National - CNS - Risk - Process & Controls - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-Business-Consulting-Risk-National-CNS-Risk-Process-%26-Controls-Mumbai-MH-400028/1451075233/",
+   "reason": "Internal audit / GRC risk-consulting trainee; requires CA/CIA/MBA with 0-1 yr post-qualification experience"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - Business Consulting Risk - National - CNS - Risk - Process & Controls - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-Business-Consulting-Risk-National-CNS-Risk-Process-%26-Controls-Mumbai-MH-400028/1451063233/",
+   "reason": "Internal audit / GRC risk-consulting trainee; requires CA/CIA/MBA with 0-1 yr post-qualification experience"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - Business Consulting Risk - National - CNS - Risk - Process & Controls - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-Business-Consulting-Risk-National-CNS-Risk-Process-%26-Controls-Mumbai-MH-400028/1451111933/",
+   "reason": "Internal audit / GRC risk-consulting trainee; requires CA/CIA/MBA with 0-1 yr post-qualification experience"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - Business Consulting Risk - National - CNS - Risk - Process & Controls - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-Business-Consulting-Risk-National-CNS-Risk-Process-%26-Controls-Mumbai-MH-400028/1451105833/",
+   "reason": "Internal audit / GRC risk-consulting trainee; requires CA/CIA/MBA with 0-1 yr post-qualification experience"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - Business Consulting Risk - National - CNS - Risk - Process & Controls - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-Business-Consulting-Risk-National-CNS-Risk-Process-%26-Controls-Mumbai-MH-400028/1451100433/",
+   "reason": "Internal audit / GRC risk-consulting trainee; requires CA/CIA/MBA with 0-1 yr post-qualification experience"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - Business Consulting Risk - National - CNS - Risk - Process & Controls - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-Business-Consulting-Risk-National-CNS-Risk-Process-%26-Controls-Mumbai-MH-400028/1451057433/",
+   "reason": "Internal audit / GRC risk-consulting trainee; requires CA/CIA/MBA with 0-1 yr post-qualification experience"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - Business Consulting Risk - National - CNS - Risk - Process & Controls - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-Business-Consulting-Risk-National-CNS-Risk-Process-%26-Controls-Mumbai-MH-400028/1451047433/",
+   "reason": "Internal audit / GRC risk-consulting trainee; requires CA/CIA/MBA with 0-1 yr post-qualification experience"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - Business Consulting Risk - National - CNS - Risk - Process & Controls - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-Business-Consulting-Risk-National-CNS-Risk-Process-%26-Controls-Mumbai-MH-400028/1451051833/",
+   "reason": "Internal audit / GRC risk-consulting trainee; requires CA/CIA/MBA with 0-1 yr post-qualification experience"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - Business Consulting Risk - National - CNS - Risk - Process & Controls - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-Business-Consulting-Risk-National-CNS-Risk-Process-%26-Controls-Mumbai-MH-400028/1451071533/",
+   "reason": "Internal audit / GRC risk-consulting trainee; requires CA/CIA/MBA with 0-1 yr post-qualification experience"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - Business Consulting Risk - National - CNS - Risk - Process & Controls - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-Business-Consulting-Risk-National-CNS-Risk-Process-%26-Controls-Mumbai-MH-400028/1451068333/",
+   "reason": "Internal audit / GRC risk-consulting trainee; requires CA/CIA/MBA with 0-1 yr post-qualification experience"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - Business Consulting Risk - National - CNS - Risk - Process & Controls - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-Business-Consulting-Risk-National-CNS-Risk-Process-%26-Controls-Mumbai-MH-400028/1451085133/",
+   "reason": "Internal audit / GRC risk-consulting trainee; requires CA/CIA/MBA with 0-1 yr post-qualification experience"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - SaT - National - SaT - TCF - Valuation - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-SaT-National-SaT-TCF-Valuation-Mumbai-MH-400028/1420901233/",
+   "reason": "Tax (individual tax returns / TDS) work despite SaT/TCF label; finance/tax-only"
+  },
+  {
+   "company": "EY India",
+   "role": "Intern 1 - Assurance - CHS - ASU - Audit - Audit Services - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Intern-1-Assurance-CHS-ASU-Audit-Audit-Services-Mumbai-MH-400028/1450557333/",
+   "reason": "Statutory audit internship (audit-only)"
+  },
+  {
+   "company": "EY India",
+   "role": "Intern 1 - Assurance - TMT - ASU - Audit - Audit Services - Hyderabad",
+   "url": "https://careers.ey.com/ey/job/Hyderabad-Intern-1-Assurance-TMT-ASU-Audit-Audit-Services-Hyderabad-500032/1450606733/",
+   "reason": "Statutory audit internship (audit-only)"
+  },
+  {
+   "company": "EY India",
+   "role": "Intern 1 - Assurance - TMT - ASU - Audit - Audit Services - Bangalore",
+   "url": "https://careers.ey.com/ey/job/Bengaluru-Intern-1-Assurance-TMT-ASU-Audit-Audit-Services-Bangalore-KA-560001/1450557033/",
+   "reason": "Statutory audit internship (audit-only)"
+  },
+  {
+   "company": "EY India",
+   "role": "Intern 1 - Assurance - TMT - ASU - Audit - Audit Services - Chennai",
+   "url": "https://careers.ey.com/ey/job/Chennai-Intern-1-Assurance-TMT-ASU-Audit-Audit-Services-Chennai-TN-600113/1450155833/",
+   "reason": "Statutory audit internship (audit-only)"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - SaT - National - SaT - TCF - Capital and Debt Advisory - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-SaT-National-SaT-TCF-Capital-and-Debt-Advisory-Mumbai-MH-400028/1427250933/",
+   "reason": "Tax (individual tax returns / TDS) work despite SaT/TCF label; finance/tax-only"
+  },
+  {
+   "company": "EY India",
+   "role": "FSO- CA Freshers",
+   "url": "https://careers.ey.com/ey/job/Gurgaon-FSO-CA-Freshers-HR-122010/1421101033/",
+   "reason": "CA freshers, international tax (tax-only)"
+  },
+  {
+   "company": "EY India",
+   "role": "Industrial Trainee - SaT - National - SaT - TCF - Capital and Debt Advisory - Mumbai",
+   "url": "https://careers.ey.com/ey/job/Mumbai-Industrial-Trainee-SaT-National-SaT-TCF-Capital-and-Debt-Advisory-Mumbai-MH-400028/1427139833/",
+   "reason": "Tax (individual tax returns / TDS) work despite SaT/TCF label; finance/tax-only"
+  },
+  {
+   "company": "PwC India",
+   "role": "IN_Intern/Trainee",
+   "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Intern-Trainee_764518WD",
+   "reason": "HR talent-acquisition coordination intern (despite D&A specialism tag)"
+  },
+  {
+   "company": "PwC India",
+   "role": "Intern/ Trainee",
+   "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-8-B/Intern--Trainee_442620WD-1",
+   "reason": "Posted May 2023 (stale); ITGC internal audit, Associate/Sr Associate up to 7 yrs experience"
+  },
+  {
+   "company": "KPMG India",
+   "role": "Industrial Trainee - Internal Audit",
+   "url": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3R/job/INTG10043161",
+   "reason": "CA industrial trainee in internal audit (posted Apr 2026); audit-only"
+  },
+  {
+   "company": "Mercer (Marsh McLennan)",
+   "role": "Intern - Psychometric Design & Delivery",
+   "url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---Good-Earth/Intern---Psychometric-Design---Delivery_R_366296",
+   "reason": "Psychometric assessment design (HR/psychology); requires postgraduate in Psychology/HR"
+  },
+  {
+   "company": "IBM",
+   "role": "IBM Research/Research Software - Intern",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=137471",
+   "reason": "Summer internship May–Aug 2027 (max 3 months) for university-relations students; runs past the Nov 2026–May 2027 window. Also IBM Research, not consulting."
+  }
+ ],
+ "round1": [
+  {
+   "company": "BCG (BCG X Delivery Finance)",
+   "role": "BCG X Finance Intern",
+   "old_url": "https://careers.bcg.com/global/en/job/59487/BCG-X-Finance-Intern",
+   "status": "live",
+   "new_url": "https://careers.bcg.com/global/en/job/59487/BCG-X-Finance-Intern",
+   "note": "Phenom detail live, postedDate 2026-10-22; kept"
+  },
+  {
+   "company": "PwC India",
+   "role": "Tech Consulting Intern - Data and Analytics (Bengaluru)",
+   "old_url": "https://myinternships.in/internships/pwc-india-is-hiring-tech-consulting-intern-data-and-analytics-bengaluru-39a51d",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No such intern on PwC Workday (all India postings and all Intern/Trainee job-type postings checked)"
+  },
+  {
+   "company": "PwC India",
+   "role": "Technology Consulting - Intern (Off-campus 2026)",
+   "old_url": "https://www.jobscoupe.com/?p=36452",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No such intern on PwC Workday (all India postings and all Intern/Trainee job-type postings checked)"
+  },
+  {
+   "company": "Deloitte India (Deloitte Touche Tohmatsu India LLP)",
+   "role": "Intern | Artificial Intelligence (AI) | Bengaluru | TTC - DOMESTIC",
+   "old_url": "https://southasiacareers.deloitte.com/job/Bengaluru-Intern-Artificial-Intelligence-%28AI%29-Bengaluru-TTC-DOMESTIC/54490644",
+   "status": "closed",
+   "new_url": "",
+   "note": "Detail page renders 'Sorry, this position has been filled'; not on live board (2,054 postings walked)"
+  },
+  {
+   "company": "Deloitte India (Deloitte Touche Tohmatsu India LLP)",
+   "role": "Intern | Artificial Intelligence (AI) | Delhi | TTC - DOMESTIC",
+   "old_url": "https://southasiacareers.deloitte.com/job/Delhi-Intern-Artificial-Intelligence-%28AI%29-Delhi-TTC-DOMESTIC/54256144",
+   "status": "closed",
+   "new_url": "",
+   "note": "Detail page renders 'Sorry, this position has been filled'; not on live board (2,054 postings walked)"
+  },
+  {
+   "company": "Deloitte India (Enabling Areas / DEC)",
+   "role": "Enabling Areas - DEC - Intern - Data Science",
+   "old_url": "https://southasiacareers.deloitte.com/job/Bengaluru-Enabling-Areas-DEC-Intern-Data-Science/55688244/",
+   "status": "closed",
+   "new_url": "",
+   "note": "Detail page renders 'Sorry, this position has been filled'; not on live board (2,054 postings walked)"
+  },
+  {
+   "company": "Deloitte India (Deloitte Touche Tohmatsu India LLP)",
+   "role": "Intern | Fresher | Mumbai - Commerz III | Enterprise Risk",
+   "old_url": "https://southasiacareers.deloitte.com/job/Mumbai-Commerz-III-Intern-Fresher-Mumbai-Commerz-III-Enterprise-Risk/54525744",
+   "status": "closed",
+   "new_url": "",
+   "note": "Detail page renders 'Sorry, this position has been filled'; not on live board (2,054 postings walked)"
+  },
+  {
+   "company": "Deloitte India (Deloitte Touche Tohmatsu India LLP)",
+   "role": "Intern | NFR | Pune | Regulatory & Financial Risk",
+   "old_url": "https://southasiacareers.deloitte.com/job/Pune-Intern-NFR-Pune-Regulatory-&-Financial-Risk/55029244/",
+   "status": "closed",
+   "new_url": "",
+   "note": "Detail page renders 'Sorry, this position has been filled'; not on live board (2,054 postings walked)"
+  },
+  {
+   "company": "Deloitte India (Deloitte Touche Tohmatsu India LLP)",
+   "role": "Intern | Enterprise Risk | Delhi | Enterprise Risk",
+   "old_url": "https://southasiacareers.deloitte.com/job/Delhi-Intern-Enterprise-Risk-Delhi-Enterprise-Risk/57683644/",
+   "status": "closed",
+   "new_url": "",
+   "note": "Detail page renders 'Sorry, this position has been filled'; not on live board (2,054 postings walked)"
+  },
+  {
+   "company": "Deloitte India (Deloitte Touche Tohmatsu India LLP)",
+   "role": "Intern | Enterprise Risk Management framework (ERM) and Managing Risk | Delhi | Enterprise Risk",
+   "old_url": "https://southasiacareers.deloitte.com/job/Delhi-Intern-Enterprise-Risk-Management-framework-%28ERM%29-and-Managing-Risk-Delhi-Enterprise-Risk/55664644/",
+   "status": "closed",
+   "new_url": "",
+   "note": "Detail page renders 'Sorry, this position has been filled'; not on live board (2,054 postings walked)"
+  },
+  {
+   "company": "Deloitte India (Deloitte Touche Tohmatsu India LLP)",
+   "role": "Intern | Enterprise Risk | Delhi | Enterprise Risk",
+   "old_url": "https://southasiacareers.deloitte.com/job/Delhi-Intern-Enterprise-Risk-Delhi-Enterprise-Risk/55069744/",
+   "status": "closed",
+   "new_url": "",
+   "note": "Detail page renders 'Sorry, this position has been filled'; not on live board (2,054 postings walked)"
+  },
+  {
+   "company": "Deloitte India",
+   "role": "AI/ML Intern (Delhi, Mumbai, Bengaluru; 3-6 months)",
+   "old_url": "https://yohire.in/job/deloitte-machine-learning-india-internship-2026",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No AI/ML intern (req 110583) on southasiacareers full board walk"
+  },
+  {
+   "company": "EY GDS (EY-Parthenon)",
+   "role": "EYP TRE Intern (Pune)",
+   "old_url": "https://careers.ey.com/ey/job/Pune-EYP-TRE-Intern-MH-411014/1428994933/",
+   "status": "closed",
+   "new_url": "",
+   "note": "careers.ey.com: 'The Job is no longer available'; no EYP intern on India board (3,072 walked)"
+  },
+  {
+   "company": "EY GDS (EY-Parthenon)",
+   "role": "EYP TRE Intern (Pune) - second requisition",
+   "old_url": "https://careers.ey.com/ey/job/Pune-EYP-TRE-Intern-MH-411014/1428994333/",
+   "status": "closed",
+   "new_url": "",
+   "note": "careers.ey.com: 'The Job is no longer available'; no EYP intern on India board (3,072 walked)"
+  },
+  {
+   "company": "EY (campus ATS eyglobal.yello.co)",
+   "role": "TC - Data and AI - Intern",
+   "old_url": "https://eyglobal.yello.co/jobs/FzX2P5EaJ-EElC8me3VpZQ",
+   "status": "closed",
+   "new_url": "",
+   "note": "eyglobal.yello.co page: 'This job is no longer available'"
+  },
+  {
+   "company": "EY GDS (campus ATS eyglobal.yello.co)",
+   "role": "CSS-CSS-Consulting Support Services-Intern",
+   "old_url": "https://eyglobal.yello.co/jobs/Z89jJeEkEo5kMaE8UXWpyw?locale=en",
+   "status": "closed",
+   "new_url": "",
+   "note": "eyglobal.yello.co page: 'This job is no longer available'"
+  },
+  {
+   "company": "EY India / EY GDS",
+   "role": "GDS Consulting - AI and Data Intern (Chennai/Bengaluru)",
+   "old_url": "https://premieragile-careerportal.prosple.com/graduate-employers/ey-india/jobs-internships/gds-consulting-ai-and-data-intern",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No AI & Data / D&A intern on careers.ey.com India board (full walk of 3,072)"
+  },
+  {
+   "company": "EY India / EY GDS",
+   "role": "Consulting Intern - AI and Data (Pune)",
+   "old_url": "https://vu-careersguide.prosple.com/graduate-employers/ey-india/jobs-internships/consulting-intern-ai-and-data",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No AI & Data / D&A intern on careers.ey.com India board (full walk of 3,072)"
+  },
+  {
+   "company": "EY India / EY GDS",
+   "role": "Data & Analytics Intern (Noida / Hyderabad / Bengaluru)",
+   "old_url": "https://jobs.weekday.works/ey-india-data-%26-analytics-intern",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No AI & Data / D&A intern on careers.ey.com India board (full walk of 3,072)"
+  },
+  {
+   "company": "EY India / EY GDS",
+   "role": "Data Analytics Consulting Intern (Bengaluru)",
+   "old_url": "https://kalingauniversity.prosple.com/graduate-employers/ey-india/jobs-internships/data-analytics-consulting-intern",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No AI & Data / D&A intern on careers.ey.com India board (full walk of 3,072)"
+  },
+  {
+   "company": "EY India / EY GDS",
+   "role": "GDS Consulting Data & Analytics internship (final + pre-final year BE/BTech, Bengaluru)",
+   "old_url": "https://www.placement-officer.com/2025/12/ey-internship-openings-2026-join-ey-gds.html",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No AI & Data / D&A intern on careers.ey.com India board (full walk of 3,072)"
+  },
+  {
+   "company": "KPMG India",
+   "role": "Data Analyst Intern (Mumbai, 4 months)",
+   "old_url": "https://myinternships.in/job/kpmg-india-data-analyst-intern-mumbai-26a10f",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Not on KPMG Oracle CX_3/CX_3R India boards"
+  },
+  {
+   "company": "KPMG India",
+   "role": "Digital Government Advisory Intern",
+   "old_url": "https://wintec.prosple.com/graduate-employers/kpmg-india/jobs-internships/digital-government-advisory-intern",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Not on KPMG Oracle CX_3/CX_3R India boards"
+  }
+ ],
+ "companies": [
+  {
+   "name": "McKinsey & Company",
+   "ats": "custom",
+   "endpoint": "https://www.mckinsey.com/careers/search-jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Unreachable this session: mckinsey.com and mckapi.mckinsey.com connections time out through proxy"
+  },
+  {
+   "name": "BCG",
+   "ats": "phenom",
+   "endpoint": "https://careers.bcg.com/global/en/search-results (+ job detail)",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "Board 947 jobs; keyword search incl. intern/trainee + city terms; only India intern is BCG X Finance Intern 59487 (live)"
+  },
+  {
+   "name": "Bain & Company",
+   "ats": "custom",
+   "endpoint": "https://www.bain.com/en/api/jobsearch/keyword/get",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Not crawled: job-search API answers 403 to plain requests (bot protection); careers page HTML has no listings. Needs a browser check"
+  },
+  {
+   "name": "Kearney",
+   "ats": "other",
+   "endpoint": "https://www.kearney.com/careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Not reachable: 403 bot protection on careers site"
+  },
+  {
+   "name": "Oliver Wyman",
+   "ats": "workday",
+   "endpoint": "https://mmc.wd1.myworkdayjobs.com/wday/cxs/mmc/MMC/jobs",
+   "india_intern_hits": 2,
+   "kept": 1,
+   "note": "MMC Workday India facet (fixed ats re-run, 79 hits): OW Actuarial Intern kept; Mercer psychometric intern rejected"
+  },
+  {
+   "name": "Roland Berger",
+   "ats": "other",
+   "endpoint": "https://www.rolandberger.com/en/Join/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Careers page has no ATS endpoint in HTML (JS-rendered job search); no India intern found"
+  },
+  {
+   "name": "PwC India / PwC AC / Strategy&",
+   "ats": "workday",
+   "endpoint": "https://pwc.wd3.myworkdayjobs.com/wday/cxs/pwc/{Global_Experienced_Careers,Global_Campus_Careers}/jobs",
+   "india_intern_hits": 2,
+   "kept": 0,
+   "note": "No country facet; walked all 619 India-location postings and all 549 Intern/Intern (Trainee) job-type postings: 2 India intern titles, both rejected"
+  },
+  {
+   "name": "Deloitte India / Deloitte USI",
+   "ats": "successfactors + avature",
+   "endpoint": "https://southasiacareers.deloitte.com/search/ ; https://usijobs.deloitte.com/en_US/careersUSI/SearchJobs/",
+   "india_intern_hits": 11,
+   "kept": 1,
+   "note": "South Asia full board 2,054 walked (11 India intern titles + Colombo ones excluded); USI full board 690 walked, 0 intern titles"
+  },
+  {
+   "name": "EY India / EY GDS / EY-Parthenon",
+   "ats": "successfactors",
+   "endpoint": "https://careers.ey.com/ey/search/?locationsearch=India",
+   "india_intern_hits": 27,
+   "kept": 0,
+   "note": "India board 3,072 walked: 27 intern/trainee titles (BCR industrial trainees, audit interns, tax trainees, CA freshers), all rejected; eyglobal.yello.co has no public board listing"
+  },
+  {
+   "name": "KPMG India / KPMG Global Services",
+   "ats": "oracle",
+   "endpoint": "https://ejgk.fa.em2.oraclecloud.com (CX_3, CX_3R)",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "Oracle India sites (551 + 1,133) searched with intern queries: 1 CA industrial trainee (audit). kpmgindia.talentrecruit.com is a JS SPA whose listing API could not be found"
+  },
+  {
+   "name": "Grant Thornton Bharat",
+   "ats": "talentrecruit",
+   "endpoint": "https://gtprod.talentrecruit.com/career-page",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Careers link is a TalentRecruit JS SPA; listing API not discoverable without a browser"
+  },
+  {
+   "name": "BDO India",
+   "ats": "other",
+   "endpoint": "https://www.bdo.in/en-gb/careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Not reachable: 403 bot protection"
+  },
+  {
+   "name": "Alvarez & Marsal",
+   "ats": "other",
+   "endpoint": "https://careers.alvarezandmarsal.com/search/job-type/intern/jobs/in",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Not reachable: 403 bot protection"
+  },
+  {
+   "name": "Accenture (Strategy & Consulting, Song)",
+   "ats": "workday",
+   "endpoint": "https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "India country facet, fixed ats re-run: 1,534 India results across intern queries, 0 intern/trainee titles"
+  },
+  {
+   "name": "Capgemini Invent",
+   "ats": "custom json",
+   "endpoint": "https://cg-job-search-microservices.azurewebsites.net/api/job-search?country_code=in-en",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "India API: 319 results for intern/trainee/apprentice/graduate queries, 0 intern titles"
+  },
+  {
+   "name": "ZS Associates",
+   "ats": "custom json (jobs.zs.com)",
+   "endpoint": "https://jobs.zs.com/api/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "63 India postings, 0 intern; ZS intern roles are NA/London/Frankfurt/Singapore only"
+  },
+  {
+   "name": "Gartner",
+   "ats": "workday",
+   "endpoint": "https://gartner.wd5.myworkdayjobs.com/wday/cxs/gartner/EXT/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "India country facet, fixed ats re-run: 39 results, 0 intern titles"
+  },
+  {
+   "name": "Protiviti",
+   "ats": "workday",
+   "endpoint": "https://roberthalf.wd1.myworkdayjobs.com/ProtivitiIndia",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "ProtivitiIndia board has 4 postings (HR/admin/recruiting/app support), no interns"
+  },
+  {
+   "name": "Kroll",
+   "ats": "other",
+   "endpoint": "https://careers.kroll.com/en",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Sitecore careers site; no ATS endpoint in HTML; kroll.wd1 Workday guess returned 422"
+  },
+  {
+   "name": "L.E.K. Consulting",
+   "ats": "oleeo (tal.net)",
+   "endpoint": "https://lek.tal.net/vx/candidate/jobboard/vacancy/1/adv/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "22 live vacancies listed; none in India (interns are Europe)"
+  },
+  {
+   "name": "Arthur D. Little",
+   "ats": "other",
+   "endpoint": "https://www.adlittle.com/en/careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "No ATS endpoint in careers HTML; no India intern found"
+  },
+  {
+   "name": "Redseer Strategy",
+   "ats": "other",
+   "endpoint": "https://redseer.com/careers/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Careers page has no listings or ATS link"
+  },
+  {
+   "name": "Everest Group",
+   "ats": "other",
+   "endpoint": "https://www.everestgrp.com/careers/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Not reachable: 403 bot protection"
+  },
+  {
+   "name": "IBM Consulting",
+   "ats": "custom json (www-api.ibm.com search)",
+   "endpoint": "https://www-api.ibm.com/search/api/v2 (appId careers, India)",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "1 India intern (IBM Research summer May–Aug 2027), rejected"
+  }
+ ]
+}

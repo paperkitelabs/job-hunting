@@ -1,0 +1,12 @@
+{
+ "company": "Protiviti India",
+ "ats": "workday",
+ "endpoint": "https://roberthalf.wd1.myworkdayjobs.com/wday/cxs/roberthalf/ProtivitiIndia/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "<full board>"
+ ],
+ "total_hits": 4,
+ "india_intern_hits": [],
+ "details": {}
+}

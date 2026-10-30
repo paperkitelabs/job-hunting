@@ -1,12 +1,16 @@
 {
- "company": "Capgemini",
- "ats": "SuccessFactors via Capgemini jobstream API",
- "endpoint": "https://cg-jobstream-api.azurewebsites.net/api/job-search?country_code=in-en&size=100&page=N",
+ "company": "Capgemini Invent / Capgemini India",
+ "ats": "custom json",
+ "endpoint": "https://cg-job-search-microservices.azurewebsites.net/api/job-search?country_code=in-en",
  "queried_at": "2026-10-30",
  "queries": [
-  "whole India board"
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "graduate"
  ],
- "total_hits": 783,
+ "total_hits": 319,
  "india_intern_hits": [],
  "details": {}
 }
