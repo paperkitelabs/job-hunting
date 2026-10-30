@@ -1,0 +1,21 @@
+{
+ "company": "U.S. Bank",
+ "ats": "Workday (Phenom front end)",
+ "endpoint": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate"
+ ],
+ "total_hits": 36,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Workday India facet: 37 postings, none intern/trainee/graduate."
+}

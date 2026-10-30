@@ -1,0 +1,11 @@
+{
+ "company": "Natixis",
+ "ats": "custom React app (recrutement.natixis.com, BPCE)",
+ "endpoint": "https://recrutement.natixis.com/",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "JS-only BPCE recruitment app; no public JSON endpoint located; natixis.wd3 422; web search found no Natixis India listings. Not crawled."
+}

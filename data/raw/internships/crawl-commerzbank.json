@@ -1,0 +1,16 @@
+{
+ "company": "Commerzbank",
+ "ats": "custom (jobs.commerzbank.com)",
+ "endpoint": "https://jobs.commerzbank.com/index.php?ac=search_result",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "Bangalore",
+  "Bengaluru",
+  "India",
+  "Intern"
+ ],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Custom job portal keyword search returned 0 for India/Bengaluru; Commerzbank international hubs are Prague/Sofia/Lodz. 0 India postings found."
+}

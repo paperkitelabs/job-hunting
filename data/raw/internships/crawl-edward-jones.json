@@ -1,0 +1,11 @@
+{
+ "company": "Edward Jones",
+ "ats": "BrassRing (partnerid 26235)",
+ "endpoint": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=26235",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "US/Canada-only employer; no India operations or postings. Not crawled further."
+}

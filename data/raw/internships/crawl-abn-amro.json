@@ -1,0 +1,11 @@
+{
+ "company": "ABN AMRO",
+ "ats": "unreachable",
+ "endpoint": "https://www.abnamro.com/en/careers",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "abnamro.com careers timed out from this session; no Workday tenant (abnamro.wd3 422); ABN AMRO has no India hiring hub. Not crawled."
+}

@@ -1,0 +1,17 @@
+{
+ "company": "Charles Schwab",
+ "ats": "iCIMS (Radancy front end schwabjobs.com)",
+ "endpoint": "https://www.schwabjobs.com/search-jobs/India",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice"
+ ],
+ "total_hits": 60,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Schwab GCC India (Hyderabad) has ~60 postings, all experienced SWE/eng/manager roles; all 2027 interns are US (Westlake/Omaha/Denver etc.)."
+}

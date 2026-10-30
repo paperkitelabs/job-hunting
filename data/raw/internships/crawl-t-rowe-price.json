@@ -1,0 +1,21 @@
+{
+ "company": "T. Rowe Price",
+ "ats": "Workday",
+ "endpoint": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice + /TRowePriceInternational",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate"
+ ],
+ "total_hits": 147,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Both Workday sites have no India locations; 0 India postings."
+}

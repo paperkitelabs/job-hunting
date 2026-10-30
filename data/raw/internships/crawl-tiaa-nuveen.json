@@ -1,0 +1,21 @@
+{
+ "company": "TIAA / Nuveen",
+ "ats": "Workday",
+ "endpoint": "https://tiaa.wd1.myworkdayjobs.com/Search",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate"
+ ],
+ "total_hits": 45,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Workday India facet: 53-54 postings (Mumbai/Pune/Bengaluru), none intern/trainee."
+}

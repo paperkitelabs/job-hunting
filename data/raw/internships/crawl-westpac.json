@@ -1,0 +1,17 @@
+{
+ "company": "Westpac",
+ "ats": "Oracle Recruiting Cloud",
+ "endpoint": "https://ebuu.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice"
+ ],
+ "total_hits": 36,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Oracle site has Australia/NZ locations only; no India."
+}

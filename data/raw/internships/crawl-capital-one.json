@@ -1,0 +1,21 @@
+{
+ "company": "Discover / Capital One",
+ "ats": "Workday (Radancy front end)",
+ "endpoint": "https://capitalone.wd12.myworkdayjobs.com/Capital_One",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate"
+ ],
+ "total_hits": 791,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Discover merged into Capital One; Workday 'Bangalore, In' location: 18 postings, none intern/trainee/campus."
+}

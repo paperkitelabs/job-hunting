@@ -1,0 +1,18 @@
+{
+ "company": "NAB",
+ "ats": "Eightfold (PCSX)",
+ "endpoint": "https://nab.eightfold.ai/careers?domain=nab.com.au",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  ""
+ ],
+ "total_hits": 28,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Eightfold India: 28 postings (Gurugram/Bengaluru), all Analyst-to-VP experienced roles, no intern."
+}

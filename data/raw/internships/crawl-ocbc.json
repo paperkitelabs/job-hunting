@@ -1,0 +1,11 @@
+{
+ "company": "OCBC",
+ "ats": "none found",
+ "endpoint": "https://www.ocbc.com/group/careers/",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "OCBC careers page 404s; no India operations; no Workday tenant (ocbc.wd3 422). 0 India postings."
+}

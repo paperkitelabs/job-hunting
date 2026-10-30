@@ -1,0 +1,21 @@
+{
+ "company": "KeyBank",
+ "ats": "Workday",
+ "endpoint": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate"
+ ],
+ "total_hits": 464,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Workday US-only; 0 India postings."
+}

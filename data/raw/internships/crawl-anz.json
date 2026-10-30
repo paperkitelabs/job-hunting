@@ -1,0 +1,13 @@
+{
+ "company": "ANZ",
+ "ats": "SuccessFactors RMK",
+ "endpoint": "https://careers.anz.com/search/?q=intern&locationsearch=India",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern"
+ ],
+ "total_hits": 9,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "'intern AND India' search returns 9 Bengaluru/Mumbai experienced roles (keyword matched 'internal'); no intern/graduate postings in India."
+}

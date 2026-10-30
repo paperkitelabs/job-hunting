@@ -1,0 +1,12 @@
+{
+ "company": "Acuity Knowledge Partners",
+ "ats": "Darwinbox (main) + JazzHR (ascent.applytojob.com)",
+ "endpoint": "https://acuitykp.darwinbox.com/ms/candidate/careers ; https://ascent.applytojob.com/apply",
+ "queried_at": "2026-10-30T13:28:25.045138Z",
+ "queries": [
+  "whole JazzHR board"
+ ],
+ "total_hits": 19,
+ "india_intern_hits": [],
+ "details": {}
+}

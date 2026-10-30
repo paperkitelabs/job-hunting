@@ -1,0 +1,21 @@
+{
+ "company": "Ally",
+ "ats": "Workday",
+ "endpoint": "https://ally.wd1.myworkdayjobs.com/Ally",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate"
+ ],
+ "total_hits": 77,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Workday (77 jobs) US-only; 0 India postings."
+}

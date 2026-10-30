@@ -1,0 +1,12 @@
+{
+ "company": "Indium Software",
+ "ats": "TurboHire",
+ "endpoint": "POST https://thapi.azurewebsites.net/api/careerpagev2/filteredjobs?orgId=ce7e0316-d5a1-4eab-9e22-db120206fd17&pageType=0 (careers page indium.tech/careers)",
+ "queried_at": "2026-10-30T13:27:34.811028Z",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 36,
+ "india_intern_hits": [],
+ "details": {}
+}

@@ -82,11 +82,11 @@
   },
   {
    "name": "Affine",
-   "ats": "",
-   "endpoint": "",
+   "ats": "SenseHQ",
+   "endpoint": "https://affine.sensehq.com/careers (__NEXT_DATA__ job list)",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "SenseHQ board: 4 open jobs (7+ yrs DS/ML/architect, Bengaluru), 0 intern"
   },
   {
    "name": "Evalueserve",
@@ -98,11 +98,11 @@
   },
   {
    "name": "Acuity Knowledge Partners",
-   "ats": "",
-   "endpoint": "",
+   "ats": "Darwinbox (main) + JazzHR (ascent.applytojob.com)",
+   "endpoint": "https://acuitykp.darwinbox.com/ms/candidate/careers ; https://ascent.applytojob.com/apply",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "PARTLY UNREACHABLE: main India board is Darwinbox (acuitykp.darwinbox.com) whose candidate API is behind a Cloudflare block (403) - not crawled. JazzHR board (Acuity Analytics/Ascent): 19 senior roles, 0 intern"
   },
   {
    "name": "The Smart Cube",
@@ -138,11 +138,11 @@
   },
   {
    "name": "Indium Software",
-   "ats": "",
-   "endpoint": "",
+   "ats": "TurboHire",
+   "endpoint": "POST https://thapi.azurewebsites.net/api/careerpagev2/filteredjobs?orgId=ce7e0316-d5a1-4eab-9e22-db120206fd17&pageType=0 (careers page indium.tech/careers)",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "TurboHire board: 36 jobs, 0 intern/trainee (Data Analyst/Data Scientist roles are experienced hires)"
   },
   {
    "name": "Decision Point",

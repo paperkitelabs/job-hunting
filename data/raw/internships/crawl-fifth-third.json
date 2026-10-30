@@ -1,0 +1,21 @@
+{
+ "company": "Fifth Third",
+ "ats": "Workday",
+ "endpoint": "https://fifththird.wd5.myworkdayjobs.com/53careers",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate"
+ ],
+ "total_hits": 648,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Workday US-only; 0 India postings."
+}

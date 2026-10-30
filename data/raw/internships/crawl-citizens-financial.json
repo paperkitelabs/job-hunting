@@ -1,0 +1,17 @@
+{
+ "company": "Citizens Financial Group",
+ "ats": "Oracle Recruiting Cloud (Radancy front end)",
+ "endpoint": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice"
+ ],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Oracle CX_1 has 436 jobs, all US locations (no India location facet); intern queries 0 India hits; jobs.citizensbank.com Radancy search shows no India."
+}
