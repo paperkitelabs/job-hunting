@@ -38,8 +38,31 @@
   "fresher"
  ],
  "total_hits": 25,
- "india_intern_hits": [],
- "details": {},
+ "india_intern_hits": [
+  {
+   "title": "Intern",
+   "loc": "Bangalore, India, Gurugram, India",
+   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Intern_R1567860",
+   "id": "R1567860",
+   "posted": "2026-10-30",
+   "query": "intern"
+  }
+ ],
+ "details": {
+  "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Intern_R1567860": {
+   "title": "Intern",
+   "loc": "Bangalore, India, Gurugram, India",
+   "country": "India",
+   "id": "R1567860",
+   "posted": "2026-10-30",
+   "end": "2026-11-03",
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Intern_R1567860",
+   "desc": "Software Engineer Intern (Product Engineering, AI & Test Automation) \nAbout the Role \nWe are seeking highly motivated Software Engineer Interns to join our Product Engineering team and contribute to the development of next-generation AI-powered enterprise applications. As an intern, you will work alongside experienced architects, developers, and quality engineers to build, test, and optimize scalable software solutions leveraging modern technologies including Python, Generative AI, APIs, Cloud Platforms, Automation Frameworks, Data Platforms, and Microservices. \nThis role offers hands-on exposure to software development, AI-driven solutions, automated testing, and enterprise-scale application architecture in an Agile environment. \nKey Responsibilities \nDesign, develop, test, and maintain software components using Python and modern development frameworks. \nBuild, consume, and validate REST APIs and integrations across enterprise applications. \nDevelop AI-powered solutions leveraging Large Language Models (LLMs), Agentic AI, Prompt Engineering, and Retrieval-Augmented Generation (RAG). \nContribute to backend services development using FastAPI and microservices architecture. \nDesign and implement automated test frameworks for functional, integration, API, and end-to-end testing. \nCreate reusable automation scripts to improve product quality, reliability, and performance. \nExecute test plans including functional, regression, integration, and performance testing. \nAnalyze defects, identify root causes, and collaborate with development teams on resolutions. \nWork with structured and unstructured data to implement business rules and validation logic. \nParticipate in code reviews, debugging, performance optimization, and technical documentation. \nCollaborate effectively with Product Managers, Architects, Developers, and QA teams across global locations. \nExplore emerging AI technologies and apply innovative solutions to real-world business challenges. \nRequired Qualifications \nPursuing or recently completed a Bachelor's or Master's degree in: \nComputer Science \nInformation Technology \nSoftware Engineering \nArtificial Intelligence \nData Science \nComputer Applications \nRelated technical disciplines \nStrong analytical, problem-solving, and debugging skills. \nExcellent verbal and written communication skills. \nAbility to work effectively in a collaborative Agile environment. \nPassion for software engineering, automation, artificial intelligence, and emerging technologies. \nRequired Technical Skills \nProgramming \nStrong proficiency in Python (mandatory). \nKnowledge of Object-Oriented Programming (OOP), Data Structures, and Algorithms. \nBasic understanding of Java is a plus. \nAPI & Integration Technologies \nREST API development and testing. \nHTTP, REST, and API integration concepts. \nJSON and XML data formats. \nExperience with Postman or similar API testing tools. \nDatabase Technologies \nStrong SQL skills. \nExperience with PostgreSQL, SQL Server, Snowflake, or other relational databases. \nAbility to write complex queries and validate data across systems. \nTest Automation & Quality Engineering \nUnderstanding of software testing methodologies. \nExposure to: \nFunctional Testing \nAPI Testing \nIntegration Testing \nEnd-to-End Testing \nPerformance Testing \nBackend Testing \nKnowledge of test automation frameworks and automation best practices. \nGenerative AI & Agentic AI \nKnowledge or coursework in: \nLarge Language Models (LLMs) \nPrompt Engineering \nRetrieval-Augmented Generation (RAG) \nAI Agents and Multi-Agent Systems \nExposure to tools such as: \nLangChain \nLangGraph \nOpenAI / Azure OpenAI \nAWS Bedrock \nCloud Technologies \nUnderstanding of cloud platforms such as: \nAWS \nMicrosoft Azure \nBasic knowledge of cloud-native application development. \nDevelopment Tools \nGitHub or GitLab \nAgile/Scrum methodologies \nCI/CD concepts \nJira \nPreferred Skills \nFastAPI and Backend Development. \nMicroservices Architecture. \nKnowledge Graphs and Ontologies. \nMachine Learning fundamentals. \nDocker and Containerization. \nSemantic Search and Information Retrieval. \nData Engineering concepts. \nMaster Data Management (MDM) and Data Governance. \nAPI-led connectivity and enterprise integration concepts. \nPreferred Certifications \nPython Programming Certification \nMicrosoft Azure AI Fundamentals (AI-900) \nAWS Cloud Practitioner \nAWS AI Practitioner \nGenerative AI / LLM Certifications \nLangChain or Agentic AI Certifications \nWhat You'll Gain \nHands-on experience building enterprise-grade software products. \nExposure to cutting-edge AI, GenAI, and Agentic AI technologies. \nReal-world experience in automation testing and quality engineering. \nMentorship from experienced software architects and engineering leaders. \nOpportunity to contribute to impactful products used by global customers. \nExposure to Agile development practices, cloud platforms, and modern engineering tools. \nIQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide. Learn more at https://jobs.iqvia.com \nIQVIA is committed to integrity in our hiring process and maintains a zero tolerance policy for candidate fraud. All information and credentials submitted in your application must be truthful and complete. Any false statements, misrepresentations, or material omissions during the recruitment process will result in immediate disqualification of your application, or termination of employment if discovered later, in accordance with applicable law. We appreciate your honesty and professionalism.",
+   "status": 200
+  }
+ },
  "nonintern_titles_seen": [
   "16569-Sr Biostatistician",
   "Admin Assistant",
@@ -65,5 +88,20 @@
   "Sr Biostatistician",
   "Sr Stat Programmer",
   "Sr. Product Support Tech Advisor"
- ]
+ ],
+ "recheck_fixed_ats_workday": {
+  "meta": [
+   {
+    "api": "https://iqvia.wd1.myworkdayjobs.com/wday/cxs/iqvia/IQVIA/jobs",
+    "india_facet": {
+     "Location_Country": [
+      "c4f78be1a8f14da0ab49ce1162348a5e"
+     ]
+    }
+   }
+  ],
+  "new_hits": [
+   "R1567860"
+  ]
+ }
 }

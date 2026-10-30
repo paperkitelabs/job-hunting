@@ -574,5 +574,18 @@
   "Technical Associate - Java",
   "Technical Associate - Service Desk 5A",
   "[C]-Specialist - Talent Acquisition Level 4"
- ]
+ ],
+ "recheck_fixed_ats_workday": {
+  "meta": [
+   {
+    "api": "https://genpact.wd108.myworkdayjobs.com/wday/cxs/genpact/External_Careers/jobs",
+    "india_facet": {}
+   },
+   {
+    "api": "https://genpact.wd108.myworkdayjobs.com/wday/cxs/genpact/campussite/jobs",
+    "india_facet": {}
+   }
+  ],
+  "new_hits": []
+ }
 }

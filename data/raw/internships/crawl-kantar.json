@@ -51,5 +51,22 @@
   "Group Account Director - Quantitative Research - Mumbai",
   "People Systems & Data Analyst",
   "Senior AI Engineer"
- ]
+ ],
+ "recheck_fixed_ats_workday": {
+  "meta": [
+   {
+    "api": "https://kantar.wd3.myworkdayjobs.com/wday/cxs/kantar/KANTAR/jobs",
+    "india_facet": {
+     "Country": [
+      "c4f78be1a8f14da0ab49ce1162348a5e"
+     ]
+    }
+   },
+   {
+    "api": "https://kantar.wd3.myworkdayjobs.com/wday/cxs/kantar/KANTAREL/jobs",
+    "india_facet": {}
+   }
+  ],
+  "new_hits": []
+ }
 }

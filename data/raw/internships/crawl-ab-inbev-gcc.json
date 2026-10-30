@@ -68,5 +68,14 @@
   "Senior Software Engineer",
   "Specialist  Network Operations",
   "Specialist - Cyber Security Operations"
- ]
+ ],
+ "recheck_fixed_ats_workday": {
+  "meta": [
+   {
+    "api": "https://abinbev.wd1.myworkdayjobs.com/wday/cxs/abinbev/IND/jobs",
+    "india_facet": {}
+   }
+  ],
+  "new_hits": []
+ }
 }

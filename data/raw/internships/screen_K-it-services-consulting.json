@@ -439,7 +439,7 @@
    "endpoint": "dxctechnology.wd1.myworkdayjobs.com/DXCJobs",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "Workday India facet: 93 fuzzy matches, 0 intern/trainee titles (spot-checked 3 JDs)."
+   "note": "Workday India facet (re-run with fixed ats.workday): 128 fuzzy matches, 0 intern/trainee titles (spot-checked 3 JDs)."
   },
   {
    "name": "Synechron",
@@ -447,7 +447,7 @@
    "endpoint": "synechron.wd1.myworkdayjobs.com/SynechronCareers",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "Workday India facet: 52 fuzzy matches, 0 intern titles."
+   "note": "Workday India facet (re-run with fixed ats.workday): 52 fuzzy matches, 0 intern titles."
   },
   {
    "name": "Thoughtworks",
