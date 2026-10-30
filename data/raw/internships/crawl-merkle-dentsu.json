@@ -336,5 +336,18 @@
   "Research Analyst - Temporary Worker",
   "Retail & Interior Designer",
   "SAP Engagement Cloud Engineer"
- ]
+ ],
+ "recheck_fixed_ats_workday": {
+  "meta": [
+   {
+    "api": "https://dentsuaegis.wd3.myworkdayjobs.com/wday/cxs/dentsuaegis/DAN_GLOBAL/jobs",
+    "india_facet": {
+     "locationCountry": [
+      "c4f78be1a8f14da0ab49ce1162348a5e"
+     ]
+    }
+   }
+  ],
+  "new_hits": []
+ }
 }
