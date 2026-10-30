@@ -1,0 +1,84 @@
+{
+ "company": "BrowserStack",
+ "ats": "workday",
+ "endpoint": "https://browserstack.wd3.myworkdayjobs.com/wday/cxs/browserstack/External/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate",
+  "forward deployed"
+ ],
+ "india_facet": {},
+ "total_hits": 29,
+ "india_intern_hits": [],
+ "details": {},
+ "search_results_titles": [
+  [
+   "Account Manager - Strategic Sales",
+   "India Remote"
+  ],
+  [
+   "Associate - Deal Desk (Night Shift)",
+   "Mumbai Remote"
+  ],
+  [
+   "Business Development Representative",
+   "India Remote"
+  ],
+  [
+   "Consultant- Content Strategist",
+   "India Remote"
+  ],
+  [
+   "Engineering Manager",
+   "India Remote"
+  ],
+  [
+   "Engineering Manager",
+   "Mumbai - WFO"
+  ],
+  [
+   "Engineering Manager",
+   "Mumbai Remote"
+  ],
+  [
+   "Enterprise Account Manager",
+   "San Francisco Bay Remote"
+  ],
+  [
+   "Lead - Marketing",
+   "Mumbai Remote"
+  ],
+  [
+   "Lead - SEO",
+   "Mumbai Remote"
+  ],
+  [
+   "Lead - Strategy",
+   "Mumbai Remote"
+  ],
+  [
+   "Senior Account Manager - Enterprise Sales",
+   "India Remote"
+  ],
+  [
+   "Senior Associate - Strategy & Operations",
+   "Mumbai Remote"
+  ],
+  [
+   "Senior Lead - Strategy & Operations",
+   "Mumbai Remote"
+  ],
+  [
+   "Senior Lead/Manager - Growth",
+   "Mumbai Remote"
+  ]
+ ]
+}

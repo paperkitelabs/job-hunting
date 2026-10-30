@@ -1,0 +1,32 @@
+{
+ "company": "Observe.AI",
+ "ats": "greenhouse",
+ "endpoint": "https://boards-api.greenhouse.io/v1/boards/observeai/jobs?content=true",
+ "queried_at": "2026-10-30T03:11Z",
+ "queries": [
+  "whole board; filtered ats.is_india(location) + intern regex on title/employmentType"
+ ],
+ "total_hits": 7,
+ "india_postings": 4,
+ "india_intern_hits": [],
+ "india_fde_fulltime": [],
+ "details": {},
+ "india_titles": [
+  [
+   "AI Agent Engineer",
+   "Hyderabad, Telangana, India"
+  ],
+  [
+   "GSI Partner Lead",
+   "Bengaluru"
+  ],
+  [
+   "Interaction Designer",
+   "Bengaluru"
+  ],
+  [
+   "Staff Infrastructure Security Engineer",
+   "Bengaluru"
+  ]
+ ]
+}

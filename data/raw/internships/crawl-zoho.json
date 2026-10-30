@@ -1,0 +1,50 @@
+{
+ "company": "Zoho",
+ "ats": "zoho-recruit",
+ "endpoint": "https://careers.zohocorp.com/jobs/Careers/rss (+ listing page https://careers.zohocorp.com/jobs/Careers)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 9,
+ "india_intern_hits": [],
+ "details": {},
+ "all_titles": [
+  [
+   "Software Developers",
+   "https://careers.zohocorp.com/jobs/Careers/193779000024446019/Software-Developers?source=RSS"
+  ],
+  [
+   "Content&#x2f;Technical Writers",
+   "https://careers.zohocorp.com/jobs/Careers/193779000024445965/Content-Technical-Writers?source=RSS"
+  ],
+  [
+   "Digital Marketing Analyst",
+   "https://careers.zohocorp.com/jobs/Careers/193779000040439339/Digital-Marketing-Analyst?source=RSS"
+  ],
+  [
+   "Web Developers",
+   "https://careers.zohocorp.com/jobs/Careers/193779000024443515/Web-Developers?source=RSS"
+  ],
+  [
+   "Designers- UI&#x2f;UX&#x2f;Visual&#x2f;Graphic",
+   "https://careers.zohocorp.com/jobs/Careers/193779000024446038/Designers--UI-UX-Visual-Graphic?source=RSS"
+  ],
+  [
+   "QA Engineers",
+   "https://careers.zohocorp.com/jobs/Careers/193779000024443496/QA-Engineers?source=RSS"
+  ],
+  [
+   "Sales Executives",
+   "https://careers.zohocorp.com/jobs/Careers/193779000024446028/Sales-Executives?source=RSS"
+  ],
+  [
+   "Technical Support Engineers",
+   "https://careers.zohocorp.com/jobs/Careers/193779000024445975/Technical-Support-Engineers?source=RSS"
+  ],
+  [
+   "Product Marketers",
+   "https://careers.zohocorp.com/jobs/Careers/193779000024446032/Product-Marketers?source=RSS"
+  ]
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "company": "AB InBev GCC",
+ "ats": "workday",
+ "endpoint": [
+  "https://abinbev.wd1.myworkdayjobs.com/wday/cxs/abinbev/IND/jobs"
+ ],
+ "site_meta": [
+  {
+   "site": "https://abinbev.wd1.myworkdayjobs.com/IND",
+   "total_global": 41,
+   "india_facet": {},
+   "intern_subtype_facet": {}
+  }
+ ],
+ "queried_at": "2026-10-30T03:14:40",
+ "queries": [
+  "<whole board>",
+  "workerSubType intern facet",
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data intern",
+  "2027",
+  "graduate",
+  "campus",
+  "fresher"
+ ],
+ "total_hits": 41,
+ "india_intern_hits": [],
+ "details": {},
+ "nonintern_titles_seen": [
+  "Associate Product Manager",
+  "Collaboration Specialist",
+  "Data Engineer",
+  "Data Scientist",
+  "Data Scientist - GBS Commercial",
+  "Development Lead",
+  "Full Stack Developer",
+  "Junior Developer",
+  "Manager - GBS Commercial",
+  "Power BI Developer",
+  "Principal Analyst - ATR",
+  "Principal Analyst - Branding and Communication",
+  "Principal Analyst - FP&A",
+  "Principal Analyst - GBS Commercial",
+  "Principal Analyst - Nigeria Ops",
+  "Principal Analyst - Tech Compliance",
+  "Principal Analyst Process Excellence OTC",
+  "Principal Analyst Tech Compliance",
+  "Principal Analyst – Compliance",
+  "Principal Analyst- Learning and Development",
+  "Product Manager",
+  "Senior AI Engineer",
+  "Senior Analyst - ATR",
+  "Senior Analyst - ATR - EUR",
+  "Senior Analyst - CP&A",
+  "Senior Data Engineer",
+  "Senior Data Scientist - GBS Commercial",
+  "Senior Infrastructure Senior SME",
+  "Senior Machine Learning Engineer",
+  "Senior Manager – Marketing & Consumer Insights",
+  "Senior Manager, Gen AI Martech",
+  "Senior Manager- Data Science",
+  "Senior Manager- Software Engineering",
+  "Senior Software Engineer",
+  "Specialist  Network Operations",
+  "Specialist - Cyber Security Operations"
+ ]
+}

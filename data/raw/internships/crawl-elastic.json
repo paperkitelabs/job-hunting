@@ -1,0 +1,80 @@
+{
+ "company": "Elastic",
+ "ats": "greenhouse",
+ "endpoint": "https://boards-api.greenhouse.io/v1/boards/elastic/jobs?content=true",
+ "queried_at": "2026-10-30T03:11Z",
+ "queries": [
+  "whole board; filtered ats.is_india(location) + intern regex on title/employmentType"
+ ],
+ "total_hits": 402,
+ "india_postings": 16,
+ "india_intern_hits": [],
+ "india_fde_fulltime": [],
+ "details": {},
+ "india_titles": [
+  [
+   "AI Tool Admin",
+   "Bangalore, India"
+  ],
+  [
+   "Business Analyst, Marketing-1 (Fixed Term)",
+   "Bangalore, India"
+  ],
+  [
+   "Consulting Architect - Observability",
+   "India"
+  ],
+  [
+   "Consulting Architect - Platform",
+   "India"
+  ],
+  [
+   "Consulting Architect - Search",
+   "India"
+  ],
+  [
+   "Coordinator, Marketing Operations (Fixed Term)",
+   "Bangalore, India"
+  ],
+  [
+   "Enterprise Account Executive (FSI) - Mumbai",
+   "Mumbai, India"
+  ],
+  [
+   "Lead Salesforce Full Stack AI Engineer",
+   "Bangalore, India"
+  ],
+  [
+   "Marketing AI Engineer",
+   "Bangalore, India"
+  ],
+  [
+   "Marketing Coordinators, AMER (Fixed Term)",
+   "Bangalore, India"
+  ],
+  [
+   "Principal Solutions Architect, Security",
+   "Delhi, India"
+  ],
+  [
+   "Pub Sec Account Executive III",
+   "Delhi, India"
+  ],
+  [
+   "Senior Partner Solutions Architect",
+   "Bangalore, India"
+  ],
+  [
+   "Senior Solutions Architect- Mumbai, India",
+   "Mumbai, India"
+  ],
+  [
+   "Sr Analyst, FP&A",
+   "Bangalore, India"
+  ],
+  [
+   "UX Engineer",
+   "Bangalore, India"
+  ]
+ ]
+}

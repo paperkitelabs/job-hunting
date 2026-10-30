@@ -1,0 +1,207 @@
+{
+ "company": "Postman",
+ "ats": "workday",
+ "endpoint": "https://postman.wd108.myworkdayjobs.com/wday/cxs/postman/careers/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate",
+  "forward deployed"
+ ],
+ "india_facet": {},
+ "total_hits": 25,
+ "india_intern_hits": [],
+ "details": {},
+ "search_results_titles": [
+  [
+   "Commercial Counsel",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Global Compensation Lead",
+   "Bangalore, India"
+  ],
+  [
+   "Head of AI Platform Engineering",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Member of Technical Staff, AI Reliability & Monitoring Engineering Lead",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Principal Offensive Security Engineer",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Principal Software Engineer, Business Platform",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Product Builder",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Senior Engineer - AI",
+   "Bangalore, India"
+  ],
+  [
+   "Senior Engineer Frontend, Monetization",
+   "Bangalore, India"
+  ],
+  [
+   "Senior Engineer, API Network",
+   "Bangalore, India"
+  ],
+  [
+   "Senior Engineer, Search",
+   "Bangalore, India"
+  ],
+  [
+   "Senior Engineering Manager, API Catalog",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Senior Fullstack Software Engineer - (Customer Journey)",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Software Engineer (Backend), Automation Testing",
+   "Bangalore, India"
+  ],
+  [
+   "Software Engineer (Frontend Platform), Native Git",
+   "Bangalore, India"
+  ],
+  [
+   "Software Engineer (Frontend), Automation Testing",
+   "Bangalore, India"
+  ],
+  [
+   "Staff Engineer – Observability Platform",
+   "Bangalore, India"
+  ],
+  [
+   "Staff Product Manager",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Staff Software Engineer - Fern",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Staff Software Engineer- Codegen",
+   "Austin, TX, US"
+  ]
+ ],
+ "careers_json": "https://www.postman.com/_mk-www-next/api-cache/careers-jobs.json",
+ "careers_json_titles": [
+  [
+   "Backend and System Engineer, Flows",
+   "NYC, NY, US"
+  ],
+  [
+   "Commercial Counsel",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Global Compensation Lead",
+   "Bangalore, India"
+  ],
+  [
+   "Head of AI Platform Engineering",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Head of Engineering, Infrastructure & SRE",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Member of Technical Staff, AI Agent Development Lead",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Member of Technical Staff, AI Reliability & Monitoring Engineering Lead",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Principal Offensive Security Engineer",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Principal Software Engineer, Business Platform",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Product Builder",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Senior Engineer - AI",
+   "Bangalore, India"
+  ],
+  [
+   "Senior Engineer Frontend, Monetization",
+   "Bangalore, India"
+  ],
+  [
+   "Senior Engineer, API Network",
+   "Bangalore, India"
+  ],
+  [
+   "Senior Engineer, Search",
+   "Bangalore, India"
+  ],
+  [
+   "Senior Engineering Manager, API Catalog",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Senior Fullstack Engineer - Codegen",
+   "Austin, TX, US"
+  ],
+  [
+   "Senior Fullstack Software Engineer - (Customer Journey)",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Senior Software Engineer - Fern",
+   "NYC, NY, US"
+  ],
+  [
+   "Software Engineer (Backend), Automation Testing",
+   "Bangalore, India"
+  ],
+  [
+   "Software Engineer (Frontend Platform), Native Git",
+   "Bangalore, India"
+  ],
+  [
+   "Software Engineer (Frontend), Automation Testing",
+   "Bangalore, India"
+  ],
+  [
+   "Staff Engineer – Observability Platform",
+   "Bangalore, India"
+  ],
+  [
+   "Staff Product Manager",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Staff Software Engineer - Fern",
+   "San Francisco, CA, US"
+  ],
+  [
+   "Staff Software Engineer- Codegen",
+   "Austin, TX, US"
+  ]
+ ]
+}

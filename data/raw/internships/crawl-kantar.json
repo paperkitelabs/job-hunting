@@ -1,0 +1,55 @@
+{
+ "company": "Kantar",
+ "ats": "workday",
+ "endpoint": [
+  "https://kantar.wd3.myworkdayjobs.com/wday/cxs/kantar/KANTAR/jobs",
+  "https://kantar.wd3.myworkdayjobs.com/wday/cxs/kantar/KANTAREL/jobs"
+ ],
+ "site_meta": [
+  {
+   "site": "https://kantar.wd3.myworkdayjobs.com/KANTAR",
+   "total_global": 33,
+   "india_facet": {
+    "Country": [
+     "c4f78be1a8f14da0ab49ce1162348a5e"
+    ]
+   },
+   "intern_subtype_facet": {}
+  },
+  {
+   "site": "https://kantar.wd3.myworkdayjobs.com/KANTAREL",
+   "total_global": 3,
+   "india_facet": {},
+   "intern_subtype_facet": {}
+  }
+ ],
+ "queried_at": "2026-10-30T03:14:58",
+ "queries": [
+  "<whole board>",
+  "workerSubType intern facet",
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data intern",
+  "2027",
+  "graduate",
+  "campus",
+  "fresher"
+ ],
+ "total_hits": 8,
+ "india_intern_hits": [],
+ "details": {},
+ "nonintern_titles_seen": [
+  "Accounts Payable Associate",
+  "CONSULTANT(E)",
+  "Consultant",
+  "Consultant(e)",
+  "Consultant-Product Development & Development-1",
+  "Group Account Director - Quantitative Research - Mumbai",
+  "People Systems & Data Analyst",
+  "Senior AI Engineer"
+ ]
+}

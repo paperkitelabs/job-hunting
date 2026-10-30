@@ -1,0 +1,209 @@
+{
+ "company": "Google DeepMind",
+ "ats": "google-careers",
+ "endpoint": "https://www.google.com/about/careers/applications/jobs/results?company=DeepMind&location=India (AF_initDataCallback ds:1)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "company=DeepMind&location=India",
+  "+employment_type=INTERN",
+  "+q=intern",
+  "q=Student Researcher (all locations)"
+ ],
+ "total_hits": 2,
+ "india_intern_hits": [],
+ "details": {},
+ "dm_india_titles": [
+  [
+   "Staff Software Engineer, GeminiApp Growth and Discovery, DeepMind",
+   [
+    "Bengaluru, Karnataka, India"
+   ]
+  ],
+  [
+   "Research Scientist, Agents, DeepMind",
+   [
+    "Bengaluru, Karnataka, India"
+   ]
+  ]
+ ],
+ "student_researcher_postings": [
+  [
+   "Student Researcher, PhD, Fall 2026",
+   [
+    "Mountain View, CA, USA",
+    "Ann Arbor, MI, USA",
+    "Atlanta, GA, USA",
+    "Austin, TX, USA",
+    "Cambridge, MA, USA",
+    "Chicago, IL, USA",
+    "Irvine, CA, USA",
+    "Kirkland, WA, USA",
+    "Los Angeles, CA, USA",
+    "Madison, WI, USA",
+    "New York, NY, USA",
+    "Palo Alto, CA, USA",
+    "Pittsburgh, PA, USA",
+    "Goleta, CA, USA",
+    "San Bruno, CA, USA",
+    "Seattle, WA, USA",
+    "San Francisco, CA, USA",
+    "Sunnyvale, CA, USA",
+    "Washington D.C., DC, USA"
+   ]
+  ],
+  [
+   "Student Researcher, BS/MS, Fall 2026",
+   [
+    "Mountain View, CA, USA",
+    "Ann Arbor, MI, USA",
+    "Atlanta, GA, USA",
+    "Austin, TX, USA",
+    "Cambridge, MA, USA",
+    "Chicago, IL, USA",
+    "Irvine, CA, USA",
+    "Kirkland, WA, USA",
+    "Los Angeles, CA, USA",
+    "Madison, WI, USA",
+    "New York, NY, USA",
+    "Palo Alto, CA, USA",
+    "Princeton, NJ, USA",
+    "Pittsburgh, PA, USA",
+    "San Bruno, CA, USA",
+    "Seattle, WA, USA",
+    "San Francisco, CA, USA",
+    "Sunnyvale, CA, USA",
+    "Washington D.C., DC, USA"
+   ]
+  ],
+  [
+   "Student Researcher, PhD, Winter-Summer 2027",
+   [
+    "Mountain View, CA, USA",
+    "Ann Arbor, MI, USA",
+    "Atlanta, GA, USA",
+    "Austin, TX, USA",
+    "Boulder, CO, USA",
+    "Cambridge, MA, USA",
+    "Chicago, IL, USA",
+    "Houston, TX, USA",
+    "Irvine, CA, USA",
+    "Kirkland, WA, USA",
+    "Los Angeles, CA, USA",
+    "Madison, WI, USA",
+    "New York, NY, USA",
+    "Palo Alto, CA, USA",
+    "Princeton, NJ, USA",
+    "Pittsburgh, PA, USA",
+    "Raleigh, NC, USA",
+    "Durham, NC, USA",
+    "Goleta, CA, USA",
+    "San Bruno, CA, USA",
+    "Seattle, WA, USA",
+    "San Francisco, CA, USA",
+    "San Jose, CA, USA",
+    "Sunnyvale, CA, USA",
+    "Washington D.C., DC, USA"
+   ]
+  ],
+  [
+   "Student Researcher, BS/MS, Winter-Summer 2027",
+   [
+    "Montreal, QC, Canada"
+   ]
+  ],
+  [
+   "Student Researcher, BS/MS, Winter-Summer 2027",
+   [
+    "Mountain View, CA, USA",
+    "Ann Arbor, MI, USA",
+    "Atlanta, GA, USA",
+    "Austin, TX, USA",
+    "Boulder, CO, USA",
+    "Cambridge, MA, USA",
+    "Chicago, IL, USA",
+    "Houston, TX, USA",
+    "Irvine, CA, USA",
+    "Kirkland, WA, USA",
+    "Los Angeles, CA, USA",
+    "Madison, WI, USA",
+    "New York, NY, USA",
+    "Palo Alto, CA, USA",
+    "Princeton, NJ, USA",
+    "Pittsburgh, PA, USA",
+    "Raleigh, NC, USA",
+    "Durham, NC, USA",
+    "Goleta, CA, USA",
+    "San Bruno, CA, USA",
+    "Seattle, WA, USA",
+    "San Francisco, CA, USA",
+    "San Jose, CA, USA",
+    "Sunnyvale, CA, USA",
+    "Washington D.C., DC, USA"
+   ]
+  ],
+  [
+   "Student Researcher, PhD, Winter-Summer 2027",
+   [
+    "Montreal, QC, Canada"
+   ]
+  ],
+  [
+   "Student Researcher, 2027",
+   [
+    "Zürich, Switzerland",
+    "Berlin, Germany",
+    "Munich, Germany",
+    "Grenoble, France",
+    "Paris, France",
+    "Accra, Ghana",
+    "Amsterdam, Netherlands",
+    "Stockholm, Sweden",
+    "London, UK"
+   ]
+  ],
+  [
+   "Student Researcher, 2027",
+   [
+    "Tel Aviv, Israel",
+    "Haifa, Israel"
+   ]
+  ],
+  [
+   "Student Researcher, PhD, Winter-Summer 2027",
+   [
+    "Waterloo, ON, Canada",
+    "Toronto, ON, Canada"
+   ]
+  ],
+  [
+   "Student Researcher, BS/MS, Winter-Summer 2027",
+   [
+    "Waterloo, ON, Canada",
+    "Toronto, ON, Canada"
+   ]
+  ],
+  [
+   "Student Researcher, PhD, Fall 2026",
+   [
+    "Waterloo, ON, Canada",
+    "Toronto, ON, Canada",
+    "Montreal, QC, Canada"
+   ]
+  ],
+  [
+   "Student Researcher, BS/MS, Fall 2026",
+   [
+    "Waterloo, ON, Canada",
+    "Toronto, ON, Canada",
+    "Montreal, QC, Canada"
+   ]
+  ],
+  [
+   "Student Researcher Program Manager, Talent Engagement",
+   [
+    "London, UK",
+    "Dublin, Ireland"
+   ]
+  ]
+ ]
+}

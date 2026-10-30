@@ -1,0 +1,374 @@
+{
+ "company": "Databricks",
+ "ats": "greenhouse",
+ "endpoint": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs?content=true",
+ "queried_at": "2026-10-30T03:11Z",
+ "queries": [
+  "whole board; filtered ats.is_india(location) + intern regex on title/employmentType"
+ ],
+ "total_hits": 903,
+ "india_postings": 88,
+ "india_intern_hits": [],
+ "india_fde_fulltime": [
+  "Manager, Forward Deployed Engineering @ Remote - India",
+  "Manager/Sr. Manager, AI Forward Deployed Engineering @ Bengaluru, India",
+  "Senior Forward Deployed Engineer @ Bengaluru, India",
+  "Senior Forward Deployed Engineer, Sr FDE (L5) @ Remote - India",
+  "Staff Forward Deployed Engineer @ Remote - India"
+ ],
+ "details": {},
+ "india_titles": [
+  [
+   "Account Executive ",
+   "Bengaluru, India; Mumbai, India"
+  ],
+  [
+   "Credit and Collections Manager",
+   "Bengaluru, India"
+  ],
+  [
+   "Deployment Strategist",
+   "India"
+  ],
+  [
+   "Deployment Strategist",
+   "Remote - India"
+  ],
+  [
+   "Director of Engineering",
+   "Bengaluru, India"
+  ],
+  [
+   "Director of Engineering (Data Infrastructure)",
+   "Bengaluru, India"
+  ],
+  [
+   "Engineering Manager - Backend",
+   "Bengaluru, India"
+  ],
+  [
+   "Engineering Manager - Core Experiences ",
+   "Bengaluru, India"
+  ],
+  [
+   "Engineering Manager (Ingestion)",
+   "Bengaluru, India"
+  ],
+  [
+   "Finance Data and AI Lead",
+   "Bengaluru, India"
+  ],
+  [
+   "Global SAP Consolidations Manager",
+   "Bengaluru, India"
+  ],
+  [
+   "International Accounts Payable Manager ",
+   "Bengaluru, India"
+  ],
+  [
+   "Manager, Forward Deployed Engineering",
+   "Remote - India"
+  ],
+  [
+   "Manager/Sr. Manager, AI Forward Deployed Engineering",
+   "Bengaluru, India"
+  ],
+  [
+   "Manager, Strategy & Operations ",
+   "Bengaluru, India; Mumbai, India"
+  ],
+  [
+   "Manager, Technical Solutions Spark",
+   "Bengaluru, India"
+  ],
+  [
+   "Partner Enablement Operations Manager",
+   "Bengaluru, India; Mumbai, India"
+  ],
+  [
+   "Sales Specialist - Lakebase",
+   "Bengaluru, India; Mumbai, India"
+  ],
+  [
+   "SAP Functional SME",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Engineering Manager - Backend ",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Finance Specialist (Data & AI)",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Forward Deployed Engineer",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Forward Deployed Engineer, Sr FDE (L5)",
+   "Remote - India"
+  ],
+  [
+   "Senior Manager - Technical Solutions (Big Data / AI)",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior ML & AI Technical Solutions Engineer ",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Payroll Accountant",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior SAP Developer",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Software Engineer (App-Framework)",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Software Engineer (App-Framework)",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Software Engineer - Backend",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Software Engineer (Backend)",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Software Engineer - Data + AI Observability",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Software Engineer (Data Platform)",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Software Engineer (Infra)",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Software Engineer - Ingestion",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Software Engineer (Money)",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Software Engineer - Multi Cloud Efficiency",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Software Engineer- Networking",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Software Engineer - Partner Ecosystem",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Solutions Architect",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Solutions Architect",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Solutions Architect (Lakebase)",
+   "Mumbai, India"
+  ],
+  [
+   "Senior Solutions Engineer",
+   "India"
+  ],
+  [
+   "Senior Staff Software Engineer - Backend",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Staff Software Engineer (Backend)",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Staff Software Engineer (Backend)",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Staff Software Engineer- Networking",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Staff Software Engineer- Search Quality",
+   "Bengaluru, India"
+  ],
+  [
+   "Senior Technical Solutions Engineer (Platform)",
+   "Bengaluru, India"
+  ],
+  [
+   "Software Engineer, Infrastructure",
+   "Bengaluru, India"
+  ],
+  [
+   "Solutions Architect",
+   "Bengaluru, India"
+  ],
+  [
+   "Solutions Architect - Core FSI",
+   "Mumbai, India"
+  ],
+  [
+   "Solutions Architect (Genie)",
+   "Bengaluru, India; Delhi, India; India; Mumbai, India"
+  ],
+  [
+   "Solutions Architect - Public Sector ",
+   "Delhi, India"
+  ],
+  [
+   "Specialist Solutions Architect - AI/ML",
+   "Mumbai, India"
+  ],
+  [
+   "Specialist Solutions Architect - AI/ML",
+   "Bengaluru, India"
+  ],
+  [
+   "Sr. Collections Analyst",
+   "Bengaluru, India"
+  ],
+  [
+   "Sr. Forward Deployed Engineer (FDE) - Public Sector ",
+   "Alabama; Chicago, Illinois; Columbus, Ohio; Connecticut; Florida; Indiana; Maryland; New Jersey; Remote - Arizona; Remote - California; Remote - Colorado; Remote - Georgia; Remote - Illinois; Remote - Massachusetts; Remote - Missouri; Remote - New York; Remote - North Carolina; Remote - Ohio; Remote - Pennsylvania; Remote - Texas; Remote - Virginia; Remote - Washington D.C.; San Diego, California; South Carolina"
+  ],
+  [
+   "Sr. Manager, Sales Development",
+   "Bengaluru, India"
+  ],
+  [
+   "Sr. Recruiter, GTM – Field Engineering (Contract)",
+   "Bengaluru, India"
+  ],
+  [
+   "Sr. Sales Compensation Analyst",
+   "Bengaluru, India"
+  ],
+  [
+   "Sr Software Engineer - Agentic Applications (Full Stack)",
+   "Bengaluru, India"
+  ],
+  [
+   "Sr Software Engineer - Backend",
+   "Bengaluru, India"
+  ],
+  [
+   "Sr. Software Engineer - Observability",
+   "Bengaluru, India"
+  ],
+  [
+   "Sr. Solutions Architect",
+   "Bengaluru, India"
+  ],
+  [
+   "Sr Staff Software Engineer (Backend)",
+   "Bengaluru, India"
+  ],
+  [
+   "Sr.Staff Software Engineer- Network Platform",
+   "Bengaluru, India"
+  ],
+  [
+   "Staff Forward Deployed Engineer",
+   "Remote - India"
+  ],
+  [
+   "Staff Software Engineer ",
+   "Bengaluru, India"
+  ],
+  [
+   "Staff Software Engineer - Backend",
+   "Bengaluru, India"
+  ],
+  [
+   "Staff Software Engineer (Core Experiences) ",
+   "Bengaluru, India"
+  ],
+  [
+   "Staff Software Engineer - Databases",
+   "Bengaluru, India"
+  ],
+  [
+   "Staff Software Engineer - Data Platform",
+   "Bengaluru, India"
+  ],
+  [
+   "Staff Software Engineer (Data Platform)",
+   "Bengaluru, India"
+  ],
+  [
+   "Staff Software Engineer (Infrastructure)",
+   "Bengaluru, India"
+  ],
+  [
+   "Staff Software Engineer - Ingestion",
+   "Bengaluru, India"
+  ],
+  [
+   "Staff Software Engineer - Ingestion",
+   "Bengaluru, India"
+  ],
+  [
+   "Staff Software Engineer - Machine Learning (Search)",
+   "Bengaluru, India"
+  ],
+  [
+   "Staff Software Engineer (Money)",
+   "Bengaluru, India"
+  ],
+  [
+   "Staff Software Engineer - Multi Cloud Efficiency",
+   "Bengaluru, India"
+  ],
+  [
+   "Staff Software Engineer- Networking",
+   "Bengaluru, India"
+  ],
+  [
+   "Staff Software Engineer  - Partner Ecosystem",
+   "Bengaluru, India"
+  ],
+  [
+   "Staff Software Engineer - Search Platform",
+   "Bengaluru, India"
+  ],
+  [
+   "Staff Software Engineer- Search Quality",
+   "Bengaluru, India"
+  ],
+  [
+   "Staff Software Engineer  (Search Ranking)",
+   "Bengaluru, India"
+  ],
+  [
+   "Staff Technical Solutions Engineer (Platform)",
+   "Bengaluru, India"
+  ],
+  [
+   "Strategic Core Account Executive - Conglomerates",
+   "Bengaluru, India; Mumbai, India"
+  ],
+  [
+   "Team Lead - Platform Monitoring Engineer",
+   "Bengaluru, India"
+  ]
+ ]
+}

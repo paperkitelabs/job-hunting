@@ -1,0 +1,68 @@
+{
+ "company": "Snowflake",
+ "ats": "ashby",
+ "endpoint": "https://api.ashbyhq.com/posting-api/job-board/snowflake?includeCompensation=true",
+ "queried_at": "2026-10-30T03:11Z",
+ "queries": [
+  "whole board; filtered ats.is_india(location) + intern regex on title/employmentType"
+ ],
+ "total_hits": 361,
+ "india_postings": 13,
+ "india_intern_hits": [],
+ "india_fde_fulltime": [],
+ "details": {},
+ "india_titles": [
+  [
+   "Software Engineer - Java Platform",
+   "DE-Berlin-Trion Building"
+  ],
+  [
+   "Senior Solution Engineer",
+   "IN-Bangalore-MSO"
+  ],
+  [
+   "Senior Software Engineer - Dynamic Tables",
+   "DE-Berlin-Trion Building"
+  ],
+  [
+   "Senior Product Manager, Streaming Platform",
+   "DE-Berlin-Trion Building"
+  ],
+  [
+   "Solution Engineer - GCC (FSI)",
+   "IN-Bangalore-MSO"
+  ],
+  [
+   "Sales Development Representative",
+   "IN-Mumbai-MSO"
+  ],
+  [
+   "Campaign, Programs and Events Manager - GCC Programs",
+   "IN-Bangalore-MSO"
+  ],
+  [
+   "Senior Solution Engineer - GCC",
+   "IN-Bangalore-MSO"
+  ],
+  [
+   "Software Engineer Intern - Berlin (2027)",
+   "DE-Berlin-Trion Building"
+  ],
+  [
+   "Senior Statutory Accountant",
+   "IN-Pune"
+  ],
+  [
+   "Staff Designated Support Engineer",
+   "IE-Dublin-WW"
+  ],
+  [
+   "Senior Payroll Analyst",
+   "IN-Pune"
+  ],
+  [
+   "Senior Solutions Engineer – Pre-Sales",
+   "IN-Bangalore-MSO"
+  ]
+ ]
+}

@@ -1,0 +1,391 @@
+{
+ "company": "MongoDB",
+ "ats": "greenhouse",
+ "endpoint": "https://boards-api.greenhouse.io/v1/boards/mongodb/jobs?content=true | https://boards-api.greenhouse.io/v1/boards/mdbgeneralreferrals/jobs?content=true",
+ "queried_at": "2026-10-30T03:11Z",
+ "queries": [
+  "whole board; filtered ats.is_india(location) + intern regex on title/employmentType"
+ ],
+ "total_hits": 374,
+ "india_postings": 85,
+ "india_intern_hits": [
+  {
+   "title": "2027 - CRM Engineering Intern, Gurugram",
+   "loc": "Gurugram",
+   "url": "https://job-boards.greenhouse.io/mdbgeneralreferrals/jobs/8127579",
+   "id": "8127579",
+   "posted": "2026-10-29T06:33:29-04:00"
+  },
+  {
+   "title": "HR PMO Intern",
+   "loc": "Gurugram",
+   "url": "https://job-boards.greenhouse.io/mdbgeneralreferrals/jobs/8161180",
+   "id": "8161180",
+   "posted": "2026-10-28T13:44:28-04:00"
+  }
+ ],
+ "india_fde_fulltime": [
+  "Forward Deployed Architect, Industry Solutions @ Gurugram",
+  "Forward Deployed Engineer, Industry Solutions @ Gurugram"
+ ],
+ "details": {
+  "https://job-boards.greenhouse.io/mdbgeneralreferrals/jobs/8127579": {
+   "title": "2027 - CRM Engineering Intern, Gurugram",
+   "loc": "Gurugram",
+   "secondary": null,
+   "employment": null,
+   "posted": "2026-10-29T06:33:29-04:00",
+   "desc": "We’re seeking a CRM Engineering Intern to help build and improve the Salesforce platform that supports MongoDB’s global Sales organization. You’ll work with experienced engineers and product partners to create scalable CRM capabilities that streamline customer interactions and support business growth. \n What you’ll do \nDesign, build, test, and document Salesforce features using Apex, Lightning Web Components (LWC), and declarative tools, with guidance from senior engineers. \nCollaborate with product managers and business partners to improve CRM usability and support Sales, Customer Success, and Partner teams. \nHelp debug, deploy, and maintain scalable solutions; participate in peer reviews and design discussions. \nTake part in Agile ceremonies, including standups, sprint planning, and retrospectives. \nResearch Salesforce releases, AppExchange solutions, automation, and AI-enabled development tools, and share ideas for improving the platform. \n What we are looking for in you \nIn the process of receiving a Bachelor’s or Master’s degree in Computer Science, Information Systems, Software Engineering, or a related technical field. \nHave a minimum of one quarter/semester remaining in university studies after the internship concludes. \nInterested in Salesforce engineering, CRM platforms, or business systems integration. \nBring a problem-solving mindset and curiosity about how technology supports business processes. \nCommunicate clearly, collaborate well, and are eager to learn in a dynamic environment. \nFamiliarity with Salesforce or another CRM system is a plus. \nUnderstanding of databases, APIs, or data integration concepts is a plus. \n What you’ll find at MongoDB \n Authentic Culture: A workplace where you are encouraged to bring your whole self to work. We believe embracing the power of differences broadens perspectives and fosters innovation. \n Personalized Mentorship: A mentor, a Program Advisor from the Early Talent Recruitment Team, and an Employee Resource Group (ERG) Guide to support your growth. \n Career Coaching Sessions: A tailored training program designed for interns’ personal and professional development. \n Work-Life Harmony: “Bloom for Interns,” with access to mental and physical health benefits, paid time off, free lunch, and more. \n Impactful Projects: Contribute to meaningful work that makes an impact. \n Exclusive Networking: Join Speaker Series and Roundtables with executives and department leaders. \n Vibrant Community: Connect with fellow interns through social events, virtual gatherings, and local activities. \n Path to Full-Time: Explore a longer-term future at MongoDB, with the possibility of receiving a full-time offer at the end of the summer. \nMongoDB internships are full-time (40 hours per week) for 10 consecutive weeks, from June through August. Interns follow the “in office” working model and are expected to be in their office location 3–5 days a week. \nBecause we receive a high volume of applications, it may take up to six weeks to hear back about your application status. We aim to respond sooner and appreciate your patience as we carefully review each application. \n About Us \nMongoDB’s mission is to empower innovators to create, transform, and disrupt industries by unleashing the power of software and data. We help organizations of all sizes build, scale, and run modern applications by modernizing legacy workloads, supporting innovation, and enabling AI. Our developer data platform, MongoDB Atlas, is a globally distributed, multi-cloud database available in more than 115 regions across AWS, Google Cloud, and Microsoft Azure. Atlas allows customers to build and run applications anywhere—on premises or across cloud providers. With offices worldwide and more than 175,000 new developers signing up to use MongoDB every month, leading organizations such as Samsung and Toyota trust MongoDB to build next-generation, AI-powered applications. \nMongoDB is committed to providing necessary accommodations for individuals with disabilities during the application and interview process. To request an accommodation, please inform your Early Talent Recruiter. \nMongoDB is an equal opportunities employer. \n Req ID: #3273519616"
+  },
+  "https://job-boards.greenhouse.io/mdbgeneralreferrals/jobs/8161180": {
+   "title": "HR PMO Intern",
+   "loc": "Gurugram",
+   "secondary": null,
+   "employment": null,
+   "posted": "2026-10-28T13:44:28-04:00",
+   "desc": "We are seeking an HR Program Management Intern to help provide an optimized employee experience, increase operational efficiency, and enable greater workforce capacity by transforming and simplifying People processes and systems. \n The right candidate for this role will \nBe in the process of receiving a Masters degree in Human Resources, or related fields \nProficiency in Microsoft Office/Google Suite \nStrong analytical and problem-solving skills \nAbility to prioritize and manage multiple tasks and projects \nExcellent communication skills \nExperience or familiarity with AI tools (e.g., ChatGPT, Claude, Gemini, etc.) is a plus and would be a valuable addition. \n You might be an especially great fit if you \nEnjoy wrangling huge amounts of data and exploring new data sets \nLove working with ambiguity and problem solving \nPresent fresh and innovative solutions by thinking out of the box \nLooking for ways on how processes can be optimized \nEnjoy working with individuals across multiple countries and regions (& time zones) \n As a HR Program Management Intern, you will \nBe paired with a mentor, who will support you throughout your internship \nGet to work in meaningful & real-world projects right from the beginning, helping with presentations and documentation \nCollaborate with other HR COEs, HR Leaders, Finance, HRIS, and stakeholders, taking learning opportunities that will arise every single day \n What you'll find at MongoDB \n Authentic Culture : A workplace where you are encouraged to bring your whole self to work, we believe that Embracing the Power of Differences is the best way to broaden our own perspectives and foster innovation. \n Personalized Mentorship : Pair up with an Mentor, a Program Advisor from the Early Talent Recruitment Team, and an Employee Resource Group (ERG) Guide to foster your growth. \n Career Coaching Sessions : Access to a tailored training program designed uniquely for interns’ personal and professional development. \n Work-Life Harmony : Embrace \"Bloom for Interns\" with access to mental and physical health benefits, paid time off, free lunch, and more! \n Impactful Projects : Contribute to projects where you can Make it Matter - your meaningful work will see the light of day. \n Exclusive Networking : Attend \"Speaker Series\" and \"Roundtables\" to connect with our executives and departmental leaders. \n Vibrant Community : Build connections with fellow interns and join after-work social events, virtual gatherings, and local city activities to create connections and friendships. \n Path to Full-Time : A chance to see if MongoDB is where you see yourself long term with the possibility of receiving a full time offer at the end of the summer! \nMongoDB internships are full-time (40 hours/week) for 10 consecutive weeks lasting from dates in May until July. All interns are considered hybrid employees, designated the \"in office\" working model and are expected to be in their office location 3-5 days a week. \nDue to the high volume of applications our Early Talent Recruitment Team receives, it may take up to six weeks to hear back regarding an update on your application status. Our goal is to get back sooner, but we appreciate your patience as our team carefully reviews each application. \n About Us \nMongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure. \nWith offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software. \nOur compass at MongoDB is our Leadership Commitment, guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB. \nTo drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. From employee affinity groups, to fertility assistance and a generous parental leave policy , we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys. Learn more about what it’s like to work at MongoDB , and help us make an impact on the world! \nMongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter. \n Req ID: #3273532146"
+  }
+ },
+ "india_titles": [
+  [
+   "Account Development Representative",
+   "Gurugram"
+  ],
+  [
+   "Account Development Representative",
+   "Bengaluru"
+  ],
+  [
+   "Application Engineer",
+   "Bengaluru"
+  ],
+  [
+   "Associate, HR Shared Services",
+   "Gurugram"
+  ],
+  [
+   "Associate Recruiter",
+   "Gurugram"
+  ],
+  [
+   "Associate TSE II",
+   "Gurugram"
+  ],
+  [
+   "Associate TSE II",
+   "Bengaluru"
+  ],
+  [
+   "Candidate Experience Coordinator, Contract",
+   "Gurugram"
+  ],
+  [
+   "Cloud Operations Engineer",
+   "Bengaluru"
+  ],
+  [
+   "Contract Technical Recruiter",
+   "Gurugram"
+  ],
+  [
+   "Digital Success Manager",
+   "Bengaluru; Gurugram"
+  ],
+  [
+   "Director of Global Security Operations",
+   "Gurugram"
+  ],
+  [
+   "Employer Brand Analyst",
+   "Gurugram"
+  ],
+  [
+   "Engineer 3 - Business Systems",
+   "Gurugram"
+  ],
+  [
+   "Engineering Manager, AI Builder Experience",
+   "Gurugram"
+  ],
+  [
+   "Enterprise Account Executive, Growth (State Ministries) ",
+   "Bengaluru"
+  ],
+  [
+   "Forward Deployed Architect, Industry Solutions",
+   "Gurugram"
+  ],
+  [
+   "Forward Deployed Engineer, Industry Solutions",
+   "Gurugram"
+  ],
+  [
+   "Lead, Platform Engineering",
+   "Gurugram"
+  ],
+  [
+   "Lead Salesforce Engineer",
+   "Gurugram"
+  ],
+  [
+   "Manager Compliance",
+   "Gurugram"
+  ],
+  [
+   "Manager, Industry Solutions",
+   "Gurugram"
+  ],
+  [
+   "Manager, Marketplace Accounts Receivable",
+   "Gurugram"
+  ],
+  [
+   "Manager, Solutions Architecture",
+   "Gurugram"
+  ],
+  [
+   "Manager, Technical Services",
+   "Gurugram"
+  ],
+  [
+   "Manager, Technical Writer ",
+   "Bengaluru; Gurugram; Mumbai"
+  ],
+  [
+   "Marketing Lead",
+   "Gurugram"
+  ],
+  [
+   "Marketing Manager",
+   "Gurugram"
+  ],
+  [
+   "Partner Development Manager",
+   "Gurugram"
+  ],
+  [
+   "Principal Technologist / Field CTO",
+   "India"
+  ],
+  [
+   "Real Estate Analyst",
+   "Bengaluru; Gurugram"
+  ],
+  [
+   "Salesforce CPQ engineer 3",
+   "Gurugram"
+  ],
+  [
+   "Sales Support Associate",
+   "Gurugram"
+  ],
+  [
+   "Senior Administrator - Business Systems",
+   "Gurugram"
+  ],
+  [
+   "Senior Administrator - Business Systems",
+   "India"
+  ],
+  [
+   "Senior Associate, HR Shared Services",
+   "Gurugram"
+  ],
+  [
+   "Senior Data Analyst",
+   "Gurugram"
+  ],
+  [
+   "Senior Engineer - Business Systems (Integrations)",
+   "Gurugram"
+  ],
+  [
+   "Senior Engineer - Enterprise Architecture",
+   "Gurugram"
+  ],
+  [
+   "Senior Engineer - GTM Tech",
+   "Gurugram"
+  ],
+  [
+   "Senior Engineer - GTM Tech",
+   "Gurugram"
+  ],
+  [
+   "Senior Engineer - GTM Tech",
+   "Gurugram"
+  ],
+  [
+   "Senior Engineering Manager, Atlas Agent Engine",
+   "Bengaluru"
+  ],
+  [
+   "Senior InfoSec Analyst",
+   "Gurugram"
+  ],
+  [
+   "Senior Manager, Accounting",
+   "Gurugram"
+  ],
+  [
+   "Senior Manager, Revenue",
+   "Gurugram"
+  ],
+  [
+   "Senior Product Manager, Atlas Agent Engine",
+   "Gurugram"
+  ],
+  [
+   "Senior Recruiter",
+   "Gurugram"
+  ],
+  [
+   "Senior Sales Compensation Engineer",
+   "Bengaluru; Gurugram"
+  ],
+  [
+   "Senior Site Reliability Engineer",
+   "Gurugram"
+  ],
+  [
+   "Senior Software Engineer",
+   "Gurugram"
+  ],
+  [
+   "Senior Software Engineer",
+   "Bengaluru"
+  ],
+  [
+   "Senior Software Engineer",
+   "Gurugram"
+  ],
+  [
+   "Senior Software Engineer, AI Builder Experience (ABX)",
+   "Gurugram"
+  ],
+  [
+   "Senior Software Engineer, AI Framework Integrations",
+   "Gurugram"
+  ],
+  [
+   "Senior Software Engineer, Atlas Agent Engine",
+   "Gurugram"
+  ],
+  [
+   "Senior Solutions Architect",
+   "Mumbai"
+  ],
+  [
+   "Senior Specialist 2, Internal Audit",
+   "Gurugram"
+  ],
+  [
+   "Senior Specialist 2, Payroll",
+   "Gurugram"
+  ],
+  [
+   "Senior Specialist, EMEA Payroll",
+   "Gurugram"
+  ],
+  [
+   "Senior Specialist, Payroll",
+   "Gurugram"
+  ],
+  [
+   "Senior Staff Engineer, Atlas Agent Engine",
+   "Gurugram"
+  ],
+  [
+   "Senior Technical Program Manager",
+   "Gurugram"
+  ],
+  [
+   "Senior Technical Writer",
+   "Bengaluru; Gurugram; Mumbai"
+  ],
+  [
+   "Software Engineer 3",
+   "Gurugram"
+  ],
+  [
+   "Software Engineer 3",
+   "Gurugram"
+  ],
+  [
+   "Software Engineer 3",
+   "Gurugram"
+  ],
+  [
+   "Software Engineer 3, AI Builder Experience ",
+   "Gurugram"
+  ],
+  [
+   "Software Engineer 3, AI Framework Integrations",
+   "Gurugram"
+  ],
+  [
+   "Software Engineer 3 - Enterprise Architecture",
+   "Gurugram"
+  ],
+  [
+   "Specialist, Sales Performance",
+   "Gurugram"
+  ],
+  [
+   "Staff Engineer",
+   "Gurugram"
+  ],
+  [
+   "Staff Engineer",
+   "Gurugram"
+  ],
+  [
+   "Staff Engineer, Atlas Agent Engine",
+   "Gurugram"
+  ],
+  [
+   "Staff Engineer - Business Systems",
+   "Gurugram"
+  ],
+  [
+   "Staff Engineer - Business Systems (Integrations)",
+   "Gurugram"
+  ],
+  [
+   "Staff Site Reliability Engineer",
+   "Gurugram"
+  ],
+  [
+   "Staff Technical Program Manager, GTM Tech",
+   "Gurugram"
+  ],
+  [
+   "Technical Account Manager",
+   "Bengaluru"
+  ],
+  [
+   "Technical Account Manager",
+   "Gurugram"
+  ],
+  [
+   "Technical Services Engineer",
+   "Bengaluru"
+  ],
+  [
+   "Technical Services Engineer",
+   "Gurugram"
+  ],
+  [
+   "2027 - CRM Engineering Intern, Gurugram",
+   "Gurugram"
+  ],
+  [
+   "HR PMO Intern",
+   "Gurugram"
+  ],
+  [
+   "Software Engineer 2",
+   "Gurugram"
+  ]
+ ]
+}

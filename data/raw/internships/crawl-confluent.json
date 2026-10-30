@@ -1,0 +1,455 @@
+{
+ "company": "Confluent (IBM)",
+ "ats": "ibm-careers (Confluent now hires via careers.ibm.com); Ashby board 'confluent' empty; careers.confluent.io behind Vercel bot checkpoint (429)",
+ "endpoint": "POST https://www-api.ibm.com/search/api/v2 (appId careers, scopes careers2) | https://api.ashbyhq.com/posting-api/job-board/confluent",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "confluent",
+  "confluent intern",
+  "confluent early talent"
+ ],
+ "total_hits": 184,
+ "confluent_postings": 73,
+ "india_intern_hits": [],
+ "details": {},
+ "confluent_titles": [
+  [
+   "Confluent - Staff Systems Engineer",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=137253"
+  ],
+  [
+   "Staff Product Marketing Manager - Confluent",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=138170"
+  ],
+  [
+   "(Confluent) Senior Principal Engineer, Kafka",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=128946"
+  ],
+  [
+   "Account Manager - Confluent",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=139228"
+  ],
+  [
+   "Account Executive - Confluent",
+   "No City, US",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=137916"
+  ],
+  [
+   "Confluent - Principal Engineer",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=131935"
+  ],
+  [
+   "Solution Engineer - Confluent",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=137793"
+  ],
+  [
+   "Software Developer - Confluent",
+   "Bangalore, IN",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=137566"
+  ],
+  [
+   "Confluent - Principal Engineer",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=137520"
+  ],
+  [
+   "Enterprise Account Executive - Confluent",
+   "No City, US",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=137794"
+  ],
+  [
+   "Principal Engineer I - Confluent",
+   "Bangalore, IN",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=128828"
+  ],
+  [
+   "Enterprise Account Executive - Confluent",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=135841"
+  ],
+  [
+   "Staff Software Engineer I - Confluent",
+   "Bangalore, IN",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=132993"
+  ],
+  [
+   "Enterprise Account Executive - Confluent",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=136565"
+  ],
+  [
+   "Enterprise Account Executive - Confluent",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=137800"
+  ],
+  [
+   "Data Engineer II - Confluent",
+   "Bangalore, IN",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=134002"
+  ],
+  [
+   "(Confluent) Staff Software Engineer II - Confluent Cloud Infrastructure & Platform",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=128247"
+  ],
+  [
+   "Manager II, Engineering - Confluent",
+   "Bangalore, IN",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=128874"
+  ],
+  [
+   "Software Developer - Confluent",
+   "Bangalore, IN",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=135410"
+  ],
+  [
+   "Enterprise Account Executive",
+   "SYDNEY, AU",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=137441"
+  ],
+  [
+   "Senior Solution Engineer - Confluent",
+   "No City, US",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=139261"
+  ],
+  [
+   "Software Developer - Confluent",
+   "Bangalore, IN",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=135411"
+  ],
+  [
+   "Senior Technical Product Marketing - Confluent",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=137775"
+  ],
+  [
+   "Senior Solutions Engineer- Confluent",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=136821"
+  ],
+  [
+   "Software Engineer, Kubernetes Platform - Confluent",
+   "Hursley, GB",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=128197"
+  ],
+  [
+   "Senior Software Engineer - Confluent - FlinkSQL",
+   "Ehningen, DE",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=128882"
+  ],
+  [
+   "Confluent - Senior Software Engineer II",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=128352"
+  ],
+  [
+   "Account Executive - National Accounts - Confluent",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=135500"
+  ],
+  [
+   "Senior Software Engineer - Confluent Cloud Platform",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=125740"
+  ],
+  [
+   "Senior Software Development Manager - Confluent",
+   "Bangalore, IN",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=131932"
+  ],
+  [
+   "Resident Solution Architect - Confluent",
+   "No City, US",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=131914"
+  ],
+  [
+   "Senior Solution Sales Engineer - Confluent",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=127640"
+  ],
+  [
+   "Confluent - Senior Product Manager, Cloud Networking",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=133995"
+  ],
+  [
+   "Confluent - Senior Product Manager, Cluster Linking",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=133993"
+  ],
+  [
+   "Senior Solution Sales Engineer - Confluent",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=126174"
+  ],
+  [
+   "Confluent - Staff Software Engineer - Infrastructure",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=130914"
+  ],
+  [
+   "Confluent - Senior Product Manager, Cloud Networking",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=133991"
+  ],
+  [
+   "Senior Solution Sales Engineer - Confluent",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=127641"
+  ],
+  [
+   "Confluent - Principal Engineer I - Stream Governance",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=132726"
+  ],
+  [
+   "Confluent - Senior Software Engineer - Kafka",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=132719"
+  ],
+  [
+   "Senior Solution Sales Engineer - Confluent",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=134097"
+  ],
+  [
+   "Staff Software Engineer - Confluent Cloud Traffic Engineering",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=123559"
+  ],
+  [
+   "Confluent Staff Software Engineer - Kafka",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=135999"
+  ],
+  [
+   "Senior Software Engineer - Confluent",
+   "Bangalore, IN",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=131937"
+  ],
+  [
+   "Confluent - Staff Product Manager, Cloud Networking",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=132380"
+  ],
+  [
+   "Senior Product Marketing Manager - Confluent",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=138174"
+  ],
+  [
+   "Senior Software Engineer II - Confluent",
+   "Columbus, US",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=128174"
+  ],
+  [
+   "Senior Software Developer II - Confluent Cloud Platform",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=131921"
+  ],
+  [
+   "Confluent - Senior Software Engineer - Cloud Compute Platform",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=131516"
+  ],
+  [
+   "Confluent - Senior Security Engineer (Sr. AppSec)",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=138824"
+  ],
+  [
+   "Senior Strategic Account Executive - Confluent",
+   "Seoul, KR",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=131833"
+  ],
+  [
+   "Confluent Senior Software Engineer II, Secure Compute",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=134475"
+  ],
+  [
+   "Senior Software Developer - Confluent DevProd",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=131216"
+  ],
+  [
+   "Staff Solution Sales Engineer - Confluent - (Portuguese Speaking)",
+   "No City, US",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=137928"
+  ],
+  [
+   "Confluent - Senior Software Developer - Kafka",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=132565"
+  ],
+  [
+   "Confluent - Staff Developer - Incident Command",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=139407"
+  ],
+  [
+   "Senior Software Developer/Architect - IBM Confluent Secure Compute",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=131275"
+  ],
+  [
+   "Confluent - Senior Software Engineer II - Fleet Management Unified Deployment",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=131607"
+  ],
+  [
+   "Confluent - Staff Product Manager, Streaming Analytics Engine",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=133996"
+  ],
+  [
+   "Staff Site Reliability Engineer - Confluent Cloud Infrastructure",
+   "Bangalore, IN",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=124629"
+  ],
+  [
+   "Software Engineer - Confluent Cloud Platform (United Kingdom)",
+   "Hursley, GB",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=122186"
+  ],
+  [
+   "Confluent - Staff Software Engineer II - Secure Compute",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=130917"
+  ],
+  [
+   "Confluent - Senior Software Engineer - Flink Autopilot",
+   "Ehningen, DE",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=131514"
+  ],
+  [
+   "Staff Software Engineer II - Confluent",
+   "Krakow, PL",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=131136"
+  ],
+  [
+   "Confluent - Staff Software Engineer - Stream Processing & Analytics",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=132728"
+  ],
+  [
+   "Confluent - Staff Software Engineer - Control Plane Core Infrastructure",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=135232"
+  ],
+  [
+   "Confluent - Distributed Systems Software Engineer - WarpStream",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=132722"
+  ],
+  [
+   "Senior Software Engineer II - Confluent - FlinkSQL",
+   "Ehningen, DE",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=126367"
+  ],
+  [
+   "Senior Business Systems Engineer, Metronome - Confluent",
+   "Bangalore, IN",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=137861"
+  ],
+  [
+   "Confluent - Staff Software Engineer - Stream Processing & Analytics",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=132727"
+  ],
+  [
+   "Business Systems Engineer III, Metronome - Confluent",
+   "Bangalore, IN",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=133975"
+  ],
+  [
+   "Japan Field Marketing Professional for Confluent",
+   "Tokyo, JP",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=137605"
+  ],
+  [
+   "Senior Systems Engineer",
+   "Multiple Cities",
+   "Professional",
+   "https://careers.ibm.com/careers/JobDetail?jobId=135173"
+  ]
+ ]
+}

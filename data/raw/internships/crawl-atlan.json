@@ -1,0 +1,36 @@
+{
+ "company": "Atlan",
+ "ats": "ashby",
+ "endpoint": "https://api.ashbyhq.com/posting-api/job-board/atlan?includeCompensation=true",
+ "queried_at": "2026-10-30T03:11Z",
+ "queries": [
+  "whole board; filtered ats.is_india(location) + intern regex on title/employmentType"
+ ],
+ "total_hits": 7,
+ "india_postings": 5,
+ "india_intern_hits": [],
+ "india_fde_fulltime": [],
+ "details": {},
+ "india_titles": [
+  [
+   "AI Native Builder/Architect",
+   "India"
+  ],
+  [
+   "Business Development Representative",
+   "India"
+  ],
+  [
+   "Principal Software Engineer - Agent & App Platform",
+   "India"
+  ],
+  [
+   "Associate Business Development Representative",
+   "India"
+  ],
+  [
+   "Staff Software Engineer - Infrastructure",
+   "India"
+  ]
+ ]
+}

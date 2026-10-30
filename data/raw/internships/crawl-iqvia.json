@@ -1,0 +1,69 @@
+{
+ "company": "IQVIA",
+ "ats": "workday",
+ "endpoint": [
+  "https://iqvia.wd1.myworkdayjobs.com/wday/cxs/iqvia/IQVIA/jobs"
+ ],
+ "site_meta": [
+  {
+   "site": "https://iqvia.wd1.myworkdayjobs.com/IQVIA",
+   "total_global": 1921,
+   "india_facet": {
+    "Location_Country": [
+     "c4f78be1a8f14da0ab49ce1162348a5e"
+    ]
+   },
+   "intern_subtype_facet": {
+    "workerSubType": [
+     "9c1453f3b5920145a8acd644b263195b",
+     "9c1453f3b592012b86f80d48b2632f5b",
+     "cea354277448019e78c45ca53aaa456e"
+    ]
+   }
+  }
+ ],
+ "queried_at": "2026-10-30T03:16:24",
+ "queries": [
+  "workerSubType intern facet",
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data intern",
+  "2027",
+  "graduate",
+  "campus",
+  "fresher"
+ ],
+ "total_hits": 25,
+ "india_intern_hits": [],
+ "details": {},
+ "nonintern_titles_seen": [
+  "16569-Sr Biostatistician",
+  "Admin Assistant",
+  "Assoc Dir, Machine Learning",
+  "Assoc Sales Engineer Dir",
+  "Associate Director Quality Management",
+  "Associate Manager , Talent Acquisition",
+  "Clinical Data Management",
+  "Clinical Data Specalist",
+  "Clinical FSP Quality Manager",
+  "Clinical Specialist / Stroke Rater – Bengali Speaking",
+  "Clinical Specialist / Stroke Rater – Odia (Oryia)  Speaking",
+  "Clinical Specialist / Stroke Rater – Punjabi Speaking",
+  "Clinical Specialist / Stroke Rater – Urdu Speaking",
+  "Clinical Talent Acquisition",
+  "Engagement Manager",
+  "External Consultant",
+  "Forecast Analyst 2",
+  "Medical Advisor/Associate Medical Director - Oncology/Hematology",
+  "Prod Supp Tech Advisor 2",
+  "Product Sppt Tech Advisor 2",
+  "Senior Data Team Lead",
+  "Sr Biostatistician",
+  "Sr Stat Programmer",
+  "Sr. Product Support Tech Advisor"
+ ]
+}

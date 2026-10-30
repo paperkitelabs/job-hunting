@@ -1,0 +1,160 @@
+{
+ "company": "Freshworks",
+ "ats": "smartrecruiters",
+ "endpoint": "https://api.smartrecruiters.com/v1/companies/Freshworks/postings?country=in",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate",
+  "forward deployed",
+  ""
+ ],
+ "total_hits": 34,
+ "india_intern_hits": [],
+ "details": {},
+ "all_india_titles": [
+  [
+   "Lead - Customer Success",
+   "Chennai, , India"
+  ],
+  [
+   "Lead - Revenue Accounting",
+   "Bengaluru, , India"
+  ],
+  [
+   "Lead - Workplace Management (Travel & Transport Operations)",
+   "Chennai, , India"
+  ],
+  [
+   "Principal Engineer - Machine Learning",
+   "Hyderabad, TS, India"
+  ],
+  [
+   "Principal Engineer - Machine Learning",
+   "Chennai, TN, India"
+  ],
+  [
+   "Lead - Channel Sales",
+   "Bengaluru, KA, India"
+  ],
+  [
+   "Lead - Solution Engineer",
+   "Bengaluru, KA, India"
+  ],
+  [
+   "Lead - Solution Engineer",
+   "Chennai, , India"
+  ],
+  [
+   "Lead - Solution Engineer",
+   "Bengaluru, KA, India"
+  ],
+  [
+   "Lead - Solution Engineer",
+   "Chennai, , India"
+  ],
+  [
+   "Deal Desk Strategist ",
+   "Chennai, , India"
+  ],
+  [
+   "Solution Architect",
+   "Chennai, , India"
+  ],
+  [
+   "Senior Analyst - Cybersecurity Risk & Compliance",
+   "Chennai, , India"
+  ],
+  [
+   "Principal Engineer - Systems",
+   "Hyderabad, , India"
+  ],
+  [
+   "Lead - Business Systems Services",
+   "Chennai, , India"
+  ],
+  [
+   "Staff Engineer - Machine Learning",
+   "Bengaluru, KA, India"
+  ],
+  [
+   "Staff Engineer - Full Stack",
+   "Chennai, , India"
+  ],
+  [
+   "Lead - Sales Commission",
+   "Bengaluru, , India"
+  ],
+  [
+   "Lead - Product Marketing",
+   "Chennai, , India"
+  ],
+  [
+   "Lead - Business Systems Services (Workday Technical Lead)",
+   "Bengaluru, , India"
+  ],
+  [
+   "Staff Engineer - Full Stack",
+   "Hyderabad, , India"
+  ],
+  [
+   "Lead - Account Management",
+   "Chennai, , India"
+  ],
+  [
+   "Senior Account Management (EX) - Top Tier NA ",
+   "Chennai, , India"
+  ],
+  [
+   "Staff Product Manager",
+   "Bengaluru, , India"
+  ],
+  [
+   "Senior Engineering Manager - Billing Platform",
+   "Bengaluru, KA, India"
+  ],
+  [
+   "Field Marketing Specialist (Contract)",
+   "Bengaluru, KA, India"
+  ],
+  [
+   "Senior Business Development Manager - MEA / India (Enterprise) ",
+   "Bengaluru, , India"
+  ],
+  [
+   "Business Development Manager - NA",
+   "Bengaluru, , India"
+  ],
+  [
+   "Lead Software Engineer - Site Reliability",
+   "Hyderabad, TS, India"
+  ],
+  [
+   "Senior Staff Engineer - Systems",
+   "Chennai, TN, India"
+  ],
+  [
+   "Lead Software Engineer - Full Stack",
+   "Chennai, , India"
+  ],
+  [
+   "Principal - Solution Engineering",
+   "Bengaluru, KA, India"
+  ],
+  [
+   "Principal - Solution Engineering",
+   "Chennai, , India"
+  ],
+  [
+   "Lead Software Engineer - Full Stack",
+   "Hyderabad, , India"
+  ]
+ ]
+}
