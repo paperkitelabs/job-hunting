@@ -1,0 +1,71 @@
+{
+ "company": "Infosys",
+ "ats": "custom (Infosys careers gateway)",
+ "endpoint": "GET https://intapgateway.infosysapps.com/careersci/search/intapjbsrch/getCareerSearchJobs?sourceId=N&searchText=&pageNo=1&pageSize=5000 (searchText ignored; whole board)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "whole board, sourceId 1-30"
+ ],
+ "total_hits": 7855,
+ "india_intern_hits": [
+  {
+   "title": "ENG off campus Feb 2026 / Engineer - Trainee",
+   "loc": "MYSORE",
+   "url": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-INFYTQ-254781",
+   "id": 252845,
+   "posted": "2026-10-06"
+  },
+  {
+   "title": "Campus ENG Offers 2026 batch / Engineer - Trainee",
+   "loc": "MYSORE",
+   "url": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-CAMPUS-246816",
+   "id": 245006,
+   "posted": "2026-06-08"
+  },
+  {
+   "title": "NEG Campus Recruitment at SaintGits Kottayam 17th Nov 2025 / Systems Associate - Trainee",
+   "loc": "MYSORE",
+   "url": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-CAMPUS-246767",
+   "id": 244957,
+   "posted": "2026-06-05"
+  }
+ ],
+ "details": {
+  "252845": {
+   "postingTitle": "ENG off campus Feb 2026",
+   "roleDesignation": "Engineer - Trainee",
+   "location": "MYSORE",
+   "minExperienceLevel": 0,
+   "maxExperienceLevel": 1,
+   "educationalRequirement": "Bachelor of Engineering",
+   "postingDescription": "NA",
+   "rolesResponsibilities": "NA",
+   "expiryDate": "2026-10-31T00:00:00",
+   "sourceId": 23
+  },
+  "245006": {
+   "postingTitle": "Campus ENG Offers 2026 batch",
+   "roleDesignation": "Engineer - Trainee",
+   "location": "MYSORE",
+   "minExperienceLevel": 0,
+   "maxExperienceLevel": 1,
+   "educationalRequirement": "Bachelor of Engineering",
+   "postingDescription": "NA",
+   "rolesResponsibilities": "NA",
+   "expiryDate": "2026-10-31T00:00:00",
+   "sourceId": 24
+  },
+  "244957": {
+   "postingTitle": "NEG Campus Recruitment at SaintGits Kottayam 17th Nov 2025",
+   "roleDesignation": "Systems Associate - Trainee",
+   "location": "MYSORE",
+   "minExperienceLevel": 0,
+   "maxExperienceLevel": 1,
+   "educationalRequirement": "",
+   "postingDescription": "NA",
+   "rolesResponsibilities": "NA",
+   "expiryDate": "2026-12-31T00:00:00",
+   "sourceId": 24
+  }
+ }
+}

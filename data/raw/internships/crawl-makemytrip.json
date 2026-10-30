@@ -1,0 +1,12 @@
+{
+ "company": "MakeMyTrip",
+ "ats": "custom JSON",
+ "endpoint": "GET https://careers.makemytrip.com/api/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 40,
+ "india_intern_hits": [],
+ "details": {}
+}

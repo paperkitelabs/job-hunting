@@ -1,0 +1,12 @@
+{
+ "company": "Capgemini",
+ "ats": "SuccessFactors via Capgemini jobstream API",
+ "endpoint": "https://cg-jobstream-api.azurewebsites.net/api/job-search?country_code=in-en&size=100&page=N",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "whole India board"
+ ],
+ "total_hits": 783,
+ "india_intern_hits": [],
+ "details": {}
+}

@@ -1,0 +1,617 @@
+{
+ "cluster": "I-indian-product-unicorns",
+ "checked": "30 Oct 2026",
+ "openings": [],
+ "rejected": [
+  {
+   "company": "Paytm",
+   "role": "Intern - Talent Acquisition",
+   "url": "https://jobs.lever.co/paytm/426a6834-1397-4e65-94af-69874c790805",
+   "reason": "HR / talent-acquisition intern - out of scope"
+  },
+  {
+   "company": "Paytm",
+   "role": "Intern- HR Onboarding",
+   "url": "https://jobs.lever.co/paytm/0ecd9d93-e4f3-4dd0-a22e-852fec9b6e02",
+   "reason": "HR / talent-acquisition intern - out of scope"
+  },
+  {
+   "company": "Paytm",
+   "role": "Intern-Talent Acquisition",
+   "url": "https://jobs.lever.co/paytm/9d497980-2032-440c-8bac-63fb53938acc",
+   "reason": "HR / talent-acquisition intern - out of scope"
+  },
+  {
+   "company": "Paytm",
+   "role": "Internship - Talent Acquisition",
+   "url": "https://jobs.lever.co/paytm/a2f53649-1fe8-4a0d-97ee-24dab719a9e8",
+   "reason": "HR / talent-acquisition intern - out of scope"
+  },
+  {
+   "company": "Paytm",
+   "role": "Talent Acquisition Intern",
+   "url": "https://jobs.lever.co/paytm/6d7551f7-34c3-46a2-a4e4-18b29f15338c",
+   "reason": "HR / talent-acquisition intern - out of scope"
+  },
+  {
+   "company": "Paytm",
+   "role": "Talent Acquisition Intern - Bangalore",
+   "url": "https://jobs.lever.co/paytm/88e8b698-8f03-4e09-9581-168f831fb3af",
+   "reason": "HR / talent-acquisition intern - out of scope"
+  },
+  {
+   "company": "Paytm",
+   "role": "Talent Acquisition Intern - IT Recruitment",
+   "url": "https://jobs.lever.co/paytm/95eadc2b-27bf-40fe-b6e6-93aaeadd08f7",
+   "reason": "HR / talent-acquisition intern - out of scope"
+  },
+  {
+   "company": "Paytm (Paytm Payments Services / PPSL board)",
+   "role": "HR Intern",
+   "url": "https://jobs.lever.co/paytmpayments/1beee823-6a65-4d98-a54e-34bffa38c65d",
+   "reason": "HR / talent-acquisition intern - out of scope"
+  },
+  {
+   "company": "Paytm (Paytm Payments Services / PPSL board)",
+   "role": "HR recruitment - Intern",
+   "url": "https://jobs.lever.co/paytmpayments/c458a548-7639-4dbe-9de6-d7dad2ae9754",
+   "reason": "HR / talent-acquisition intern - out of scope"
+  },
+  {
+   "company": "Paytm (Paytm Payments Services / PPSL board)",
+   "role": "Human Resources-Intern- Noida",
+   "url": "https://jobs.lever.co/paytmpayments/bd9efaed-46c6-49ff-a2ba-7ffc174b4a1a",
+   "reason": "HR / talent-acquisition intern - out of scope"
+  },
+  {
+   "company": "Paytm (Paytm Payments Services / PPSL board)",
+   "role": "Intern - Secretarial Compliance - 598",
+   "url": "https://jobs.lever.co/paytmpayments/839f3390-40f1-4bc5-9534-aa429de2ab57",
+   "reason": "Company-secretary / legal-compliance intern - out of scope"
+  },
+  {
+   "company": "Paytm (Paytm Payments Services / PPSL board)",
+   "role": "Intern:Intern:Talent Aquisition:bengaluru",
+   "url": "https://jobs.lever.co/paytmpayments/72d00195-7eeb-41df-8d67-e438c898fd92",
+   "reason": "HR / talent-acquisition intern - out of scope"
+  },
+  {
+   "company": "Paytm (Paytm Payments Services / PPSL board)",
+   "role": "Intern:Intern:Talent Aquisition:Noida",
+   "url": "https://jobs.lever.co/paytmpayments/df210a74-6e70-4ab8-95fc-67c9df26abb1",
+   "reason": "HR / talent-acquisition intern - out of scope"
+  },
+  {
+   "company": "Groww",
+   "role": "Video Editor Intern",
+   "url": "https://job-boards.eu.greenhouse.io/groww/jobs/4956817101",
+   "reason": "Design / creative intern - out of scope"
+  },
+  {
+   "company": "InMobi",
+   "role": "Intern - Creative & Communications, People Team ",
+   "url": "https://job-boards.greenhouse.io/inmobi/jobs/8207411",
+   "reason": "Design / creative intern - out of scope"
+  },
+  {
+   "company": "Glance (InMobi)",
+   "role": "UX Design - Intern",
+   "url": "https://job-boards.greenhouse.io/glance/jobs/7916115",
+   "reason": "Design / creative intern - out of scope"
+  },
+  {
+   "company": "PhonePe",
+   "role": "Intern, Company Secretary",
+   "url": "https://jobs.smartrecruiters.com/PHONEPELIMITED/1000000000002543",
+   "reason": "Company-secretary / legal-compliance intern - out of scope (detail active=True)"
+  },
+  {
+   "company": "Flipkart",
+   "role": "CA Industrial Trainee (FIPL-83424)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/UHGKgA1Xc5ITjy8cOe1xRUkHYl82so4EjYjg9uklWuI%2FC2flC85m7vAg4cp_2NOv",
+   "reason": "CA / finance-accounting trainee - out of scope"
+  },
+  {
+   "company": "Flipkart",
+   "role": "CA Industrial trainee (FIPL-6051)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/mVNzBFw65iKmmyBjSxJt_qU8YyG8j0P%2FEPV8qUI2twzNSF3Oc7MUT1yk9v8xZ0Fk",
+   "reason": "CA / finance-accounting trainee - out of scope"
+  },
+  {
+   "company": "Flipkart",
+   "role": "CA Industrial Trainee (FIPL-27046)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/4DWPqXV5MjKUtjEQJeXBwAqNtWr7kw1vpn1R5Mv19UXIio72MEtOdTydpe57tQUV",
+   "reason": "CA / finance-accounting trainee - out of scope"
+  },
+  {
+   "company": "Flipkart",
+   "role": "CA Industrial Trainee (FIPL-62256)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/G3CG_5lm4yuzqjeFHSZwi_ihzsKA9Ip9PfrvM7489SOm0XaVs6fMoekFrjC5jFOQ",
+   "reason": "CA / finance-accounting trainee - out of scope"
+  },
+  {
+   "company": "Flipkart",
+   "role": "CA Industrial Trainee - Hyperlocal (FIPL-65263)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/YWLhr7hpO0rSPHI9MVGHy4emtzQdX2BXi5OQoHnZgl8cFq7ve5z9i3_OSZrUV927",
+   "reason": "CA / finance-accounting trainee - out of scope"
+  },
+  {
+   "company": "Flipkart",
+   "role": "CA Intern (FIPL-96677)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/j_T3IYwjJ%2F9j%2F3HgfPsUasB4hPvtf%2FlnKQ5T%2FA%2FOBZFsqWVWvOdivPtZjaFahAk3",
+   "reason": "CA / finance-accounting trainee - out of scope"
+  },
+  {
+   "company": "Flipkart",
+   "role": "CA Intern (FIPL-20647)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/xGSSLOYTUtaUYs8%2FoJYZonXwLbtSQiWHFQlcVDeuwnEy9bAH4ViYEM0SscdtQDFY",
+   "reason": "CA / finance-accounting trainee - out of scope"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Corp Fin CA Industrial Trainee (FIPL-88095)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/AfVPH2NQ%2FgrHgqF_WOqgXdWe1u73b51sMBYxBNCvFlXReTExNXl_tiKHt0LHm1GN",
+   "reason": "CA / finance-accounting trainee - out of scope"
+  },
+  {
+   "company": "Flipkart",
+   "role": "FRK BBD Intern Hiring (FIPL-65598)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/tVWOlaDMCjMDQMUkrrJZhWFKLL2BPCTt%2FAcMuyFbmlfnrqlqHVWWreTfgX0_yPPV",
+   "reason": "Supply-chain ops intern (SCM L&D / FM&LM ops) - ops-only; also not published on the public career page"
+  },
+  {
+   "company": "Flipkart",
+   "role": "FRK BTS Intern BBD Hiring (FIPL-19252)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/NQT04WLu5P9bjI8TdaEtK8KgGgS0_zUFSSUThJ4qczCnPcgTS7sfzDYOFE8tGdJ_",
+   "reason": "Supply-chain ops intern (SCM L&D / FM&LM ops) - ops-only; also not published on the public career page"
+  },
+  {
+   "company": "Flipkart",
+   "role": "FRK BTS Intern BBD Hiring (FIPL-98315)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/vBE5zJT29Ba8O1fteZiorltybO56dMKdbc%2FH%2FJTkNFv7OdKRnXJrafNNYrWWLpJL",
+   "reason": "Supply-chain ops intern (SCM L&D / FM&LM ops) - ops-only; also not published on the public career page"
+  },
+  {
+   "company": "Flipkart",
+   "role": "GGN Intern BBD Hiring (FIPL-1529)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/xMe4FaLIR7XknBfh6U6jy0ZAcW3ITJNnasIg%2F7UAD48_gLoHyia7M5Qh19S1PwYG",
+   "reason": "Supply-chain ops intern (SCM L&D / FM&LM ops) - ops-only; also not published on the public career page"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Industrial Trainee (FIPL-37771)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/D4Ygs2pX4XbguIfPreBqzqgVh9QZK1CxG2lVcEq1QDRMSk58Af1k4wsp40sf1oYV",
+   "reason": "CA / finance-accounting trainee - out of scope"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Industrial Trainee #2 (FIPL-94487)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/py9ErVglCsEnwC6fxSqBRGIFmBs4raKH1HMFgdn5AT%2FK84WgTGj_AktrfyKIWrM1",
+   "reason": "CA / finance-accounting trainee - out of scope"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Intern (FIPL-80219)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/1enOIkNhmTJDb8ztONiQ8C6rUG4PC5vduNJnpXO8YgQALgZBiN1QtHIrZZy%2FSogs",
+   "reason": "Supply-chain ops intern (SCM L&D / FM&LM ops) - ops-only; also not published on the public career page"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Intern (FIPL-70670)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/L58Pr1_OPsRJH2RycRoKVspGzzaqG25624HqSURMLMAAlKaNgX2xChLGniShVb3Z",
+   "reason": "CA / finance-accounting trainee - out of scope"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Intern (FIPL-72500)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/31C9HNaS8VyVLE4_una22VTSRK1VPHwvZcq79s7zbrm%2Fpn8wEHI88iRJIHdg%2Fuq9",
+   "reason": "CA / finance-accounting trainee - out of scope"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Intern Business Finance (FIPL-41587)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/6_Xy9ThIxLSvjPiHhtzGNoUsMB15KM_zBmWPoHbKty7J6RMlflRfCnD9%2FZCJgS2L",
+   "reason": "CA / finance-accounting trainee - out of scope"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Intern For DIC (FIPL-3660)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/DD8Te1_AVPZq336Im2XWKZrpG3ng12F0SRTLrMmigABvOVtkehgSgOrVR7Kl9LhM",
+   "reason": "Supply-chain ops intern (SCM L&D / FM&LM ops) - ops-only; also not published on the public career page"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Intern For JKS (FIPL-5760)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/sUIVByu2VmNIhxMhJnEGP_Y4seBOUygz6SGwKEgHd9h3tYtPrym62SKBBPfeWRQT",
+   "reason": "Supply-chain ops intern (SCM L&D / FM&LM ops) - ops-only; also not published on the public career page"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Intern For Kalas JJH (FIPL-96520)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/P3U8s2d%2F1UIyE4y2Mv3h1TjcB6MgY4zn23A4g_ddCdQAKJNTfRHU1bCu3Sb8v2IK",
+   "reason": "Supply-chain ops intern (SCM L&D / FM&LM ops) - ops-only; also not published on the public career page"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Intern For YKB (FIPL-11351)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/7ZmwesveIgqFMSQgEZnG_8F47DLBxzRtdQl5e5kqDHayZVGOO1I4qBXTZTOxFD4Z",
+   "reason": "Supply-chain ops intern (SCM L&D / FM&LM ops) - ops-only; also not published on the public career page"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Jaipur Intern BBD Hiring (FIPL-98086)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/wxKOlCXnTdQeO02O%2FUy6F5ELxIq09y5KD2GFgrnE8pYKXsv5m8SFNaloPdSq6heh",
+   "reason": "Supply-chain ops intern (SCM L&D / FM&LM ops) - ops-only; also not published on the public career page"
+  },
+  {
+   "company": "Flipkart",
+   "role": "LKO Intern BBD Hiring (FIPL-29309)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/jQAWjShy4bo_cofjDMZTkDApET6uc42djSYgyXwQqNBhEMXo1lhlUX38OnlU5sj6",
+   "reason": "Supply-chain ops intern (SCM L&D / FM&LM ops) - ops-only; also not published on the public career page"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Ludhiana Intern BBD Hiring (FIPL-21456)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/GoqmJ%2FnGqLwxhfXrqaorU7KjfN1qn4DytfWN0KdgHM14lc_U_2QZajIO5jz7nL2_",
+   "reason": "Supply-chain ops intern (SCM L&D / FM&LM ops) - ops-only; also not published on the public career page"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Sanpka Gurgaon Intern BBD Hiring (FIPL-12549)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/UYlmqMgmk8jA2ZUFdYUu7Xq%2FvAaATAT5P4qfFL0noNGUdlJeYHGIDcdku5OI7vyO",
+   "reason": "Supply-chain ops intern (SCM L&D / FM&LM ops) - ops-only; also not published on the public career page"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Sanpka Gurgaon Intern BBD Hiring (FIPL-32917)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/GeLCvkJE6nZ0HI175anNjHrG7UflQuZlZBxV7kGOqejYuabG1glgc3i_0J006nSG",
+   "reason": "Supply-chain ops intern (SCM L&D / FM&LM ops) - ops-only; also not published on the public career page"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Varanasi Intern BBD Hiring (FIPL-1557)",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/hY4_%2F_wZfsSpASJinS9glafmFQtq2yloc4snUpPyw2Qw_vjt6G6TaulmzpyeD%2Fw4",
+   "reason": "Supply-chain ops intern (SCM L&D / FM&LM ops) - ops-only; also not published on the public career page"
+  },
+  {
+   "company": "Myntra",
+   "role": "Apprentice",
+   "url": "https://jobs.myntra.com/viewJobs/2455903149",
+   "reason": "Ops-only: seller onboarding / vendor master management apprentice (Hyperlocal), B.Com/any graduate, MS Office/Excel"
+  },
+  {
+   "company": "Jio Platforms",
+   "role": "Jio Point Sales Intern ( 87446661 ) (and other locations)",
+   "url": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=5QqqZrXKHPKkv3AnuOdh5A==&jbID=QEmDzksfOC0aB3Ep5Tje5A==&funcCode=STY5uyjt2IX+JWtw/FyqipkGHFJqSw/Q",
+   "reason": "Retail store sales intern (10+2/ITI/Diploma) - sales, out of scope"
+  },
+  {
+   "company": "Jio Platforms",
+   "role": "Graduate Engineer Trainee ( 87407382 ) (3 reqs, Mumbai)",
+   "url": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=PnZEcG4c0DKoPIHfD9z66Q==&jbID=oli2+WjXAcV+q3Axi0eH1g==&funcCode=ni4dknKJ6TY=",
+   "reason": "Full-time telecom core-network GET for B.E./B.Tech freshers - not an internship, network engineering (not data/AI)"
+  },
+  {
+   "company": "Jio Platforms",
+   "role": "Network Diploma Engineer Trainee ( 87370108 ) (many locations)",
+   "url": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=rQiVOx8Ld527RvpBMglNzw==&jbID=XlFEK0KcSCbB/12mPHWkEQ==&funcCode=YhJgFShXD7ZjFGzP95lsOA==",
+   "reason": "Field / network diploma engineer apprentice - out of scope"
+  }
+ ],
+ "round1": [
+  {
+   "company": "Paytm",
+   "role": "Product Management - Intern",
+   "old_url": "https://jobs.lever.co/paytm/1155c0e3-bf03-4b46-97f0-44673b6518f7",
+   "status": "closed",
+   "new_url": "",
+   "note": "Lever posting API 404 'Document not found'; not in live board (200 postings)"
+  },
+  {
+   "company": "Paytm",
+   "role": "Growth Management Intern- Insurance",
+   "old_url": "https://jobs.lever.co/paytm/62bd3d00-f65c-4c70-b413-92d886a112e7/",
+   "status": "closed",
+   "new_url": "",
+   "note": "Lever posting API 404; not in live paytm or paytmpayments board"
+  },
+  {
+   "company": "Razorpay",
+   "role": "Data Analyst Intern (Merchant Risk Engine), Bengaluru",
+   "old_url": "https://myinternships.in/internships/razorpay-is-hiring-data-analyst-intern-merchant-risk-engine-bengaluru-39a52b",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No intern posting on live Greenhouse board (26 jobs)."
+  },
+  {
+   "company": "Razorpay",
+   "role": "Data Analyst Intern (12 months), Bengaluru",
+   "old_url": "https://myinternships.in/internships/razorpay-is-hiring-data-analyst-intern-bengaluru-17shw8",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No intern posting on live Greenhouse board (26 jobs)."
+  },
+  {
+   "company": "Razorpay",
+   "role": "Intern - Product Management (Singapore)",
+   "old_url": "https://builtinsingapore.com/job/intern-product-management/8763390",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No intern posting on live Greenhouse board (26 jobs). Singapore anyway"
+  },
+  {
+   "company": "Groww",
+   "role": "Intern - Growth (AI & MarTech), Bangalore",
+   "old_url": "https://peerlist.io/company/groww/careers/intern--growth-ai--martech/jobhr8dq6jbdklepghmgdn6m877jlg",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Not on live Greenhouse board (10 jobs)"
+  },
+  {
+   "company": "Meesho",
+   "role": "Data Science Intern",
+   "old_url": "https://myinternships.in/job/meesho-data-science-intern-jodhpur-c81151",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No intern on live Lever board"
+  },
+  {
+   "company": "Swiggy",
+   "role": "Product Management Intern (Bangalore)",
+   "old_url": "https://jobs.weekday.works/swiggy-product-management-intern",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No intern on live SmartRecruiters board (176 India postings)"
+  },
+  {
+   "company": "Swiggy",
+   "role": "Product Analyst Intern",
+   "old_url": "https://myinternships.in/job/swiggy-product-analyst-intern-kochi-a5af3a",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No intern on live SmartRecruiters board (176 India postings)"
+  },
+  {
+   "company": "Swiggy",
+   "role": "Data Science Intern",
+   "old_url": "https://myinternships.in/job/swiggy-data-science-intern-gurugram-2718ab",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No intern on live SmartRecruiters board (176 India postings)"
+  },
+  {
+   "company": "PhonePe",
+   "role": "Various internships (Internshala lists 61)",
+   "old_url": "https://internshala.com/internships/internship-at-phonepe/",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Only intern on live SmartRecruiters board is 'Intern, Company Secretary' (rejected); no analytics intern"
+  },
+  {
+   "company": "PhonePe",
+   "role": "Product Analyst (Entry Level) - full-time",
+   "old_url": "https://freehire.me/jobs/product-analyst-entry-level-phonepe-sfbraj2v",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No 'Product Analyst' title on live SmartRecruiters board; full-time anyway (out of intern scope)"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Data Analytics Intern (Bengaluru)",
+   "old_url": "myinternships.in (aggregator)",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No such title in Flipkart TurboHire feed (7678 reqs incl. unpublished)"
+  },
+  {
+   "company": "Flipkart",
+   "role": "SQL Data Analyst Intern (Bengaluru)",
+   "old_url": "myinternships.in (aggregator)",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No such title in Flipkart TurboHire feed (7678 reqs incl. unpublished)"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Business Analyst Intern - Supply Chain Data (Bengaluru)",
+   "old_url": "myinternships.in (aggregator)",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No such title in Flipkart TurboHire feed (7678 reqs incl. unpublished)"
+  },
+  {
+   "company": "Flipkart",
+   "role": "Data Quality Analyst Intern (Bengaluru)",
+   "old_url": "myinternships.in (aggregator)",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No such title in Flipkart TurboHire feed (7678 reqs incl. unpublished)"
+  },
+  {
+   "company": "Dream11 / Dream Sports",
+   "role": "Forward Deployment Engineer Internship (Mumbai)",
+   "old_url": "https://thejobcompany.co.in/frontend/job_details?job_id=6456",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Dream Sports Lever board is gone (404) and careers site has no job list; could not find the role on any employer-owned page"
+  }
+ ],
+ "companies": [
+  {
+   "name": "Flipkart",
+   "ats": "turbohire",
+   "endpoint": "https://thapi.azurewebsites.net/api/careerpagev2/filteredjobs?orgId=4d757ba0-3d57-448a-b82c-238ed87ac90f",
+   "india_intern_hits": 28,
+   "kept": 0,
+   "note": "Public career page lists 10 jobs, 0 intern. Full org feed (pageType 1, 7678 reqs) has 28 intern/trainee reqs - all CA/finance or supply-chain ops, none published on career page. flipkartcareers.com links this TurboHire page."
+  },
+  {
+   "name": "Myntra",
+   "ats": "spire2grow",
+   "endpoint": "https://io.spire2grow.com/ies/v1/p/requisition/_search (jobs.myntra.com)",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "Full board 49 reqs; only Apprentice (seller-onboarding ops) - rejected"
+  },
+  {
+   "name": "PhonePe",
+   "ats": "smartrecruiters",
+   "endpoint": "https://api.smartrecruiters.com/v1/companies/PHONEPELIMITED/postings",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "SmartRecruiters India 118 postings (Greenhouse board 'phonepe' now empty); only intern is Company Secretary"
+  },
+  {
+   "name": "Paytm",
+   "ats": "lever",
+   "endpoint": "https://api.lever.co/v0/postings/paytm + /paytmpayments",
+   "india_intern_hits": 13,
+   "kept": 0,
+   "note": "Lever paytm (200 postings) + paytmpayments (1097); all 13 interns are HR/TA/company-secretary. Round-1 PM intern and Growth intern now 404."
+  },
+  {
+   "name": "Razorpay",
+   "ats": "greenhouse",
+   "endpoint": "https://boards-api.greenhouse.io/v1/boards/razorpaysoftwareprivatelimited/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Greenhouse board 26 postings, 0 intern/trainee (incl. no Singapore PM intern)"
+  },
+  {
+   "name": "CRED",
+   "ats": "lever",
+   "endpoint": "https://api.lever.co/v0/postings/cred?mode=json",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Lever board 13 postings, all full time; 0 intern"
+  },
+  {
+   "name": "Zerodha",
+   "ats": "custom",
+   "endpoint": "https://careers.zerodha.com/api/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "API returns count 0 (no openings at all)"
+  },
+  {
+   "name": "Groww",
+   "ats": "greenhouse",
+   "endpoint": "https://boards-api.greenhouse.io/v1/boards/groww/jobs",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "Greenhouse board 10 postings; only intern is Video Editor (creative). boards-api.eu host refused by proxy, US host serves same board."
+  },
+  {
+   "name": "Swiggy",
+   "ats": "smartrecruiters",
+   "endpoint": "https://api.smartrecruiters.com/v1/companies/swiggy/postings",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "SmartRecruiters India 176 postings (whole board), 0 intern/trainee"
+  },
+  {
+   "name": "Zomato / Eternal / Blinkit",
+   "ats": "darwinbox",
+   "endpoint": "https://www.eternal.com/careers/ ; eternal.darwinbox.in",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHABLE: eternal.com/careers has no job list; eternal.darwinbox.in candidate API behind Cloudflare challenge; blinkit.com/careers Cloudflare-blocked. Lever 'eternal' is an unrelated US company."
+  },
+  {
+   "name": "Zepto",
+   "ats": "darwinbox",
+   "endpoint": "https://zepto.darwinbox.in/ms/candidate/careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHABLE: zeptonow.com/careers returns 202 bot-challenge; Darwinbox tenant 'zepto' candidate API behind Cloudflare challenge"
+  },
+  {
+   "name": "Meesho",
+   "ats": "lever",
+   "endpoint": "https://api.lever.co/v0/postings/meesho?mode=json",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Lever board 49 postings; 0 intern"
+  },
+  {
+   "name": "Nykaa",
+   "ats": "skima",
+   "endpoint": "https://careers.nykaa.com/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "SSR page: 'Currently there are no job postings available'"
+  },
+  {
+   "name": "Dream11 / Dream Sports",
+   "ats": "lever (404)",
+   "endpoint": "https://api.lever.co/v0/postings/dreamsports",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Lever board dreamsports returns 404 (also eu host, dream11 slugs); careers page has no other listing; no Darwinbox/GH/Ashby board found"
+  },
+  {
+   "name": "Jio Platforms",
+   "ats": "custom ASP.NET",
+   "endpoint": "https://careers.jio.com/frmJobCategories.aspx",
+   "india_intern_hits": 11,
+   "kept": 0,
+   "note": "Portal has no JSON API; keyword search only filters categories and lists 10 rows/category via postback. Hits: Jio Point Sales Intern, Graduate Engineer Trainee (full-time), field-engineer apprentices - none in scope. Unpaid Internship Program page needs institute nomination."
+  },
+  {
+   "name": "Ola / Ola Electric",
+   "ats": "turbohire",
+   "endpoint": "https://olacareers.turbohire.co/dashboardv2?orgId=e0c1eb37-eb7a-4ca4-bcc5-d59ce4ce9212",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHABLE: job list only after candidate OTP login; anonymous filteredjobs returns Total 0"
+  },
+  {
+   "name": "Urban Company",
+   "ats": "custom",
+   "endpoint": "POST https://www.urbanclap.com/api/v2/platform-gateway/getAllJobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Whole board 10 jobs (category managers), 0 intern"
+  },
+  {
+   "name": "InMobi / Glance",
+   "ats": "greenhouse",
+   "endpoint": "boards inmobi + glance",
+   "india_intern_hits": 2,
+   "kept": 0,
+   "note": "InMobi 79 + Glance 34 postings; interns: Creative & Communications (People team), UX Design - both rejected"
+  },
+  {
+   "name": "Tata Digital / Tata Neu",
+   "ats": "unknown",
+   "endpoint": "https://www.tatadigital.com/careers -> tataneu.com/careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "No job board found: page is a Flutter shell with no listings; no GH/Lever/SR/Darwinbox tenant found"
+  },
+  {
+   "name": "MakeMyTrip",
+   "ats": "custom",
+   "endpoint": "https://careers.makemytrip.com/api/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Whole board 40 jobs, all employee_type Employee, 0 intern"
+  },
+  {
+   "name": "Lenskart",
+   "ats": "ainterviews",
+   "endpoint": "https://ainterviews.com/job_board/lenskart_ho/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Board shows '0 jobs available'"
+  },
+  {
+   "name": "Physics Wallah / upGrad",
+   "ats": "darwinbox",
+   "endpoint": "https://pwhr.darwinbox.in/ms/candidatev2/a62d7a6e288992/careers ; upgrad.darwinbox.in",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHABLE: both on Darwinbox; candidate API behind Cloudflare challenge. pw.live/careers 404; upgrad.com/careers redirects to /us/"
+  }
+ ]
+}

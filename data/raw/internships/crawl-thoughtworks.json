@@ -1,0 +1,12 @@
+{
+ "company": "Thoughtworks",
+ "ats": "Greenhouse",
+ "endpoint": "https://boards-api.greenhouse.io/v1/boards/thoughtworks/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 46,
+ "india_intern_hits": [],
+ "details": {}
+}

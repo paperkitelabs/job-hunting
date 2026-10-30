@@ -1,0 +1,17 @@
+{
+ "company": "Tech Mahindra",
+ "ats": "custom ASP.NET WebForms",
+ "endpoint": "https://careers.techmahindra.com/CurrentOpportunity.aspx (txtAdvanceSearch postback) + BPSOpportunity.aspx",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "graduate",
+  "fresher"
+ ],
+ "total_hits": 5,
+ "india_intern_hits": [],
+ "details": {}
+}

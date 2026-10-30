@@ -1,0 +1,20 @@
+{
+ "company": "Synechron",
+ "ats": "Workday",
+ "endpoint": "https://synechron.wd1.myworkdayjobs.com/wday/cxs/synechron/SynechronCareers/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate"
+ ],
+ "total_hits": 52,
+ "india_intern_hits": [],
+ "details": {}
+}

@@ -1,0 +1,541 @@
+{
+ "cluster": "K-it-services-consulting",
+ "checked": "30 Oct 2026",
+ "openings": [
+  {
+   "company": "Zensar",
+   "role": "DE&A - Core - Data Engineering - Talend",
+   "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/147080",
+   "location": "India (city not stated; Zensar HQ Pune)",
+   "city_rank": 4,
+   "job_id": "147080",
+   "duration": "3 months",
+   "dates": "not stated (posted 27 Oct 2026)",
+   "runs_past_may": false,
+   "exp": "not stated (posting summary: 'SRF intern hiring for 3 months period')",
+   "pay": "",
+   "track": "ai",
+   "posted": "2026-10-27",
+   "deadline": "",
+   "jd": "Intern in Zensar's Data Engineering & Analytics (DE&A) Core practice supporting client engagements with data preparation and documentation, and emerging data and AI use cases. Title references Talend (ETL); no skills list given.",
+   "li": "Zensar Data Engineering & Analytics",
+   "resume": "DS / AI",
+   "verified": "Oracle recruitingCEJobRequisitionDetails 200 and present in live CX_1 India list (posted 2026-10-27)",
+   "note": "Skeletal JD (description fields read 'ok'); title is a data-engineering req, intern status only in summary text. Confirm city/eligibility with recruiter."
+  }
+ ],
+ "rejected": [
+  {
+   "company": "Wipro",
+   "role": "Management Trainee",
+   "url": "https://careers.wipro.com/job/Management-Trainee/140676-en_US/",
+   "reason": "Full-time Management Trainee (technical support / finance process role), not an internship; no data/AI angle"
+  },
+  {
+   "company": "Wipro",
+   "role": "Management Trainee",
+   "url": "https://careers.wipro.com/job/Management-Trainee/134372-en_US/",
+   "reason": "Full-time Management Trainee (technical support / finance process role), not an internship; no data/AI angle"
+  },
+  {
+   "company": "Wipro",
+   "role": "Management Trainee",
+   "url": "https://careers.wipro.com/job/Management-Trainee/182946-en_US/",
+   "reason": "Full-time Management Trainee (technical support / finance process role), not an internship; no data/AI angle"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Beginner (180773)",
+   "url": "https://careers.hcltech.com/job/Campus-Beginner/180773-en_US/",
+   "reason": "Senior Management Trainee, full-time, MBA/PGDM required"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Beginner (184229)",
+   "url": "https://careers.hcltech.com/job/Campus-Beginner/184229-en_US/",
+   "reason": "Full-time campus hire in finance/accounting/PMO"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Advanced Beginner (182657)",
+   "url": "https://careers.hcltech.com/job/Campus-Advanced-Beginner/182657-en_US/",
+   "reason": "Full-time campus hire in finance/accounting/PMO"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Intern (178545)",
+   "url": "https://careers.hcltech.com/job/Intern/178545-en_US/",
+   "reason": "Generic 'Intern' template (Noida): assist team with project/research/documentation, data collection; no function, degree, dates or data/AI focus stated"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Competent (169661)",
+   "url": "https://careers.hcltech.com/job/Campus-Competent/169661-en_US/",
+   "reason": "Full-time campus management trainee in sales/presales/proposals, not an internship"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Competent (179648)",
+   "url": "https://careers.hcltech.com/job/Campus-Competent/179648-en_US/",
+   "reason": "Full-time campus hire in finance/accounting/PMO"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Trainee (179057)",
+   "url": "https://careers.hcltech.com/job/Campus-Trainee/179057-en_US/",
+   "reason": "Academic trainee for internal audit / fraud investigation - audit only"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Trainee-Voice (175017)",
+   "url": "https://careers.hcltech.com/job/Trainee-Voice/175017-en_US/",
+   "reason": "BPO voice/delivery-operations trainee - ops only"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Beginner (149813)",
+   "url": "https://careers.hcltech.com/job/Campus-Beginner/149813-en_US/",
+   "reason": "Campus hire - VLSI analog layout (hardware)"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Competent (166982)",
+   "url": "https://careers.hcltech.com/job/Campus-Competent/166982-en_US/",
+   "reason": "Senior Management Trainee, full-time, MBA/PGDM required"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Beginner (172174)",
+   "url": "https://careers.hcltech.com/job/Campus-Beginner/172174-en_US/",
+   "reason": "Campus hire - VLSI analog layout (hardware)"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Beginner (159957)",
+   "url": "https://careers.hcltech.com/job/Campus-Beginner/159957-en_US/",
+   "reason": "Full-time campus fresher hire (IT support / Java / .NET / network), not an internship"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Competent (73371)",
+   "url": "https://careers.hcltech.com/job/Campus-Competent/73371-en_US/",
+   "reason": "Full-time campus management trainee in sales/presales/proposals, not an internship"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Competent (162103)",
+   "url": "https://careers.hcltech.com/job/Campus-Competent/162103-en_US/",
+   "reason": "Full-time Fresher AIML Developer for recent B.Tech graduates (not an internship; candidate graduates May 2027)"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Advanced Beginner (162110)",
+   "url": "https://careers.hcltech.com/job/Campus-Advanced-Beginner/162110-en_US/",
+   "reason": "Full-time Fresher AIML Developer for recent B.Tech graduates (not an internship; candidate graduates May 2027)"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Competent (175560)",
+   "url": "https://careers.hcltech.com/job/Campus-Competent/175560-en_US/",
+   "reason": "Senior Management Trainee, full-time, MBA/PGDM required"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Competent (175408)",
+   "url": "https://careers.hcltech.com/job/Campus-Competent/175408-en_US/",
+   "reason": "Full-time campus management trainee in sales/presales/proposals, not an internship"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Competent (175561)",
+   "url": "https://careers.hcltech.com/job/Campus-Competent/175561-en_US/",
+   "reason": "Full-time campus management trainee in sales/presales/proposals, not an internship"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Trainee-Voice (150770)",
+   "url": "https://careers.hcltech.com/job/Trainee-Voice/150770-en_US/",
+   "reason": "BPO voice/delivery-operations trainee - ops only"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Trainee - Delivery Operations (DPO) (175469)",
+   "url": "https://careers.hcltech.com/job/Trainee-Delivery-Operations-%28DPO%29/175469-en_US/",
+   "reason": "BPO voice/delivery-operations trainee - ops only"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Trainee (157321)",
+   "url": "https://careers.hcltech.com/job/Campus-Trainee/157321-en_US/",
+   "reason": "Campus-Trainee generic template (Lucknow), same project/documentation support text; no data/AI focus"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Trainee - Delivery Operations (DPO) (168518)",
+   "url": "https://careers.hcltech.com/job/Trainee-Delivery-Operations-%28DPO%29/168518-en_US/",
+   "reason": "BPO voice/delivery-operations trainee - ops only"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Trainee - Voice Operations (DPO) (151456)",
+   "url": "https://careers.hcltech.com/job/Trainee-Voice-Operations-%28DPO%29/151456-en_US/",
+   "reason": "BPO voice/delivery-operations trainee - ops only"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Beginner (153688)",
+   "url": "https://careers.hcltech.com/job/Campus-Beginner/153688-en_US/",
+   "reason": "Full-time campus fresher hire (IT support / Java / .NET / network), not an internship"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Beginner (167869)",
+   "url": "https://careers.hcltech.com/job/Campus-Beginner/167869-en_US/",
+   "reason": "Full-time campus fresher hire (IT support / Java / .NET / network), not an internship"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Beginner (168116)",
+   "url": "https://careers.hcltech.com/job/Campus-Beginner/168116-en_US/",
+   "reason": "Full-time campus fresher hire (IT support / Java / .NET / network), not an internship"
+  },
+  {
+   "company": "HCLTech",
+   "role": "Campus-Beginner (156253)",
+   "url": "https://careers.hcltech.com/job/Campus-Beginner/156253-en_US/",
+   "reason": "Full-time campus fresher hire (IT support / Java / .NET / network), not an internship"
+  },
+  {
+   "company": "Infosys",
+   "role": "ENG off campus Feb 2026 (Engineer - Trainee)",
+   "url": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-INFYTQ-254781",
+   "reason": "Full-time fresher off-campus/campus hiring drive (trainee designation), not an internship"
+  },
+  {
+   "company": "Infosys",
+   "role": "Campus ENG Offers 2026 batch (Engineer - Trainee)",
+   "url": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-CAMPUS-246816",
+   "reason": "Full-time fresher off-campus/campus hiring drive (trainee designation), not an internship"
+  },
+  {
+   "company": "Infosys",
+   "role": "NEG Campus Recruitment at SaintGits Kottayam 17th Nov 2025 (Systems Associate - Trainee)",
+   "url": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-CAMPUS-246767",
+   "reason": "Full-time fresher off-campus/campus hiring drive (trainee designation), not an internship"
+  },
+  {
+   "company": "Mphasis",
+   "role": "Tr Transaction Procng Off (Mangalore)",
+   "url": "https://mphasis.ripplehire.com/ripplehire/careers",
+   "reason": "BPO transaction-processing trainee, ops only, full-time"
+  }
+ ],
+ "round1": [
+  {
+   "company": "TCS",
+   "role": "TCS Research Internship (short 6-8 weeks / long 16-18 weeks)",
+   "old_url": "https://www.tcs.com/careers/india/research-and-innovation",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Could not verify: tcs.com returns 403 (bot protection) this session; programme page, no dated posting."
+  },
+  {
+   "company": "Wipro",
+   "role": "AI Native Intern",
+   "old_url": "https://careers.wipro.com/job/AI-Native-Intern/175471-en_US",
+   "status": "closed",
+   "new_url": "",
+   "note": "Page loads but says 'You can't view this job because it's not available at this time'; absent from live India list."
+  },
+  {
+   "company": "Wipro",
+   "role": "AI Native Internship",
+   "old_url": "https://careers.wipro.com/job/AI-Native-Internship/166049-en_US/",
+   "status": "closed",
+   "new_url": "",
+   "note": "Same 'not available' message."
+  },
+  {
+   "company": "Wipro",
+   "role": "INTERN (role/location unknown)",
+   "old_url": "https://careers.wipro.com/job/INTERN/191075-en_US/",
+   "status": "closed",
+   "new_url": "",
+   "note": "Same 'not available' message; no INTERN title in live India board."
+  },
+  {
+   "company": "Wipro",
+   "role": "Data Analytics Intern (Pune)",
+   "old_url": "https://myinternships.in/internships/wipro-data-analytics-intern-pune-95a5c6",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No such posting among 5,275 live India postings."
+  },
+  {
+   "company": "HCLTech",
+   "role": "Artificial Intelligence Intern (Chennai)",
+   "old_url": "https://myinternships.in/job/hcltech-is-hiring-artificial-intelligence-intern-chennai-1axod3",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No AI intern on careers.hcltech.com India."
+  },
+  {
+   "company": "HCLTech",
+   "role": "Intern",
+   "old_url": "https://jobs.weekday.works/intern-at-hcltech-4389176966",
+   "status": "matched",
+   "new_url": "https://careers.hcltech.com/job/Intern/178545-en_US/",
+   "note": "Generic 'Intern' (Noida) is live but has no data/AI scope - rejected."
+  },
+  {
+   "company": "Tech Mahindra",
+   "role": "Generative AI Intern (Pune)",
+   "old_url": "",
+   "status": "not_found",
+   "new_url": "",
+   "note": "careers.techmahindra.com keyword search for intern/internship/trainee: nothing matching."
+  },
+  {
+   "company": "Tech Mahindra",
+   "role": "Data Analyst Intern (Pune)",
+   "old_url": "",
+   "status": "not_found",
+   "new_url": "",
+   "note": "careers.techmahindra.com keyword search for intern/internship/trainee: nothing matching."
+  },
+  {
+   "company": "Tech Mahindra",
+   "role": "Artificial Intelligence Intern (Pune)",
+   "old_url": "",
+   "status": "not_found",
+   "new_url": "",
+   "note": "careers.techmahindra.com keyword search for intern/internship/trainee: nothing matching."
+  },
+  {
+   "company": "Tech Mahindra",
+   "role": "Tech Mahindra Internship",
+   "old_url": "",
+   "status": "not_found",
+   "new_url": "",
+   "note": "careers.techmahindra.com keyword search for intern/internship/trainee: nothing matching."
+  },
+  {
+   "company": "LTIMindtree",
+   "role": "Data Science Intern (Pune, 6 months)",
+   "old_url": "https://myinternships.in/job/ltimindtree-is-hiring-data-science-intern-pune-e9aab7",
+   "status": "not_found",
+   "new_url": "",
+   "note": "careers.ltimindtree.com unreachable; unverified."
+  },
+  {
+   "company": "Cognizant",
+   "role": "Business Analyst Intern / short-term university internships (Jan-Apr)",
+   "old_url": "https://apply.internset.com/cognizant-internship",
+   "status": "not_found",
+   "new_url": "",
+   "note": "careers.cognizant.com behind Cloudflare; unverified."
+  },
+  {
+   "company": "Capgemini",
+   "role": "Data Science Intern (Bengaluru)",
+   "old_url": "",
+   "status": "not_found",
+   "new_url": "",
+   "note": "0 intern postings among 783 live India postings."
+  },
+  {
+   "company": "Capgemini",
+   "role": "Analytics Consultant Intern (Bengaluru)",
+   "old_url": "",
+   "status": "not_found",
+   "new_url": "",
+   "note": "0 intern postings among 783 live India postings."
+  },
+  {
+   "company": "Capgemini",
+   "role": "Data Analytics Intern (Bengaluru)",
+   "old_url": "",
+   "status": "not_found",
+   "new_url": "",
+   "note": "0 intern postings among 783 live India postings."
+  },
+  {
+   "company": "Capgemini",
+   "role": "Data Science Internship",
+   "old_url": "",
+   "status": "not_found",
+   "new_url": "",
+   "note": "0 intern postings among 783 live India postings."
+  },
+  {
+   "company": "Mphasis",
+   "role": "Data Analyst Intern (Mumbai)",
+   "old_url": "",
+   "status": "not_found",
+   "new_url": "",
+   "note": "0 intern postings on mphasis.ripplehire.com board (218)."
+  },
+  {
+   "company": "Mphasis",
+   "role": "Data Science & Analytics Intern (Hyderabad)",
+   "old_url": "",
+   "status": "not_found",
+   "new_url": "",
+   "note": "0 intern postings on mphasis.ripplehire.com board (218)."
+  },
+  {
+   "company": "Mphasis",
+   "role": "Next Gen Labs Cognitive Computing Intern (Bengaluru)",
+   "old_url": "",
+   "status": "not_found",
+   "new_url": "",
+   "note": "0 intern postings on mphasis.ripplehire.com board (218)."
+  }
+ ],
+ "companies": [
+  {
+   "name": "Wipro",
+   "ats": "SuccessFactors CSB",
+   "endpoint": "careers.wipro.com/services/recruiting/v1/jobs",
+   "india_intern_hits": 3,
+   "kept": 0,
+   "note": "Paged all 5,570 India postings (5,275 unique captured) + keyword queries; only CA industrial trainee + management trainees. AI Native Intern pages now 'not available'."
+  },
+  {
+   "name": "HCLTech",
+   "ats": "SuccessFactors CSB",
+   "endpoint": "careers.hcltech.com/services/recruiting/v1/jobs",
+   "india_intern_hits": 27,
+   "kept": 0,
+   "note": "27 intern/trainee/campus hits read in full; all campus full-time hires, ops/finance trainees or a generic 'Intern' template without data/AI scope."
+  },
+  {
+   "name": "Infosys",
+   "ats": "custom gateway API",
+   "endpoint": "intapgateway.infosysapps.com/careersci/search/intapjbsrch/getCareerSearchJobs",
+   "india_intern_hits": 3,
+   "kept": 0,
+   "note": "career.infosys.com HTML is Akamai-blocked (403) but the JSON gateway returns the whole board (7,855 rows across channels). No intern/InStep postings; only fresher drives (SP/DSE/Engineer-Trainee) and CA Fresher."
+  },
+  {
+   "name": "Zensar",
+   "ats": "Oracle Recruiting Cloud",
+   "endpoint": "fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com CX_1",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "221 India postings; 1 intern (3-month data-engineering intern, req 147080)."
+  },
+  {
+   "name": "Hexaware",
+   "ats": "Oracle Recruiting Cloud",
+   "endpoint": "fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com CX_1/CX_2",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "136 India postings (IT + BPS sites), 0 intern/trainee."
+  },
+  {
+   "name": "DXC Technology",
+   "ats": "Workday",
+   "endpoint": "dxctechnology.wd1.myworkdayjobs.com/DXCJobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet: 93 fuzzy matches, 0 intern/trainee titles (spot-checked 3 JDs)."
+  },
+  {
+   "name": "Synechron",
+   "ats": "Workday",
+   "endpoint": "synechron.wd1.myworkdayjobs.com/SynechronCareers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet: 52 fuzzy matches, 0 intern titles."
+  },
+  {
+   "name": "Thoughtworks",
+   "ats": "Greenhouse",
+   "endpoint": "boards-api.greenhouse.io/v1/boards/thoughtworks",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "46 global postings, only 1 India (Senior Consultant, Bangalore); confirmed by thoughtworks.com/rest/careers/jobs."
+  },
+  {
+   "name": "EPAM",
+   "ats": "custom JSON (careers-india tenant)",
+   "endpoint": "careers.epam.com/api/jobs/v2/search/careers-india",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "263 India postings, seniority Middle and above; 0 junior/intern."
+  },
+  {
+   "name": "Capgemini",
+   "ats": "SuccessFactors (jobstream API)",
+   "endpoint": "cg-jobstream-api.azurewebsites.net/api/job-search?country_code=in-en",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "783 India postings (Capgemini/Engineering/Invent), all Permanent; experience levels Experienced/Executives only."
+  },
+  {
+   "name": "Mphasis",
+   "ats": "RippleHire",
+   "endpoint": "mphasis.ripplehire.com/candidate/candidatejobsearch",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "218 postings (global), 0 intern/trainee; only ops trainee-level 'Tr Transaction Procng Off' (0-1 yr) seen."
+  },
+  {
+   "name": "NTT DATA",
+   "ats": "Phenom",
+   "endpoint": "careers.nttdata.com/widgets",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "1,179 India postings; 'intern' query hits are L1 engineers / analysts, 0 intern titles."
+  },
+  {
+   "name": "Tech Mahindra",
+   "ats": "custom ASP.NET",
+   "endpoint": "careers.techmahindra.com/CurrentOpportunity.aspx",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Keyword search works (validated with 'python'/'data analyst'); intern/trainee/apprentice return 0 relevant (5 'Associate Consultant-Quality' fuzzy hits). BPS page: 'No jobs available'."
+  },
+  {
+   "name": "TCS",
+   "ats": "iBegin / TCS NextStep",
+   "endpoint": "ibegin.tcs.com, www.tcs.com/careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Unreachable: ibegin.tcs.com and nextstep.tcs.com CONNECT 502; www.tcs.com/careers/* returns 403 bot-protection. Not crawled."
+  },
+  {
+   "name": "Cognizant",
+   "ats": "unknown (Cloudflare-fronted careers site)",
+   "endpoint": "careers.cognizant.com/global-en/jobs, /india-en/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Unreachable: Cloudflare challenge / 403; no alternate ATS endpoint found (Workday guesses failed). Not crawled."
+  },
+  {
+   "name": "LTIMindtree",
+   "ats": "unknown",
+   "endpoint": "careers.ltimindtree.com",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Unreachable: careers.ltimindtree.com connection fails; www.ltimindtree.com redirects to ltm.com (406). Not crawled."
+  },
+  {
+   "name": "Persistent Systems",
+   "ats": "unknown",
+   "endpoint": "careers.persistent.com",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Unreachable: careers.persistent.com resets connection (HTTP/2 INTERNAL_ERROR / empty reply). Not crawled."
+  },
+  {
+   "name": "KPIT Technologies",
+   "ats": "unknown (TalentOjo per aggregators)",
+   "endpoint": "careers.kpit.com, kpit.talentojo.com",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Unreachable: careers.kpit.com and kpit.talentojo.com connection fails; kpit.com/careers-graduates is a static page with no listings. Not crawled."
+  }
+ ]
+}

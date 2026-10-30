@@ -1,0 +1,319 @@
+{
+ "company": "Flipkart",
+ "ats": "turbohire",
+ "endpoint": "POST https://thapi.azurewebsites.net/api/careerpagev2/filteredjobs?orgId=4d757ba0-3d57-448a-b82c-238ed87ac90f&pageType=0|1|2 (noauth token from /api/token/noauth)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "pageType 0/2/3 (career page)",
+  "pageType 1 (all org jobs)"
+ ],
+ "total_hits": 7678,
+ "india_intern_hits": [
+  {
+   "title": "CA Industrial Trainee",
+   "loc": "[{\"Address\":\"Bangalore, Karnataka, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/UHGKgA1Xc5ITjy8cOe1xRUkHYl82so4EjYjg9uklWuI%2FC2flC85m7vAg4cp_2NOv",
+   "id": "FIPL-83424",
+   "posted": "2026-10-08",
+   "on_career_page": false,
+   "dept": "Business Finance (D7013)"
+  },
+  {
+   "title": "CA Industrial trainee",
+   "loc": "[{\"Address\":\"Bangalore, Karnataka, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/mVNzBFw65iKmmyBjSxJt_qU8YyG8j0P%2FEPV8qUI2twzNSF3Oc7MUT1yk9v8xZ0Fk",
+   "id": "FIPL-6051",
+   "posted": "2026-09-21",
+   "on_career_page": false,
+   "dept": "Business Finance"
+  },
+  {
+   "title": "CA Industrial Trainee",
+   "loc": "[{\"Address\":\"Bangalore, Karnataka, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/4DWPqXV5MjKUtjEQJeXBwAqNtWr7kw1vpn1R5Mv19UXIio72MEtOdTydpe57tQUV",
+   "id": "FIPL-27046",
+   "posted": "2026-09-20",
+   "on_career_page": false,
+   "dept": "Business Finance"
+  },
+  {
+   "title": "CA Industrial Trainee",
+   "loc": "[{\"Address\":\"Bengaluru, Karnataka, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/G3CG_5lm4yuzqjeFHSZwi_ihzsKA9Ip9PfrvM7489SOm0XaVs6fMoekFrjC5jFOQ",
+   "id": "FIPL-62256",
+   "posted": "2026-09-17",
+   "on_career_page": false,
+   "dept": "Business Finance"
+  },
+  {
+   "title": "CA Industrial Trainee - Hyperlocal",
+   "loc": "[{\"Address\":\"Bangalore, Karnataka, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/YWLhr7hpO0rSPHI9MVGHy4emtzQdX2BXi5OQoHnZgl8cFq7ve5z9i3_OSZrUV927",
+   "id": "FIPL-65263",
+   "posted": "2026-10-26",
+   "on_career_page": false,
+   "dept": "Business Finance"
+  },
+  {
+   "title": "CA Intern",
+   "loc": "[{\"Address\":\"Bangalore, Karnataka, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/j_T3IYwjJ%2F9j%2F3HgfPsUasB4hPvtf%2FlnKQ5T%2FA%2FOBZFsqWVWvOdivPtZjaFahAk3",
+   "id": "FIPL-96677",
+   "posted": "2026-09-15",
+   "on_career_page": false,
+   "dept": "Business Finance"
+  },
+  {
+   "title": "CA Intern",
+   "loc": "[{\"Address\":\"Bangalore, Karnataka, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/xGSSLOYTUtaUYs8%2FoJYZonXwLbtSQiWHFQlcVDeuwnEy9bAH4ViYEM0SscdtQDFY",
+   "id": "FIPL-20647",
+   "posted": "2026-08-14",
+   "on_career_page": false,
+   "dept": "Controller's Org-Accounting"
+  },
+  {
+   "title": "Corp Fin CA Industrial Trainee",
+   "loc": "[{\"Address\":\"Bengaluru, Karnataka, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/AfVPH2NQ%2FgrHgqF_WOqgXdWe1u73b51sMBYxBNCvFlXReTExNXl_tiKHt0LHm1GN",
+   "id": "FIPL-88095",
+   "posted": "2026-10-28",
+   "on_career_page": false,
+   "dept": "FK FP&A"
+  },
+  {
+   "title": "FRK BBD Intern Hiring",
+   "loc": "[{\"Address\":\"Farukh Nagar, Haryana, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/tVWOlaDMCjMDQMUkrrJZhWFKLL2BPCTt%2FAcMuyFbmlfnrqlqHVWWreTfgX0_yPPV",
+   "id": "FIPL-65598",
+   "posted": "2026-08-10",
+   "on_career_page": false,
+   "dept": "SCM L&D - Zonal"
+  },
+  {
+   "title": "FRK BTS Intern BBD Hiring",
+   "loc": "[{\"Address\":\"Farukh Nagar, Haryana, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/NQT04WLu5P9bjI8TdaEtK8KgGgS0_zUFSSUThJ4qczCnPcgTS7sfzDYOFE8tGdJ_",
+   "id": "FIPL-19252",
+   "posted": "2026-08-11",
+   "on_career_page": false,
+   "dept": "SCM L&D - Zonal"
+  },
+  {
+   "title": "FRK BTS Intern BBD Hiring",
+   "loc": "[{\"Address\":\"Farukh Nagar, Haryana, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/vBE5zJT29Ba8O1fteZiorltybO56dMKdbc%2FH%2FJTkNFv7OdKRnXJrafNNYrWWLpJL",
+   "id": "FIPL-98315",
+   "posted": "2026-08-10",
+   "on_career_page": false,
+   "dept": "SCM L&D - Zonal"
+  },
+  {
+   "title": "GGN Intern BBD Hiring",
+   "loc": "[{\"Address\":\"Sanpka FC, Sanpka, Haryana, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/xMe4FaLIR7XknBfh6U6jy0ZAcW3ITJNnasIg%2F7UAD48_gLoHyia7M5Qh19S1PwYG",
+   "id": "FIPL-1529",
+   "posted": "2026-08-10",
+   "on_career_page": false,
+   "dept": "SCM L&D - Zonal"
+  },
+  {
+   "title": "Industrial Trainee",
+   "loc": "[{\"Address\":\"Bengaluru, Karnataka, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/D4Ygs2pX4XbguIfPreBqzqgVh9QZK1CxG2lVcEq1QDRMSk58Af1k4wsp40sf1oYV",
+   "id": "FIPL-37771",
+   "posted": "2026-07-01",
+   "on_career_page": false,
+   "dept": "Controller's Org-Accounting"
+  },
+  {
+   "title": "Industrial Trainee #2",
+   "loc": "[{\"Address\":\"Bengaluru, Karnataka, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/py9ErVglCsEnwC6fxSqBRGIFmBs4raKH1HMFgdn5AT%2FK84WgTGj_AktrfyKIWrM1",
+   "id": "FIPL-94487",
+   "posted": "2026-05-22",
+   "on_career_page": false,
+   "dept": "Controller's Org-Accounting"
+  },
+  {
+   "title": "Intern",
+   "loc": "[{\"Address\":\"Mumbai, Maharashtra, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/1enOIkNhmTJDb8ztONiQ8C6rUG4PC5vduNJnpXO8YgQALgZBiN1QtHIrZZy%2FSogs",
+   "id": "FIPL-80219",
+   "posted": "2026-10-15",
+   "on_career_page": false,
+   "dept": "FM & LM Ops"
+  },
+  {
+   "title": "Intern",
+   "loc": "[{\"Address\":\"Bangalore, Karnataka, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/L58Pr1_OPsRJH2RycRoKVspGzzaqG25624HqSURMLMAAlKaNgX2xChLGniShVb3Z",
+   "id": "FIPL-70670",
+   "posted": "2026-09-25",
+   "on_career_page": false,
+   "dept": "Business Finance"
+  },
+  {
+   "title": "Intern",
+   "loc": "[{\"Address\":\"Bengaluru, Karnataka, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/31C9HNaS8VyVLE4_una22VTSRK1VPHwvZcq79s7zbrm%2Fpn8wEHI88iRJIHdg%2Fuq9",
+   "id": "FIPL-72500",
+   "posted": "2026-10-05",
+   "on_career_page": false,
+   "dept": "Business Finance"
+  },
+  {
+   "title": "Intern Business Finance ",
+   "loc": "[{\"Address\":\"Bangalore, Karnataka, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/6_Xy9ThIxLSvjPiHhtzGNoUsMB15KM_zBmWPoHbKty7J6RMlflRfCnD9%2FZCJgS2L",
+   "id": "FIPL-41587",
+   "posted": "2026-01-29",
+   "on_career_page": false,
+   "dept": "Business Finance"
+  },
+  {
+   "title": "Intern For DIC",
+   "loc": "[{\"Address\":\"Sanpka, Haryana, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/DD8Te1_AVPZq336Im2XWKZrpG3ng12F0SRTLrMmigABvOVtkehgSgOrVR7Kl9LhM",
+   "id": "FIPL-3660",
+   "posted": "2026-08-10",
+   "on_career_page": false,
+   "dept": "SCM L&D - Zonal"
+  },
+  {
+   "title": "Intern For JKS",
+   "loc": "[{\"Address\":\"Bijwasan Flyover, Sector 27 Dwarka, Bijwasan, New Delhi, Delhi, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/sUIVByu2VmNIhxMhJnEGP_Y4seBOUygz6SGwKEgHd9h3tYtPrym62SKBBPfeWRQT",
+   "id": "FIPL-5760",
+   "posted": "2026-08-10",
+   "on_career_page": false,
+   "dept": "SCM L&D - Zonal"
+  },
+  {
+   "title": "Intern For Kalas JJH",
+   "loc": "[{\"Address\":\"Farukh Nagar, Haryana, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/P3U8s2d%2F1UIyE4y2Mv3h1TjcB6MgY4zn23A4g_ddCdQAKJNTfRHU1bCu3Sb8v2IK",
+   "id": "FIPL-96520",
+   "posted": "2026-08-10",
+   "on_career_page": false,
+   "dept": "SCM L&D - Zonal"
+  },
+  {
+   "title": "Intern For YKB",
+   "loc": "[{\"Address\":\"Farukh Nagar, Haryana, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/7ZmwesveIgqFMSQgEZnG_8F47DLBxzRtdQl5e5kqDHayZVGOO1I4qBXTZTOxFD4Z",
+   "id": "FIPL-11351",
+   "posted": "2026-08-10",
+   "on_career_page": false,
+   "dept": "SCM L&D - Zonal"
+  },
+  {
+   "title": "Jaipur Intern BBD Hiring",
+   "loc": "[{\"Address\":\"Jaipur, Rajasthan, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/wxKOlCXnTdQeO02O%2FUy6F5ELxIq09y5KD2GFgrnE8pYKXsv5m8SFNaloPdSq6heh",
+   "id": "FIPL-98086",
+   "posted": "2026-08-10",
+   "on_career_page": false,
+   "dept": "SCM L&D - Zonal"
+  },
+  {
+   "title": "LKO Intern BBD Hiring",
+   "loc": "[{\"Address\":\"Lucknow, Uttar Pradesh, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/jQAWjShy4bo_cofjDMZTkDApET6uc42djSYgyXwQqNBhEMXo1lhlUX38OnlU5sj6",
+   "id": "FIPL-29309",
+   "posted": "2026-08-10",
+   "on_career_page": false,
+   "dept": "SCM L&D - Zonal"
+  },
+  {
+   "title": "Ludhiana Intern BBD Hiring",
+   "loc": "[{\"Address\":\"Ludhiana, Punjab, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/GoqmJ%2FnGqLwxhfXrqaorU7KjfN1qn4DytfWN0KdgHM14lc_U_2QZajIO5jz7nL2_",
+   "id": "FIPL-21456",
+   "posted": "2026-08-10",
+   "on_career_page": false,
+   "dept": "SCM L&D - Zonal"
+  },
+  {
+   "title": "Sanpka Gurgaon Intern BBD Hiring",
+   "loc": "[{\"Address\":\"Sanpka FC, Sanpka, Haryana, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/UYlmqMgmk8jA2ZUFdYUu7Xq%2FvAaATAT5P4qfFL0noNGUdlJeYHGIDcdku5OI7vyO",
+   "id": "FIPL-12549",
+   "posted": "2026-08-10",
+   "on_career_page": false,
+   "dept": "SCM L&D - Zonal"
+  },
+  {
+   "title": "Sanpka Gurgaon Intern BBD Hiring",
+   "loc": "[{\"Address\":\"Sanpka FC, Sanpka, Haryana, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/GeLCvkJE6nZ0HI175anNjHrG7UflQuZlZBxV7kGOqejYuabG1glgc3i_0J006nSG",
+   "id": "FIPL-32917",
+   "posted": "2026-08-11",
+   "on_career_page": false,
+   "dept": "SCM L&D - Zonal"
+  },
+  {
+   "title": "Varanasi Intern BBD Hiring",
+   "loc": "[{\"Address\":\"Varanasi, Uttar Pradesh, India\",\"PlaceId\":null,\"Latitude\":0.0,\"Longitude\":0.0}]",
+   "url": "https://flipkart.turbohire.co/job/publicjobs/hY4_%2F_wZfsSpASJinS9glafmFQtq2yloc4snUpPyw2Qw_vjt6G6TaulmzpyeD%2Fw4",
+   "id": "FIPL-1557",
+   "posted": "2026-08-10",
+   "on_career_page": false,
+   "dept": "SCM L&D - Zonal"
+  }
+ ],
+ "details": {
+  "public_career_page_jobs": [
+   {
+    "title": "Architect/Sr. Manager - Security",
+    "code": "FIPL-66026",
+    "dept": "Infosec"
+   },
+   {
+    "title": "Director - CL",
+    "code": "FIPL-36344",
+    "dept": "CL-Engg"
+   },
+   {
+    "title": "Hiring for SH ZCT head ",
+    "code": "FIPL-76340",
+    "dept": "Fulfilment Center Ops"
+   },
+   {
+    "title": "Hiring for ZCT SH West G5",
+    "code": "FIPL-42541",
+    "dept": "Fulfilment Center Ops"
+   },
+   {
+    "title": "Hiring for ZCT SH West G6",
+    "code": "FIPL-50903",
+    "dept": "Fulfilment Center Ops"
+   },
+   {
+    "title": "Maintenance Executive-CSK",
+    "code": "FIPL-97267",
+    "dept": "Central Maintenance Team"
+   },
+   {
+    "title": "Nagpur GSH Assistant Manager",
+    "code": "FIPL-24223",
+    "dept": "Minutes & Groceries"
+   },
+   {
+    "title": "Resource for IT Hardware Procurement team",
+    "code": "FIPL-1691",
+    "dept": "Commercial"
+   },
+   {
+    "title": "Sr. Executive - Responsible Sourcing Compliance",
+    "code": "FIPL-43410",
+    "dept": "Ethics & Compliance"
+   },
+   {
+    "title": "Sr.Architect",
+    "code": "FIPL-34257",
+    "dept": "CL-Engg"
+   }
+  ]
+ }
+}

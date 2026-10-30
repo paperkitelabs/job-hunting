@@ -102,5 +102,14 @@
   "Technical Architect - ML - GenAI",
   "Technical Lead – Treasury",
   "Technical Program Manager"
- ]
+ ],
+ "recheck_fixed_ats_workday": {
+  "meta": [
+   {
+    "api": "https://quantiphi.wd1.myworkdayjobs.com/wday/cxs/quantiphi/Careers_at_Quantiphi/jobs",
+    "india_facet": {}
+   }
+  ],
+  "new_hits": []
+ }
 }

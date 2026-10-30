@@ -1,0 +1,12 @@
+{
+ "company": "Urban Company",
+ "ats": "custom (urbanclap platform-gateway)",
+ "endpoint": "POST https://www.urbanclap.com/api/v2/platform-gateway/getAllJobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 10,
+ "india_intern_hits": [],
+ "details": {}
+}

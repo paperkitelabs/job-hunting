@@ -1,0 +1,19 @@
+{
+ "company": "NTT DATA",
+ "ats": "Phenom (aggregates Workday nttlimited + SuccessFactors)",
+ "endpoint": "POST https://careers.nttdata.com/widgets refNum NTT1GLOBAL, selected_fields country=India",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "graduate",
+  "2027",
+  ""
+ ],
+ "total_hits": 1179,
+ "india_intern_hits": [],
+ "details": {}
+}

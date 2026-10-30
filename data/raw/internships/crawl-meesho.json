@@ -1,0 +1,12 @@
+{
+ "company": "Meesho",
+ "ats": "lever",
+ "endpoint": "https://api.lever.co/v0/postings/meesho?mode=json",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 49,
+ "india_intern_hits": [],
+ "details": {}
+}

@@ -1,0 +1,10 @@
+{
+ "company": "Ola / Ola Electric",
+ "ats": "turbohire",
+ "endpoint": "https://olacareers.turbohire.co/dashboardv2?orgId=e0c1eb37-eb7a-4ca4-bcc5-d59ce4ce9212 (v3/publicjobs needs OTP-logged-in user; careerpagev2/filteredjobs returns 0)",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {}
+}

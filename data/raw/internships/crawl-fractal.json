@@ -171,5 +171,14 @@
   "Sr. Data Steward (Data Governance)",
   "Support Engineer L3",
   "Technical Life Sciences Consultant, Pharma (Data Governance)"
- ]
+ ],
+ "recheck_fixed_ats_workday": {
+  "meta": [
+   {
+    "api": "https://fractal.wd1.myworkdayjobs.com/wday/cxs/fractal/Careers/jobs",
+    "india_facet": {}
+   }
+  ],
+  "new_hits": []
+ }
 }
