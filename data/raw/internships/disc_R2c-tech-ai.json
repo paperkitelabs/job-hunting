@@ -1,0 +1,420 @@
+{
+ "cluster": "R2c-tech-ai",
+ "openings": [
+  {
+   "company": "Walmart Global Tech India",
+   "role": "(IND) Grad Intern - No Work Experience",
+   "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2485481",
+   "location": "India (Bengaluru likely; WM Global Technology Services India)",
+   "job_id": "R-2485481",
+   "type": "Internship",
+   "duration": "not stated (Walmart India grad interns are typically 6 months, Jan–Jun)",
+   "overrun": "likely runs to Jun 2027",
+   "exp": "currently enrolled in bachelor's/master's programme (grad year not visible in snippet)",
+   "track": "ai",
+   "posted": "2026-05-04",
+   "deadline": "",
+   "jd": "Intern on the Marketplace Data Science team experimenting with and researching AI solutions relevant to Marketplace, either augmenting current solutions or trying new approaches and assessing their scientific merit. Snippets also show software-engineering style duties, so the JD text may be mixed.",
+   "evidence": "WebSearch allowed_domains walmart.wd5.myworkdayjobs.com: title '(IND) Grad Intern - No Work Experience' R-2485481; snippet cites Marketplace DS team AI research charter; a follow-up snippet dated it 4 May 2026. ~6 months old so may be closed or filled.",
+   "confidence": "low"
+  },
+  {
+   "company": "Walmart Global Tech India",
+   "role": "(IND) Grad Intern - No Work Experience",
+   "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2463399",
+   "location": "India (Bengaluru/Chennai, not shown in snippet)",
+   "job_id": "R-2463399",
+   "type": "Internship",
+   "duration": "not stated (typically 6 months Jan–Jun for 2027 grads)",
+   "overrun": "likely runs to Jun 2027",
+   "exp": "pursuing bachelor's/master's in engineering, graduating in 2027; aggregate >= 7 CGPA across semesters",
+   "track": "ai",
+   "posted": "2026-04-20",
+   "deadline": "",
+   "jd": "Software engineering intern role at Walmart Global Tech India with AI/ML integration work; asks for solid data structures and algorithms and proficiency in C, C++ or Java. Mostly SWE, with an AI/ML angle.",
+   "evidence": "WebSearch on walmart.wd5.myworkdayjobs.com: snippet 'are to graduate in 2027', 'combined aggregate score of 7 or above'; posted 20 Apr 2026. Borderline because it is SWE-heavy, and it may have closed.",
+   "confidence": "low"
+  },
+  {
+   "company": "Intel",
+   "role": "AI Software Engineer Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/AI-Software-Engineer-Intern_JR0288692",
+   "location": "not shown in snippet (verify; Sales & Marketing Group, possibly India)",
+   "job_id": "JR0288692",
+   "type": "Internship",
+   "duration": "not stated",
+   "overrun": "",
+   "exp": "Bachelor's or Master's in CS/SE or related, 0-1 years hands-on experience",
+   "track": "ai",
+   "posted": "~Oct 2026 (recent JR0288xxx ID)",
+   "deadline": "",
+   "jd": "Intern in Intel's Sales and Marketing Group working on deep learning, model compression and LLMs. Requires Python or C++.",
+   "evidence": "WebSearch on intel.wd1.myworkdayjobs.com ('Intel India intern data science AI machine learning 2027'): AI Software Engineer Intern JR0288692; one of the newest Intel requisition IDs. Location not confirmed; the API check should verify it is India.",
+   "confidence": "low"
+  },
+  {
+   "company": "Cisco",
+   "role": "AI Solution (Intern) - India UHR Sales",
+   "url": "https://careers.cisco.com/global/en/job/2005756/AI-Solution-Intern-India-UHR-Sales",
+   "location": "Gurgaon, India",
+   "job_id": "2005756",
+   "type": "Internship",
+   "duration": "not stated",
+   "overrun": "",
+   "exp": "pursuing Bachelor's or Master's in AI/ML, CS or related",
+   "track": "ai",
+   "posted": "unknown",
+   "deadline": "",
+   "jd": "AI-solutions intern in Cisco India's sales organisation (UHR = university hire). Wants AI/ML, CS or related students. The posting notes it advertises potential opportunities and the exact role may not be open today.",
+   "evidence": "WebSearch on jobs.cisco.com/careers.cisco.com: 'AI Solution (Intern) - India UHR Sales in Gurgaon, India'. Posting date unknown; it is an evergreen-style 'potential opportunities' requisition.",
+   "confidence": "low"
+  }
+ ],
+ "leads": [
+  {
+   "company": "Cisco",
+   "role": "Ideathon -> 6-month internship Jan–Jun 2027 (finalists)",
+   "aggregator_url": "",
+   "careers_url": "https://careers.cisco.com/global/en/india/etr/ideathon",
+   "note": "Cisco careers-site programme page: finalists (final-year Cisco Networking Academy students) start a 6-month internship in Jan 2027 (to Jun 2027 by role), in Bangalore and other cities. It is a programme, not a requisition. Runs to Jun 2027."
+  },
+  {
+   "company": "Cisco",
+   "role": "Code with Cisco (2027 pass-outs) -> intern/FTE hiring",
+   "aggregator_url": "",
+   "careers_url": "https://careers.cisco.com/global/en/india/etr/code-with-cisco",
+   "note": "Open to India-based students graduating in 2027 with no backlogs, any branch; in-person code-a-thon at Bengaluru with AI themes; a hiring pathway, not a direct job posting. Check registration status."
+  },
+  {
+   "company": "Cisco",
+   "role": "Entry-level / intern jobs India",
+   "aggregator_url": "",
+   "careers_url": "https://careers.cisco.com/global/en/india/etr-jobs",
+   "note": "Cisco India early-careers listing page; watch it for 2027 UHR Data Science Analyst / Data Analyst intern requisitions (earlier ones: 1405073, 1338919)."
+  }
+ ],
+ "excluded": [
+  {
+   "company": "Walmart Global Tech India",
+   "role": "(IND) Grad Intern - No Work Experience",
+   "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-11/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2509924",
+   "reason": "For 2028 graduates (summer/penultimate-year), SWE"
+  },
+  {
+   "company": "Walmart Global Tech India",
+   "role": "(IND) Grad Intern - No Work Experience (Chennai)",
+   "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-TN-CHENNAI-Home-Office-Capita-Land/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2463387",
+   "reason": "Class of 2026, limited to Indian nationals enrolled in US universities"
+  },
+  {
+   "company": "Walmart Global Tech India",
+   "role": "(IND) Grad Intern - No Work Experience (Marketplace DS)",
+   "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/XMLNAME--IND--Grad-Intern---No-Work-Experience_R-2131968/apply/autofillWithResume?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e",
+   "reason": "Older 2025-cycle requisition (R-21xxxxx), likely closed; R-2485481 is the newer version"
+  },
+  {
+   "company": "Walmart",
+   "role": "Summer 2027 Intern: Data Science III / Sr Data Science",
+   "url": "https://careers.walmart.com/us/en/jobs/R-2630030",
+   "reason": "US (Bentonville), master's/PhD, summer"
+  },
+  {
+   "company": "Intel",
+   "role": "AI Engineer Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/AI-Engineer-Intern_JR0286108",
+   "reason": "Location Ho Chi Minh City, Vietnam (6-month, 2027 grads)"
+  },
+  {
+   "company": "Intel",
+   "role": "AI Software Engineer Graduate Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/AI-Software-Engineer-Graduate-Intern_JR0285989",
+   "reason": "Requires current master's enrollment; location not shown"
+  },
+  {
+   "company": "Intel",
+   "role": "AI Solution Architect Graduate Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/AI-Solution-Architect-Graduate-Intern_JR0287530",
+   "reason": "Requires master's enrollment"
+  },
+  {
+   "company": "Intel",
+   "role": "Software Development Graduate Intern",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Software-Development-Graduate-Intern_JR0285451-1",
+   "reason": "Master's/PhD only; systems SWE"
+  },
+  {
+   "company": "Intel",
+   "role": "AI Data Science / Software Engineering PhD Intern New 2027",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138",
+   "reason": "PhD, Santa Clara US"
+  },
+  {
+   "company": "Intel",
+   "role": "AI Software Engineer Intern (Bangalore)",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/India-Bangalore/AI-Software-Engineer-Intern_JR0270952/apply/applyManually",
+   "reason": "Bangalore-tagged but older requisition (JR0270xxx, ~2025); likely closed. Worth an API check"
+  },
+  {
+   "company": "Intel",
+   "role": "Student Intern (Bangalore)",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/India-Bangalore/Student-Intern_JR0269129",
+   "reason": "Older requisition (~2025), no JD visible; likely closed"
+  },
+  {
+   "company": "Intel",
+   "role": "Graduate Intern Technical (Bangalore)",
+   "url": "https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Graduate-Intern-Technical_JR0272169",
+   "reason": "Older requisition (~2025), likely closed; graduate (master's) intern"
+  },
+  {
+   "company": "NVIDIA",
+   "role": "PhD Intern, AI ML in Wireless L1/L2 - Fall 2026",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423",
+   "reason": "Bengaluru but PhD-only"
+  },
+  {
+   "company": "NVIDIA",
+   "role": "CPU Compiler Intern 2027 (JR2027260)",
+   "url": "https://coursejoiner.com/internship/nvidia-internship-2027-cpu-compiler/",
+   "reason": "Compiler SWE role (not wanted); seen only on an aggregator, Bengaluru/Pune"
+  },
+  {
+   "company": "NVIDIA",
+   "role": "NVIDIA 2027 Internships: Deep Learning / AI DevTech / Spring 2027 DevTech",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1",
+   "reason": "US postings (USD hourly pay), no India location"
+  },
+  {
+   "company": "Salesforce",
+   "role": "Summer 2027 Intern - Software Engineer (Bangalore)",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715",
+   "reason": "For 2028 graduates (penultimate-year summer), SWE"
+  },
+  {
+   "company": "Salesforce",
+   "role": "Summer 2027 Intern - UI/UX Designer (Hyderabad)",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Summer-2027-Intern---UI-UX-Designer_JR363342",
+   "reason": "Design role, M.Des only (6-month, class of 2027)"
+  },
+  {
+   "company": "Salesforce",
+   "role": "Summer 2027 Intern - AI Research",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Summer-2027-Intern---AI-Research_JR365111-1",
+   "reason": "PhD/MS, summer, location not India"
+  },
+  {
+   "company": "Intuit",
+   "role": "Summer 2027: AI Science / Business Data Analyst / Product Manager Intern",
+   "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536",
+   "reason": "Mountain View US, summer"
+  },
+  {
+   "company": "Intuit",
+   "role": "Software Engineering Intern Summer 2027 Bangalore (Job ID 22939)",
+   "url": "https://yohire.in/job/intuit-software-engineering-intern-india-internship-2027",
+   "reason": "SWE, summer (penultimate-year); aggregator only"
+  },
+  {
+   "company": "Cisco",
+   "role": "Software Engineer - (Summer Internship) - India Engineering",
+   "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-India-Engineering/1449112",
+   "reason": "Pure SWE (2027 pass-outs, Bangalore)"
+  },
+  {
+   "company": "Cisco",
+   "role": "Data Science Analyst - (Intern) - India UHR",
+   "url": "https://jobs.cisco.com/jobs/ProjectDetail/Data-Science-Analyst-Master-s-Intern-India-UHR/1405073",
+   "reason": "Created 26-Jun-2023; stale"
+  },
+  {
+   "company": "Cisco",
+   "role": "Data Scientist - (Intern) - India UHR",
+   "url": "https://jobs.cisco.com/jobs/ProjectDetail/Data-Scientist-Intern-India-UHR/1338852",
+   "reason": "For 2022 pass-outs; stale"
+  },
+  {
+   "company": "Cisco",
+   "role": "Data Analyst - (Intern) - India UHR",
+   "url": "https://jobs.cisco.com/jobs/ProjectDetail/Data-Analyst-Intern-India-UHR/1338919",
+   "reason": "Old requisition (2022 era), likely closed"
+  },
+  {
+   "company": "ServiceNow",
+   "role": "Experience Team - Associate Product Design Internships - Summer 2027 (Hyderabad)",
+   "url": "https://careers.servicenow.com/jobs/744000158130527/experience-team-associate-product-design-internships-summer-2027/",
+   "reason": "Design, 12-week summer"
+  },
+  {
+   "company": "ServiceNow",
+   "role": "AI Engineering - Software Engineer Internships - Summer 2027",
+   "url": "https://careers.servicenow.com/jobs/744000155345689/ai-engineering-software-engineer-internships-summer-2027-masters/",
+   "reason": "Santa Clara US, summer"
+  },
+  {
+   "company": "Oracle",
+   "role": "Student / Intern (FY27 Internship pipeline req)",
+   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/314122",
+   "reason": "Pipeline req; internal & external applicants not eligible"
+  },
+  {
+   "company": "Oracle",
+   "role": "Consulting Intern (OFSS, FLEXCUBE)",
+   "url": "https://careers.oracle.com/en/sites/jobsearch/job/318904/?lastSelectedFacet=locations&selectedLocationsFacet=300000000149367",
+   "reason": "~315 days old, likely closed; core-banking tech consulting"
+  },
+  {
+   "company": "Sprinklr",
+   "role": "Research Intern (Gurgaon)",
+   "url": "https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Research-Intern_113313-JOB",
+   "reason": "UX research role (HCI/psychology/design)"
+  },
+  {
+   "company": "Postman",
+   "role": "Newmanaut",
+   "url": "https://job-boards.greenhouse.io/postman/jobs/7450803003",
+   "reason": "Early-career SWE, ~400 days old"
+  },
+  {
+   "company": "Atlassian",
+   "role": "Data Scientist / ML / PM Intern, 2027 Summer U.S.",
+   "url": "https://www.atlassian.com/company/careers/details/26271",
+   "reason": "US only, summer"
+  },
+  {
+   "company": "BrowserStack",
+   "role": "Customer Engineering Intern (Mumbai)",
+   "url": "https://www.scribd.com/document/997704747/Browser-Stack",
+   "reason": "2026 batch drive (closed Feb 2026); not on careers site"
+  }
+ ],
+ "companies": [
+  {
+   "name": "SAP Labs India",
+   "careers_url": "https://jobs.sap.com/content/students/",
+   "ats": "successfactors",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Only senior Bangalore DS roles and non-India iXp interns (Singapore DS intern Jan–Jun 2027 exists, not India). SAP India interns are listed under SAP Next Gen."
+  },
+  {
+   "name": "Intel",
+   "careers_url": "https://intel.wd1.myworkdayjobs.com/External",
+   "ats": "workday",
+   "ats_endpoint": "https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs",
+   "result": "found 1 (low)",
+   "note": "JR0288692 location unverified; Bangalore-tagged intern reqs are older (JR0269/0270/0272). Most 2027 AI interns are US or master's-only."
+  },
+  {
+   "name": "NVIDIA",
+   "careers_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+   "ats": "workday",
+   "ats_endpoint": "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
+   "result": "none found",
+   "note": "All 2027 interns indexed are US. India: only a PhD wireless AI intern and an aggregator-only CPU Compiler intern JR2027260 (Bengaluru/Pune). Filter the API by India."
+  },
+  {
+   "name": "Intuit",
+   "careers_url": "https://jobs.intuit.com/employment/bengaluru-student-interns-and-entry-level-careers-jobs/27595/71554/1269750-1267701-1277331-1277333/4",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Summer 2027 DS/AI/PM interns are Mountain View. India 2027 SWE summer intern (ID 22939) appears on aggregators only."
+  },
+  {
+   "name": "Salesforce",
+   "careers_url": "https://careers.salesforce.com/en/university/",
+   "ats": "workday",
+   "ats_endpoint": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
+   "result": "none found",
+   "note": "India 2027: SWE summer (2028 grads) and UI/UX 6-month (M.Des) only. Also has a Futureforce_Internships site."
+  },
+  {
+   "name": "Walmart Global Tech",
+   "careers_url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal",
+   "ats": "workday",
+   "ats_endpoint": "https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs",
+   "result": "found 2 (low)",
+   "note": "(IND) Grad Intern reqs R-2485481 (Marketplace DS/AI) and R-2463399 (2027 grads, SWE+AI); both posted Apr/May 2026, so check liveness."
+  },
+  {
+   "name": "Uber",
+   "careers_url": "https://jobs.uber.com/en/teams/emerging-talent/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Bangalore DS/Scientist intern programme exists; the university page says applications typically open in June. No live 2027 intern requisition indexed."
+  },
+  {
+   "name": "Atlassian",
+   "careers_url": "https://www.atlassian.com/company/careers/earlycareers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "India recruiting Jul–Dec via campus; India summer internships May–Aug. Only US 2027 intern postings indexed."
+  },
+  {
+   "name": "Cisco",
+   "careers_url": "https://careers.cisco.com/global/en/india/etr-jobs",
+   "ats": "phenom",
+   "ats_endpoint": "",
+   "result": "found 1 (low) + 3 leads",
+   "note": "Ideathon gives finalists a 6-month Jan–Jun 2027 internship; Code with Cisco for 2027 pass-outs. Old UHR DS intern reqs are stale."
+  },
+  {
+   "name": "ServiceNow",
+   "careers_url": "https://careers.servicenow.com/jobs/",
+   "ats": "smartrecruiters",
+   "ats_endpoint": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings?q=intern",
+   "result": "none found",
+   "note": "Only Summer 2027 Product Design intern in Hyderabad; AI eng interns in Santa Clara."
+  },
+  {
+   "name": "Oracle",
+   "careers_url": "https://careers.oracle.com/en/sites/jobsearch/jobs?keyword=Intern",
+   "ats": "oracle",
+   "ats_endpoint": "https://eeho.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions",
+   "result": "none found",
+   "note": "FY27 pipeline req not open to applicants; OFSS Consulting Intern 318904 stale. India intern hiring seems campus-only."
+  },
+  {
+   "name": "Qualcomm",
+   "careers_url": "https://careers.qualcomm.com/careers?location=India&query=intern",
+   "ats": "eightfold",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Only experienced AI/ML roles in Hyderabad/Bangalore indexed. Interns use the 'Interim Engineering Intern' job family."
+  },
+  {
+   "name": "BrowserStack",
+   "careers_url": "https://www.browserstack.com/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Holds a yearly fresher/intern drive (~Aug; interns start Jan). The 2026-batch Customer Engineering Intern in Mumbai closed Feb 2026."
+  },
+  {
+   "name": "Freshworks",
+   "careers_url": "https://careers.smartrecruiters.com/Freshworks",
+   "ats": "smartrecruiters",
+   "ats_endpoint": "https://api.smartrecruiters.com/v1/companies/Freshworks/postings",
+   "result": "none found",
+   "note": "Only experienced roles; FSSA academy is for 12th-pass students. API check with q=intern recommended."
+  },
+  {
+   "name": "Sprinklr",
+   "careers_url": "https://www.sprinklr.com/careers/internship-and-early-careers/",
+   "ats": "workday",
+   "ats_endpoint": "https://sprinklr.wd1.myworkdayjobs.com/wday/cxs/sprinklr/careers/jobs",
+   "result": "none found",
+   "note": "Paid 8–24-week internships in India (DS testimonials, Gurgaon). Only a UX Research Intern indexed."
+  },
+  {
+   "name": "Postman",
+   "careers_url": "https://www.postman.com/company/careers/",
+   "ats": "greenhouse",
+   "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/postman/jobs",
+   "result": "none found",
+   "note": "No intern postings on the Greenhouse board; the Newmanaut early-career role is old."
+  }
+ ]
+}
