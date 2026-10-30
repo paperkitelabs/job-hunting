@@ -1,0 +1,86 @@
+{
+ "https://career.crisil.com/crisil/jobview/generative-ai-intern-pune-maharashtra-india-2026012011451279": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-202608251030017": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026091011292585": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026093019250125": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://careers.honeywell.com/en/sites/Honeywell/job/160488": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://careers.honeywell.com/en/sites/Honeywell/job/161165": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/147080": {
+  "ok": true,
+  "how": "oracle detail found"
+ },
+ "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-14-45-Uppal-STPI-Hyderabad/Interns_JR10025121": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-14-45-Uppal-STPI-Hyderabad/Interns_JR10025122": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-14-45-Uppal-STPI-Hyderabad/Interns_JR10025124": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-14-45-Uppal-STPI-Hyderabad/Interns_JR10025125": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-E-145146-Sitapura-STPI-Jaipur/Interns_JR10031092-1": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Interns_JR10030422": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-Indiabulls-Mega-Mall-Jodhpur-RJ/Interns_JR10031221-1": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-JLN-Marg-STPI-Jaipur/Interns_JR10031397-1": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-Stellar-STPI-Noida/Interns_JR10028115": {
+  "ok": false,
+  "how": "workday detail 403"
+ },
+ "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Intern_R1567860": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=3496": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Information-Technology-Intern_R000161858": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Operations-Early-Career-Entry-Program_R-799807": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://www.quadeye.com/jobs/199893000002318371": {
+  "ok": true,
+  "how": "GET 200"
+ }
+}

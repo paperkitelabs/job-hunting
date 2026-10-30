@@ -95,7 +95,7 @@ def build():
             "type": type_line(o),
             "exp": o.get("exp", ""),
             "pay": o.get("pay", "") or "",
-            "jd": o.get("jd", ""),
+            "jd": (o.get("jd", "") + (" Note: " + o["note"].strip() if (o.get("note") or "").strip() else "")).strip(),
             "li": o.get("li") or o["company"],
             "deadline": short_date(dl) if dl else "",
             "resume": resume,
