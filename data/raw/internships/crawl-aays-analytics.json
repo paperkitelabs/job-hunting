@@ -1,0 +1,12 @@
+{
+ "company": "Aays Analytics",
+ "ats": "Own website (React SPA, roles hard-coded in CareersPage chunk)",
+ "endpoint": "https://www.aaysanalytics.com/careers (aays.com times out)",
+ "queried_at": "2026-10-30T13:43:50.358297Z",
+ "queries": [
+  "whole listing"
+ ],
+ "total_hits": 6,
+ "india_intern_hits": [],
+ "details": {}
+}
