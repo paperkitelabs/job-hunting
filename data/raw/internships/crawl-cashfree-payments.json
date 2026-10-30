@@ -1,0 +1,20 @@
+{
+ "company": "Cashfree Payments",
+ "ats": "Kula (careers.kula.ai/cashfree)",
+ "endpoint": "https://careers.kula.ai/cashfree?jobs=true",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 31,
+ "india_intern_hits": [
+  {
+   "title": "Marketing Intern (Cross-Border) - 6 months Internship",
+   "loc": "India",
+   "url": "https://careers.kula.ai/cashfree/62088-marketing-intern-cross-border-6-months-internship?jobs=true",
+   "id": "62088",
+   "posted": ""
+  }
+ ],
+ "details": {},
+ "queried_at": "2026-10-30"
+}

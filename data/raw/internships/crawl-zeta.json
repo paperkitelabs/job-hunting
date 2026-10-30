@@ -1,0 +1,12 @@
+{
+ "company": "Zeta",
+ "ats": "Lever (zeta)",
+ "endpoint": "https://api.lever.co/v0/postings/zeta",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 30,
+ "india_intern_hits": [],
+ "details": {},
+ "queried_at": "2026-10-30"
+}

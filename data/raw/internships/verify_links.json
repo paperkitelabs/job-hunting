@@ -1,4 +1,8 @@
 {
+ "https://apply.careers.microsoft.com/careers/job/1970393556917519?domain=microsoft.com": {
+  "ok": true,
+  "how": "GET 200"
+ },
  "https://career.crisil.com/crisil/jobview/generative-ai-intern-pune-maharashtra-india-2026012011451279": {
   "ok": true,
   "how": "GET 200"
@@ -20,6 +24,14 @@
   "how": "GET 200"
  },
  "https://careers.honeywell.com/en/sites/Honeywell/job/161165": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://careers.payu.in/job/Gurgaon-DA-intern/54092380/": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://changejar.applytojob.com/apply/fnAOMBtD2D": {
   "ok": true,
   "how": "GET 200"
  },

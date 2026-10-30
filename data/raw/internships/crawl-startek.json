@@ -1,0 +1,1828 @@
+{
+ "company": "Startek",
+ "ats": "Oracle Recruiting Cloud",
+ "endpoint": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1 (India locationId 300000000471802)",
+ "queried_at": "2026-10-30T13:25:07.844404Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "graduate",
+  "fresher"
+ ],
+ "total_hits": 266,
+ "india_intern_hits": [
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bhubaneswar, Odisha, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11416",
+   "id": "11416",
+   "posted": "2026-10-27"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bhopal, Madhya Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11303",
+   "id": "11303",
+   "posted": "2026-10-21"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bhopal, Madhya Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11323",
+   "id": "11323",
+   "posted": "2026-10-19"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11367",
+   "id": "11367",
+   "posted": "2026-10-22"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2470",
+   "id": "2470",
+   "posted": "2024-11-04"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Gurugram, Haryana, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2966",
+   "id": "2966",
+   "posted": "2025-01-13"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Gurugram, Haryana, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3035",
+   "id": "3035",
+   "posted": "2025-01-20"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3233",
+   "id": "3233",
+   "posted": "2025-02-07"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3308",
+   "id": "3308",
+   "posted": "2025-02-14"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3393",
+   "id": "3393",
+   "posted": "2025-02-24"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3541",
+   "id": "3541",
+   "posted": "2025-03-07"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3638",
+   "id": "3638",
+   "posted": "2025-03-19"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3686",
+   "id": "3686",
+   "posted": "2025-03-24"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3698",
+   "id": "3698",
+   "posted": "2025-03-25"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3739",
+   "id": "3739",
+   "posted": "2025-03-31"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3761",
+   "id": "3761",
+   "posted": "2025-04-03"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3798",
+   "id": "3798",
+   "posted": "2025-04-07"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3824",
+   "id": "3824",
+   "posted": "2025-04-09"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India; India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3845",
+   "id": "3845",
+   "posted": "2025-04-11"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3858",
+   "id": "3858",
+   "posted": "2025-04-14"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3896",
+   "id": "3896",
+   "posted": "2025-04-16"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3895",
+   "id": "3895",
+   "posted": "2025-04-16"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3977",
+   "id": "3977",
+   "posted": "2025-04-25"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4012",
+   "id": "4012",
+   "posted": "2025-04-29"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Kolkata, West Bengal, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4029",
+   "id": "4029",
+   "posted": "2025-04-30"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4039",
+   "id": "4039",
+   "posted": "2025-05-01"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Kolkata, West Bengal, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4078",
+   "id": "4078",
+   "posted": "2025-05-05"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4086",
+   "id": "4086",
+   "posted": "2025-05-05"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4096",
+   "id": "4096",
+   "posted": "2025-05-05"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4115",
+   "id": "4115",
+   "posted": "2025-05-06"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4126",
+   "id": "4126",
+   "posted": "2025-05-07"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Kolkata, West Bengal, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4145",
+   "id": "4145",
+   "posted": "2025-05-08"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4172",
+   "id": "4172",
+   "posted": "2025-05-09"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Kolkata, West Bengal, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4201",
+   "id": "4201",
+   "posted": "2025-05-13"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4206",
+   "id": "4206",
+   "posted": "2025-05-13"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4232",
+   "id": "4232",
+   "posted": "2025-05-15"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4244",
+   "id": "4244",
+   "posted": "2025-05-16"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4263",
+   "id": "4263",
+   "posted": "2025-05-19"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4266",
+   "id": "4266",
+   "posted": "2025-05-19"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Kolkata, West Bengal, India; India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4270",
+   "id": "4270",
+   "posted": "2025-05-19"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4315",
+   "id": "4315",
+   "posted": "2025-05-22"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India; India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4324",
+   "id": "4324",
+   "posted": "2025-05-23"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4338",
+   "id": "4338",
+   "posted": "2025-05-24"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4336",
+   "id": "4336",
+   "posted": "2025-05-24"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Gurugram, Haryana, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4372",
+   "id": "4372",
+   "posted": "2025-05-28"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4423",
+   "id": "4423",
+   "posted": "2025-06-02"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4422",
+   "id": "4422",
+   "posted": "2025-06-02"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4527",
+   "id": "4527",
+   "posted": "2025-06-10"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Kolkata, West Bengal, India; India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4554",
+   "id": "4554",
+   "posted": "2025-06-13"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Gurugram, Haryana, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4578",
+   "id": "4578",
+   "posted": "2025-06-14"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4590",
+   "id": "4590",
+   "posted": "2025-06-16"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India; India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4607",
+   "id": "4607",
+   "posted": "2025-06-17"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4626",
+   "id": "4626",
+   "posted": "2025-06-18"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4678",
+   "id": "4678",
+   "posted": "2025-06-23"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4698",
+   "id": "4698",
+   "posted": "2025-06-24"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4700",
+   "id": "4700",
+   "posted": "2025-06-24"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4775",
+   "id": "4775",
+   "posted": "2025-06-30"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4862",
+   "id": "4862",
+   "posted": "2025-07-02"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4877",
+   "id": "4877",
+   "posted": "2025-07-03"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Kolkata, West Bengal, India; India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4991",
+   "id": "4991",
+   "posted": "2025-07-10"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5036",
+   "id": "5036",
+   "posted": "2025-07-14"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5153",
+   "id": "5153",
+   "posted": "2025-07-22"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Kolkata, West Bengal, India; India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5244",
+   "id": "5244",
+   "posted": "2025-07-29"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Kolkata, West Bengal, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5259",
+   "id": "5259",
+   "posted": "2025-07-30"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Kolkata, West Bengal, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5348",
+   "id": "5348",
+   "posted": "2025-08-04"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Kolkata, West Bengal, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5421",
+   "id": "5421",
+   "posted": "2025-08-08"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Gurugram, Haryana, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5425",
+   "id": "5425",
+   "posted": "2025-08-08"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5446",
+   "id": "5446",
+   "posted": "2025-08-11"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5513",
+   "id": "5513",
+   "posted": "2025-08-14"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Kolkata, West Bengal, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5523",
+   "id": "5523",
+   "posted": "2025-08-16"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India; India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5528",
+   "id": "5528",
+   "posted": "2025-08-18"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India; India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5539",
+   "id": "5539",
+   "posted": "2025-08-18"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Jaipur, Rajasthan, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5633",
+   "id": "5633",
+   "posted": "2025-08-26"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5685",
+   "id": "5685",
+   "posted": "2025-08-29"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Jaipur, Rajasthan, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5712",
+   "id": "5712",
+   "posted": "2025-09-01"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "India; Gurugram, Haryana, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5763",
+   "id": "5763",
+   "posted": "2025-09-03"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5802",
+   "id": "5802",
+   "posted": "2025-09-08"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5900",
+   "id": "5900",
+   "posted": "2025-09-13"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Jaipur, Rajasthan, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6023",
+   "id": "6023",
+   "posted": "2025-09-19"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Jaipur, Rajasthan, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6031",
+   "id": "6031",
+   "posted": "2025-09-20"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6167",
+   "id": "6167",
+   "posted": "2025-09-30"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6250",
+   "id": "6250",
+   "posted": "2025-10-06"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6400",
+   "id": "6400",
+   "posted": "2025-10-15"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India; India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6425",
+   "id": "6425",
+   "posted": "2025-10-16"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6518",
+   "id": "6518",
+   "posted": "2025-10-25"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6542",
+   "id": "6542",
+   "posted": "2025-10-28"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6546",
+   "id": "6546",
+   "posted": "2025-10-28"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6554",
+   "id": "6554",
+   "posted": "2025-10-28"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6594",
+   "id": "6594",
+   "posted": "2025-10-30"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India; India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6595",
+   "id": "6595",
+   "posted": "2025-10-30"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6686",
+   "id": "6686",
+   "posted": "2025-11-06"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India; India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6698",
+   "id": "6698",
+   "posted": "2025-11-10"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6708",
+   "id": "6708",
+   "posted": "2025-11-07"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6730",
+   "id": "6730",
+   "posted": "2025-11-08"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6745",
+   "id": "6745",
+   "posted": "2025-11-10"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India; India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6778",
+   "id": "6778",
+   "posted": "2025-11-12"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Gurugram, Haryana, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6788",
+   "id": "6788",
+   "posted": "2025-11-18"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6791",
+   "id": "6791",
+   "posted": "2025-11-13"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6804",
+   "id": "6804",
+   "posted": "2025-11-15"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "India; Gurugram, Haryana, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6848",
+   "id": "6848",
+   "posted": "2025-11-17"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Gurugram, Haryana, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6951",
+   "id": "6951",
+   "posted": "2025-11-26"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7011",
+   "id": "7011",
+   "posted": "2025-11-28"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7087",
+   "id": "7087",
+   "posted": "2025-12-05"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7100",
+   "id": "7100",
+   "posted": "2025-12-08"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7146",
+   "id": "7146",
+   "posted": "2025-12-10"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7148",
+   "id": "7148",
+   "posted": "2025-12-10"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7182",
+   "id": "7182",
+   "posted": "2025-12-15"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7187",
+   "id": "7187",
+   "posted": "2025-12-15"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India; India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7193",
+   "id": "7193",
+   "posted": "2025-12-16"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7205",
+   "id": "7205",
+   "posted": "2025-12-16"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7213",
+   "id": "7213",
+   "posted": "2025-12-17"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7220",
+   "id": "7220",
+   "posted": "2025-12-17"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7219",
+   "id": "7219",
+   "posted": "2025-12-17"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7222",
+   "id": "7222",
+   "posted": "2025-12-17"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7251",
+   "id": "7251",
+   "posted": "2025-12-19"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7304",
+   "id": "7304",
+   "posted": "2025-12-27"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7384",
+   "id": "7384",
+   "posted": "2026-01-06"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7427",
+   "id": "7427",
+   "posted": "2026-01-09"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7455",
+   "id": "7455",
+   "posted": "2026-01-12"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7484",
+   "id": "7484",
+   "posted": "2026-01-14"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7498",
+   "id": "7498",
+   "posted": "2026-01-15"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7500",
+   "id": "7500",
+   "posted": "2026-01-16"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7512",
+   "id": "7512",
+   "posted": "2026-01-17"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India; India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7558",
+   "id": "7558",
+   "posted": "2026-01-20"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7601",
+   "id": "7601",
+   "posted": "2026-01-23"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7625",
+   "id": "7625",
+   "posted": "2026-01-27"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7642",
+   "id": "7642",
+   "posted": "2026-01-28"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7678",
+   "id": "7678",
+   "posted": "2026-02-03"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7681",
+   "id": "7681",
+   "posted": "2026-02-03"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7735",
+   "id": "7735",
+   "posted": "2026-02-07"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7752",
+   "id": "7752",
+   "posted": "2026-02-09"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7770",
+   "id": "7770",
+   "posted": "2026-02-10"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7782",
+   "id": "7782",
+   "posted": "2026-02-11"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7810",
+   "id": "7810",
+   "posted": "2026-02-13"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7839",
+   "id": "7839",
+   "posted": "2026-02-16"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7846",
+   "id": "7846",
+   "posted": "2026-02-17"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7852",
+   "id": "7852",
+   "posted": "2026-02-17"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7857",
+   "id": "7857",
+   "posted": "2026-02-17"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7859",
+   "id": "7859",
+   "posted": "2026-02-19"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7871",
+   "id": "7871",
+   "posted": "2026-02-19"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7876",
+   "id": "7876",
+   "posted": "2026-02-19"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7897",
+   "id": "7897",
+   "posted": "2026-02-23"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7903",
+   "id": "7903",
+   "posted": "2026-02-23"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7918",
+   "id": "7918",
+   "posted": "2026-02-26"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7928",
+   "id": "7928",
+   "posted": "2026-02-25"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7942",
+   "id": "7942",
+   "posted": "2026-02-26"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7943",
+   "id": "7943",
+   "posted": "2026-02-26"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7958",
+   "id": "7958",
+   "posted": "2026-02-27"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7979",
+   "id": "7979",
+   "posted": "2026-03-02"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7980",
+   "id": "7980",
+   "posted": "2026-03-02"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8017",
+   "id": "8017",
+   "posted": "2026-03-06"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8041",
+   "id": "8041",
+   "posted": "2026-03-09"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8046",
+   "id": "8046",
+   "posted": "2026-03-11"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8066",
+   "id": "8066",
+   "posted": "2026-03-12"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8074",
+   "id": "8074",
+   "posted": "2026-03-13"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8083",
+   "id": "8083",
+   "posted": "2026-03-13"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8113",
+   "id": "8113",
+   "posted": "2026-03-18"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8116",
+   "id": "8116",
+   "posted": "2026-03-18"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bhopal, Madhya Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8120",
+   "id": "8120",
+   "posted": "2026-05-23"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8144",
+   "id": "8144",
+   "posted": "2026-03-20"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8142",
+   "id": "8142",
+   "posted": "2026-03-20"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8162",
+   "id": "8162",
+   "posted": "2026-03-23"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8175",
+   "id": "8175",
+   "posted": "2026-03-24"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8199",
+   "id": "8199",
+   "posted": "2026-03-25"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8198",
+   "id": "8198",
+   "posted": "2026-03-25"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8201",
+   "id": "8201",
+   "posted": "2026-03-25"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8225",
+   "id": "8225",
+   "posted": "2026-03-27"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8239",
+   "id": "8239",
+   "posted": "2026-03-27"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8241",
+   "id": "8241",
+   "posted": "2026-03-28"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8290",
+   "id": "8290",
+   "posted": "2026-03-31"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8300",
+   "id": "8300",
+   "posted": "2026-03-31"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8332",
+   "id": "8332",
+   "posted": "2026-04-02"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8374",
+   "id": "8374",
+   "posted": "2026-04-07"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8432",
+   "id": "8432",
+   "posted": "2026-04-09"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8443",
+   "id": "8443",
+   "posted": "2026-04-10"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8468",
+   "id": "8468",
+   "posted": "2026-04-11"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8470",
+   "id": "8470",
+   "posted": "2026-04-13"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8499",
+   "id": "8499",
+   "posted": "2026-04-14"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8575",
+   "id": "8575",
+   "posted": "2026-04-20"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8595",
+   "id": "8595",
+   "posted": "2026-04-21"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8596",
+   "id": "8596",
+   "posted": "2026-04-21"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8626",
+   "id": "8626",
+   "posted": "2026-04-23"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8672",
+   "id": "8672",
+   "posted": "2026-04-25"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8708",
+   "id": "8708",
+   "posted": "2026-04-28"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8746",
+   "id": "8746",
+   "posted": "2026-04-30"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8752",
+   "id": "8752",
+   "posted": "2026-05-01"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8754",
+   "id": "8754",
+   "posted": "2026-04-30"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8811",
+   "id": "8811",
+   "posted": "2026-05-06"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8829",
+   "id": "8829",
+   "posted": "2026-05-06"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8847",
+   "id": "8847",
+   "posted": "2026-05-07"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8871",
+   "id": "8871",
+   "posted": "2026-05-08"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8874",
+   "id": "8874",
+   "posted": "2026-05-09"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8885",
+   "id": "8885",
+   "posted": "2026-05-11"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8912",
+   "id": "8912",
+   "posted": "2026-05-13"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8915",
+   "id": "8915",
+   "posted": "2026-05-14"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8938",
+   "id": "8938",
+   "posted": "2026-05-16"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8989",
+   "id": "8989",
+   "posted": "2026-05-20"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9001",
+   "id": "9001",
+   "posted": "2026-05-21"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9039",
+   "id": "9039",
+   "posted": "2026-05-25"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bhopal, Madhya Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9041",
+   "id": "9041",
+   "posted": "2026-05-25"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9044",
+   "id": "9044",
+   "posted": "2026-05-25"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bhubaneswar, Odisha, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9043",
+   "id": "9043",
+   "posted": "2026-05-25"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9074",
+   "id": "9074",
+   "posted": "2026-05-26"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9100",
+   "id": "9100",
+   "posted": "2026-05-28"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9104",
+   "id": "9104",
+   "posted": "2026-05-28"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9134",
+   "id": "9134",
+   "posted": "2026-05-30"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9210",
+   "id": "9210",
+   "posted": "2026-06-04"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9217",
+   "id": "9217",
+   "posted": "2026-06-04"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9240",
+   "id": "9240",
+   "posted": "2026-06-05"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bhubaneswar, Odisha, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9281",
+   "id": "9281",
+   "posted": "2026-06-08"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9282",
+   "id": "9282",
+   "posted": "2026-06-08"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9314",
+   "id": "9314",
+   "posted": "2026-06-09"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9341",
+   "id": "9341",
+   "posted": "2026-06-10"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9380",
+   "id": "9380",
+   "posted": "2026-06-12"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9388",
+   "id": "9388",
+   "posted": "2026-06-12"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bhubaneswar, Odisha, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9406",
+   "id": "9406",
+   "posted": "2026-06-15"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9432",
+   "id": "9432",
+   "posted": "2026-06-16"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9472",
+   "id": "9472",
+   "posted": "2026-06-18"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9583",
+   "id": "9583",
+   "posted": "2026-06-25"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9758",
+   "id": "9758",
+   "posted": "2026-07-07"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9865",
+   "id": "9865",
+   "posted": "2026-07-15"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9941",
+   "id": "9941",
+   "posted": "2026-07-22"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10067",
+   "id": "10067",
+   "posted": "2026-07-28"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10079",
+   "id": "10079",
+   "posted": "2026-07-29"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10154",
+   "id": "10154",
+   "posted": "2026-08-03"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10179",
+   "id": "10179",
+   "posted": "2026-08-05"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10183",
+   "id": "10183",
+   "posted": "2026-08-05"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10192",
+   "id": "10192",
+   "posted": "2026-08-05"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10236",
+   "id": "10236",
+   "posted": "2026-08-06"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10242",
+   "id": "10242",
+   "posted": "2026-08-06"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10295",
+   "id": "10295",
+   "posted": "2026-08-07"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bhubaneswar, Odisha, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10516",
+   "id": "10516",
+   "posted": "2026-08-19"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10545",
+   "id": "10545",
+   "posted": "2026-08-21"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10557",
+   "id": "10557",
+   "posted": "2026-08-22"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10618",
+   "id": "10618",
+   "posted": "2026-08-26"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10656",
+   "id": "10656",
+   "posted": "2026-08-31"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10718",
+   "id": "10718",
+   "posted": "2026-09-03"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10723",
+   "id": "10723",
+   "posted": "2026-09-03"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10730",
+   "id": "10730",
+   "posted": "2026-09-03"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10820",
+   "id": "10820",
+   "posted": "2026-09-09"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10822",
+   "id": "10822",
+   "posted": "2026-09-09"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10904",
+   "id": "10904",
+   "posted": "2026-09-15"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10955",
+   "id": "10955",
+   "posted": "2026-09-17"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10994",
+   "id": "10994",
+   "posted": "2026-09-21"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11011",
+   "id": "11011",
+   "posted": "2026-09-22"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11013",
+   "id": "11013",
+   "posted": "2026-09-22"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11053",
+   "id": "11053",
+   "posted": "2026-09-24"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11057",
+   "id": "11057",
+   "posted": "2026-09-24"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11059",
+   "id": "11059",
+   "posted": "2026-09-26"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11098",
+   "id": "11098",
+   "posted": "2026-09-30"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11209",
+   "id": "11209",
+   "posted": "2026-10-06"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11236",
+   "id": "11236",
+   "posted": "2026-10-08"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Noida, Uttar Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11238",
+   "id": "11238",
+   "posted": "2026-10-08"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bangalore, Karnataka, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11257",
+   "id": "11257",
+   "posted": "2026-10-15"
+  },
+  {
+   "title": "Apprentice - Operations",
+   "loc": "Bhopal, Madhya Pradesh, India",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11282",
+   "id": "11282",
+   "posted": "2026-10-13"
+  }
+ ],
+ "details": {
+  "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11416": {
+   "title": "Apprentice - Operations",
+   "loc": "Bhubaneswar, Odisha, India",
+   "posted": "2026-10-27T14:04:02+00:00",
+   "end": "2026-11-07T00:00:00+00:00",
+   "desc": ""
+  },
+  "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11303": {
+   "title": "Apprentice - Operations",
+   "loc": "Bhopal, Madhya Pradesh, India",
+   "posted": "2026-10-21T07:28:58+00:00",
+   "end": "2026-10-31T00:00:00+00:00",
+   "desc": ""
+  },
+  "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11323": {
+   "title": "Apprentice - Operations",
+   "loc": "Bhopal, Madhya Pradesh, India",
+   "posted": "2026-10-19T06:55:25+00:00",
+   "end": "2026-10-31T00:00:00+00:00",
+   "desc": ""
+  }
+ }
+}
