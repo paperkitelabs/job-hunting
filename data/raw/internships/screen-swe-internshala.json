@@ -1,0 +1,132 @@
+{
+ "checked": "30 Oct 2026",
+ "round1": [],
+ "companies": [
+  {
+   "name": "Arakoo",
+   "ats": "internshala",
+   "endpoint": "internshala.com",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "found via the Internshala stipend sweep"
+  },
+  {
+   "name": "Axe Consultancy And Security Services LLC",
+   "ats": "internshala",
+   "endpoint": "internshala.com",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "found via the Internshala stipend sweep"
+  },
+  {
+   "name": "Karanpreet Singh",
+   "ats": "internshala",
+   "endpoint": "internshala.com",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "found via the Internshala stipend sweep"
+  },
+  {
+   "name": "Penguin Solutions",
+   "ats": "internshala",
+   "endpoint": "internshala.com",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "found via the Internshala stipend sweep"
+  },
+  {
+   "name": "Primenumbers Technologies",
+   "ats": "internshala",
+   "endpoint": "internshala.com",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "found via the Internshala stipend sweep"
+  },
+  {
+   "name": "Route Mobile Limited",
+   "ats": "internshala",
+   "endpoint": "internshala.com",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "found via the Internshala stipend sweep"
+  },
+  {
+   "name": "Salesforce",
+   "ats": "internshala",
+   "endpoint": "internshala.com",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "found via the Internshala stipend sweep"
+  },
+  {
+   "name": "Sujith Kumar Gundala",
+   "ats": "internshala",
+   "endpoint": "internshala.com",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "found via the Internshala stipend sweep"
+  },
+  {
+   "name": "Unnati Enterprises",
+   "ats": "internshala",
+   "endpoint": "internshala.com",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "found via the Internshala stipend sweep"
+  }
+ ],
+ "cluster": "internshala-stipend-30k-swe",
+ "openings": [
+  {
+   "company": "Salesforce",
+   "role": "Software Development",
+   "url": "https://internshala.com/internship/detail/part-time-software-development-internship-in-bangalore-at-salesforce1789133363",
+   "location": "Bangalore",
+   "city_rank": 3,
+   "job_id": "Internshala 3281884",
+   "duration": "6 Months",
+   "dates": "Oct 2026 – Apr 2027",
+   "runs_past_may": false,
+   "exp": "Only those candidates can apply who:|1. are available for the part time job/internship |2. can start the part time job/internship between 11th Sep'26 and 1st Nov'26 |3. are available for duration of 6 months |4. have relevant skills and interests",
+   "_pt": false,
+   "_appl": "1000+",
+   "_offer": "",
+   "pay": "₹1,00,000 - 1,50,000 /month",
+   "stipend_inr_month": 100000,
+   "track": "swe",
+   "posted": "",
+   "deadline": "2026-11-01",
+   "jd": "As a Software Development intern at Salesforce, you will have the opportunity to work with cut Skills asked: Java, MySQL, HTML, CSS, JavaScript, Python, .NET.",
+   "li": "Salesforce",
+   "resume": "SDE",
+   "verified": "Internshala detail page 200 on 30 Oct 2026",
+   "note": "Apply via Internshala."
+  },
+  {
+   "company": "Penguin Solutions",
+   "role": "Software Development",
+   "url": "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-penguin-solutions1792413587",
+   "location": "Bangalore",
+   "city_rank": 3,
+   "job_id": "Internshala 3320114",
+   "duration": "6 Months",
+   "dates": "Dec 2026 – Jun 2027",
+   "runs_past_may": true,
+   "exp": "Only those candidates can apply who:|1. are available for full time (in-office) internship |2. can start the internship between 1st Dec'26 and 31st Dec'26 |3. are available for duration of 6 months |4. are from Bangalore only |5. have relevant skills and interests |Other requirements|Areas of Work: ",
+   "_pt": false,
+   "_appl": "636",
+   "_offer": "",
+   "pay": "₹30,000 - 35,000 /month",
+   "stipend_inr_month": 30000,
+   "track": "swe",
+   "posted": "",
+   "deadline": "2026-11-18",
+   "jd": "Selected intern's day-to-day responsibilities include:|1. Support engineering and R&D initiatives through project-based assignments and technical research.|2. Assist with the design, development, testing, validation, and optimization of products, systems, and technologies.|3. Collaborate with engineers, researchers, and other technical professionals on active business projects.|4. Analyze data, document findings, and present r Skills asked: Python, Linux.",
+   "li": "Penguin Solutions",
+   "resume": "SDE",
+   "verified": "Internshala detail page 200 on 30 Oct 2026",
+   "note": "Apply via Internshala."
+  }
+ ],
+ "rejected": []
+}

@@ -25,10 +25,28 @@ WANTED = [
     ("ai", r"data scien|machine learning|\bml\b|\bai\b|artificial intelligence|deep learning|nlp|generative|llm|"
            r"applied scien|computer vision|forward deployed|quant"),
     ("pm", r"product manage|product analyst|\bapm\b|associate product|product intern|product owner"),
-    ("analyst", r"data analy|business analy|business intelligence|analytics|\bmis\b|strategy|consult|"
+    ("analyst", r"data analy|data engineer|business analy|business intelligence|analytics|\bmis\b|strategy|consult|"
                 r"research analyst|growth analy|operations analy|market research"),
 ]
 SWE = r"software (developer|engineer|development)|full.?stack|back.?end|front.?end|web developer|android|ios developer|sde|qa|test automation"
+# Hand vetting after reading each ≥₹30k detail page (30 Oct 2026). Internshala lets anyone post,
+# so a stated stipend is not proof the role is real; these are the calls made on the 32 cards found.
+VETO = {
+    "QuickHyre": "₹80,000–1,35,000/month for a 3-month work-from-home intern is far above the Indian market "
+                 "(big-tech interns get ~₹1L); the poster is itself a job-board startup and has 4 such ads. Not trusted.",
+    "Divonex Chemicals Private Limited": "field sales role",
+    "Fin Maverick": "investment-banking/finance role, outside the role list; the poster is a test-prep community",
+    "Eureka Forbes": "corporate sales role",
+    "Finnup Global Services Private Limited": "corporate sales role",
+    "KGM Gupta And Co. Chartered Accountants": "CA articleship",
+}
+# Kept, but the sheet carries a warning in the JD.
+CAVEAT = {
+    "Karanpreet Singh": "Posted by an individual, not a company: data-labelling work for frontier AI labs. Work from home.",
+    "Sujith Kumar Gundala": "Posted by an individual whose page links only a LinkedIn profile, for independent MVP projects. Verify who you would work for before applying.",
+    "Unnati Enterprises": "An apparel brand (Chikku Pikku) hiring 10 analytics interns at once; confirm the actual work.",
+    "Axe Consultancy And Security Services LLC": "Small US-based IT-consulting firm; work from home.",
+}
 BAD = r"(content|social media|graphic|video|design(er|ing)?|marketing|sales|hr |human resource|recruit|telecall|teach|tutor|legal|account(s|ing)|ca intern|fundrais|photograph|copywrit)"
 
 
@@ -41,7 +59,7 @@ def parse_start(s, duration_text=""):
     t = (s or "").strip().lower()
     if not t or "immediate" in t:
         return TODAY
-    m = re.search(r"(\d{1,2})\s*([a-z]{3})\s*'?(\d{2,4})?", t)
+    m = re.search(r"(\d{1,2})\s*(?:st|nd|rd|th)?\s*([a-z]{3})[a-z]*\s*'?\s*(\d{2,4})?", t)
     if not m:
         return None
     day, mon, yr = int(m.group(1)), MONTHS.get(m.group(2)), m.group(3)
@@ -54,46 +72,71 @@ def parse_start(s, duration_text=""):
         return None
 
 
+def parse_deadline(s):
+    d = parse_start(s or "")
+    return f"{d:%Y-%m-%d}" if d and d != TODAY else ""
+
+
 def months(duration_text):
     m = re.search(r"(\d+)\s*month", (duration_text or "").lower())
     return int(m.group(1)) if m else None
 
 
 def track_of(title, about, skills):
-    blob = f"{title} {about} {skills}".lower()
-    if re.search(BAD, blob) and not re.search(r"data|analy|machine learning|product manage", blob):
-        return None
-    for name, pat in WANTED:
-        if re.search(pat, blob):
-            return name
-    if re.search(SWE, blob):
-        return "swe"
+    # The title decides; the blurb and skills only break ties. Check the wanted lists BEFORE the
+    # veto list, or a blurb that merely mentions "marketing" sinks a genuine engineering role.
+    for blob in (title.lower(), f"{title} {about} {skills}".lower()):
+        for name, pat in WANTED:
+            if re.search(pat, blob):
+                return name
+        if re.search(SWE, blob):
+            return "swe"
+        if re.search(BAD, blob):
+            return None
     return None
+
+
+def page_text(h):
+    """Visible text with tags as '|' separators — the detail page has no stable class names."""
+    t = re.sub(r"<script.*?</script>", "", h, flags=re.S)
+    t = re.sub(r"<style.*?</style>", "", t, flags=re.S)
+    t = html.unescape(re.sub(r"(\|\s*)+", "|", re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "|", t))))
+    return t.replace("\xa0", " ")
+
+
+def section(t, start, *ends):
+    i = t.find(start)
+    if i < 0:
+        return ""
+    j = min([x for x in (t.find(e, i + len(start)) for e in ends) if x > 0] or [i + 2500])
+    return t[i + len(start):j].strip(" |")
 
 
 def detail(card):
     r = ats.get(card["url"], headers={"Accept": "text/html"})
     if r is None or r.status_code != 200:
-        return None
-    h = r.text
-    if "no longer available" in h.lower() or "internship is closed" in h.lower():
-        return {"closed": True}
-
-    def grab(pat):
-        m = re.search(pat, h, re.S)
-        return clean(m.group(1)) if m else ""
-
+        return {"closed": True, "why": f"HTTP {getattr(r, 'status_code', 'none')}"}
+    t = page_text(r.text)
+    if "404: Page not found" in t or "no longer accepting applications" in t.lower():
+        return {"closed": True, "why": "page gone / not accepting"}
+    who = section(t, "Who can apply", "Perks", "Number of openings", "About ")
     return {
         "closed": False,
-        "start": grab(r'Start Date</div>.*?<div[^>]*>(.*?)</div>') or grab(r'id="start-date-first">(.*?)</span>'),
-        "duration": grab(r'Duration</div>.*?<div[^>]*>(.*?)</div>'),
-        "apply_by": grab(r'Apply By</div>.*?<div[^>]*>(.*?)</div>'),
-        "openings": grab(r'Openings?</div>.*?<div[^>]*>(.*?)</div>'),
-        "stipend": grab(r'Stipend</div>.*?<span[^>]*>(.*?)</span>'),
-        "about_company": grab(r'About (?:the company|[^<]*)</div>\s*<div[^>]*>(.*?)</div>')[:600],
-        "desc": grab(r'About the (?:internship|work from home internship)</div>\s*<div[^>]*>(.*?)</div>')[:2500],
-        "who": grab(r"Who can apply</div>\s*<div[^>]*>(.*?)</div>")[:1200],
-        "perks": grab(r'Perks</div>\s*<div[^>]*>(.*?)</div>')[:300],
+        "start_raw": section(t, "Start Date", "Duration"),
+        "start_window": (re.search(r"can start the internship between ([^|]+)", who) or [None, ""])[1].strip()
+                        if "can start" in who else "",
+        "duration": section(t, "Duration", "Stipend"),
+        "stipend": section(t, "Stipend ", "APPLY BY", "Posted"),
+        "apply_by": section(t, "APPLY BY", "Posted", "Job offer"),
+        "applicants": (re.search(r"([\d,+]+) applicants", t) or [None, ""])[1],
+        "post_offer": (re.search(r"Job offer starting \|?₹ ?([^|]+)", t) or [None, ""])[1].strip(),
+        "openings": section(t, "Number of openings", "About "),
+        "desc": section(t, "About the internship", "Skill(s) required", "Who can apply")[:1800],
+        "skills": section(t, "Skill(s) required", "Earn certifications", "Who can apply")[:300],
+        "who": who[:900],
+        "part_time": "available for part time" in who.lower(),
+        "in_office": "in-office" in who.lower(),
+        "about_company": section(t, "About " + card["company"][:28], "Activity on Internshala", "Similar internships")[:700],
     }
 
 
@@ -114,12 +157,21 @@ def main():
             rejected.append({"company": c["company"], "role": c["title"], "url": c["url"],
                              "reason": "outside the role list"})
             continue
+        if c["company"] in VETO:
+            rejected.append({"company": c["company"], "role": c["title"], "url": c["url"],
+                             "reason": VETO[c["company"]]})
+            continue
         d = detail(c) or {}
         details[c["url"]] = d
         if d.get("closed"):
             rejected.append({"company": c["company"], "role": c["title"], "url": c["url"], "reason": "closed"})
             continue
-        start = parse_start(d.get("start") or c.get("start"), d.get("duration") or c["duration"])
+        if re.search(r"phd|ph\.d|doctoral|master'?s (degree )?required|mba only", (c["title"] + " " + d.get("who", "") + " " + d.get("desc", "")), re.I):
+            rejected.append({"company": c["company"], "role": c["title"], "url": c["url"],
+                             "reason": "needs a PhD / Master's"})
+            continue
+        start = parse_start(re.split(r"\s+and\s+", d.get("start_window", ""))[0] or d.get("start_raw") or c.get("start"),
+                            d.get("duration") or c["duration"])
         if start and start > END_START:
             rejected.append({"company": c["company"], "role": c["title"], "url": c["url"],
                              "reason": f"starts {start:%b %Y}, too late for the Nov 2026 – May 2027 window"})
@@ -133,17 +185,18 @@ def main():
             "company": c["company"], "role": c["title"], "url": c["url"],
             "location": c["location"], "city_rank": city_rank(c["location"]),
             "job_id": "Internshala " + c["id"],
-            "duration": d.get("duration") or c["duration"] or "not stated",
+            "duration": (d.get("duration") or c["duration"] or "not stated").strip(),
             "dates": (f"{start:%b %Y}" + (f" – {ends:%b %Y}" if ends else "")) if start else "not stated",
             "runs_past_may": bool(ends and ends > datetime.date(2027, 5, 31)),
             "exp": clean(d.get("who"))[:300] or "see posting",
+            "_pt": d.get("part_time"), "_appl": d.get("applicants"), "_offer": d.get("post_offer"),
             "pay": c["stipend_text"].replace("₹ ", "₹"), "stipend_inr_month": c["stipend_inr_month"],
             "track": tr if tr != "swe" else "swe",
-            "posted": "", "deadline": "",
-            "jd": (clean(d.get("desc"))[:420] or clean(c["about"])) + (f" Skills asked: {c['skills']}." if c["skills"] else ""),
+            "posted": "", "deadline": parse_deadline(d.get("apply_by")),
+            "jd": (clean(d.get("desc"))[:430] or clean(c["about"])) + (f" Skills asked: {c['skills']}." if c["skills"] else ""),
             "li": c["company"], "resume": "DS / AI" if tr == "ai" else "SDE" if tr == "swe" else "Analyst / PM",
             "verified": "Internshala detail page 200 on 30 Oct 2026",
-            "note": "Apply via Internshala (the company does not list this on its own careers site).",
+            "note": ("Apply via Internshala. " + CAVEAT.get(c["company"], "")).strip(),
         }
         (swe if tr == "swe" else openings).append(row)
 

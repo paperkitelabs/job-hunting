@@ -9,11 +9,28 @@ window.TRACKER_SHEETS["swe"] = {
  "checked": "30 Oct 2026",
  "exp_label": "Who can apply",
  "pay_label": "Stipend (₹/month)",
- "left_out": "Crawled the careers sites of 0 employers on 30 Oct 2026. Every link was checked against the employer's own hiring API or job board on that day. Left out 6 India internship postings: 5 software-engineering interns with no data/AI/product angle; 1 for 2025/2026 graduates or already-graduated candidates. Stipend is blank where the posting does not state one.",
+ "left_out": "Crawled the careers sites of 9 employers on 30 Oct 2026. Every link was checked against the employer's own hiring API or job board on that day. Left out 6 India internship postings: 5 software-engineering interns with no data/AI/product angle; 1 for 2025/2026 graduates or already-graduated candidates. Stipend is blank where the posting does not state one.",
  "tiers": {
+  "soon": "Closing soon: apply this week",
   "swe": "Software engineering interns"
  },
  "jobs": [
+  {
+   "id": "salesforce-internshala-3281884",
+   "tier": "soon",
+   "role": "Software Development",
+   "url": "https://internshala.com/internship/detail/part-time-software-development-internship-in-bangalore-at-salesforce1789133363",
+   "company": "Salesforce",
+   "location": "Bangalore",
+   "job_id": "Internshala 3281884",
+   "type": "Internship · 6 mo, Oct 2026 – Apr 2027",
+   "exp": "Only those candidates can apply who:|1. are available for the part time job/internship |2. can start the part time job/internship between 11th Sep'26 and 1st Nov'26 |3. are available for duration of 6 months |4. have relevant skills and interests",
+   "pay": "₹1,00,000 - 1,50,000 /month",
+   "jd": "As a Software Development intern at Salesforce, you will have the opportunity to work with cut Skills asked: Java, MySQL, HTML, CSS, JavaScript, Python, .NET. Note: Apply via Internshala.",
+   "li": "Salesforce",
+   "deadline": "1 Nov",
+   "resume": "SDE"
+  },
   {
    "id": "honeywell-160868-161061-161062",
    "tier": "swe",
@@ -60,6 +77,22 @@ window.TRACKER_SHEETS["swe"] = {
    "jd": "Hands-on software development on real Honeywell projects: applying software-engineering principles, taking part in code reviews and co-designing software with cross-functional teams. Requires enrolment in a Bachelor's in software engineering or a related field and basic software-development knowledge; Java, Python or C++ experience valued. Note: 8 identical Bengaluru reqs (posted 22–26 Oct) merged; hybrid per posting; no end date set. Dates/duration not stated.",
    "li": "Honeywell Software Engineering",
    "deadline": "",
+   "resume": "SDE"
+  },
+  {
+   "id": "penguin-solutions-internshala-3320114",
+   "tier": "swe",
+   "role": "Software Development",
+   "url": "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-penguin-solutions1792413587",
+   "company": "Penguin Solutions",
+   "location": "Bangalore",
+   "job_id": "Internshala 3320114",
+   "type": "Internship · 6 mo, Dec 2026 – Jun 2027 · runs past May",
+   "exp": "Only those candidates can apply who:|1. are available for full time (in-office) internship |2. can start the internship between 1st Dec'26 and 31st Dec'26 |3. are available for duration of 6 months |4. are from Bangalore only |5. have relevant skills and interests |Other requirements|Areas of Work: ",
+   "pay": "₹30,000 - 35,000 /month",
+   "jd": "Selected intern's day-to-day responsibilities include:|1. Support engineering and R&D initiatives through project-based assignments and technical research.|2. Assist with the design, development, testing, validation, and optimization of products, systems, and technologies.|3. Collaborate with engineers, researchers, and other technical professionals on active business projects.|4. Analyze data, document findings, and present r Skills asked: Python, Linux. Note: Apply via Internshala.",
+   "li": "Penguin Solutions",
+   "deadline": "18 Nov",
    "resume": "SDE"
   },
   {
@@ -111,5 +144,5 @@ window.TRACKER_SHEETS["swe"] = {
    "resume": "SDE"
   }
  ],
- "meta": "6 live openings · every link rechecked 30 Oct 2026"
+ "meta": "8 live openings · every link rechecked 30 Oct 2026"
 };

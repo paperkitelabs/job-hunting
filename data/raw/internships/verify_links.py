@@ -8,7 +8,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import ats  # noqa: E402
 
-AGG = re.compile(r"linkedin|naukri|indeed|internshala|glassdoor|unstop|foundit|instahyre|cutshort|weekday|prosple", re.I)
+# Internshala is allowed: the user accepted its listings, flagged "apply via Internshala", because it
+# is the one source that states a stipend. Every other aggregator is still refused.
+AGG = re.compile(r"linkedin|naukri|indeed|glassdoor|unstop|foundit|instahyre|cutshort|weekday|prosple", re.I)
 
 
 def check(url):
@@ -51,6 +53,14 @@ def check(url):
         if m:
             d = ats.oracle_detail(m.group(1), m.group(2), m.group(3))
             return {"ok": d is not None, "how": "oracle detail " + ("found" if d else "missing")}
+        if "internshala.com" in u.netloc:
+            r = ats.get(url, headers={"Accept": "text/html"})
+            if r is None:
+                return {"ok": None, "how": "internshala: no response"}
+            t = r.text
+            dead = "404: Page not found" in t or "no longer accepting applications" in t.lower()
+            return {"ok": r.status_code == 200 and not dead,
+                    "how": f"internshala page {r.status_code}" + (" (gone)" if dead else "")}
         m = re.search(r"amazon\.jobs/[a-z]+/jobs/(\d+)", url)
         if m:
             r = ats.get(f"https://www.amazon.jobs/en/jobs/{m.group(1)}")

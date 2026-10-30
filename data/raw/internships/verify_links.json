@@ -19,6 +19,10 @@
   "ok": true,
   "how": "GET 200"
  },
+ "https://careers.bcg.com/global/en/job/59487/BCG-X-Finance-Intern": {
+  "ok": true,
+  "how": "GET 200"
+ },
  "https://careers.honeywell.com/en/sites/Honeywell/job/160488": {
   "ok": true,
   "how": "GET 200"
@@ -95,7 +99,47 @@
   "ok": false,
   "how": "workday detail 403"
  },
+ "https://internshala.com/internship/detail/ai-ml-computer-vision-sports-analytics-internship-in-hyderabad-at-sujith-kumar-gundala1791371206": {
+  "ok": true,
+  "how": "internshala page 200"
+ },
+ "https://internshala.com/internship/detail/data-analytics-internship-in-multiple-locations-at-unnati-enterprises1791551631": {
+  "ok": true,
+  "how": "internshala page 200"
+ },
+ "https://internshala.com/internship/detail/data-engineering-internship-in-bangalore-at-primenumbers-technologies1791894510": {
+  "ok": true,
+  "how": "internshala page 200"
+ },
+ "https://internshala.com/internship/detail/forward-deployed-software-engineer-internship-in-multiple-locations-at-route-mobile-limited1791288694": {
+  "ok": true,
+  "how": "internshala page 200"
+ },
+ "https://internshala.com/internship/detail/part-time-software-development-internship-in-bangalore-at-salesforce1789133363": {
+  "ok": true,
+  "how": "internshala page 200"
+ },
+ "https://internshala.com/internship/detail/reinforcement-learning-data-science-internship-in-multiple-locations-at-arakoo1790829998": {
+  "ok": true,
+  "how": "internshala page 200"
+ },
+ "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-penguin-solutions1792413587": {
+  "ok": true,
+  "how": "internshala page 200"
+ },
+ "https://internshala.com/internship/detail/work-from-home-market-research-internship-at-axe-consultancy-and-security-services-llc1791797570": {
+  "ok": true,
+  "how": "internshala page 200"
+ },
+ "https://internshala.com/internship/detail/work-from-home-part-time-llm-multimodal-ai-model-training-internship-at-karanpreet-singh1791889583": {
+  "ok": true,
+  "how": "internshala page 200"
+ },
  "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Intern_R1567860": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---Horizon/Oliver-Wyman---Actuarial-Intern---Life_R_303261-1": {
   "ok": true,
   "how": "workday detail 200, canApply=True"
  },
@@ -110,6 +154,10 @@
  "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Information-Technology-Intern_R000161858": {
   "ok": true,
   "how": "workday detail 200, canApply=True"
+ },
+ "https://southasiacareers.deloitte.com/job/Delhi-Intern-CEO%26apos%3BS-OFFICE-Delhi-CEO%26apos%3Bs-Office/60770544/": {
+  "ok": true,
+  "how": "GET 200"
  },
  "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Operations-Early-Career-Entry-Program_R-799807": {
   "ok": true,
