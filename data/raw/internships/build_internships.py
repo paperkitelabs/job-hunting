@@ -14,6 +14,8 @@ TIERS = {
     "pm": "Product: APM, product analyst and PM interns",
     "analyst": "Data and business analyst interns, other companies",
     "ai": "Data science, AI/ML and forward deployed interns",
+    "swe": "Software engineering interns",
+    "nostip": "Stipend not stated: ask before you apply (your floor is ₹30,000/month)",
 }
 ORDER = list(TIERS)
 MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
@@ -49,9 +51,30 @@ def type_line(o):
     return " · ".join(parts)
 
 
-def load():
+SHEETS = {  # key -> (screen-file glob, tab label, order)
+    "main": ("screen_*.json", "MNCs & top companies", 1),
+    "startups": ("screen-startups*.json", "Startups (₹30k+ stipend)", 2),
+    "swe": ("screen-swe*.json", "Plain roles (software engineering)", 3),
+}
+MIN_STIPEND = 30000
+
+
+def stipend(o):
+    """Monthly stipend in rupees from stipend_inr_month or the pay text ('₹40,000/month', '40k'); None if unstated."""
+    v = o.get("stipend_inr_month")
+    if isinstance(v, (int, float)) and v > 0:
+        return int(v)
+    t = (o.get("pay") or "").lower().replace(",", "")
+    m = re.search(r"(\d+(?:\.\d+)?)\s*(k|l|lakh|lpa)?", t)
+    if not m:
+        return None
+    n = float(m.group(1)) * {"k": 1e3, "l": 1e5, "lakh": 1e5, "lpa": 1e5 / 12}.get(m.group(2) or "", 1)
+    return int(n) if n >= 1000 else None
+
+
+def load(pattern="screen_*.json"):
     openings, rejected, round1, companies = [], [], [], []
-    for f in sorted(glob.glob(os.path.join(HERE, "screen_*.json"))):
+    for f in sorted(glob.glob(os.path.join(HERE, pattern))):
         d = json.load(open(f, encoding="utf-8"))
         for o in d.get("openings", []):
             o["_cluster"] = d.get("cluster", os.path.basename(f))
@@ -62,8 +85,8 @@ def load():
     return openings, rejected, round1, companies
 
 
-def build():
-    openings, rejected, round1, companies = load()
+def build(sheet="main"):
+    openings, rejected, round1, companies = load(SHEETS[sheet][0])
     vpath = os.path.join(HERE, "verify_links.json")
     verified = json.load(open(vpath)) if os.path.exists(vpath) else {}
     seen, jobs = {}, []
@@ -77,12 +100,22 @@ def build():
                              "reason": "closed on final link check: " + verified[o["url"]]["how"]})
             continue
         track = o.get("track") if o.get("track") in TIERS else "analyst"
+        if sheet == "swe":
+            track = "swe"
+        if sheet == "startups":
+            st = stipend(o)
+            if st is not None and st < MIN_STIPEND:
+                rejected.append({"company": o["company"], "role": o["role"], "url": o["url"],
+                                 "reason": f"stipend ₹{st:,}/month is below ₹30,000"})
+                continue
+            if st is None:
+                track = "nostip"
         dl = parse_date(o.get("deadline"))
         tier = "soon" if dl and 0 <= (dl - CHECKED).days <= SOON_DAYS else track
         if dl and dl < CHECKED:
             rejected.append({"company": o["company"], "role": o["role"], "url": o["url"], "reason": "deadline passed"})
             continue
-        resume = "DS / AI" if track == "ai" else "Analyst / PM"
+        resume = "SDE" if sheet == "swe" else "DS / AI" if (o.get("track") == "ai") else "Analyst / PM"
         jid = str(o.get("job_id") or "")
         jobs.append({
             "id": slug(o["company"]) + "-" + (slug(jid) or slug(o["role"])),
@@ -141,25 +174,37 @@ def left_out_text(jobs, rejected, round1, companies):
 
 
 def main():
-    jobs, rejected, round1, companies = build()
-    T = {
-        "edition": "internships-2026-27",
-        "title": "Nov 2026 – May 2027",
-        "checked": f"{CHECKED.day} Oct {CHECKED.year}",
-        "exp_label": "Who can apply",
-        "pay_label": "Stipend (₹/month)",
-        "left_out": left_out_text(jobs, rejected, round1, companies),
-        "tiers": {k: v for k, v in TIERS.items() if any(j["tier"] == k for j in jobs)},
-        "jobs": jobs,
-    }
-    head = ("/* Internship edition of the application tracker: off-campus internships (Nov 2026 – May 2027) at MNCs,\n"
-            "   banks, consulting firms and top Indian companies. Built by data/raw/internships/build_internships.py\n"
-            "   from the round-3 careers-API crawl (screen_*.json). */\n")
     out = os.path.join(ROOT, "data", "applications-internships.js")
-    with open(out, "w", encoding="utf-8") as f:
-        f.write(head + "window.TRACKER = " + json.dumps(T, ensure_ascii=False, indent=1) + ";\n")
-    print(f"{len(jobs)} jobs -> {out}")
-    print(collections.Counter(j["tier"] for j in jobs))
+    files = {"main": out, "startups": out.replace(".js", "-startups.js"), "swe": out.replace(".js", "-swe.js")}
+    blurbs = {
+        "main": "off-campus internships (Nov 2026 – May 2027) at MNCs, banks, consulting firms and top Indian companies",
+        "startups": "internships at well-funded startups and scale-ups paying ₹30,000+/month (or not stating a stipend)",
+        "swe": "software-engineering internships in India, kept separately from the data/AI/product roles",
+    }
+    for sheet, (pattern, tab, order) in SHEETS.items():
+        jobs, rejected, round1, companies = build(sheet)
+        T = {
+            "edition": "internships-2026-27" + ("" if sheet == "main" else "-" + sheet),
+            "tab": tab, "order": order,
+            "title": "Nov 2026 – May 2027",
+            "checked": f"{CHECKED.day} Oct {CHECKED.year}",
+            "exp_label": "Who can apply",
+            "pay_label": "Stipend (₹/month)",
+            "left_out": left_out_text(jobs, rejected, round1, companies) if companies or rejected else "Search in progress.",
+            "tiers": {k: v for k, v in TIERS.items() if any(j["tier"] == k for j in jobs)},
+            "jobs": jobs,
+        }
+        if sheet != "main":
+            T["meta"] = f"{len(jobs)} live openings · every link rechecked {T['checked']}"
+        head = (f"/* Internship tracker, sheet '{tab}': {blurbs[sheet]}.\n"
+                f"   Built by data/raw/internships/build_internships.py from {pattern}. */\n")
+        body = ("window.TRACKER_SHEETS = window.TRACKER_SHEETS || {};\n"
+                f"window.TRACKER_SHEETS[{json.dumps(sheet)}] = " + json.dumps(T, ensure_ascii=False, indent=1) + ";\n")
+        if sheet == "main":
+            body += "window.TRACKER = window.TRACKER_SHEETS.main;\n"
+        with open(files[sheet], "w", encoding="utf-8") as f:
+            f.write(head + body)
+        print(f"{sheet}: {len(jobs)} jobs -> {files[sheet]}", dict(collections.Counter(j["tier"] for j in jobs)))
 
 
 if __name__ == "__main__":

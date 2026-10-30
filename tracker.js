@@ -3,7 +3,21 @@
 (function () {
   "use strict";
 
-  var T = window.TRACKER || { jobs: [], tiers: {} };
+  // A page can carry several sheets (tabs) in window.TRACKER_SHEETS; ?sheet=<key> picks one.
+  var SHEETS = window.TRACKER_SHEETS, T;
+  if (SHEETS) {
+    var keys = Object.keys(SHEETS).sort(function (a, b) { return (SHEETS[a].order || 0) - (SHEETS[b].order || 0); });
+    var want = new URLSearchParams(location.search).get("sheet");
+    var cur = SHEETS[want] ? want : keys[0];
+    T = SHEETS[cur];
+    var tabs = document.getElementById("sheets");
+    if (tabs) tabs.innerHTML = keys.map(function (k) {
+      return '<a href="?sheet=' + k + '"' + (k === cur ? ' aria-current="page"' : '') + '>' +
+        (SHEETS[k].tab || k).replace(/&/g, "&amp;").replace(/</g, "&lt;") + ' <small>' + SHEETS[k].jobs.length + '</small></a>';
+    }).join("");
+  } else {
+    T = window.TRACKER || { jobs: [], tiers: {} };
+  }
   var KEY = "apptracker:" + T.edition;
   var STEPS = [
     ["sent", "Sent LinkedIn request"],
@@ -98,7 +112,7 @@
 
   document.getElementById("edition").textContent = "— " + (T.title || "");
   var nAI = T.jobs.filter(isAI).length;
-  document.getElementById("meta").textContent = T.jobs.length + " live openings (" + (T.jobs.length - nAI) + " analyst & PM, " + nAI +
+  document.getElementById("meta").textContent = T.meta ? T.meta : T.jobs.length + " live openings (" + (T.jobs.length - nAI) + " analyst & PM, " + nAI +
     " data science & AI) · every link rechecked " + T.checked;
   document.getElementById("leftout").textContent = T.left_out || "";
 

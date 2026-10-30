@@ -1,13 +1,15 @@
-/* Internship edition of the application tracker: off-campus internships (Nov 2026 – May 2027) at MNCs,
-   banks, consulting firms and top Indian companies. Built by data/raw/internships/build_internships.py
-   from the round-3 careers-API crawl (screen_*.json). */
-window.TRACKER = {
+/* Internship tracker, sheet 'MNCs & top companies': off-campus internships (Nov 2026 – May 2027) at MNCs, banks, consulting firms and top Indian companies.
+   Built by data/raw/internships/build_internships.py from screen_*.json. */
+window.TRACKER_SHEETS = window.TRACKER_SHEETS || {};
+window.TRACKER_SHEETS["main"] = {
  "edition": "internships-2026-27",
+ "tab": "MNCs & top companies",
+ "order": 1,
  "title": "Nov 2026 – May 2027",
  "checked": "30 Oct 2026",
  "exp_label": "Who can apply",
  "pay_label": "Stipend (₹/month)",
- "left_out": "Crawled the careers sites of 288 employers on 30 Oct 2026. Every link was checked against the employer's own hiring API or job board on that day. Left out 319 India internship postings: 177 outside the role list (sales, HR, finance, ops, design, hardware…); 57 for 2025/2026 graduates or already-graduated candidates; 38 needs a Master's, MBA or PhD; 38 software-engineering interns with no data/AI/product angle; 6 Summer 2027 / penultimate-year programmes; 3 closed or past deadline. Round-1/2 search leads re-checked: 110 not found, 26 closed, 8 matched, 2 live. Stipend is blank where the posting does not state one.",
+ "left_out": "Crawled the careers sites of 343 employers on 30 Oct 2026. Every link was checked against the employer's own hiring API or job board on that day. Left out 319 India internship postings: 177 outside the role list (sales, HR, finance, ops, design, hardware…); 57 for 2025/2026 graduates or already-graduated candidates; 38 needs a Master's, MBA or PhD; 38 software-engineering interns with no data/AI/product angle; 6 Summer 2027 / penultimate-year programmes; 3 closed or past deadline. Round-1/2 search leads re-checked: 110 not found, 26 closed, 8 matched, 2 live. Stipend is blank where the posting does not state one.",
  "tiers": {
   "soon": "Closing soon: apply this week",
   "bfsi": "Banks, financial services and insurance",
@@ -418,3 +420,4 @@ window.TRACKER = {
   }
  ]
 };
+window.TRACKER = window.TRACKER_SHEETS.main;

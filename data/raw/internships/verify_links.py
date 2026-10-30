@@ -69,7 +69,7 @@ def check(url):
 
 def main():
     urls = []
-    for f in sorted(glob.glob(os.path.join(HERE, "screen_*.json"))):
+    for f in sorted(glob.glob(os.path.join(HERE, "screen[_-]*.json"))):
         urls += [o["url"] for o in json.load(open(f, encoding="utf-8")).get("openings", []) if o.get("url")]
     urls = sorted(set(urls))
     with ThreadPoolExecutor(8) as ex:
