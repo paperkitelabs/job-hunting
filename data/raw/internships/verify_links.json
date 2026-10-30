@@ -23,6 +23,22 @@
   "ok": true,
   "how": "GET 200"
  },
+ "https://careers.honeywell.com/en/sites/Honeywell/job/160495": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://careers.honeywell.com/en/sites/Honeywell/job/160859": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://careers.honeywell.com/en/sites/Honeywell/job/160868": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://careers.honeywell.com/en/sites/Honeywell/job/160947": {
+  "ok": true,
+  "how": "GET 200"
+ },
  "https://careers.honeywell.com/en/sites/Honeywell/job/161165": {
   "ok": true,
   "how": "GET 200"
@@ -100,6 +116,14 @@
   "how": "workday detail 200, canApply=True"
  },
  "https://www.quadeye.com/jobs/199893000002318371": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://www.quadeye.com/jobs/199893000002318430": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://www.quadeye.com/jobs/199893000002318440": {
   "ok": true,
   "how": "GET 200"
  }

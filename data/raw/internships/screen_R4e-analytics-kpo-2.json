@@ -16,6 +16,18 @@
    "reason": "Placeholder 'intern' req with no JD ('Shared in email separately'); no role/dates to screen, posted May 2026"
   },
   {
+   "company": "Firstsource",
+   "role": "Apprentice",
+   "url": "https://careers.firstsource.com/job/Bangalore-Apprentice-KA/58454244/",
+   "reason": "BPO apprentice, JD 'To be updated by recruiter'; ops role, no analytics/DS content"
+  },
+  {
+   "company": "Firstsource",
+   "role": "Apprentice",
+   "url": "https://careers.firstsource.com/job/Trichy-Apprentice/59588144/",
+   "reason": "BPO apprentice - US mortgage appraisal document processing, night shift; ops-only"
+  },
+  {
    "company": "Startek",
    "role": "Apprentice - Operations",
    "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11416",
@@ -130,11 +142,11 @@
   },
   {
    "name": "Polestar Solutions",
-   "ats": "",
-   "endpoint": "",
+   "ats": "Own website listing (polestaranalytics.com/career)",
+   "endpoint": "https://www.polestaranalytics.com/career",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "Careers page (server-rendered) shows \"Current Openings (0)\"; no external ATS linked"
   },
   {
    "name": "Indium Software",
@@ -170,19 +182,19 @@
   },
   {
    "name": "Firstsource",
-   "ats": "",
-   "endpoint": "",
-   "india_intern_hits": 0,
+   "ats": "SuccessFactors RMK",
+   "endpoint": "https://careers.firstsource.com/search/?q=<q>&locationsearch=India",
+   "india_intern_hits": 2,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "SuccessFactors RMK India: 41 postings across queries; 2 Apprentice (Bangalore, Trichy) both BPO ops - rejected"
   },
   {
    "name": "Hinduja Global Solutions",
-   "ats": "",
-   "endpoint": "",
+   "ats": "SuccessFactors RMK (careers.joinhgs.com)",
+   "endpoint": "POST https://careers.joinhgs.com/services/recruiting/v1/jobs (hgs.com -> joinhgs.com)",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "RMK board: 55 jobs total, none with an India location (location search India/Mumbai/Bangalore = 0); only trainee-type post is \"Trainee Process Consultant\" (req 4385) = customer-service/troubleshooting role, no India location - not counted"
   },
   {
    "name": "Startek",
@@ -194,11 +206,11 @@
   },
   {
    "name": "Exusia",
-   "ats": "",
-   "endpoint": "",
+   "ats": "None (LinkedIn only)",
+   "endpoint": "https://exusia.com/careers/",
    "india_intern_hits": 0,
    "kept": 0,
-   "note": "pending crawl"
+   "note": "No own ATS: careers page \"Open Positions\" links only to LinkedIn Jobs (aggregator, not allowed); nothing crawlable"
   },
   {
    "name": "Sutherland",

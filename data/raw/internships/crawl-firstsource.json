@@ -1,0 +1,43 @@
+{
+ "company": "Firstsource",
+ "ats": "SuccessFactors RMK",
+ "endpoint": "https://careers.firstsource.com/search/?q=<q>&locationsearch=India",
+ "queried_at": "2026-10-30T13:37:57.551920Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst",
+  "data",
+  "graduate"
+ ],
+ "total_hits": 41,
+ "india_intern_hits": [
+  {
+   "title": "Apprentice",
+   "loc": "Bangalore, KA, IN",
+   "url": "https://careers.firstsource.com/job/Bangalore-Apprentice-KA/58454244/",
+   "posted": "Oct 29, 2026",
+   "id": "58454244"
+  },
+  {
+   "title": "Apprentice",
+   "loc": "Trichy, IN",
+   "url": "https://careers.firstsource.com/job/Trichy-Apprentice/59588144/",
+   "posted": "Oct 7, 2026",
+   "id": "59588144"
+  }
+ ],
+ "details": {
+  "https://careers.firstsource.com/job/Bangalore-Apprentice-KA/58454244/": {
+   "status": 200,
+   "desc": "To be updated by recruiter."
+  },
+  "https://careers.firstsource.com/job/Trichy-Apprentice/59588144/": {
+   "status": 200,
+   "desc": "ABOUT FIRSTSOURCE Firstsource Solutions is a leading provider of customized Business Process Management (BPM) services. Firstsource specialises in helping customers stay ahead of the curve through transformational solutions to reimagine business processes and deliver increased efficiency, deeper insights, and superior outcomes. We are trusted brand custodians and long-term partners to 100+ leading brands with presence in the US, UK, Philippines, Mexico and India. Our ‘rightshore’ delivery model offers solutions covering complete customer lifecycle across Healthcare, Telecommunications & Media and Banking, Financial Services & Insurance verticals. Our clientele includes Fortune 500 and FTSE 100 companies \nDesignation : Associate/Analyst/Sr. Analyst Location : Bangalore/Chennai/Hyderabad/Mumbai Shift : Night Voice/Non Voice Skill : NV Job Summary : Need to check/verify the accuracy and completeness of all appraisal documents and coordinate with the Clients Doc Management Team in order to place a request/obtain an Appraisal and answer queries from the Appraisal Management company. Knowledge, Skills & Ability: 1. Knowledge of the US Mortgage Industry 2. Knowledge of different types of mortgage’s, its functioning and the documents involved in Mortgage Processing 3. Good communication skills (Written and Verbal) are required to understand and update comments and communicate with various stake holders. 4. Strong Customer Service Skills, Detail Oriented with good analytical skills and have the ability to make decisions based on the situation. 5. Should be able to effectively use a computer and have working knowledge of MS Word, MS Excel and PowerPoint Responsibilities : 1. Verify the accuracy and completeness of all origination reports. 2. Identify red flags and notify processor. 3. Review Appraisal status in RealEC 4. Communicate with doc management to get timely status and appraisal documents. 5. Review underwriting conditions and work accordingly. Education Qualifications: 1. Graduation Mandatory Additional Requirements: 1. Minimum of 1year above of work experience in mortgage industry. 2. Willingness to work in Night Shifts based on Client requirement 3. Willingness to work on weekends based on client requirement."
+  }
+ }
+}
