@@ -1,0 +1,596 @@
+{
+ "cluster": "B-asset-mgmt-data-quant",
+ "checked": "30 Oct 2026",
+ "openings": [
+  {
+   "company": "State Street",
+   "role": "Operations Early Career Entry Program",
+   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Operations-Early-Career-Entry-Program_R-799807",
+   "location": "Mumbai / Bengaluru / Pune / Hyderabad / Chennai / Coimbatore",
+   "city_rank": 1,
+   "job_id": "R-799807",
+   "duration": "7 months",
+   "dates": "Jan–Jul 2027",
+   "runs_past_may": true,
+   "exp": "Final-year full-time undergraduates (finance/accounting/economics preferred; other disciplines may apply)",
+   "pay": "",
+   "track": "bfsi",
+   "posted": "2026-10-20",
+   "deadline": "2026-11-13",
+   "jd": "Paid internship in State Street's Global Delivery operations; interns are placed in one team such as fund accounting, derivatives, middle office, pricing, risk analyst (ERM), compliance analyst or data management analyst. Asks for analytical/problem-solving skills, good English and MS Office; 5 days in office.",
+   "li": "State Street Global Delivery",
+   "resume": "Analyst / PM",
+   "verified": "Workday detail 200, canApply true, endDate 2026-11-13",
+   "note": "Ops-heavy programme; only the Risk Analyst / Data Management Analyst placements are on-track and the team is assigned, not chosen. Runs to Jul 2027 (past May)."
+  },
+  {
+   "company": "CRISIL",
+   "role": "Intern",
+   "url": "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026091011292585",
+   "location": "Mumbai",
+   "city_rank": 1,
+   "job_id": "2026091011292585",
+   "duration": "not stated",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "Students pursuing MBA/B.Tech/BBA/B.Com/CA/CFA",
+   "pay": "",
+   "track": "bfsi",
+   "posted": "2026-09-08",
+   "deadline": "",
+   "jd": "Intern in CRISIL's financial-services consulting team doing deep-dive research and data-driven analysis for consulting projects for banks/NBFCs, including regulatory requirements. Skills: Excel, PowerPoint, data analysis, research.",
+   "li": "CRISIL FS Consulting",
+   "resume": "Analyst / PM",
+   "verified": "Zwayam careersite detail API 200 (status=1) and present in live search feed",
+   "note": "Dates not stated"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Intern",
+   "url": "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-202608251030017",
+   "location": "Mumbai",
+   "city_rank": 1,
+   "job_id": "202608251030017",
+   "duration": "not stated",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "Students pursuing BBA/B.Com/CA/CFA (UG/PG)",
+   "pay": "",
+   "track": "bfsi",
+   "posted": "2026-08-25",
+   "deadline": "",
+   "jd": "FS consulting intern doing research and data-driven analysis for bank/NBFC consulting projects and supporting deal origination (fund raise, commercial due diligence). Skills: Excel, PowerPoint, data analysis.",
+   "li": "CRISIL FS Consulting",
+   "resume": "Analyst / PM",
+   "verified": "Zwayam careersite detail API 200 (status=1) and present in live search feed",
+   "note": "B.Tech not listed in eligible degrees (BBA/BCom/CA/CFA); dates not stated"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Intern",
+   "url": "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026093019250125",
+   "location": "Mumbai",
+   "city_rank": 1,
+   "job_id": "2026093019250125",
+   "duration": "not stated",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "MCA / B.E. / MBA (HR); posting shows 1–3 yrs experience field",
+   "pay": "",
+   "track": "analyst",
+   "posted": "2026-09-30",
+   "deadline": "",
+   "jd": "Business-analysis intern for HR Transformation: maps end-to-end HR processes, documents requirements and traceability, designs workflow/'harness engineering' artifacts and analyses HR data for AI-automation-ready solutions with HR, Product and Tech teams.",
+   "li": "CRISIL HR Transformation",
+   "resume": "Analyst / PM",
+   "verified": "Zwayam careersite detail API 200 (status=1) and present in live search feed",
+   "note": "HR-domain business analyst work; experience field 1–3 yrs looks like a template default; dates not stated"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Generative AI Intern",
+   "url": "https://career.crisil.com/crisil/jobview/generative-ai-intern-pune-maharashtra-india-2026012011451279",
+   "location": "Pune",
+   "city_rank": 2,
+   "job_id": "2026012011451279",
+   "duration": "not stated",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "B.Tech",
+   "pay": "",
+   "track": "ai",
+   "posted": "2026-01-06",
+   "deadline": "",
+   "jd": "Builds and tests GenAI applications in Python with LLMs: prompt engineering, data preprocessing, fine-tuning/evaluation and proof-of-concept prototypes. Skills: Python, LLM/transformer basics, OpenAI APIs/Hugging Face, NumPy/Pandas.",
+   "li": "CRISIL GenAI / Technology",
+   "resume": "DS / AI",
+   "verified": "Zwayam careersite detail API 200 (status=1) and present in live search feed",
+   "note": "Posted Jan 2026 but still accepting applications; may be an evergreen req"
+  },
+  {
+   "company": "Quadeye",
+   "role": "Intern - Quant Researcher",
+   "url": "https://www.quadeye.com/jobs/199893000002318371",
+   "location": "Gurugram",
+   "city_rank": 4,
+   "job_id": "199893000002318371",
+   "duration": "not stated",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "Students pursuing an engineering degree in CS or a related quantitative discipline",
+   "pay": "30–50 LPA (annualised band shown on posting)",
+   "track": "ai",
+   "posted": "2026-06-29",
+   "deadline": "",
+   "jd": "Quant strategist intern: researches trading ideas, analyses large market datasets and microstructure, builds and backtests signals/models with researchers and engineers. Asks for strong DSA/OOP, C++/C (Python/R a plus), Linux familiarity and quantitative aptitude.",
+   "li": "Quadeye Quant Research",
+   "resume": "DS / AI",
+   "verified": "Zoho job-openings API lists it (status In-progress) and detail API 200",
+   "note": "Tagged 'Campus: Quant' with target date 2026-09-30 already passed; may be campus/summer cohort — dates not stated"
+  }
+ ],
+ "rejected": [
+  {
+   "company": "State Street",
+   "role": "Project Management Apprenticeship",
+   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Project-Management-Apprenticeship_R-797303",
+   "reason": "Apprenticeship requiring 'B.Tech / MBA graduate' (completed degree); PMO coordination role, Hyderabad; closes 2026-11-06"
+  },
+  {
+   "company": "Morningstar",
+   "role": "Apprentice",
+   "url": "https://morningstar.wd5.myworkdayjobs.com/morningstar/job/Mumbai/Apprentice_REQ-058839",
+   "reason": "Only 2026 non-engineering Bachelor's graduates; BE/B.Tech explicitly not eligible (data ops, Navi Mumbai, ₹22k/month)"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Intern needed in Business Controls Team",
+   "url": "https://career.crisil.com/crisil/jobview/intern-needed-in-business-controls-team-mumbai-maharashtra-india-2026101214550160",
+   "reason": "Internal controls/audit testing; B.Com/M.Com/Inter CA"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Management Trainee",
+   "url": "https://career.crisil.com/crisil/jobview/management-trainee-pune-maharashtra-india-chennai-tamil-nadu-india-2026102114392754",
+   "reason": "Equity research support; requires CA"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Management Trainee",
+   "url": "https://career.crisil.com/crisil/jobview/management-trainee-pune-maharashtra-india-chennai-tamil-nadu-india-2026102114394689",
+   "reason": "Equity research support; requires CA"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Management Trainee",
+   "url": "https://career.crisil.com/crisil/jobview/rating-analyst-gurugram-haryana-india-2026090914500187",
+   "reason": "Rating analyst MT; requires MBA/CA"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Management Trainee",
+   "url": "https://career.crisil.com/crisil/jobview/rating-analyst-gurgaon-haryana-india-2026091520000112",
+   "reason": "Rating analyst MT; requires MBA/CA"
+  },
+  {
+   "company": "CRISIL",
+   "role": "CA internship",
+   "url": "https://career.crisil.com/crisil/jobview/ca-internship-mumbai-maharashtra-india-2026101216250148",
+   "reason": "CA Inter internship (finance)"
+  },
+  {
+   "company": "CRISIL",
+   "role": "CA Industrial Trainee",
+   "url": "https://career.crisil.com/crisil/jobview/ca-industrial-trainee-mumbai-maharashtra-india-2026090909300128",
+   "reason": "CA industrial trainee"
+  },
+  {
+   "company": "CRISIL",
+   "role": "CA Industrial Trainee",
+   "url": "https://career.crisil.com/crisil/jobview/ca-industrial-trainee-mumbai-maharashtra-india-2026090909350151",
+   "reason": "CA industrial trainee"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Intern - People Services",
+   "url": "https://career.crisil.com/crisil/jobview/intern-people-services-mumbai-maharashtra-india-2026073116500117",
+   "reason": "HR operations intern"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Intern - Agri",
+   "url": "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026070810050121",
+   "reason": "Agri market-research field survey; PGDM agribusiness"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Intern",
+   "url": "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026071316550354",
+   "reason": "Placeholder/test posting ('Tester - Please approve')"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Graduate Trainee",
+   "url": "https://career.crisil.com/crisil/jobview/graduate-trainee-mumbai-maharashtra-india-2025121717573084",
+   "reason": "Graduate trainee (completed degree), fixed-income; posted Dec 2025"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Intern",
+   "url": "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-202602051510032",
+   "reason": "Primary survey interviewer (ops); posted Feb 2026"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Intern – Financial services research",
+   "url": "https://career.crisil.com/crisil/jobview/intern-financial-services-research-mumbai-maharashtra-india-2025121218353064",
+   "reason": "Fintech research intern; MBA/CA/CFA students preferred; posted Dec 2025 (stale)"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Apprentice",
+   "url": "https://career.crisil.com/crisil/jobview/retainer-pune-maharashtra-india-2025102813300544",
+   "reason": "Apprentice, financial data extraction; MBA; posted Oct 2025"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Java -Fresher for Integral IQ - Third Party Payroll",
+   "url": "https://career.crisil.com/crisil/jobview/database-resource-for-integral-iq-hyderabad-telangana-india-2025090300564712",
+   "reason": "Java fresher, third-party payroll (SWE, full-time)"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Tester Fresher",
+   "url": "https://career.crisil.com/crisil/jobview/tester-fresher-hyderabad-telangana-india-202510031232102",
+   "reason": "QA tester fresher (full-time)"
+  },
+  {
+   "company": "D. E. Shaw India",
+   "role": "Industrial Trainee - Financial Operations",
+   "url": "https://www.deshawindia.com/careers/industrial-trainee-financial-operations-7003",
+   "reason": "Finance/accounting (P&L, audits, regulatory reporting) industrial trainee"
+  },
+  {
+   "company": "Tower Research Capital",
+   "role": "Intern",
+   "url": "https://www.tower-research.com/open-positions/?gh_jid=8184771",
+   "reason": "Trade-support/monitoring of live trading in shifts (ops), GIFT City; asks 0–2 yrs trading support"
+  },
+  {
+   "company": "Tower Research Capital",
+   "role": "HR Intern",
+   "url": "https://www.tower-research.com/open-positions/?gh_jid=8239067",
+   "reason": "HR; requires MBA (HR)"
+  },
+  {
+   "company": "Graviton Research Capital",
+   "role": "Quantitative Researcher (2027 Graduate)",
+   "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8768396002",
+   "reason": "Full-time 2027-graduate hire, not an internship"
+  },
+  {
+   "company": "Graviton Research Capital",
+   "role": "Quantitative Researcher - 2027 Graduates",
+   "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899670002",
+   "reason": "Full-time 2027-graduate hire, not an internship"
+  },
+  {
+   "company": "Graviton Research Capital",
+   "role": "Software Engineer (2027 Graduate)",
+   "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8764240002",
+   "reason": "Full-time 2027-graduate hire, not an internship"
+  },
+  {
+   "company": "Quadeye",
+   "role": "Intern - Software Developer (Product)",
+   "url": "https://www.quadeye.com/jobs/199893000002318440",
+   "reason": "Pure SWE/systems engineering intern"
+  },
+  {
+   "company": "Quadeye",
+   "role": "Intern - Systems Engineer",
+   "url": "https://www.quadeye.com/jobs/199893000002318430",
+   "reason": "Pure SWE/systems engineering intern"
+  }
+ ],
+ "round1": [
+  {
+   "company": "State Street",
+   "role": "Business Analyst Intern / MIS Analyst Intern / SQL Developer Intern (Bengaluru)",
+   "old_url": "https://myinternships.in/job/state-street-business-analyst-intern-bengaluru-a5bde7",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No such reqs among 248 India postings on Workday Global; aggregator-only"
+  },
+  {
+   "company": "State Street",
+   "role": "Data Analytics / PMO Analytics internship programme (India)",
+   "old_url": "https://www.efinancialcareers.co.uk/jobs/pmo-analytics-summer-internship-programme/in-india",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No analytics/PMO intern req on Workday; nearest live items are Operations Early Career Entry Program (kept) and Project Management Apprenticeship (rejected: grads only)"
+  },
+  {
+   "company": "Fidelity Investments (FMR India)",
+   "role": "Advanced Analytics & NLP Intern (Bengaluru, 3 months)",
+   "old_url": "https://myinternships.in/job/fidelity-investments-is-hiring-advanced-analytics-and-nlp-intern-bengaluru-39a566",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Not on fmr Workday (FidelityCareers/targeted India: 0 intern)"
+  },
+  {
+   "company": "Invesco",
+   "role": "Graduate Engineer Intern (Hyderabad, 2026/2027 batches)",
+   "old_url": "https://www.freshersnow.com/invesco-internship/",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Invesco Workday IVZ has no India intern req; Student/Intern facet has only US/HK roles"
+  },
+  {
+   "company": "Northern Trust",
+   "role": "Intern (Bengaluru)",
+   "old_url": "https://apna.co/job/bengaluru/intern-1774137452",
+   "status": "not_found",
+   "new_url": "",
+   "note": "0 intern postings among 107 India reqs on ntrs Workday"
+  },
+  {
+   "company": "Franklin Templeton",
+   "role": "India Summer Internship / Graduate Trainee programme",
+   "old_url": "https://foundthejob.com/franklin-templeton-internship-program-india/",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Phenom India listing (93 jobs) has no intern/trainee; intern reqs are Tokyo/Singapore/Poznan"
+  },
+  {
+   "company": "BNY",
+   "role": "Data Quality Analyst Intern (Chennai)",
+   "old_url": "https://myinternships.in/job/bny-data-quality-analyst-intern-chennai-ffbf05",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Not among 140 live India reqs on Oracle BNY-Careers"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Generative AI Intern",
+   "old_url": "https://career.crisil.com/crisil/jobview/generative-ai-intern-pune-maharashtra-india-2026012011451279",
+   "status": "live",
+   "new_url": "",
+   "note": "Detail API 200 status=1"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Intern",
+   "old_url": "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026061511050140",
+   "status": "closed",
+   "new_url": "",
+   "note": "Detail API 404 'This job is no longer accepting applications'"
+  },
+  {
+   "company": "Moody's",
+   "role": "Exposure Modelling Summer Intern / Geospatial Summer Intern (Noida)",
+   "old_url": "https://careers.moodys.com/en/category/graduate-and-interns-jobs/49841/9383648/1",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No Noida/India intern in live search (only London 'Analytics and Modeling Intern - Coastal Flood')"
+  },
+  {
+   "company": "Deloitte India (Deloitte Shared Services India LLP)",
+   "role": "EA - Information Technology - Intern - Bengaluru Eco space",
+   "old_url": "https://southasiacareers.deloitte.com/job/Bengaluru-Eco-space-EA-Information-Technology-Intern-Bengaluru-Eco-space/58741244/",
+   "status": "closed",
+   "new_url": "",
+   "note": "Filed under ICE in pack; page now says 'Sorry, this position has been filled.'"
+  }
+ ],
+ "companies": [
+  {
+   "name": "BlackRock",
+   "ats": "workday",
+   "endpoint": "https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professional/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday BlackRock_Professional: 271 postings (global, no India facet); 0 India intern/trainee; India campus hiring not on this board"
+  },
+  {
+   "name": "State Street",
+   "ats": "workday",
+   "endpoint": "https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs",
+   "india_intern_hits": 2,
+   "kept": 1,
+   "note": "Workday Global, India facet: 248 India postings; 2 early-career hits"
+  },
+  {
+   "name": "Invesco",
+   "ats": "workday",
+   "endpoint": "https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday IVZ: 213 global; Student/Intern facet = 5, all US/HK; 0 India intern"
+  },
+  {
+   "name": "Morningstar",
+   "ats": "workday",
+   "endpoint": "https://morningstar.wd5.myworkdayjobs.com/wday/cxs/morningstar/Morningstar/jobs",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "Workday Morningstar, India facet: 40 India; 1 Apprentice (2026 non-engineering grads only)"
+  },
+  {
+   "name": "S&P Global",
+   "ats": "workday",
+   "endpoint": "https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/SPGI_Careers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday SPGI_Careers, India facet: 57 India; 0 intern/trainee"
+  },
+  {
+   "name": "Nasdaq",
+   "ats": "workday",
+   "endpoint": "https://nasdaq.wd1.myworkdayjobs.com/wday/cxs/nasdaq/Global_External_Site/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday Global_External_Site, India facet: 37 India; 0 intern"
+  },
+  {
+   "name": "LSEG",
+   "ats": "workday",
+   "endpoint": "https://lseg.wd3.myworkdayjobs.com/wday/cxs/lseg/Careers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday lseg/Careers, India facet: 204 India; 0 intern/trainee"
+  },
+  {
+   "name": "Broadridge",
+   "ats": "workday",
+   "endpoint": "https://broadridge.wd5.myworkdayjobs.com/wday/cxs/broadridge/Careers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday broadridge/Careers, India facet: 27 India; 0 intern"
+  },
+  {
+   "name": "Northern Trust",
+   "ats": "workday",
+   "endpoint": "https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday ntrs/northerntrust (careers.northerntrust.com redirects here), India facet: 107 India; 0 intern/trainee"
+  },
+  {
+   "name": "Fidelity Investments (FMR India)",
+   "ats": "workday",
+   "endpoint": "https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/FidelityCareers/jobs",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "Workday fmr/FidelityCareers (+targeted site): 12+1 India postings; 0 intern. jobs.fidelity.com/in returns 403"
+  },
+  {
+   "name": "Fidelity International",
+   "ats": "workday",
+   "endpoint": "https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/001/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday fil/001, India facet: 10 India, 0 intern; early-careers board fidelityinternational.tal.net lists no India programmes"
+  },
+  {
+   "name": "FactSet",
+   "ats": "workday",
+   "endpoint": "https://factset.wd108.myworkdayjobs.com/wday/cxs/factset/FactSetCareers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday factset.wd108/FactSetCareers: 99 global (Hyderabad tech roles), 0 India intern; intern rows are Europe/US/APAC"
+  },
+  {
+   "name": "BNY",
+   "ats": "oracle",
+   "endpoint": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "BNY moved off Eightfold (bnymellon.eightfold.ai 404s) to Oracle site BNY-Careers; full India list = 140 (Pune/Chennai), 0 intern/trainee/programme"
+  },
+  {
+   "name": "Franklin Templeton",
+   "ats": "phenom/workday",
+   "endpoint": "https://careers.franklintempleton.com/widgets",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Phenom India filter: 93 jobs (Hyderabad/Mumbai), 0 intern/trainee; India summer interns recruited via campus"
+  },
+  {
+   "name": "CRISIL",
+   "ats": "zwayam",
+   "endpoint": "https://public.zwayam.com/jobs/search (companyId MTU0Mzg=)",
+   "india_intern_hits": 21,
+   "kept": 4,
+   "note": "Full board 621 jobs crawled; every intern/trainee JD read via careersite API"
+  },
+  {
+   "name": "Moody's",
+   "ats": "radancy",
+   "endpoint": "https://careers.moodys.com/en/search-jobs/results",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "30 intern postings globally (US/UK/Costa Rica/APAC), none in India; 45 India rows are full-time"
+  },
+  {
+   "name": "Fitch Group",
+   "ats": "successfactors",
+   "endpoint": "https://careers.fitch.group/go/View-All-Jobs/8883701/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Full board 322 jobs, only 1 India (Mumbai AD/Director); interns only Bogota/Santiago"
+  },
+  {
+   "name": "MSCI",
+   "ats": "icims/algolia",
+   "endpoint": "careers.msci.com Algolia index production__mscicare2201__sort-rank",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Full index 129 jobs, 22 India (Mumbai/Pune/Coimbatore), 0 intern"
+  },
+  {
+   "name": "ICE",
+   "ats": "jibe/icims",
+   "endpoint": "https://careers.ice.com/api/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "54 India jobs (Pune/Hyderabad), 0 intern; 2027 summer intern programme is US/UK only"
+  },
+  {
+   "name": "Bloomberg",
+   "ats": "avature",
+   "endpoint": "https://bloomberg.avature.net/careers/SearchJobs/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Full board 329 jobs, 12 India (Pune/Mumbai, experienced), 0 intern"
+  },
+  {
+   "name": "D. E. Shaw India",
+   "ats": "custom",
+   "endpoint": "https://www.deshawindia.com/careers",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "76 postings; only trainee is Financial Operations (fund accounting/MCA); internships via campus only"
+  },
+  {
+   "name": "Tower Research Capital",
+   "ats": "greenhouse",
+   "endpoint": "towerresearchcapital",
+   "india_intern_hits": 2,
+   "kept": 0,
+   "note": "98 jobs, 13 India; 2 intern postings both off-track"
+  },
+  {
+   "name": "Graviton Research Capital",
+   "ats": "greenhouse",
+   "endpoint": "gravitonresearchcapital",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "22 jobs, 13 India; no intern; 2027-graduate roles are full-time"
+  },
+  {
+   "name": "Quadeye",
+   "ats": "zoho recruit",
+   "endpoint": "https://www.quadeye.com/api/zoho-recruit/job-openings",
+   "india_intern_hits": 3,
+   "kept": 1,
+   "note": "25 openings; 3 Gurgaon internships (1 kept)"
+  },
+  {
+   "name": "Optiver",
+   "ats": "custom",
+   "endpoint": "https://www.optiver.com/en/api/v1/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "162 jobs globally, 4 Mumbai (experienced), 0 India intern"
+  },
+  {
+   "name": "Arcesium",
+   "ats": "unknown",
+   "endpoint": "https://www.arcesium.com/careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHED: careers site answers HTTP 429 to every request; no Greenhouse/Lever/Ashby/Workday tenant found; needs a manual/browser check"
+  }
+ ]
+}

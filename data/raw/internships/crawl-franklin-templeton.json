@@ -1,0 +1,13 @@
+{
+ "company": "Franklin Templeton",
+ "ats": "phenom (Workday Primary-External-1 behind)",
+ "endpoint": "https://careers.franklintempleton.com/widgets (refineSearch, country=India)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "(all India)",
+  "intern"
+ ],
+ "total_hits": 93,
+ "india_intern_hits": [],
+ "details": {}
+}

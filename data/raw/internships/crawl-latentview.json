@@ -1,0 +1,11 @@
+{
+ "company": "LatentView Analytics",
+ "ats": "darwinbox",
+ "endpoint": "https://latentview.darwinbox.in/ms/candidateapi/job",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Darwinbox API behind Cloudflare challenge (403); not crawled"
+}

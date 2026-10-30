@@ -1,0 +1,13 @@
+{
+ "company": "dunnhumby",
+ "ats": "greenhouse",
+ "endpoint": "https://boards-api.greenhouse.io/v1/boards/dunnhumby/jobs?content=true",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "<whole board>"
+ ],
+ "total_hits": 59,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "14 India (Gurgaon) postings, none intern"
+}

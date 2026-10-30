@@ -1,0 +1,12 @@
+{
+ "company": "Optiver",
+ "ats": "custom",
+ "endpoint": "https://www.optiver.com/en/api/v1/jobs?location=mumbai",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "location=mumbai"
+ ],
+ "total_hits": 4,
+ "india_intern_hits": [],
+ "details": {}
+}

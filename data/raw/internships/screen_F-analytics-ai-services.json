@@ -1,0 +1,664 @@
+{
+ "cluster": "F-analytics-ai-services",
+ "checked": "30 Oct 2026",
+ "openings": [
+  {
+   "company": "IQVIA",
+   "role": "Intern (Software Engineer Intern - Product Engineering, AI & Test Automation)",
+   "url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Intern_R1567860",
+   "location": "Bengaluru / Gurugram",
+   "city_rank": 3,
+   "job_id": "R1567860",
+   "duration": "not stated",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "pursuing or recently completed Bachelor's/Master's in CS, IT, AI, Data Science or related",
+   "pay": "",
+   "track": "ai",
+   "posted": "2026-10-30",
+   "deadline": "2026-11-03",
+   "jd": "Build AI-powered enterprise apps with LLMs, agentic AI, prompt engineering and RAG; FastAPI backend services, REST APIs and automated test frameworks. Needs strong Python and SQL; LangChain/LangGraph, Azure OpenAI/AWS Bedrock exposure preferred.",
+   "li": "IQVIA Product Engineering (India)",
+   "resume": "DS / AI",
+   "verified": "Workday cxs detail 200, canApply true, posted 2026-10-30",
+   "note": "Posting closes 3 Nov 2026, so apply now. Mixes GenAI work with SWE/test automation."
+  },
+  {
+   "company": "Genpact",
+   "role": "Interns",
+   "url": "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-E-145146-Sitapura-STPI-Jaipur/Interns_JR10031092-1",
+   "location": "Jaipur",
+   "city_rank": 4,
+   "job_id": "JR10031092",
+   "duration": "not stated (fixed-term Industrial Intern/Trainee)",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "currently pursuing a bachelor's or master's in business, finance, computer science, engineering or related field",
+   "pay": "",
+   "track": "analyst",
+   "posted": "2026-10-20",
+   "deadline": "2026-12-01",
+   "jd": "Generic Genpact intern pool: assist in business strategy, market research and trend analysis, project-management support, reports and presentations for leadership. Asks for analytical skills and MS Office; Power BI/Tableau/Google Data Analytics certifications listed.",
+   "li": "Genpact India campus hiring",
+   "resume": "Analyst / PM",
+   "verified": "Workday cxs detail 200, canApply true (30 Oct 2026)",
+   "note": "Office: 1401-G-India: E-145/146, Sitapura, STPI, Jaipur. One of 9 near-identical 'Interns' reqs across Indian cities; generic JD, likely ops/delivery-centre intern pool; potential full-time conversion."
+  },
+  {
+   "company": "Genpact",
+   "role": "Interns",
+   "url": "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-JLN-Marg-STPI-Jaipur/Interns_JR10031397-1",
+   "location": "Jaipur",
+   "city_rank": 4,
+   "job_id": "JR10031397",
+   "duration": "not stated (fixed-term Industrial Intern/Trainee)",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "currently pursuing a bachelor's or master's in business, finance, computer science, engineering or related field",
+   "pay": "",
+   "track": "analyst",
+   "posted": "2026-10-20",
+   "deadline": "2026-12-01",
+   "jd": "Generic Genpact intern pool: assist in business strategy, market research and trend analysis, project-management support, reports and presentations for leadership. Asks for analytical skills and MS Office; Power BI/Tableau/Google Data Analytics certifications listed.",
+   "li": "Genpact India campus hiring",
+   "resume": "Analyst / PM",
+   "verified": "Workday cxs detail 200, canApply true (30 Oct 2026)",
+   "note": "Office: 1401-G-India: JLN Marg, STPI, Jaipur. One of 9 near-identical 'Interns' reqs across Indian cities; generic JD, likely ops/delivery-centre intern pool; potential full-time conversion."
+  },
+  {
+   "company": "Genpact",
+   "role": "Interns",
+   "url": "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-Indiabulls-Mega-Mall-Jodhpur-RJ/Interns_JR10031221-1",
+   "location": "Jodhpur",
+   "city_rank": 4,
+   "job_id": "JR10031221",
+   "duration": "not stated (fixed-term Industrial Intern/Trainee)",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "currently pursuing a bachelor's or master's in business, finance, computer science, engineering or related field",
+   "pay": "",
+   "track": "analyst",
+   "posted": "2026-10-20",
+   "deadline": "2026-12-01",
+   "jd": "Generic Genpact intern pool: assist in business strategy, market research and trend analysis, project-management support, reports and presentations for leadership. Asks for analytical skills and MS Office; Power BI/Tableau/Google Data Analytics certifications listed.",
+   "li": "Genpact India campus hiring",
+   "resume": "Analyst / PM",
+   "verified": "Workday cxs detail 200, canApply true (30 Oct 2026)",
+   "note": "Office: 1401-G-India: Indiabulls Mega Mall, Jodhpur, RJ. One of 9 near-identical 'Interns' reqs across Indian cities; generic JD, likely ops/delivery-centre intern pool; potential full-time conversion."
+  },
+  {
+   "company": "Genpact",
+   "role": "Interns",
+   "url": "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Interns_JR10030422",
+   "location": "Hyderabad",
+   "city_rank": 4,
+   "job_id": "JR10030422",
+   "duration": "not stated (fixed-term Industrial Intern/Trainee)",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "currently pursuing a bachelor's or master's in business, finance, computer science, engineering or related field",
+   "pay": "",
+   "track": "analyst",
+   "posted": "2026-10-29",
+   "deadline": "2026-12-31",
+   "jd": "Generic Genpact intern pool: assist in business strategy, market research and trend analysis, project-management support, reports and presentations for leadership. Asks for analytical skills and MS Office; Power BI/Tableau/Google Data Analytics certifications listed.",
+   "li": "Genpact India campus hiring",
+   "resume": "Analyst / PM",
+   "verified": "Workday cxs detail 200, canApply true (30 Oct 2026)",
+   "note": "Office: 1401-G-India: Floor 1 to 12, Hafeezpet Phoenix, Hyderabad. One of 9 near-identical 'Interns' reqs across Indian cities; generic JD, likely ops/delivery-centre intern pool; potential full-time conversion."
+  },
+  {
+   "company": "Genpact",
+   "role": "Interns",
+   "url": "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-14-45-Uppal-STPI-Hyderabad/Interns_JR10025121",
+   "location": "Hyderabad",
+   "city_rank": 4,
+   "job_id": "JR10025121",
+   "duration": "not stated (fixed-term Industrial Intern/Trainee)",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "currently pursuing a bachelor's or master's in business, finance, computer science, engineering or related field",
+   "pay": "",
+   "track": "analyst",
+   "posted": "2026-10-29",
+   "deadline": "2026-12-24",
+   "jd": "Generic Genpact intern pool: assist in business strategy, market research and trend analysis, project-management support, reports and presentations for leadership. Asks for analytical skills and MS Office; Power BI/Tableau/Google Data Analytics certifications listed.",
+   "li": "Genpact India campus hiring",
+   "resume": "Analyst / PM",
+   "verified": "Workday cxs detail 200, canApply true (30 Oct 2026)",
+   "note": "Office: 1401-G-India: 14-45, Uppal, STPI, Hyderabad. One of 9 near-identical 'Interns' reqs across Indian cities; generic JD, likely ops/delivery-centre intern pool; potential full-time conversion."
+  },
+  {
+   "company": "Genpact",
+   "role": "Interns",
+   "url": "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-Stellar-STPI-Noida/Interns_JR10028115",
+   "location": "Noida",
+   "city_rank": 4,
+   "job_id": "JR10028115",
+   "duration": "not stated (fixed-term Industrial Intern/Trainee)",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "currently pursuing a bachelor's or master's in business, finance, computer science, engineering or related field",
+   "pay": "",
+   "track": "analyst",
+   "posted": "2026-10-29",
+   "deadline": "2026-12-25",
+   "jd": "Generic Genpact intern pool: assist in business strategy, market research and trend analysis, project-management support, reports and presentations for leadership. Asks for analytical skills and MS Office; Power BI/Tableau/Google Data Analytics certifications listed.",
+   "li": "Genpact India campus hiring",
+   "resume": "Analyst / PM",
+   "verified": "Workday cxs detail 200, canApply true (30 Oct 2026)",
+   "note": "Office: 1401-G-India: Stellar, STPI, Noida. One of 9 near-identical 'Interns' reqs across Indian cities; generic JD, likely ops/delivery-centre intern pool; potential full-time conversion."
+  },
+  {
+   "company": "Genpact",
+   "role": "Interns",
+   "url": "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-14-45-Uppal-STPI-Hyderabad/Interns_JR10025124",
+   "location": "Hyderabad",
+   "city_rank": 4,
+   "job_id": "JR10025124",
+   "duration": "not stated (fixed-term Industrial Intern/Trainee)",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "currently pursuing a bachelor's or master's in business, finance, computer science, engineering or related field",
+   "pay": "",
+   "track": "analyst",
+   "posted": "2026-10-23",
+   "deadline": "2026-12-31",
+   "jd": "Generic Genpact intern pool: assist in business strategy, market research and trend analysis, project-management support, reports and presentations for leadership. Asks for analytical skills and MS Office; Power BI/Tableau/Google Data Analytics certifications listed.",
+   "li": "Genpact India campus hiring",
+   "resume": "Analyst / PM",
+   "verified": "Workday cxs detail 200, canApply true (30 Oct 2026)",
+   "note": "Office: 1401-G-India: 14-45, Uppal, STPI, Hyderabad. One of 9 near-identical 'Interns' reqs across Indian cities; generic JD, likely ops/delivery-centre intern pool; potential full-time conversion."
+  },
+  {
+   "company": "Genpact",
+   "role": "Interns",
+   "url": "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-14-45-Uppal-STPI-Hyderabad/Interns_JR10025122",
+   "location": "Hyderabad",
+   "city_rank": 4,
+   "job_id": "JR10025122",
+   "duration": "not stated (fixed-term Industrial Intern/Trainee)",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "currently pursuing a bachelor's or master's in business, finance, computer science, engineering or related field",
+   "pay": "",
+   "track": "analyst",
+   "posted": "2026-10-16",
+   "deadline": "2026-12-31",
+   "jd": "Generic Genpact intern pool: assist in business strategy, market research and trend analysis, project-management support, reports and presentations for leadership. Asks for analytical skills and MS Office; Power BI/Tableau/Google Data Analytics certifications listed.",
+   "li": "Genpact India campus hiring",
+   "resume": "Analyst / PM",
+   "verified": "Workday cxs detail 200, canApply true (30 Oct 2026)",
+   "note": "Office: 1401-G-India: 14-45, Uppal, STPI, Hyderabad. One of 9 near-identical 'Interns' reqs across Indian cities; generic JD, likely ops/delivery-centre intern pool; potential full-time conversion."
+  },
+  {
+   "company": "Genpact",
+   "role": "Interns",
+   "url": "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-14-45-Uppal-STPI-Hyderabad/Interns_JR10025125",
+   "location": "Hyderabad",
+   "city_rank": 4,
+   "job_id": "JR10025125",
+   "duration": "not stated (fixed-term Industrial Intern/Trainee)",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "currently pursuing a bachelor's or master's in business, finance, computer science, engineering or related field",
+   "pay": "",
+   "track": "analyst",
+   "posted": "2026-10-13",
+   "deadline": "2026-11-30",
+   "jd": "Generic Genpact intern pool: assist in business strategy, market research and trend analysis, project-management support, reports and presentations for leadership. Asks for analytical skills and MS Office; Power BI/Tableau/Google Data Analytics certifications listed.",
+   "li": "Genpact India campus hiring",
+   "resume": "Analyst / PM",
+   "verified": "Workday cxs detail 200, canApply true (30 Oct 2026)",
+   "note": "Office: 1401-G-India: 14-45, Uppal, STPI, Hyderabad. One of 9 near-identical 'Interns' reqs across Indian cities; generic JD, likely ops/delivery-centre intern pool; potential full-time conversion."
+  }
+ ],
+ "rejected": [
+  {
+   "company": "Fractal Analytics",
+   "role": "CA Industrial Trainee",
+   "url": "https://fractal.wd1.myworkdayjobs.com/Careers/job/Mumbai/CA-Industrial-Trainee_SR-46509",
+   "reason": "finance/accounting: for people pursuing CA (Ind AS, audits, GST)"
+  },
+  {
+   "company": "Sigmoid",
+   "role": "Industrial Trainee - Finance & Accounting",
+   "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8713069002",
+   "reason": "finance/accounting-only industrial trainee"
+  },
+  {
+   "company": "Tiger Analytics",
+   "role": "X-Ops Trainee - Campus - 2027 Hiring",
+   "url": "https://careers.tigeranalytics.com/#!/job-view/x-ops-trainee-campus-2027-hiring-chennai-tamil-nadu-india-2026093012572964",
+   "reason": "closed (Zwayam: no longer accepting applications); ops trainee, full-time campus hire, not an internship"
+  }
+ ],
+ "round1": [
+  {
+   "company": "Fractal Analytics",
+   "role": "Product Analytics Intern (Bengaluru)",
+   "old_url": "https://myinternships.in/internships/fractal-analytics-is-hiring-product-analytics-intern-bengaluru-bb751c",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Fractal Workday (121 global reqs): only intern-type req is CA Industrial Trainee"
+  },
+  {
+   "company": "Fractal Analytics",
+   "role": "Product Analyst Intern (Bengaluru)",
+   "old_url": "https://myinternships.in/job/fractal-analytics-product-analyst-intern-bengaluru-c6cbde",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Fractal Workday (121 global reqs): only intern-type req is CA Industrial Trainee"
+  },
+  {
+   "company": "Fractal Analytics",
+   "role": "Consultant Intern - Data Science Pipeline (Bengaluru)",
+   "old_url": "https://myinternships.in/internships/fractal-analytics-is-hiring-consultant-intern-data-science-pipeline-bengaluru-52df44",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Fractal Workday (121 global reqs): only intern-type req is CA Industrial Trainee"
+  },
+  {
+   "company": "Fractal Analytics",
+   "role": "Machine Learning Intern (Hyderabad)",
+   "old_url": "https://myinternships.in/internships/fractal-analytics-is-hiring-machine-learning-intern-hyderabad-a7f676",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Fractal Workday (121 global reqs): only intern-type req is CA Industrial Trainee"
+  },
+  {
+   "company": "Fractal Analytics",
+   "role": "Analytics Consultant Intern (Bengaluru)",
+   "old_url": "https://myinternships.in/job/fractal-analytics-analytics-consultant-intern-bengaluru-d63189",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Fractal Workday (121 global reqs): only intern-type req is CA Industrial Trainee"
+  },
+  {
+   "company": "Tiger Analytics",
+   "role": "Data Scientist Intern (ML Engineering), Bengaluru",
+   "old_url": "https://myinternships.in/internships/tiger-analytics-is-hiring-data-scientist-intern-ml-engineering-bengaluru-39a536",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Zwayam India board (116) has no intern; Workable is US/CA only"
+  },
+  {
+   "company": "Tiger Analytics",
+   "role": "Data Analyst Intern",
+   "old_url": "https://jobs.weekday.works/tiger-analytics-data-analyst-intern",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Zwayam India board (116) has no intern; Workable is US/CA only"
+  },
+  {
+   "company": "Tiger Analytics",
+   "role": "AI/ML Research Intern (Delhi)",
+   "old_url": "https://myinternships.in/internships/tiger-analytics-is-hiring-ai-ml-research-intern-delhi-6b80df",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Zwayam India board (116) has no intern; Workable is US/CA only"
+  },
+  {
+   "company": "LatentView Analytics",
+   "role": "Data Analyst Intern (Bengaluru)",
+   "old_url": "https://myinternships.in/job/latentview-analytics-data-analyst-intern-bengaluru-af8ab1",
+   "status": "not_found",
+   "new_url": "",
+   "note": "could not check: Darwinbox API blocked by Cloudflare"
+  },
+  {
+   "company": "LatentView Analytics",
+   "role": "Product Analyst Intern (Bengaluru)",
+   "old_url": "https://myinternships.in/job/latentview-analytics-product-analyst-intern-bengaluru-2cbd21",
+   "status": "not_found",
+   "new_url": "",
+   "note": "could not check: Darwinbox API blocked by Cloudflare"
+  },
+  {
+   "company": "LatentView Analytics",
+   "role": "Analytics Consultant Intern (Bengaluru)",
+   "old_url": "https://myinternships.in/job/latentview-analytics-analytics-consultant-intern-bengaluru-a4db3f",
+   "status": "not_found",
+   "new_url": "",
+   "note": "could not check: Darwinbox API blocked by Cloudflare"
+  },
+  {
+   "company": "LatentView Analytics",
+   "role": "Data Science Intern (Nagpur)",
+   "old_url": "https://myinternships.in/job/latentview-analytics-data-science-intern-nagpur-4c33d5",
+   "status": "not_found",
+   "new_url": "",
+   "note": "could not check: Darwinbox API blocked by Cloudflare"
+  },
+  {
+   "company": "LatentView Analytics",
+   "role": "Business Analyst Intern (Delhi)",
+   "old_url": "https://myinternships.in/job/latentview-analytics-business-analyst-intern-delhi-9177e1",
+   "status": "not_found",
+   "new_url": "",
+   "note": "could not check: Darwinbox API blocked by Cloudflare"
+  },
+  {
+   "company": "Tredence",
+   "role": "Data Science Intern (Bengaluru)",
+   "old_url": "https://myinternships.in/job/tredence-is-hiring-data-science-intern-bengaluru-166nhu",
+   "status": "not_found",
+   "new_url": "",
+   "note": "RippleHire board (45 live) has no intern"
+  },
+  {
+   "company": "Tredence",
+   "role": "Machine Learning Intern (Bengaluru)",
+   "old_url": "https://myinternships.in/job/tredence-is-hiring-machine-learning-intern-bengaluru-1bqlka",
+   "status": "not_found",
+   "new_url": "",
+   "note": "RippleHire board (45 live) has no intern"
+  },
+  {
+   "company": "Tredence",
+   "role": "Data Analyst Intern (Bengaluru)",
+   "old_url": "https://myinternships.in/job/tredence-is-hiring-data-analyst-intern-bengaluru-17k50g",
+   "status": "not_found",
+   "new_url": "",
+   "note": "RippleHire board (45 live) has no intern"
+  },
+  {
+   "company": "Quantiphi",
+   "role": "Data Analyst Intern (Bengaluru)",
+   "old_url": "https://myinternships.in/internships/quantiphi-is-hiring-data-analyst-intern-bengaluru-57f142",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Workday 78 global reqs; only intern is US facilities"
+  },
+  {
+   "company": "Quantiphi",
+   "role": "Business Analyst Intern (Bengaluru)",
+   "old_url": "https://myinternships.in/job/quantiphi-is-hiring-business-analyst-intern-bengaluru-2oaafq",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Workday 78 global reqs; only intern is US facilities"
+  },
+  {
+   "company": "Quantiphi",
+   "role": "Data Science Intern (Jaipur)",
+   "old_url": "https://myinternships.in/job/quantiphi-is-hiring-data-science-intern-jaipur-b5f3a6",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Workday 78 global reqs; only intern is US facilities"
+  },
+  {
+   "company": "Genpact",
+   "role": "Interns",
+   "old_url": "https://genpact.wd108.myworkdayjobs.com/en-US/campussite/job/Interns_JR10012377",
+   "status": "closed",
+   "new_url": "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Interns_JR10030422",
+   "note": "JR10012377 no longer listed; 9 current 'Interns' reqs live (see openings)"
+  },
+  {
+   "company": "Genpact",
+   "role": "Interns (Gurugram, fixed term)",
+   "old_url": "https://www.talentd.in/jobs/genpact-gurgaon-hiring-interns-fixed-term-apply-now",
+   "status": "not_found",
+   "new_url": "",
+   "note": "no Gurugram Interns req live; nearest is Noida JR10028115"
+  },
+  {
+   "company": "Genpact",
+   "role": "Interns (Noida, hybrid)",
+   "old_url": "https://www.talentd.in/jobs/career-interns-at-genpact-noida-hybrid-apply-now",
+   "status": "matched",
+   "new_url": "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-Stellar-STPI-Noida/Interns_JR10028115",
+   "note": "JR10028115"
+  },
+  {
+   "company": "Genpact",
+   "role": "Interns (Hyderabad, fixed-term trainee)",
+   "old_url": "https://www.talentd.in/jobs/genpact-hiring-interns-in-hyderabad-fixed-term-trainee-role",
+   "status": "matched",
+   "new_url": "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-14-45-Uppal-STPI-Hyderabad/Interns_JR10025124",
+   "note": "JR10025124 ends 2026-12-31; other Hyderabad reqs JR10025121/22/25, JR10030422"
+  },
+  {
+   "company": "Genpact",
+   "role": "Business Interns (Jaipur)",
+   "old_url": "https://www.talentd.in/jobs/genpact-is-hiring-business-interns-in-jaipur-india",
+   "status": "matched",
+   "new_url": "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-E-145146-Sitapura-STPI-Jaipur/Interns_JR10031092-1",
+   "note": "Jaipur Interns JR10031092 / JR10031397"
+  },
+  {
+   "company": "IQVIA",
+   "role": "Intern - Engineering Graduate (SCION Delivery Platform)",
+   "old_url": "https://jobs.iqvia.com/en/jobs/R1549869-0",
+   "status": "closed",
+   "new_url": "",
+   "note": "jobs.iqvia.com 410 Gone; Workday 404"
+  },
+  {
+   "company": "IQVIA",
+   "role": "Intern (posting 72500122176)",
+   "old_url": "https://jobs.iqvia.com/es/trabajo/-/intern/29974/72500122176",
+   "status": "not_found",
+   "new_url": "",
+   "note": "old URL format; not on live board"
+  },
+  {
+   "company": "IQVIA",
+   "role": "Intern Analyst (Campus), Bengaluru",
+   "old_url": "https://builtinbengaluru.in/job/intern-analyst-campus/4551931",
+   "status": "not_found",
+   "new_url": "",
+   "note": "only India intern live is R1567860 (SWE/AI)"
+  },
+  {
+   "company": "IQVIA",
+   "role": "Market Research Intern (Gurgaon/Bangalore)",
+   "old_url": "https://careers-ust.prosple.com/graduate-employers/iqvia-india/jobs-internships/market-research-intern",
+   "status": "not_found",
+   "new_url": "",
+   "note": ""
+  },
+  {
+   "company": "IQVIA",
+   "role": "Intern (Gurgaon) R1451432",
+   "old_url": "",
+   "status": "not_found",
+   "new_url": "",
+   "note": "not in Workday"
+  },
+  {
+   "company": "IQVIA",
+   "role": "AI Technology Intern / Analytics Specialist",
+   "old_url": "https://www.hitechplus.in/2026/08/iqvia-hiring-2026-analytics-specialist.html",
+   "status": "matched",
+   "new_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Intern_R1567860",
+   "note": "closest live: R1567860 Intern (SWE/AI, Bengaluru/Gurugram)"
+  },
+  {
+   "company": "NielsenIQ",
+   "role": "Intern - Consumer Insights (India)",
+   "old_url": "https://kalingauniversity.prosple.com/graduate-employers/nielseniq-india/jobs-internships/intern-consumer-insights",
+   "status": "not_found",
+   "new_url": "",
+   "note": "SmartRecruiters India 65 postings, no intern"
+  }
+ ],
+ "companies": [
+  {
+   "name": "Fractal Analytics",
+   "ats": "workday",
+   "endpoint": "https://fractal.wd1.myworkdayjobs.com/wday/cxs/fractal/Careers/jobs",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "121 global reqs; only intern is CA Industrial Trainee (rejected)"
+  },
+  {
+   "name": "Mu Sigma",
+   "ats": "none",
+   "endpoint": "https://www.mu-sigma.com/career/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "no job listing; email applications only"
+  },
+  {
+   "name": "Tiger Analytics",
+   "ats": "zwayam + workable",
+   "endpoint": "https://public.zwayam.com/jobs/search (companyId 16201)",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "116 live India jobs, none intern; X-Ops Trainee closed"
+  },
+  {
+   "name": "LatentView Analytics",
+   "ats": "darwinbox",
+   "endpoint": "https://latentview.darwinbox.in/ms/candidateapi/job",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHED: Darwinbox API behind Cloudflare challenge"
+  },
+  {
+   "name": "Tredence",
+   "ats": "ripplehire",
+   "endpoint": "https://tredence.ripplehire.com/candidate/candidatejobsearch",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "45 live, no intern"
+  },
+  {
+   "name": "Quantiphi",
+   "ats": "workday",
+   "endpoint": "https://quantiphi.wd1.myworkdayjobs.com/wday/cxs/quantiphi/Careers_at_Quantiphi/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "78 global; only intern is Boston facilities"
+  },
+  {
+   "name": "Course5 Intelligence",
+   "ats": "none",
+   "endpoint": "https://www.c5i.ai/careers/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "no listing or ATS on careers page"
+  },
+  {
+   "name": "Sigmoid",
+   "ats": "greenhouse",
+   "endpoint": "boards-api.greenhouse.io/v1/boards/sigmoid",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "38 India; only trainee is Finance & Accounting"
+  },
+  {
+   "name": "Genpact",
+   "ats": "workday",
+   "endpoint": "https://genpact.wd108.myworkdayjobs.com/wday/cxs/genpact/{External_Careers,campussite}/jobs",
+   "india_intern_hits": 9,
+   "kept": 9,
+   "note": "9 distinct India 'Interns' reqs (Hyderabad x5, Jaipur x2, Jodhpur, Noida), found via the intern workerSubType facet"
+  },
+  {
+   "name": "EXL",
+   "ats": "oracle",
+   "endpoint": "fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com CX_2, India locationId 300000000467203",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "no intern/trainee title in India"
+  },
+  {
+   "name": "WNS",
+   "ats": "smartrecruiters",
+   "endpoint": "api.smartrecruiters.com/v1/companies/WNSGlobalServices144",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "64 India postings, none intern"
+  },
+  {
+   "name": "Axtria",
+   "ats": "successfactors (listed on axtria.com)",
+   "endpoint": "https://www.axtria.com/axtria-careers/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "15 India listings, all experienced"
+  },
+  {
+   "name": "IQVIA",
+   "ats": "workday",
+   "endpoint": "https://iqvia.wd1.myworkdayjobs.com/wday/cxs/iqvia/IQVIA/jobs",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "India facet: R1567860 Intern (SWE/GenAI) live, closes 3 Nov"
+  },
+  {
+   "name": "Kantar",
+   "ats": "workday",
+   "endpoint": "https://kantar.wd3.myworkdayjobs.com/wday/cxs/kantar/{KANTAR,KANTAREL}/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "8 India postings, none intern"
+  },
+  {
+   "name": "NielsenIQ",
+   "ats": "smartrecruiters",
+   "endpoint": "api.smartrecruiters.com/v1/companies/NielsenIQ",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "65 India postings, none intern"
+  },
+  {
+   "name": "Circana",
+   "ats": "eightfold pcsx",
+   "endpoint": "https://jobs.circana.com/api/pcsx/search",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "no intern postings"
+  },
+  {
+   "name": "dunnhumby",
+   "ats": "greenhouse",
+   "endpoint": "boards-api.greenhouse.io/v1/boards/dunnhumby",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "14 Gurgaon postings, none intern"
+  },
+  {
+   "name": "AB InBev GCC",
+   "ats": "workday",
+   "endpoint": "https://abinbev.wd1.myworkdayjobs.com/wday/cxs/abinbev/IND/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "41 India reqs, all Regular"
+  },
+  {
+   "name": "Publicis Sapient",
+   "ats": "icims jibe",
+   "endpoint": "https://careers.publicisgroupe.com/api/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "0 India intern results"
+  },
+  {
+   "name": "Merkle (dentsu)",
+   "ats": "workday",
+   "endpoint": "https://dentsuaegis.wd3.myworkdayjobs.com/wday/cxs/dentsuaegis/DAN_GLOBAL/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "India facet + intern subtype: none in India"
+  },
+  {
+   "name": "Gramener",
+   "ats": "own site",
+   "endpoint": "https://gramener.com/careers/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "35 jobs, none intern"
+  },
+  {
+   "name": "Infogain / Absolutdata",
+   "ats": "custom SPA (Tenarai)",
+   "endpoint": "https://career.tenarai.com",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHED: JS app, API not identified"
+  }
+ ]
+}

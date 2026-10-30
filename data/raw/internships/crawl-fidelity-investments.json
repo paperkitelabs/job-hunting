@@ -1,0 +1,48 @@
+{
+ "company": "Fidelity Investments (FMR India)",
+ "ats": "workday",
+ "endpoint": "https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/FidelityCareers/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "",
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "graduate",
+  "industrial trainee",
+  "research intern",
+  "quant intern",
+  "2027",
+  "co-op",
+  "early career",
+  "campus"
+ ],
+ "total_hits": 12,
+ "india_intern_hits": [
+  {
+   "title": "Lead Systems Programmer",
+   "loc": "EMBASSY MANYATA BUSINESS PARK, BLD F2, Bangalore India",
+   "url": "https://fmr.wd1.myworkdayjobs.com/FidelityCareers/job/EMBASSY-MANYATA-BUSINESS-PARK-BLD-F2-Bangalore-India/Lead-Systems-Programmer_2133723-1",
+   "id": "2133723",
+   "posted": "Posted 23 Days Ago"
+  }
+ ],
+ "details": {
+  "https://fmr.wd1.myworkdayjobs.com/FidelityCareers/job/EMBASSY-MANYATA-BUSINESS-PARK-BLD-F2-Bangalore-India/Lead-Systems-Programmer_2133723-1": {
+   "title": "Lead Systems Programmer",
+   "loc": "EMBASSY MANYATA BUSINESS PARK, BLD F2, Bangalore India",
+   "country": "India",
+   "id": "2133723",
+   "posted": "2026-10-06",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/EMBASSY-MANYATA-BUSINESS-PARK-BLD-F2-Bangalore-India/Lead-Systems-Programmer_2133723-1",
+   "desc": "Job Description: \n Job Title – Mainframe MQ & WebSphere Application Server (WAS) - Lead Systems Programmer \n The Purpose of This Role \nProvide technical and systems support to Mainframe MQ & WAS systems, with strong expertise in middleware administration, application hosting, integration, performance management, and production support. The ideal candidate should possess deep hands-on experience in IBM WebSphere Application Server (WAS) administration across complex enterprise environments, along with a solid understanding of IBM MQ on z/OS (Mainframe). \nThe role will primarily focus on WAS administration, engineering, migration, performance optimization, security implementation, and platform modernization initiatives, while also supporting IBM MQ infrastructure on Mainframe and distributed platforms. \n The Value You Deliver \nThe Mainframe MQ group provides a variety of services related to MQ & WAS on z/OS systems at Fidelity. Those services might include but are not necessarily limited to: \nWebSphere Application Server (WAS) platform on z/OS \nResponsible in ensuring that the WebSphere Application Server for z/OS platform remains stable, secure, performant, and available for business-critical applications running on the Mainframe. \nKey contributor in maintaining middleware reliability and enabling seamless application delivery across development, test, and production environments. \nPlatform Availability & Reliability \nApplication Hosting & Deployment Excellence \nPerformance Optimization \nIncident Resolution & Problem Management \nSecurity & Compliance \nOperational Excellence & Automation \nMainframe Integration & Enterprise Support by working with MQ, CICS, DB2, z/OS System Programming, and Application teams. \nWorking knowledge of Compute Grid augmentation into Cell \nCompute Grid configuration and operational support \nWorking knowledge of ZFS administration \nProficiency in Scripting for deployments \nWorking knowledge of ZRES build and configuration \nundefined IBM MQ for z/OS infrastructure Maintain stable operation of MQ Queue Managers and Queue Sharing Groups (QSGs). \nPrevent message loss, duplication, and delivery disruptions. Support business-critical transactions that depend on MQ messaging. \nAdminister Queue Sharing Groups and Shared Queues for continuous service availability. Support disaster recovery, failover, and resilience testing activities. \nEnsure MQ infrastructure can recover quickly from failures without business impact. Diagnose and resolve MQ failures impacting business applications. \nInvestigate channel outages, queue build-ups, triggering issues, and connectivity failures. Perform root cause analysis for recurring incidents. \nCollaborate with application, z/OS, network, and distributed MQ teams during critical incident Assist application teams in implementing reliable messaging solutions. \nContribute to modernization initiatives leveraging MQ as an enterprise integration backbone As a MQ Systems programmer, install, maintain, and provide 24X7 support for MQ z/OS and other related products \n The Skills that are Key to this role -Technical / Behavioral \nCore WAS for z/OS Administration Installation, configuration, and maintenance of WebSphere Application Server for z/OS. \nUnderstanding of WAS z/OS architecture Application deployment and lifecycle management. \nz/OS Integration Knowledge Application Deployment & Support IBM MQ Queue Manager administration on z/OS. \nUnderstanding of Queue Sharing Group architecture. \nShared Queue administration.Coupling Facility concepts. \nShared Queue recovery procedures. \nGroup Queue Manager administration. \nQueue and channel administration using MQ panels and commands. \nWork knowledge on MQ monitoring tool like CA sysview product. \nWorking knowledge of MQ clusters/channels and experience in a sysplex environment. \n The Skills that are Good To Have for this role \nVendor coordination Knowledge of Network Basics Good knowledge of Mainframe Operating System Components and tools Knowledge to Disaster Recovery methodologies undefined \n How Your Work Impacts the Organization \nYou would be able to contribute in maintaining stability of our end points by upkeeping infrastructure uptime through structured software, distribution and patch management mechanism thereby helping associates to perform their day to day tasks seamlessly. \n The Expertise We’re Looking For · \n7-8 years of IT experience· \nGraduate \n Location : Chennai \n Shift timings : 1:00 pm - 10:00pm \nCertifications: \nCategory: \n Information Technology",
+   "status": 200
+  }
+ }
+}

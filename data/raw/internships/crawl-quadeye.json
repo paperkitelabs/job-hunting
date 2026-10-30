@@ -1,0 +1,68 @@
+{
+ "company": "Quadeye",
+ "ats": "zoho recruit (site API)",
+ "endpoint": "https://www.quadeye.com/api/zoho-recruit/job-openings",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "(full board)"
+ ],
+ "total_hits": 25,
+ "india_intern_hits": [
+  {
+   "title": "Intern - Software Developer (Product)",
+   "loc": "Gurgaon",
+   "url": "https://www.quadeye.com/jobs/199893000002318440",
+   "id": "199893000002318440",
+   "posted": "2026-08-11"
+  },
+  {
+   "title": "Intern - Systems Engineer",
+   "loc": "Gurgaon",
+   "url": "https://www.quadeye.com/jobs/199893000002318430",
+   "id": "199893000002318430",
+   "posted": "2026-06-29"
+  },
+  {
+   "title": "Intern - Quant Researcher",
+   "loc": "Gurgaon",
+   "url": "https://www.quadeye.com/jobs/199893000002318371",
+   "id": "199893000002318371",
+   "posted": "2026-06-29"
+  }
+ ],
+ "details": {
+  "https://www.quadeye.com/jobs/199893000002318440": {
+   "title": "Intern - Software Developer (Product)",
+   "status": "In-progress",
+   "client": {
+    "name": "Campus: Product",
+    "id": "199893000002920091"
+   },
+   "target_date": "2026-10-30",
+   "salary": "10-30 Lakhs INR",
+   "desc": "About Quadeye Quadeye is an algorithmic trading firm operating across major global financial markets and exchanges. We combine quantitative research, advanced mathematical modeling, and high-performance technology to develop sophisticated automated trading strategies across diverse asset classes. Our teams work at the intersection of markets, mathematics, statistics, and technology, with significant ownership across the entire strategy lifecycle—from research and ideation to implementation, deployment, and optimization. We offer a highly meritocratic environment where talented researchers and engineers have the opportunity to work on challenging problems, access world-class infrastructure, and see the direct impact of their work on live trading performance. The Role We are looking for a Full Stack Engineering Intern to build and enhance internal applications and tools that support our Quant, Infrastructure, Compliance, and Operations teams. You will work on real-world problems in a fast-paced trading environment, collaborating with different teams to understand their requirements and translate them into effective technical solutions. You will have the opportunity to propose solution approaches, make thoughtful design decisions, and contribute across the development lifecycle—from implementation and testing to deployment and monitoring. Problem Discovery → Solution Design → Development → Testing → Deployment → Monitoring What You’ll Do • Build and enhance in-house web applications used across our trading and business teams. • Develop tools for data manipulation, trade monitoring, and operational workflows. • Improve the user experience, reliability, and performance of existing internal systems and applications. • Work closely with Quant, Infrastructure, Compliance, and Operations teams to understand requirements and solve real-world problems. • Evaluate different technical approaches and contribute to design decisions based on scalability, reliability, and user requirements. • Contribute across development, testing, deployment, and post-deployment monitoring. • Identify opportunities to automate workflows and improve the efficiency of internal processes. • Collaborate with engineers and users to build scalable, efficient, and maintainable solutions. Requirements • Pursuing an engineering degree in Computer Science or a related technical discipline. • Experience with Python web development, preferably using Django. • Knowledge of front-end technologies including HTML, JavaScript, and frameworks such as React or Angular. • Experience with scripting using Shell, Perl, and/or Python. • Familiarity with Linux/Unix-based operating systems. • Understanding of AWS services such as ELB, Lambda, EC2, and Route 53. • Good understanding of operating systems and system design fundamentals. • Ability to work effectively across multiple priorities in a fast-paced environment. • Strong analytical and problem-solving skills with a willingness to learn new technologies. • Strong written and verbal communication skills. • Knowledge of financial markets or the financial industry is advantageous but not required."
+  },
+  "https://www.quadeye.com/jobs/199893000002318430": {
+   "title": "Intern - Systems Engineer",
+   "status": "In-progress",
+   "client": {
+    "name": "Campus: Systems",
+    "id": "199893000002592756"
+   },
+   "target_date": "2026-09-30",
+   "salary": "10-30 Lakhs INR",
+   "desc": "About Quadeye Quadeye is an algorithmic trading firm operating across major global financial markets and exchanges. We combine quantitative research, advanced mathematical modeling, and high-performance technology to develop sophisticated automated trading strategies across diverse asset classes. Our teams work at the intersection of markets, mathematics, statistics, and technology, with significant ownership across the entire strategy lifecycle—from research and ideation to implementation, deployment, and optimization. We offer a highly meritocratic environment where talented researchers and engineers have the opportunity to work on challenging problems, access world-class infrastructure, and see the direct impact of their work on live trading performance. The Role We are looking for a Systems Engineering Intern to join our Latency Systems team and work on the high-performance technology that powers our trading operations. You will work at the intersection of operating systems, networking, CPU architecture, and high-performance software, contributing to real-time systems engineered for nanosecond-level latency. You will learn how to identify performance bottlenecks, optimize critical execution paths, and build reliable systems where every CPU cycle matters. You will work closely with systems engineers, quantitative researchers, traders, and infrastructure teams while contributing across the systems engineering lifecycle: Design → Development → Performance Engineering → Testing → Deployment → Optimization What You’ll Do • Design and develop components for real-time trade execution and risk management systems with stringent latency and reliability requirements. • Profile critical execution paths to identify bottlenecks and improve system latency, throughput, and predictability. • Optimize performance across CPU utilization, memory management, cache behavior, operating systems, and compiler-level execution. • Explore low-latency systems concepts including kernel internals, CPU affinity, interrupts, clock sources, NUMA, and CPU microarchitecture. • Research and experiment with high-performance networking stacks and kernel bypass technologies. • Design and optimize algorithms and cache-efficient data structures for performance-critical workloads. • Explore lock-free and wait-free approaches where appropriate for latency-sensitive systems. • Build monitoring and diagnostic tools to analyze CPU cycles, network throughput, memory allocation, and system latency. • Contribute across requirements gathering, system design, implementation, testing, deployment, and production monitoring. • Collaborate with engineers, quantitative researchers, traders, and infrastructure teams to improve the performance and reliability of our trading systems. Requirements • Pursuing a degree in Computer Science, Computer Engineering, or a closely related technical discipline, preferably from a leading academic institution. • Strong foundation in data structures, algorithms, and object-oriented programming. • Strong programming skills in C++ or C. • Good understanding of operating systems, Linux, and system-level programming concepts. • Strong analytical and problem-solving skills with an interest in understanding systems at a low level. • Curiosity about performance engineering, operating system internals, networking, and computer architecture. • Familiarity with low-level debugging, profiling, or performance analysis tools is advantageous. • Knowledge of Python, Perl, R, or other scripting languages is a plus. • Ability to work effectively on multiple priorities in a fast-paced technical environment. • Strong communication and collaboration skills with a willingness to learn quickly and take ownership. Benefits"
+  },
+  "https://www.quadeye.com/jobs/199893000002318371": {
+   "title": "Intern - Quant Researcher",
+   "status": "In-progress",
+   "client": {
+    "name": "Campus: Quant",
+    "id": "199893000002592758"
+   },
+   "target_date": "2026-09-30",
+   "salary": "30-50 Lakhs INR",
+   "desc": "About Quadeye Quadeye is an algorithmic trading firm operating across major global financial markets and exchanges. We combine quantitative research, advanced mathematical modeling, and high-performance technology to develop sophisticated automated trading strategies across diverse asset classes. Our teams work at the intersection of markets, mathematics, statistics, and technology, with significant ownership across the entire strategy lifecycle—from research and ideation to implementation, deployment, and optimization. We offer a highly meritocratic environment where talented researchers and engineers have the opportunity to work on challenging problems, access world-class infrastructure, and see the direct impact of their work on live trading performance. The Role We are looking for sharp, curious, and driven Quantitative Strategist Interns to work at the intersection of mathematics, programming, and financial markets. You will conduct hands-on quantitative research, analyze market data, and contribute to ideas that can directly influence our trading strategies and the technology powering our live trading systems. This internship is designed for students who enjoy analytical thinking, problem-solving, quantitative research, and coding, and want to apply these skills to real-world financial markets. You will work in a fast-paced, collaborative environment where you can take ownership of meaningful problems and see your ideas translate into real trading impact. Research → Data Analysis → Signal Development → Backtesting → Implementation → Trading Impact What You’ll Do • Conduct quantitative research using mathematical, statistical, and programming techniques to explore trading opportunities. • Explore financial research and market literature to generate new trading ideas and rigorously backtest them. • Analyze large-scale datasets, market patterns, market microstructure, and strategy performance to generate actionable insights. • Develop and test quantitative models and signals that can contribute to systematic trading strategies. • Improve existing research methodologies, tools, and technology to make the research process more robust and efficient. • Build models and tools that support current and future trading requirements. • Develop functionality and features that contribute to Quadeye’s research and trading systems. • Collaborate with quantitative researchers and engineers to translate promising research ideas into practical implementations Requirements • Pursuing an engineering degree in Computer Science or a related quantitative discipline, preferably from a leading academic institution. • Strong quantitative aptitude with excellent analytical and problem-solving skills. • Solid foundation in data structures, algorithms, and object-oriented programming. • Strong programming fundamentals, preferably in C++ or C. • Strong interest in quantitative research, financial markets, and systematic trading. • Ability to approach complex problems independently and translate ideas into testable solutions. • Familiarity with Linux-based environments is advantageous. • Knowledge of Python, Perl, or R is a plus. • Ability to manage multiple priorities and work effectively in a fast-paced environment. • Strong communication and collaboration skills with a willingness to learn and take ownership."
+  }
+ }
+}

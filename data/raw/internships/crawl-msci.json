@@ -1,0 +1,12 @@
+{
+ "company": "MSCI",
+ "ats": "algolia (iCIMS behind)",
+ "endpoint": "https://RVMOB42DFH-dsn.algolia.net/1/indexes/production__mscicare2201__sort-rank/query",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "(full index)"
+ ],
+ "total_hits": 129,
+ "india_intern_hits": [],
+ "details": {}
+}

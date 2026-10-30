@@ -1,0 +1,18 @@
+{
+ "company": "Circana",
+ "ats": "eightfold (pcsx)",
+ "endpoint": "https://jobs.circana.com/api/pcsx/search?domain=circana.com&location=India",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  ""
+ ],
+ "total_hits": 71,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "v2 API 403 PCSX; pcsx search returned 71 (India + others), none intern"
+}

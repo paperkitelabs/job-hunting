@@ -1,0 +1,22 @@
+{
+ "company": "Moody's",
+ "ats": "radancy (SuccessFactors behind)",
+ "endpoint": "https://careers.moodys.com/en/search-jobs/results",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "off-cycle",
+  "graduate",
+  "summer",
+  "early career",
+  "2027",
+  "student",
+  "(Location=India)"
+ ],
+ "total_hits": 338,
+ "india_intern_hits": [],
+ "details": {}
+}

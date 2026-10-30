@@ -1,0 +1,19 @@
+{
+ "company": "EXL",
+ "ats": "oracle",
+ "endpoint": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com recruitingCEJobRequisitions siteNumber=CX_2 locationId=300000000467203 (India)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "graduate"
+ ],
+ "total_hits": 915,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "keyword search is fuzzy: 915 India results, no title with intern/trainee/apprentice"
+}

@@ -1,0 +1,11 @@
+{
+ "company": "Infogain / Absolutdata (now Tenarai)",
+ "ats": "custom SPA",
+ "endpoint": "https://career.tenarai.com",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "infogain.com redirects to tenarai.com; career.tenarai.com is a JS app, API not identified"
+}

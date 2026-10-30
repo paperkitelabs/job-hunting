@@ -1,0 +1,32 @@
+{
+ "company": "Tiger Analytics",
+ "ats": "zwayam (India) + workable (US/CA)",
+ "endpoint": [
+  "https://public.zwayam.com/jobs/search (companyId 16201)",
+  "https://www.tigeranalytics.com/wp-admin/admin-ajax.php action=get_tiger_india_jobs"
+ ],
+ "queried_at": "2026-10-30",
+ "queries": [
+  "<whole board>",
+  "intern",
+  "trainee"
+ ],
+ "total_hits": 289,
+ "india_intern_hits": [
+  {
+   "title": "X-Ops Trainee - Campus - 2027 Hiring",
+   "loc": "Chennai",
+   "url": "https://careers.tigeranalytics.com/#!/job-view/x-ops-trainee-campus-2027-hiring-chennai-tamil-nadu-india-2026093012572964",
+   "id": "2026093012572964",
+   "posted": "2026-09-30",
+   "status": "closed"
+  }
+ ],
+ "details": {
+  "x-ops-trainee": {
+   "status": 404,
+   "message": "This job is no longer accepting applications (Zwayam jobs-service/v1/jobs/careersite)"
+  }
+ },
+ "note": "Zwayam live board 116 India jobs, 0 intern/trainee; WP cached list still shows X-Ops Trainee but Zwayam detail says closed. 173 Workable postings are US/CA only."
+}
