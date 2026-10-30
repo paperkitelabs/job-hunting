@@ -1,0 +1,263 @@
+{
+ "cluster": "R2d-india-insurance-groups",
+ "openings": [
+  {
+   "company": "Paytm",
+   "role": "Product Management - Intern",
+   "url": "https://jobs.lever.co/paytm/1155c0e3-bf03-4b46-97f0-44673b6518f7",
+   "location": "Noida",
+   "job_id": "1155c0e3-bf03-4b46-97f0-44673b6518f7",
+   "type": "Internship",
+   "duration": "not stated",
+   "overrun": "",
+   "exp": "students / interns (not stated in snippet)",
+   "track": "pm",
+   "posted": "2026-07-22",
+   "deadline": "",
+   "jd": "Product management intern on a telco product team: prepares product requirement documents (PRDs) and supports dashboards and reporting. Cross-functional work with product/engineering.",
+   "evidence": "WebSearch (allowed_domains jobs.lever.co) result 'Paytm - Product Management - Intern'; summary gave posted 2026-07-22. Lever board also has commitment=Intern filter: https://jobs.lever.co/paytm?commitment=Intern. ~3 months old, may have closed.",
+   "confidence": "medium"
+  },
+  {
+   "company": "Paytm",
+   "role": "Growth Management Intern- Insurance",
+   "url": "https://jobs.lever.co/paytm/62bd3d00-f65c-4c70-b413-92d886a112e7/",
+   "location": "Noida",
+   "job_id": "62bd3d00-f65c-4c70-b413-92d886a112e7",
+   "type": "Internship",
+   "duration": "3-6 months",
+   "overrun": "",
+   "exp": "not stated",
+   "track": "analyst",
+   "posted": "2026-06-19",
+   "deadline": "",
+   "jd": "Growth intern for Paytm Insurance: analyse data to track performance, uncover insights and recommend optimisations; A/B testing and funnel work. Requires Excel/Google Sheets; SQL, Google Analytics or Tableau a plus.",
+   "evidence": "Two jobs.lever.co searches returned this posting; summary said posted 2026-06-19 (~131 days old). Borderline growth/analytics role; age suggests it may be closed.",
+   "confidence": "low"
+  },
+  {
+   "company": "Tata Consultancy Services (TCS Research)",
+   "role": "TCS Research Internship (short 6-8 weeks / long 16-18 weeks)",
+   "url": "https://www.tcs.com/careers/india/research-and-innovation",
+   "location": "TCS Research labs, India (multiple cities)",
+   "job_id": "",
+   "type": "Internship",
+   "duration": "6-8 weeks or 16-18 weeks; timing flexible",
+   "overrun": "",
+   "exp": "PhD, MS, MTech or final-year BE/BTech students with research aptitude in CS",
+   "track": "ai",
+   "posted": "",
+   "deadline": "",
+   "jd": "Research internship at TCS Research in areas including AI/ML systems and NLP; final-year BTech eligible. Applications via link on the TCS Research careers page. Rolling programme page, no dated cohort; page content reportedly ~4 years old.",
+   "evidence": "tcs.com search results: 'Careers' (tcs.com/careers/india/research-and-innovation) and 'TCS Internship Program' (https://www.tcs.com/careers/india/internship). Programme page, not a dated posting - liveness uncertain.",
+   "confidence": "low"
+  }
+ ],
+ "leads": [
+  {
+   "company": "Dream11 / Dream Sports",
+   "role": "Forward Deployment Engineer Internship",
+   "aggregator_url": "https://thejobcompany.co.in/frontend/job_details?job_id=6456",
+   "careers_url": "https://jobs.lever.co/dreamsports",
+   "note": "NOT CONFIRMED on careers site. Aggregator lists 'Forward Deployment Engineer Internship', Dream11, Mumbai, Internship + FTE, updated 02 Oct 2026. Dream Sports hires via Lever (jobs.lever.co/dreamsports - live postings seen e.g. Lead Machine Learning Scientist 985ee0c8-a054-4e39-96b9-517a601df79c, Mumbai). 4 targeted searches (jobs.lever.co, dreamsports.group, open web) did not surface an FDE intern posting on Lever; older careers page about.dream11.com/jobs.html also seen. Check the Lever board/API (https://api.lever.co/v0/postings/dreamsports) for 'Forward'."
+  }
+ ],
+ "excluded": [
+  {
+   "company": "Jio Platforms",
+   "role": "Summer Trainee (87178315)",
+   "url": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=DiLXHUJI6Dg%2FPQ3ssi+vtw%3D%3D&jbID=DcXUxszx9HeEmFv+Vm9yzw%3D%3D&funcCode=ni4dknKJ6TY%3D",
+   "reason": "Posted 1 Oct 2026, Mumbai, but pure application development (Core Java/JSP/Servlets) and a summer trainee slot - no data/AI/product angle."
+  },
+  {
+   "company": "Jio Platforms",
+   "role": "Graduate Engineer Trainee (87176868, 87210862 and others)",
+   "url": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=gISN2YuTWsnm5C+2hoLQMw%3D%3D&jbID=bC1+RxE7C1jTGpdg6JPaZQ%3D%3D&funcCode=ni4dknKJ6TY%3D",
+   "reason": "Full-time telecom network GET roles (2G/3G/4G, KPIs), not internships, not target roles."
+  },
+  {
+   "company": "Paytm",
+   "role": "Product Design Intern- Paytm",
+   "url": "https://jobs.lever.co/paytm/3876b70d-85d2-4128-b3b1-91f078c10eb0/apply",
+   "reason": "Design role (Sep'26 batch)."
+  },
+  {
+   "company": "Paytm",
+   "role": "Talent Acquisition- Intern || Noida ||",
+   "url": "https://jobs.lever.co/paytm/648841ab-2778-4759-a4c9-eabae97ec65d",
+   "reason": "HR role."
+  },
+  {
+   "company": "Swiss Re",
+   "role": "Apprentice (Bangalore, CorSo Operations)",
+   "url": "https://careers.swissre.com/job/Bangalore-Apprentice-KA/1391860533/",
+   "reason": "Operations apprenticeship for BCom/Finance/BBA grads - ops-only."
+  },
+  {
+   "company": "TransUnion",
+   "role": "Data Science & Analytics Internship - Summer 2026",
+   "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Data-Science---Analytics-Internship---Summer-2026_19038170",
+   "reason": "US-based, summer 2026 cohort (past)."
+  },
+  {
+   "company": "TransUnion",
+   "role": "Analyst, Data Science and Analytics- Credit Risk (Pune)",
+   "url": "https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/Analyst--Data-Science-and-Analytics--Credit-Risk_19038312",
+   "reason": "Full-time role, not internship (could suit as a post-grad job)."
+  },
+  {
+   "company": "Mahindra Group",
+   "role": "Management Trainee - Sales (Mumbai)",
+   "url": "https://jobs.mahindracareers.com/job/Mumbai-A_O-Management-Trainee-Sales-MUMB/1374367200/",
+   "reason": "Sales, full-time MT (MBA)."
+  },
+  {
+   "company": "Mahindra Group",
+   "role": "Graduate Apprentice Trainee (Mumbai)",
+   "url": "https://jobs.mahindracareers.com/job/Mumbai-A_O-Graduate-Apprentice-Trainee-MUMB/1350699900/",
+   "reason": "Plant operations (production/maintenance), Dec 2025."
+  },
+  {
+   "company": "Tata Motors",
+   "role": "Saksham Early Career Program 2026",
+   "url": "https://www.tatamotors.com/saksham-early-career-program-2026/",
+   "reason": "Graduate hiring for 2024/2025 batch; deadline 15 Oct 2026 passed; not internship."
+  },
+  {
+   "company": "Nykaa",
+   "role": "Business Intelligence & Analytics - Platform & Growth - Nykaa Fashion (Mumbai)",
+   "url": "https://careers.nykaa.com/fea8e263-b4e0-4bf4-9675-880cd50df009",
+   "reason": "Full-time; page says no longer accepting applications (posted 3 May 2026)."
+  }
+ ],
+ "companies": [
+  {
+   "name": "Dream11 / Dream Sports",
+   "careers_url": "https://jobs.lever.co/dreamsports",
+   "ats": "lever",
+   "ats_endpoint": "https://api.lever.co/v0/postings/dreamsports?mode=json",
+   "result": "none found (1 lead)",
+   "note": "FDE Internship seen only on aggregator (updated 2 Oct 2026); not surfaced on Lever via search - verify via Lever API."
+  },
+  {
+   "name": "Zepto",
+   "careers_url": "https://www.zeptonow.com/careers-at-zepto",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Careers page lists full-time roles (e.g. Analytics Manager Central, Mumbai); intern postings seen only on myinternships.in (unreliable, not recorded). Page title hints TalentRecruit ATS."
+  },
+  {
+   "name": "Nykaa",
+   "careers_url": "https://careers.nykaa.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Job URLs are careers.nykaa.com/<uuid>; no intern postings indexed; site showed 'no job postings available' snapshot."
+  },
+  {
+   "name": "Jio Platforms",
+   "careers_url": "https://careers.jio.com/frmStudent_Campus.aspx",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Unpaid project-based Internship Program (https://careers.jio.com/frmStudentIntern.aspx; needs institute permission, online test, first-come basis) - no data/AI-specific posting. Recent postings are GET (network) and Summer Trainee (Java dev)."
+  },
+  {
+   "name": "Tata Digital / Tata Neu",
+   "careers_url": "https://www.tatadigital.com/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "No indexed intern postings; brands (Tata 1mg, BigBasket, Croma, Tata iQ) may post separately."
+  },
+  {
+   "name": "Myntra",
+   "careers_url": "https://careers.myntra.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Campus page (life.myntra.com/campus-corner) says interns hired only via campus placements; 2/4/6-month internships."
+  },
+  {
+   "name": "Zerodha",
+   "careers_url": "https://careers.zerodha.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Historically no internship programme; Dec 2025 comment 'not hiring at the moment'."
+  },
+  {
+   "name": "Paytm",
+   "careers_url": "https://jobs.lever.co/paytm?commitment=Intern",
+   "ats": "lever",
+   "ats_endpoint": "https://api.lever.co/v0/postings/paytm?mode=json&commitment=Intern",
+   "result": "found 2",
+   "note": "PM Intern (Jul 2026) and Growth Mgmt Intern-Insurance (Jun 2026) in Noida; also separate board jobs.lever.co/paytmpayments. Rest are design/HR interns."
+  },
+  {
+   "name": "Swiss Re",
+   "careers_url": "https://careers.swissre.com/content/Interns-Application-and-Programme-Overview/?locale=en_GB",
+   "ats": "successfactors",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Bangalore intern programme open to final-year grad students, 2-3 months (occasionally 3-6 months); no current Bangalore intern posting indexed. Worth checking careers.swissre.com/go/Bangalore/2743901/ periodically."
+  },
+  {
+   "name": "Allianz",
+   "careers_url": "https://careers.allianz.com/global/en/search-results?keywords=intern",
+   "ats": "phenom",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "India hubs Pune/Trivandrum (Allianz Services/Technology) post only full-time roles; no India intern postings indexed."
+  },
+  {
+   "name": "Experian",
+   "careers_url": "https://jobs.experian.com/jobs",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Only 2 intern postings globally at search time; an India analytics intern listing (SAS->Python/Snowflake) had expired. Mumbai/Hyderabad roles are permanent."
+  },
+  {
+   "name": "TransUnion CIBIL",
+   "careers_url": "https://transunion.wd5.myworkdayjobs.com/TransUnion",
+   "ats": "workday",
+   "ats_endpoint": "https://transunion.wd5.myworkdayjobs.com/wday/cxs/transunion/TransUnion/jobs",
+   "result": "none found",
+   "note": "India roles (Pune/Chennai) full-time only; intern postings are US Summer 2026."
+  },
+  {
+   "name": "Mahindra Group",
+   "careers_url": "https://jobs.mahindracareers.com/",
+   "ats": "successfactors",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Only MT-Sales / plant GAT trainee roles; Data Scientist (Kandivli) is full-time 1-3 yrs."
+  },
+  {
+   "name": "Aditya Birla Group",
+   "careers_url": "https://careers.adityabirla.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "ABCapital summer internships are MBA campus (hiring Sep-Nov); data roles (Goregaon) full-time. Also adityabirlacapital.com/careers/jobs."
+  },
+  {
+   "name": "Godrej Group",
+   "careers_url": "https://careers.godrejindustries.com/in/en/students",
+   "ats": "phenom",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Careers moved to careers.godrejindustries.com (Phenom); student page mentions UG internships but no postings indexed."
+  },
+  {
+   "name": "Tata Group (TCS, Tata Steel, Tata Motors, Tata Consumer)",
+   "careers_url": "https://www.tcs.com/careers/india/internship",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "found 1 (TCS Research programme, low confidence)",
+   "note": "Tata Motors: joinus.tatamotors.com student programmes (B-school SIP, engineering internships) - nothing open; Tata Steel: campus-connect contests (Mind Over Matter 6-month R&D internship, Women of Mettle) - dated; Tata Consumer: tataconsumer.com/people/careers-for-students (SIP/MT, B-school)."
+  }
+ ]
+}

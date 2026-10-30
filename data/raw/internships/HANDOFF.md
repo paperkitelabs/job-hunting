@@ -33,8 +33,8 @@ A new tracker sheet, same format as `applications-october.html` / `applications-
     - 130 aggregator "leads".
     - 103 "excluded".
     - Per-company careers URL, ATS and endpoint notes.
-  - `disc_R2*.json`: round-2 results for 64 priority companies, if they were committed. Lists are in
-    `list_R2*.txt`. If a file is missing, that round-2 batch never finished, so redo it.
+  - `disc_R2*.json`: round-2 results for 64 priority companies (all 4 batches complete, 12 low/medium-confidence openings). Lists are in
+    `list_R2*.txt`. Each agent noted ATS endpoints and corrected careers URLs in its file.
   - `unsearched_after_r2.json`: 132 companies never searched at all.
 
 ## Why round 1 was thin
