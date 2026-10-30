@@ -152,7 +152,7 @@
   });
   document.getElementById("csv").addEventListener("click", function () {
     function cell(v) { v = v == null ? "" : String(v); return /[",\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v; }
-    var head = ["#", "Job role", "Link", "Company", "Location", "Resume to send", "Job ID", "Experience asked", "Est. pay (LPA)", "Summarized JD"]
+    var head = ["#", "Job role", "Link", "Company", "Location", "Resume to send", "Job ID", T.exp_label || "Experience asked", T.pay_label || "Est. pay (LPA)", "Summarized JD"]
       .concat(STEPS.map(function (s) { return s[1]; })).concat(["Notes"]);
     var lines = [head.map(cell).join(",")];
     T.jobs.forEach(function (j, i) {
