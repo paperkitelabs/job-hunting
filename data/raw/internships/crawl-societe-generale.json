@@ -1,0 +1,35 @@
+{
+ "company": "Societe Generale",
+ "ats": "other (Quantum search via search-proxy.php)",
+ "endpoint": "https://careers.societegenerale.com/search-proxy.php -> api.socgen.com .../search-profile",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "India",
+  "Bangalore",
+  "Bengaluru",
+  "Chennai",
+  "Mumbai",
+  "intern India",
+  "internship Bangalore",
+  "trainee Bangalore",
+  "internship Chennai",
+  "apprentice India"
+ ],
+ "total_hits": 233,
+ "india_intern_hits": [
+  {
+   "title": "Trainee – Credit Portfolio Management, Societe Generale India (Mumbai)",
+   "loc": "Mumbai",
+   "url": "https://careers.societegenerale.com/en/job-offers/trainee-credit-portfolio-management-societe-generale-india-mumbai-26000KQX-en",
+   "id": "26000KQX",
+   "posted": "2026-09-24"
+  }
+ ],
+ "details": {
+  "https://careers.societegenerale.com/en/job-offers/trainee-credit-portfolio-management-societe-generale-india-mumbai-26000KQX-en": {
+   "status": 200,
+   "validThrough": "2026-11-01",
+   "desc": "Credit Portfolio Management trainee: review corporate financial statements, risk analysis, credit applications, obligor ratings, monitoring, MIS. Academic: B.Com (Hons)/MBA/Master's in Finance/CA; 1-2 yrs trainee/internship (bank audit) preferred."
+  }
+ }
+}

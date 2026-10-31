@@ -1,0 +1,18 @@
+{
+ "company": "Tesco",
+ "ats": "avature",
+ "endpoint": "https://careers.tesco.com/en_GB/careers/SearchJobs/<kw>",
+ "queried_at": "2026-10-30T07:25:21",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "graduate",
+  "India",
+  "Bengaluru"
+ ],
+ "total_hits": 11,
+ "india_intern_hits": [],
+ "details": {}
+}

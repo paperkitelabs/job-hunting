@@ -1,0 +1,13 @@
+{
+ "company": "Axtria",
+ "ats": "successfactors (career10, company=axtriaindiP) listed on axtria.com/axtria-careers",
+ "endpoint": "https://www.axtria.com/axtria-careers/",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "<whole listing>"
+ ],
+ "total_hits": 15,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "15 India listings, all experienced (architects, leads, FDE)"
+}

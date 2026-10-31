@@ -1,0 +1,11 @@
+{
+ "company": "Cognizant",
+ "ats": "unknown (Cloudflare-fronted careers site)",
+ "endpoint": "careers.cognizant.com/global-en/jobs, /india-en/",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "error": "Unreachable: Cloudflare challenge / 403; no alternate ATS endpoint found (Workday guesses failed). Not crawled."
+}

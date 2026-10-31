@@ -1,0 +1,12 @@
+{
+ "company": "EPAM",
+ "ats": "custom JSON",
+ "endpoint": "https://careers.epam.com/api/jobs/v2/search/careers-india?lang=en&from=N&size=50",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "whole India board"
+ ],
+ "total_hits": 263,
+ "india_intern_hits": [],
+ "details": {}
+}

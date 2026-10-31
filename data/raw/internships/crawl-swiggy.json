@@ -1,0 +1,20 @@
+{
+ "company": "Swiggy",
+ "ats": "smartrecruiters",
+ "endpoint": "https://api.smartrecruiters.com/v1/companies/swiggy/postings?country=in",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst",
+  "data",
+  "product",
+  "''"
+ ],
+ "total_hits": 176,
+ "india_intern_hits": [],
+ "details": {}
+}

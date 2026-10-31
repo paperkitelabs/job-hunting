@@ -1,0 +1,12 @@
+{
+ "company": "Affine",
+ "ats": "SenseHQ",
+ "endpoint": "https://affine.sensehq.com/careers (__NEXT_DATA__ job list)",
+ "queried_at": "2026-10-30T13:28:56.768149Z",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 4,
+ "india_intern_hits": [],
+ "details": {}
+}

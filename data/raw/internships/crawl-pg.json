@@ -1,0 +1,82 @@
+{
+ "company": "Procter & Gamble",
+ "ats": "workday",
+ "endpoint": "https://pg.wd5.myworkdayjobs.com/wday/cxs/pg/1000/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "graduate",
+  "2027",
+  "(India country facet)"
+ ],
+ "total_hits": 30,
+ "india_intern_hits": [
+  {
+   "title": "Information Technology Intern",
+   "loc": "MUMBAI GENERAL OFFICE",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Information-Technology-Intern_R000161858",
+   "id": "R000161858",
+   "posted": "Posted 2 Days Ago"
+  },
+  {
+   "title": "Internship - Sales",
+   "loc": "MUMBAI GENERAL OFFICE",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Internship---Sales_R000160037",
+   "id": "R000160037",
+   "posted": "Posted 11 Days Ago"
+  },
+  {
+   "title": "Internship - Sales",
+   "loc": "MUMBAI GENERAL OFFICE",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Internship---Sales_R000161131",
+   "id": "R000161131",
+   "posted": "Posted 15 Days Ago"
+  }
+ ],
+ "details": {
+  "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Information-Technology-Intern_R000161858": {
+   "title": "Information Technology Intern",
+   "loc": "MUMBAI GENERAL OFFICE",
+   "country": "India",
+   "id": "R000161858",
+   "posted": "2026-10-28",
+   "end": "2027-01-04",
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Information-Technology-Intern_R000161858",
+   "desc": "Job Location MUMBAI GENERAL OFFICE\n Job Description \n This is a 6-month internship program. During this period, you may be aligned to one of the roles outlined below, based on business requirements, your skills, and overall fit. We encourage you to go through each role to understand the scope of work and expectations. \n Information Technology Intern (Software Engineering) \n Overview \nAt Procter & Gamble, IT is at the core of how we innovate, make decisions, and deliver impact at scale. As a Software Engineering Intern, you will help design, build, and ship applications on our Data & Analytics Platform, learning modern Agile and DevOps practices while contributing to real, global projects. \nYou will work alongside experienced full-stack engineers to develop cloud-native solutions, gaining hands-on exposure to the full software development lifecycle. \n What You’ll Do \nContribute to writing and testing code for Data & Analytics applications \nSupport building end-to-end cloud-native (Azure) solutions \nLearn and apply modern software engineering practices ( CI/CD, Agile, DevOps ) \nCollaborate with engineers, designers, and product teams to deliver features \nHelp translate designs into clear, detailed low-level documentation \n What We’re Looking For \nCurrently pursuing a degree in Computer Science, a related technical field, or equivalent practical experience \nFoundational programming skills in Java and/or TypeScript \nUnderstanding of relational databases and basic SQL \nStrong problem-solving, communication, and interpersonal skills \nA desire to produce high-quality software through testing, code reviews, and teamwork \n Preferred Skills (not mandatory) \nExposure to Spring Framework and/or React \nFamiliarity with Azure Cloud services, Python, or Angular \nUnderstanding of version control (Git) and CI/CD concepts \nExperience contributing to team projects or technical documentation \n What You’ll Gain \nHands-on experience building real applications from Day 1 \nMentorship from experienced full-stack engineers \nExposure to modern cloud and DevOps toolchains \nA chance to work in multinational, cross-functional teams \n Why Join Us \nWe produce globally recognized brands and build leaders across functions. You'll work in an environment that values ownership, innovation, and continuous learning - with the opportunity to make a real impact early in your career. \n Information Technology Intern (Platform Engineering) \n Overview \nAt Procter & Gamble, IT is at the core of how we innovate, make decisions, and deliver impact at scale. As a Platform Engineering Intern, you will help build, maintain, and optimize our cloud infrastructure, CI/CD pipelines, and overall DevOps practices. \nYou will learn Infrastructure as Code and containerization while supporting the reliability, scalability, and efficiency of our applications and services on high-impact global projects. \n What You’ll Do \nSupport designing and managing scalable, secure cloud infrastructure using Infrastructure as Code (Terraform) \nHelp build, maintain, and optimize CI/CD pipelines for automated delivery and testing \nLearn containerization and orchestration with Docker and Kubernetes \nAssist with monitoring, logging, and alerting to keep platforms reliable \nCollaborate with development teams to embed DevOps practices across the lifecycle \n What We’re Looking For \nCurrently pursuing a degree in Computer Science, Engineering, or a related technical field \nFoundational understanding of cloud platforms (Azure preferred) \nBasic scripting skills in Python and/or Bash \nStrong problem-solving skills and attention to detail \nGood communication and collaboration skills \n Preferred Skills (not mandatory) \nExposure to Terraform or other Infrastructure as Code tools \nFamiliarity with Docker and Kubernetes \nUnderstanding of CI/CD tools (Azure DevOps, GitHub Actions, Jenkins, GitLab CI) \nAwareness of monitoring/logging tools (Prometheus, Grafana, ELK, Azure Monitor) \nInterest in Agile methodologies \n What You’ll Gain \nHands-on experience with modern cloud and DevOps tooling \nMentorship from experienced platform and DevOps engineers \nExposure to Infrastructure as Code and container orchestration \nA chance to deliver high-impact, global platform projects \n Why Join Us \nWe produce globally recognized brands and build leaders across functions. You'll work in an environment that values ownership, innovation, and continuous learning - with the opportunity to make a real impact early in your career. \n Information Technology Intern (AI Engineering) \n Overview \nAt Procter & Gamble, IT is at the core of how we innovate, make decisions, and deliver impact at scale. As an AI Engineering Intern, you will help ensure the reliability, availability, and performance of our production AI/ML systems. \nBlending software engineering principles with operations, you will support building scalable, observable solutions on Azure while collaborating with development and operations teams on automation and optimization. \n What You’ll Do \nSupport maintaining production systems for high availability and reliability \nHelp build monitoring and observability dashboards and alerts for system health \nContribute to automation solutions for routine operational tasks \nAssist in developing and maintaining automated tests for production systems \nSupport production deployments and change management for minimal downtime \n What We’re Looking For \nCurrently pursuing a Bachelor’s or Master’s in Computer Science, Software Engineering, or a related field \nUnderstanding of cloud computing concepts, particularly Microsoft Azure \nIntermediate Python programming skills \nStrong problem-solving skills \nStrong written and verbal communication in English \n Preferred Skills (not mandatory) \nExposure to AI/ML products such as Azure Machine Learning and Databricks \nFamiliarity with monitoring, observability, and logging implementation \nExperience with source control (GitHub), pull request reviews, and static analysis (e.g., SonarQube) \nInterest in writing tests with Pytest \n What You’ll Gain \nHands-on experience with production AI/ML systems from Day 1 \nMentorship from experienced SRE and AI engineers \nExposure to modern MLOps, monitoring, and automation tools \nA chance to work at the intersection of AI, reliability, and engineering \n Why Join Us \nWe produce globally recognized brands and build leaders across functions. You'll work in an environment that values ownership, innovation, and continuous learning - with the opportunity to make a real impact early in your career. \n Information Technology Intern (Data Science / Data Engineering) \n Overview \nAt Procter & Gamble, IT is at the core of how we innovate, make decisions, and deliver impact at scale. As an Intern, you will work on real business problems using data — whether that involves building scalable data pipelines or developing advanced analytical and machine learning models. \nDepending on business needs and your strengths, you may work in either a Data Engineering or Data Science capacity — both roles collaborate closely to deliver end-to-end data solutions. \n What You’ll Do \nWork on real-world business problems using large and complex datasets \nBuild, analyze, and derive insights from data to support decision-making \nCollaborate with cross-functional teams including business, product, and engineering \nContribute to the design and development of scalable data or analytics solutions \n If aligned to Data Engineering, you will: \nDevelop and maintain data pipelines and workflows \nWork with structured and unstructured data at scale \nSupport data platform development and data quality initiatives \n If aligned to Data Science, you will: \nApply statistical analysis and machine learning techniques \nPerform exploratory data analysis and feature engineering \nBuild and evaluate predictive or optimization models \n What You’ll Gain \nHands-on experience working on live business problems from Day 1 \nExposure to modern data platforms and tools \nMentorship and learning opportunities from experienced professionals \nA chance to work at the intersection of business, data, and technology \n Job Qualifications \n What We’re Looking For \nCurrently pursuing a degree in Computer Science, Engineering, Mathematics, Statistics, or a related quantitative field \nStrong problem-solving and analytical thinking skills \nProficiency in Python and/or SQL \nUnderstanding of data structures, algorithms, and basic statistics \n Preferred Skills (not mandatory) \nExposure to machine learning , data analysis, or big data concepts \nFamiliarity with tools/frameworks such as Pandas, scikit-learn, PyTorch, Spark , or similar \nExperience working with large datasets or cloud platforms (Azure, GCP, etc.) \nBasic understanding of software engineering practices (Git, testing, CI/CD) \n Job Schedule Full time\n Job Number R000161858\n Job Segmentation Internships",
+   "status": 200
+  },
+  "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Internship---Sales_R000160037": {
+   "title": "Internship - Sales",
+   "loc": "MUMBAI GENERAL OFFICE",
+   "country": "India",
+   "id": "R000160037",
+   "posted": "2026-10-19",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Internship---Sales_R000160037",
+   "desc": "Job Location MUMBAI GENERAL OFFICE\n Job Description \nProcter & Gamble is dedicated to providing valuable hands-on experience to interns and co-op students. This non-management role is an excellent opportunity for growth and learning within the company. \nJob Description \nThis Intern/Co-op role is designed to provide students with a well-rounded work experience. Interns will have the opportunity to work on a variety of tasks, gain practical skills, and contribute to team projects. \nKey Responsibilities \nParticipate in team projects and contribute to achieving team goals. \nPerform tasks as assigned, ensuring quality and timeliness. \nLearn and apply new concepts, tools, and techniques as part of the internship/co-op experience. \nCultivate strong collaborative relationships within the team. \nEngage in learning opportunities for personal growth and development. \nQualifications \nCurrent enrollment in a relevant degree program. \nEagerness to learn and grow professionally. \nAbility to work collaboratively in a team environment. \nStrong problem-solving skills and attention to detail. \nExcellent communication skills, both written and verbal. \n Job Qualifications \nMBA \n Job Schedule Full time\n Job Number R000160037\n Job Segmentation Internships",
+   "status": 200
+  },
+  "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Internship---Sales_R000161131": {
+   "title": "Internship - Sales",
+   "loc": "MUMBAI GENERAL OFFICE",
+   "country": "India",
+   "id": "R000161131",
+   "posted": "2026-10-15",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Internship---Sales_R000161131",
+   "desc": "Job Location MUMBAI GENERAL OFFICE\n Job Description \nProcter & Gamble is dedicated to providing valuable hands-on experience to interns and co-op students. This non-management role is an excellent opportunity for growth and learning within the company. \nJob Description \nThis Intern/Co-op role is designed to provide students with a well-rounded work experience. Interns will have the opportunity to work on a variety of tasks, gain practical skills, and contribute to team projects. \nKey Responsibilities \nParticipate in team projects and contribute to achieving team goals. \nPerform tasks as assigned, ensuring quality and timeliness. \nLearn and apply new concepts, tools, and techniques as part of the internship/co-op experience. \nCultivate strong collaborative relationships within the team. \nEngage in learning opportunities for personal growth and development. \nQualifications \nCurrent enrollment in a relevant degree program. \nEagerness to learn and grow professionally. \nAbility to work collaboratively in a team environment. \nStrong problem-solving skills and attention to detail. \nExcellent communication skills, both written and verbal. \n Job Qualifications \nMBA \n Job Schedule Full time\n Job Number R000161131\n Job Segmentation Internships",
+   "status": 200
+  }
+ },
+ "note": "R000154803 Phenom page returns HTTP 410 (gone); not in Workday search."
+}

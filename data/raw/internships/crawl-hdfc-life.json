@@ -1,0 +1,11 @@
+{
+ "company": "HDFC Life",
+ "ats": "custom (no live API)",
+ "endpoint": "https://www.hdfclife.com/hdfc-careers/find-your-fit.html",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "NOT REACHABLE / no feed: find-my-fit.js has placeholder 'YOUR_API_ENDPOINT'; no job feed exposed."
+}

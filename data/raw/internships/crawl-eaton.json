@@ -1,0 +1,114 @@
+{
+ "company": "Eaton",
+ "ats": "eightfold",
+ "endpoint": "https://eaton.eightfold.ai/api/pcsx/search?domain=eaton.com&location=India",
+ "queried_at": "2026-10-30T03:22:22",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "graduate",
+  "student",
+  "data",
+  ""
+ ],
+ "total_hits": 189,
+ "india_intern_hits": [
+  {
+   "title": "Apprentice - P&E Indirect",
+   "loc": "Pune, Maharashtra, IND, 411045",
+   "url": "https://eaton.eightfold.ai/careers/job/687237774178?domain=eaton.com",
+   "id": "68817",
+   "posted": "2026-10-21"
+  },
+  {
+   "title": "HR Apprentice",
+   "loc": "Pune, Maharashtra, IND, 411013",
+   "url": "https://eaton.eightfold.ai/careers/job/687239798584?domain=eaton.com",
+   "id": "75902",
+   "posted": "2026-10-22"
+  },
+  {
+   "title": "Apprentice. IT. Development Program",
+   "loc": "Pune, Maharashtra, IND, 411014",
+   "url": "https://eaton.eightfold.ai/careers/job/687239452576?domain=eaton.com",
+   "id": "74436",
+   "posted": "2026-10-09"
+  },
+  {
+   "title": "Apprentice IT SAP ECC",
+   "loc": "Pune, Maharashtra, IND, 411014",
+   "url": "https://eaton.eightfold.ai/careers/job/687238812792?domain=eaton.com",
+   "id": "72031",
+   "posted": "2026-09-10"
+  },
+  {
+   "title": "Apprentice - Materials",
+   "loc": "Pune, Maharashtra, IND, 411045",
+   "url": "https://eaton.eightfold.ai/careers/job/687239976322?domain=eaton.com",
+   "id": "76626",
+   "posted": "2026-10-28"
+  },
+  {
+   "title": "Apprentice. IT. Development Program",
+   "loc": "Pune, Maharashtra, IND, 411014",
+   "url": "https://eaton.eightfold.ai/careers/job/687239705382?domain=eaton.com",
+   "id": "75539",
+   "posted": "2026-10-22"
+  },
+  {
+   "title": "Apprentice. IT. Development Program",
+   "loc": "Pune, Maharashtra, IND, 411014",
+   "url": "https://eaton.eightfold.ai/careers/job/687239705711?domain=eaton.com",
+   "id": "75542",
+   "posted": "2026-10-22"
+  }
+ ],
+ "details": {
+  "https://eaton.eightfold.ai/careers/job/687237774178?domain=eaton.com": {
+   "title": "Apprentice - P&E Indirect",
+   "loc": "Pune, Maharashtra, IND, 411045",
+   "desc": "What you’ll do: \r \nThe position focuses on purchases for indirect material and services from major suppliers, strategic commodities, and multiple locations. The position manages the assigned indirect material supply base for multiple sites to ensure uninterrupted supply at optimum cost, quality, and service for each site. Must be dedicated to maintaining strategic relationships and creating new ones in the spend categories with increased opportunity. Maintains an essential balance between supplier quality, delivery expectations, and cost reduction metrics for all indirect material purchases. \nCritical Outputs:\nA. Manages P2P cycle for indirect material, maintain supplier relationships and ensure uninterrupted supply at optimum cost, quality, and service for each site, opportunities for product/supplier improvement, while ensuring adequate service levels are met.\nB. Acts and apply skillful negotiations (net-pay terms) with internal and external suppliers; conducts problem resolution and settles disputes; develops win-win solutions and creates positive relations with tact and expert judgment.\nC. Leverage Eaton procurement excellence tools in reporting Supplier Prices Increase Request and collaborate with Corporate/Business Category managers to leverage competitive suppliers\nD. Vendor management and maintenance of new/change supplier add requests, efficiently follow-up with functional team to update integrated ERP for issuing amended POs on time in avoiding penalties to business \nE. Prepare and release RFQ packages with approved suppliers in line with internal policies for identifying competitive suppliers and recommendation\nF. Collaborating with functional team in implementing cost saving projects, reporting/creating visibility to business on strategic purchase v/s tactical to avoid ineffective process\nG. Efficiently closing Open orders, resolving invoice issues, reducing invoice liability, business urgencies within SLA timelines \nEssential Functions:\nA. Manages and maintains all assigned current supplier contacts, business relationships and commercial responsibilities for the assigned sites.\nB. Assisting the corporate indirect material commodity teams implement projects for the sites assigned.\nC. Facilitate supplier questions on accounts payables and support any necessary activity for disposition of invoice resolutions and/or payment issues.\nD. Facilitates cross-functional collaboration with others to identify new areas of opportunity and achieve the greatest outcomes in support of SCM strategic goals and initiatives.\nE. Must have knowledge of Excel/Macro’s to on every operation, generating reports, advantage to have knowledge of Power Bi for creating and publishing reports at shared space \nQualifications: \r \nBachelor’s in engineering Or bachelor’s degree in supply chain management from an accredited university. \nSkills: \r \n • Possesses expert knowledge SAP MM for managing complete P2P Cycle, Ariba for P2P, \n• Shows track records for demonstrating leadership and thinking and acting strategically. Demonstrated experience with commodity products and suppliers.\n• Excellent communication, customer service, and interpersonal skills necessary to converse with diverse group of stakeholders including senior management, operations, SCM personnel, and external suppliers.\n• Knowledgeable on ERP system operations, functions, and interfaces. Enterprise reporting systems and data mining.\n• Skilled in Microsoft office applications, heavily influenced excel.",
+   "status": 200
+  },
+  "https://eaton.eightfold.ai/careers/job/687239798584?domain=eaton.com": {
+   "title": "HR Apprentice",
+   "loc": "Pune, Maharashtra, IND, 411013",
+   "desc": "What you’ll do: \r \n• Partner with the HRBP on day-to-day HR initiatives and projects\n• Support employee engagement and employee communication activities\n• Coordinate learning and development programs\n• Assist with onboarding, offboarding, and employee lifecycle processes\n• Maintain HR data, reports, and trackers. Prepare presentations, reports, and basic HR dashboards\n• Coordinate employee communications and event logistics \nQualifications: \r \n• Bachelor's degree in HR, business or related fields, MBA/PGDM in Human Resources (Optional) \nSkills: \r \n• Experience in HR Business Partnering/ HR Generalist \n• Good communication\n• MS Excel\n• Data Visualization and Insights\n• HR Operations Support\n• Coordination & Planning\n• Data-driven mindset",
+   "status": 200
+  },
+  "https://eaton.eightfold.ai/careers/job/687239452576?domain=eaton.com": {
+   "title": "Apprentice. IT. Development Program",
+   "loc": "Pune, Maharashtra, IND, 411014",
+   "desc": "What you’ll do: \r \nWe are looking for a highly motivated Apprentice to join our Master Data Management (MDM) team. This role provides an excellent opportunity to gain hands-on experience in modern data platforms, including Snowflake, Data Architecture, Medallion Architecture, and emerging Generative AI (GenAI) capabilities.\nThe candidate will work closely with senior data engineers and architects to support data engineering, data quality, and data governance initiatives while building strong foundational skills in enterprise data management.\n________________________________________\nKey Responsibilities\n• Support development and maintenance of MDM solutions on modern cloud platforms (Snowflake preferred)\n• Assist in implementing Medallion Architecture (Bronze, Silver, Gold layers) for structured data processing\n• Write and optimize SQL queries for data transformation, validation, and analysis\n• Participate in data modeling and data architecture discussions\n• Support data quality, cleansing, and standardization initiatives\n• Assist in building data pipelines, streamlit apps and workflows\n• Explore and prototype GenAI-driven use cases in data management (e.g., intelligent matching, enrichment, automation)\n• Collaborate with cross-functional teams including data stewards, business stakeholders, and engineering teams\n• Document technical designs, transformations, and best practices \nQualifications: \r \n• Bachelor’s degree in Computer Science, Information Technology, Data Engineering, or related field \nSkills: \r \n• Basic understanding of SQL (joins, aggregations, transformations)\n• Familiarity with Data Warehousing concepts\n• Knowledge of Snowflake or any cloud data platform (preferred)\n• Understanding of Data Architecture fundamentals\n• Awareness of Medallion Architecture (Bronze-Silver-Gold layers)\n• Basic knowledge or interest in Generative AI (GenAI) concepts and applications\n• Exposure to ETL/ELT processes is a plus \n• Certification or coursework in Snowflake, Data Engineering, or AI/ML\n• Hands-on academic or project experience in data-related domains\n________________________________________\nSoft Skills & Behavioral Competencies\n• Strong analytical and problem-solving mindset\n• Good communication skills (ability to explain technical concepts clearly)\n• Willingness to learn and adapt in a fast-paced environment\n• Attention to detail and data accuracy\n• Ability to work collaboratively in a team environment\n• Proactive attitude with a self-starter mindset\n• Openness to feedback and continuous improvement\n• Strong time management and prioritization skills \n• Exposure to tools like Python or data integration tools\n• Understanding of data governance and data quality frameworks\n• Basic knowledge of APIs and data services",
+   "status": 200
+  },
+  "https://eaton.eightfold.ai/careers/job/687238812792?domain=eaton.com": {
+   "title": "Apprentice IT SAP ECC",
+   "loc": "Pune, Maharashtra, IND, 411014",
+   "desc": "What you’ll do: \r \n• Participate in the design and development of test automation scripts.\n• Contribute to test automation frameworks & architecture for SAP platform.\n• Maintenance & execution of performance scripts.\n• Support Continuous Improvement initiatives for overall quality improvement at platform level.\n• Work with tools like Panaya, Tosca, LoadRunner Cloud, ServiceNow, and CI/CD pipelines.\n• Automated generation for quality metrics/dashboards \nQualifications: \r \n• Bachelor’s degree in computer science, Information Technology, or a related field.\n• 0 to 2 years IT experience \nSkills: \r \n• Exposure to test automation, Tosca, Panaya, Performance testing, GitHub Actions, VB, .NET\n• Experience with ticketing systems like Panaya, Jira, ServiceNow. \n• Basic understanding of test automation.\n• Familiarity with CI/CD tools (GitHub actions, Azure DevOps, etc.).\n• Awareness of ERP systems like SAP and integrations with boundary applications.\n• Exposure to scripting (.NET, VB preferred).\n• Experience with collaboration and ticketing tools (Panaya, JIRA, others). \n• Strong analytical and problem-solving mindset.\n• Effective communication and collaboration skills.\n• Eagerness to learn and contribute in a fast-paced environment.",
+   "status": 200
+  },
+  "https://eaton.eightfold.ai/careers/job/687239976322?domain=eaton.com": {
+   "title": "Apprentice - Materials",
+   "loc": "Pune, Maharashtra, IND, 411045",
+   "desc": "What you’ll do: \r \nThis position will be based in Pune and will be in Global Shared service center of Supply Chain Management function. The principle role of the this position is to work on any one of the Materials Management streams like SIOP, Purchasing. \nResponsible for Managing data analytics, reporting and working on processes related to Purchasing, Invoice Management. \nWill be managing tactical support for Operational buyers, SIOP analysts \nQualifications: \r \nEducation - BE/ Diploma Mechanical \nSkills: \r \nSAP/ MFG Pro/ Oracle \nGood communications skills, effective collaboration",
+   "status": 200
+  },
+  "https://eaton.eightfold.ai/careers/job/687239705382?domain=eaton.com": {
+   "title": "Apprentice. IT. Development Program",
+   "loc": "Pune, Maharashtra, IND, 411014",
+   "desc": "What you’ll do: \r \nThe End User Compute Operations role is responsible for monitoring, triaging, assigning, and resolving end-user computing incidents across virtual desktop environments. This role serves as a key operational resource for maintaining stability, improving user experience, and driving continuous service improvements within Azure Virtual Desktop (AVDI), Citrix, and Windows 365 environments. The engineer will actively manage incident queues, coordinate communications during critical outages, and identify opportunities to improve first-level support resolution rates.\nKey Responsibilities\nIncident Management &amp; Queue Oversight\n• Monitor and manage the incident ticket queue to ensure timely assignment and resolution of support requests.\n• Review all incoming incidents and assign unassigned tickets to the appropriate support resources.\n• Perform initial triage of tickets to determine severity, impact, and resolution path.\n• Resolve low-effort incidents during ticket review, including common issues such as VDI restarts, session resets, and basic connectivity issues.\n• Identify tickets that can be quickly resolved and communicate prioritization recommendations to assigned engineers to improve user experience and reduce resolution times.\nTechnical Support &amp; Resolution\n• Investigate, troubleshoot, and resolve incidents related to:&nbsp;\no Azure Virtual Desktop (AVDI)\no Citrix Virtual Apps and Desktops\no Windows 365 Cloud PC\no Virtual desktop performance and connectivity\no User access and authentication issues\no Profile, application, and session management\n• Document troubleshooting activities and maintain accurate incident records.\n• Escalate complex issues appropriately while maintaining ownership through resolution. \nQualifications: \r \nSkills: \r \nKey Competencies\n• Incident Management\n• Service Desk Operations\n• Virtual Desktop Infrastructure (VDI)\n• Azure Virtual Desktop (AVD)\n• Citrix Administration\n• Windows 365\n• Problem Management\n• Major Incident Communications\n• Operational Excellence\n• Customer Experience Focus\n• Process Improvement\n• Technical Troubleshooting",
+   "status": 200
+  },
+  "https://eaton.eightfold.ai/careers/job/687239705711?domain=eaton.com": {
+   "title": "Apprentice. IT. Development Program",
+   "loc": "Pune, Maharashtra, IND, 411014",
+   "desc": "What you’ll do: \r \n• Create &amp; Monitor operational dashboards and KPI reports.\n• Analyze trends and provide actionable insights.\n• Support monthly and quarterly business reviews.\n• Create newsletters and awareness campaigns.\n• Develop content for Viva Engage, SharePoint, and Microsoft 365 platforms.\n• Design infographics, success stories, and adoption communications.\n• Coordinate DEX community events and communications.\n• Create and maintain knowledge articles and user guides.\n• Support knowledge governance and quality audits.\n• Monitor content effectiveness and user engagement.\n• Help develop training materials and learning content.\n• Maintain DEX documentation repositories.\n• Track action items, risks, dependencies, and milestones.\n• Prepare sprint metrics and delivery reports.\n• Track automation opportunities and business outcomes.\n• Create AI success story communications.\n• Prepare adoption and value realization reports.\n• Assist with employee awareness and enablement campaigns.\n• Support employee feedback and experience initiatives.\n• Assist with DEX surveys and sentiment reporting.\n• Track adoption of digital workplace solutions.\n• Maintain action logs and improvement plans. \nQualifications: \r \nSkills:",
+   "status": 200
+  }
+ }
+}

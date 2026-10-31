@@ -1,0 +1,22 @@
+{
+ "company": "HDFC Bank",
+ "ats": "ripplehire",
+ "endpoint": "POST https://hdfcbank.ripplehire.com/candidate/candidatejobsearch (careerSiteUrlParams={search,page,pagesize:50,token:pvB5iAMcmu4ydUh2IW2O})",
+ "queried_at": "2026-10-30",
+ "queries": {
+  "intern": 0,
+  "internship": 0,
+  "trainee": 0,
+  "apprentice": 0,
+  "off-cycle": 3,
+  "interns": 0,
+  "stipend": 0,
+  "fresher": 10,
+  "graduate": 142,
+  "*:*": 482
+ },
+ "total_hits": 482,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Full board paged (482 jobs); keyword search intern/internship/trainee/apprentice/stipend = 0; no intern/trainee titles on full board."
+}

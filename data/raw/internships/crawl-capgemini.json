@@ -1,0 +1,16 @@
+{
+ "company": "Capgemini Invent / Capgemini India",
+ "ats": "custom json",
+ "endpoint": "https://cg-job-search-microservices.azurewebsites.net/api/job-search?country_code=in-en",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "graduate"
+ ],
+ "total_hits": 319,
+ "india_intern_hits": [],
+ "details": {}
+}

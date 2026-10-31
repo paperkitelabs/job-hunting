@@ -1,0 +1,67 @@
+{
+ "company": "Tata Capital",
+ "ats": "oracle",
+ "endpoint": "https://eofh.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions siteNumber=CX",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "summer",
+  "winter",
+  "graduate"
+ ],
+ "total_hits": 5590,
+ "india_intern_hits": [
+  {
+   "title": "Management Trainee - Career Management - Mumbai - Lower Parel - JM",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/52149",
+   "id": "52149",
+   "posted": "2026-08-21"
+  },
+  {
+   "title": "Management Trainee - Career Management - Mumbai - Lodha (I-Think Techno Campus) - JM*",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/16184",
+   "id": "16184",
+   "posted": "2024-03-22"
+  },
+  {
+   "title": "Management Trainee - Career Management - Mumbai - Lodha (I-Think Techno Campus) - JM*",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/16185",
+   "id": "16185",
+   "posted": "2024-03-22"
+  }
+ ],
+ "details": {
+  "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/52149": {
+   "title": "Management Trainee - Career Management - Mumbai - Lower Parel - JM",
+   "loc": "Mumbai, Maharashtra, India",
+   "posted": "2026-08-21T07:34:31+00:00",
+   "end": "2026-11-21T07:33:00+00:00",
+   "desc": "Management Trainee"
+  },
+  "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/16184": {
+   "title": "Management Trainee - Career Management - Mumbai - Lodha (I-Think Techno Campus) - JM*",
+   "loc": "Mumbai, Maharashtra, India",
+   "posted": "2024-03-22T07:54:31+00:00",
+   "end": null,
+   "desc": "Aspire'24"
+  },
+  "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/16185": {
+   "title": "Management Trainee - Career Management - Mumbai - Lodha (I-Think Techno Campus) - JM*",
+   "loc": "Mumbai, Maharashtra, India",
+   "posted": "2024-03-22T07:36:01+00:00",
+   "end": null,
+   "desc": "Select'24"
+  }
+ },
+ "note": "Only Management Trainee (campus MBA Select/Aspire) reqs; SPARK summer internship is MBA campus-only."
+}

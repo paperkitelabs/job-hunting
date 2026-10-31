@@ -1,0 +1,26 @@
+{
+ "company": "Sigmoid",
+ "ats": "greenhouse",
+ "endpoint": "https://boards-api.greenhouse.io/v1/boards/sigmoid/jobs?content=true",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "<whole board>"
+ ],
+ "total_hits": 43,
+ "india_intern_hits": [
+  {
+   "title": "Industrial Trainee - Finance & Accounting",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8713069002",
+   "id": "8713069002",
+   "posted": "2026-09-30T07:32:50-04:00"
+  }
+ ],
+ "details": {
+  "https://job-boards.greenhouse.io/sigmoid/jobs/8713069002": {
+   "title": "Industrial Trainee - Finance & Accounting",
+   "desc": "Sigmoid Analytics is a fast-growing data and analytics company that partners with global enterprises to deliver real-time business insights. As part of the expansion of our Finance & Accounting team, we are looking for Semi-Qualified Chartered Accountants (CA Inter cleared) who are eager to gain hands-on experience in core finance functions. \nLocation \n Sigmoid Analytics \n2nd Floor, Tower-2, SJR I PARK\nRoad Number 9, EPIP Zone, Whitefield\nBengaluru, Karnataka – 560066 \nDuration \n6-month engagement \nOpportunity for conversion to a full-time role based on performance \nEligibility Criteria \nWho Can Apply? \nSemi-Qualified CA ( CA Inter cleared – one or both groups) \nCurrently pursuing CA internship or articleship \nAspiring to complete CA qualification in the future \nRoles & Responsibilities \nHandle day-to-day accounting and bookkeeping activities \nAssist with month-end closing processes and financial reporting \nPrepare and file GST returns \nCalculate and deduct TDS as per applicable regulations \nPrepare and file TDS returns \nSupport statutory, internal, and tax audits \nPerform ledger reconciliations and account reviews \nEnsure compliance with accounting standards and taxation regulations \nRequired Skills & Qualifications \nEducational Qualification \nSemi-Qualified Chartered Accountant (CA Inter) \nTechnical Skills \nExperience or exposure to audit, core accounting, compliance, and taxation \nWorking knowledge of GST, TDS, payroll processing, and statutory filings \nProficiency in:\nMS Excel \nMS Word \nMicrosoft PowerPoint \nFamiliarity with accounting software such as:\nTally \nSAP \nZoho Books \nQuickBooks \nSoft Skills \nStrong analytical and problem-solving abilities \nGood written and verbal communication skills \nHigh attention to detail and accuracy \nResponsible, proactive, and professional attitude \nWhy Join Sigmoid? \nWork with a dynamic and fast-paced finance team \nGain practical corporate experience in accounting, taxation, and compliance \nLearn from experienced finance professionals and industry experts \nPotential opportunity for a full-time role based on performance \nExposure to a technology-driven and high-growth organization \n Note: \n By submitting your application, you consent to being contacted by our Talent Acquisition team via phone call, email, SMS, WhatsApp, or other communication channels regarding your application and relevant career opportunities."
+  }
+ },
+ "note": ""
+}

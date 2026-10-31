@@ -1,0 +1,22 @@
+{
+ "company": "Novartis",
+ "ats": "workday",
+ "endpoint": "https://novartis.wd3.myworkdayjobs.com/wday/cxs/novartis/Novartis_Careers/jobs",
+ "queried_at": "2026-10-30T07:30:57",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "student",
+  "2027",
+  "co-op",
+  "graduate intern",
+  ""
+ ],
+ "total_hits": 125,
+ "india_intern_hits": [],
+ "details": {}
+}

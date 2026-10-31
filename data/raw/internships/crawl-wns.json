@@ -1,0 +1,18 @@
+{
+ "company": "WNS",
+ "ats": "smartrecruiters",
+ "endpoint": "https://api.smartrecruiters.com/v1/companies/WNSGlobalServices144/postings?country=in",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  ""
+ ],
+ "total_hits": 64,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "64 India postings, none intern/trainee"
+}

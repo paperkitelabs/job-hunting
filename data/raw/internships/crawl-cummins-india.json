@@ -1,0 +1,33 @@
+{
+ "company": "Cummins India",
+ "ats": "directemployers (cummins.jobs)",
+ "endpoint": "https://prod-search-api.jobsyn.org/api/v1/solr/search (x-origin: cummins.jobs, location=India)",
+ "queried_at": "2026-10-30T07:27:09",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "analyst intern",
+  "graduate",
+  "data",
+  ""
+ ],
+ "total_hits": 177,
+ "india_intern_hits": [
+  {
+   "title": "Apprentice Trainee",
+   "loc": "Phaltan, IND",
+   "url": "https://cummins.jobs/phaltan-ind/apprentice-trainee/29D0DE7AB1364F7184ED8104C4513125/job/",
+   "id": "2420508",
+   "posted": "2025-12-24T17:32:06Z"
+  }
+ ],
+ "details": {
+  "https://cummins.jobs/phaltan-ind/apprentice-trainee/29D0DE7AB1364F7184ED8104C4513125/job/": {
+   "title": "Apprentice Trainee",
+   "loc": "Phaltan, IND",
+   "desc": "This position is not available in GPP database. Talent Acquisition team member will fill in the Posting description after intake meeting.\nThis position is not available in GPP database. Talent Acquisition team member will fill in the Posting description after intake meeting.\n1-Diploma in Mechanical Engineering\n2-Diploma in Electrical Engineering\n3- Basic Knowledge of Diesel Engine\n4-Speak English Fluently\n**Job** Manufacturing\n**Organization** Cummins Inc.\n**Role Category** On-site with Flexibility\n**Job Type** Apprenticeship\n**ReqID** 2420508\n**Relocation Package** Yes\n**100% On-Site** No"
+  }
+ }
+}

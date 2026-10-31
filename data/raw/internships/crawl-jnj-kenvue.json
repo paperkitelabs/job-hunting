@@ -1,0 +1,22 @@
+{
+ "company": "Johnson & Johnson / Kenvue",
+ "ats": "workday",
+ "endpoint": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs + https://kenvue.wd5.myworkdayjobs.com/wday/cxs/kenvue/Kenvue/jobs",
+ "queried_at": "2026-10-30T07:28:33",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "student",
+  "2027",
+  "co-op",
+  "graduate intern",
+  ""
+ ],
+ "total_hits": 103,
+ "india_intern_hits": [],
+ "details": {}
+}

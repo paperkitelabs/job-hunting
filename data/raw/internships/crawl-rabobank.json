@@ -1,0 +1,11 @@
+{
+ "company": "Rabobank",
+ "ats": "unreachable",
+ "endpoint": "https://www.rabobank.jobs/en/",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "rabobank.jobs returns 403 bot-challenge; no Workday tenant found (rabobank.wd3 404). Not crawled."
+}

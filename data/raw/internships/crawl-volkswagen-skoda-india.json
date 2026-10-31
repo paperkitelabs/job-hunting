@@ -1,0 +1,15 @@
+{
+ "company": "Volkswagen / Skoda Auto VW India",
+ "ats": "other",
+ "endpoint": "https://skoda-vw.co.in/careers/ ; https://jobs.volkswagen-group.com/search/",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "India",
+  "Pune",
+  "trainee"
+ ],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {}
+}

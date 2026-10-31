@@ -1,0 +1,30 @@
+{
+ "company": "Amazon",
+ "ats": "amazon",
+ "endpoint": "https://www.amazon.jobs/en/search.json?country=IND",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "''(all 2,144 India postings paged)",
+  "business_category=studentprograms"
+ ],
+ "total_hits": 2144,
+ "india_intern_hits": [
+  {
+   "title": "Financial Analyst Intern",
+   "loc": "Bengaluru, Karnataka, IND",
+   "url": "https://www.amazon.jobs/en/jobs/10498382/financial-analyst-intern",
+   "id": "10498382",
+   "posted": "August 11, 2026"
+  }
+ ],
+ "details": {
+  "https://www.amazon.jobs/en/jobs/10498382/financial-analyst-intern": {
+   "title": "Financial Analyst Intern",
+   "status": 200,
+   "desc": "Amazon.com, Inc. is a US-based multinational electronic commerce company headquartered in Seattle, Washington. Amazon.com started as an online bookstore, but soon diversified into many other categories, with a vision to be earth's most customer-centric company & to build a place where people can come to find and discover anything they might want to buy online. Amazon has websites in over 14 countries and launched the India marketplace (Amazon.in) in July 2013. \nKey job responsibilities\nAre you looking for an opportunity to kick-start your Finance career in the exciting and fast-growing e-commerce industry with one of the largest e-commerce companies in the world? Are you excited about combining your financial skills and accounting knowledge to uncover new business opportunities? Are you a CA student, having cleared IPCC in the first attempt with 12 months of articleship period left? If your answer to these questions is yes, then joining the Amazon India team as a trainee is the opportunity you have been waiting for!\nWe’re hiring Industrial Trainees (Finance Analyst Interns) across multiple teams in the Amazon India organization. The selected candidate(s) will get an opportunity to work closely with business and finance leaders to produce and deliver financial analysis that would facilitate decision making. \nA day in the life\nThe candidate would be working with key stakeholders in one of our various business lines (to name a few: e-commerce marketplace: “Amazon.in”, media and advertisement business: “Prime Video”, fintech: “Amazon Pay”, logistics: “Amazon Transport Services”) in functions such as internal audit, business finance, accounting, financial planning and others. \nThis role is ONLY for CA Article Trainees who are pursuing Industrial Training. Non-CA applicants or CA students who have either already completed Articleship or have not yet completed 12 months of Articleship should not apply to this role.\nBASIC: - Pursuing CA, cleared IPCC preferably in the first attempt.\n- Available to intern with us for 12-18 months.\n- Good Knowledge of accounting and finance.\nPREFERRED: - Possess strong communication\n- Attention to detail and knowledge about the industry\n- Good problem solving & analytical skills\n- Proficiency in MS Excel\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner."
+  }
+ }
+}

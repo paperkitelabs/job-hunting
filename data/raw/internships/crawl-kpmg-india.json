@@ -1,0 +1,35 @@
+{
+ "company": "KPMG India / KGS",
+ "ats": "oracle",
+ "endpoint": "https://ejgk.fa.em2.oraclecloud.com recruitingCEJobRequisitions sites CX_3, CX_3R (India locationId 300000000296042); kpmgindia.talentrecruit.com is a JS SPA (API not found)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst",
+  "data",
+  "2027",
+  ""
+ ],
+ "total_hits": 1684,
+ "india_intern_hits": [
+  {
+   "title": "Industrial Trainee - Internal Audit",
+   "loc": "Mumbai, Maharashtra, India",
+   "id": "INTG10043161",
+   "posted": "2026-04-09",
+   "url": "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3R/job/INTG10043161",
+   "short": ""
+  }
+ ],
+ "details": {
+  "https://ejgk.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3R/job/INTG10043161": {
+   "title": "Industrial Trainee - Internal Audit",
+   "posted": "2026-04-09",
+   "desc": "KPMG India boilerplate; 'Industrial Trainee'; qualification line: CA"
+  }
+ }
+}

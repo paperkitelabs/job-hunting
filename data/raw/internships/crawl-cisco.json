@@ -1,0 +1,18 @@
+{
+ "company": "Cisco",
+ "ats": "phenom",
+ "endpoint": "https://careers.cisco.com/widgets (refineSearch, country=India)",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "graduate",
+  "UHR",
+  "data"
+ ],
+ "total_hits": 302,
+ "india_intern_hits": [],
+ "details": {}
+}

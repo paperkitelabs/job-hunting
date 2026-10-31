@@ -1,0 +1,24 @@
+{
+ "company": "BNY",
+ "ats": "oracle",
+ "endpoint": "https://eofe.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions (site BNY-Careers, India locationId 300000000378365)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "graduate",
+  "2027",
+  "summer",
+  "winter",
+  "analyst program",
+  "early career",
+  "(all India)"
+ ],
+ "total_hits": 140,
+ "india_intern_hits": [],
+ "details": {}
+}

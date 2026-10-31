@@ -1,0 +1,21 @@
+{
+ "company": "Ascendion",
+ "ats": "Eightfold (PCSX)",
+ "endpoint": "https://jobs.ascendion.com/api/pcsx/search?domain=ascendion.com&location=India",
+ "queried_at": "2026-10-30T13:36:53.294228Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "graduate",
+  "fresher",
+  ""
+ ],
+ "total_hits": 213,
+ "india_intern_hits": [],
+ "details": {}
+}

@@ -1,0 +1,669 @@
+{
+ "cluster": "J1-conglomerates-fmcg",
+ "checked": "30 Oct 2026",
+ "openings": [
+  {
+   "company": "Procter & Gamble",
+   "role": "Information Technology Intern",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Information-Technology-Intern_R000161858",
+   "location": "Mumbai",
+   "city_rank": 1,
+   "job_id": "R000161858",
+   "duration": "6 months",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "Currently pursuing a degree in Computer Science, Engineering, Mathematics, Statistics or related field",
+   "pay": "",
+   "track": "ai",
+   "posted": "2026-10-28",
+   "deadline": "2027-01-04",
+   "jd": "6-month IT internship at P&G Mumbai General Office; interns are aligned to one of Software Engineering, Platform Engineering, AI Engineering (production AI/ML on Azure, MLOps) or Data Science/Data Engineering (EDA, feature engineering, predictive models, pipelines). Asks Python and/or SQL, data structures/algorithms, basic statistics; Pandas, scikit-learn, PyTorch, Spark, Azure/Databricks preferred.",
+   "li": "Procter & Gamble IT (Data & Analytics)",
+   "resume": "DS / AI",
+   "verified": "Workday detail API 200, canApply true, posting endDate 2027-01-04; also on pgcareers.com (200)",
+   "note": "Track (SWE/Platform/AI/DS) assigned by business need; start date not stated, so a Jan start would run to ~Jun/Jul 2027 (runs_past_may unknown)."
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors AI",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/161165",
+   "location": "Bengaluru",
+   "city_rank": 3,
+   "job_id": "161165",
+   "duration": "not stated",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "Bachelor's students (University Relations requisition; title 'Intern Bachelors')",
+   "pay": "",
+   "track": "ai",
+   "posted": "2026-10-29",
+   "deadline": "",
+   "jd": "Hands-on internship designing and developing AI algorithms, models and systems alongside Honeywell AI engineers on real-world projects; hybrid at Honeywell Bengaluru (RMZ Ecoworld campus). Posting body has only this short description (job function: SW Artificial Intelligence); no skills listed.",
+   "li": "Honeywell Technologies AI (Bengaluru)",
+   "resume": "DS / AI",
+   "verified": "Oracle Recruiting detail API 200 and present in live India search list; careers.honeywell.com job page 200",
+   "note": "9 identical requisitions posted 22-29 Oct 2026: 161165, 161166, 161175, 160494, 160490, 160493, 160473, 160487, 160489 (URL pattern careers.honeywell.com/en/sites/Honeywell/job/<id>). Dates/duration not stated."
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern (Bach) Data Engineering",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160488",
+   "location": "Bengaluru",
+   "city_rank": 3,
+   "job_id": "160488",
+   "duration": "not stated",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "Bachelor's students (University Relations requisition)",
+   "pay": "",
+   "track": "ai",
+   "posted": "2026-10-26",
+   "deadline": "",
+   "jd": "Assist in building data pipelines and ETL processes, gather requirements with cross-functional teams, perform data analysis and provide insights. Needs basic data-engineering concepts and Python/Java/Scala; data modelling/warehousing valued.",
+   "li": "Honeywell Data Engineering (Bengaluru)",
+   "resume": "DS / AI",
+   "verified": "Oracle Recruiting detail API 200 and present in live India search list",
+   "note": "2 requisitions: 160488, 160486. Data engineering is a borderline fit (data angle, not DS). Dates not stated."
+  }
+ ],
+ "rejected": [
+  {
+   "company": "Procter & Gamble",
+   "role": "Internship - Sales",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Internship---Sales_R000160037",
+   "reason": "Sales internship; job qualifications 'MBA'"
+  },
+  {
+   "company": "Procter & Gamble",
+   "role": "Internship - Sales",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Internship---Sales_R000161131",
+   "reason": "Sales internship; job qualifications 'MBA'"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors Chemical Eng (Bengaluru, Karnataka, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/161162",
+   "reason": "Chemical engineering intern"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors App Eng (Chennai, Tamil Nadu, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160857",
+   "reason": "Application engineering (EE/ME) intern"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors App Eng (Pune, Maharashtra, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160931",
+   "reason": "Application engineering (EE/ME) intern"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors App Eng (Pune, Maharashtra, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160933",
+   "reason": "Application engineering (EE/ME) intern"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors App Eng (Pune, Maharashtra, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160935",
+   "reason": "Application engineering (EE/ME) intern"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors App Eng (Bengaluru, Karnataka, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160861",
+   "reason": "Application engineering (EE/ME) intern"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors App Eng (Pune, Maharashtra, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160865",
+   "reason": "Application engineering (EE/ME) intern"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors App Eng (Pune, Maharashtra, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160877",
+   "reason": "Application engineering (EE/ME) intern"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors Software Eng (Pune City, Maharashtra, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160868",
+   "reason": "Pure SWE intern (code reviews, software development), no data/AI angle"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors Systems Eng (Pune, Maharashtra, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160947",
+   "reason": "Systems engineering (hardware/systems) intern"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern (Bachelor's) (Pune, Maharashtra, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160465",
+   "reason": "CA industrial-training intern (finance/accounting; CA students only)"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors Software Eng (Bengaluru, Karnataka, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160495",
+   "reason": "Pure SWE intern (code reviews, software development), no data/AI angle"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors Software Eng (Bengaluru, Karnataka, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160480",
+   "reason": "Pure SWE intern (code reviews, software development), no data/AI angle"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors Software Eng (Bengaluru, Karnataka, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160482",
+   "reason": "Pure SWE intern (code reviews, software development), no data/AI angle"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors Software Eng (Bengaluru, Karnataka, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160484",
+   "reason": "Pure SWE intern (code reviews, software development), no data/AI angle"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors Software Eng (Bengaluru, Karnataka, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160491",
+   "reason": "Pure SWE intern (code reviews, software development), no data/AI angle"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors Software Eng (Bengaluru, Karnataka, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160492",
+   "reason": "Pure SWE intern (code reviews, software development), no data/AI angle"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors App Eng (Chennai, Tamil Nadu, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160815",
+   "reason": "Application engineering (EE/ME) intern"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors Systems Eng (Chennai, Tamil Nadu, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160859",
+   "reason": "Systems engineering (hardware/systems) intern"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern (Bachelor's) (Bengaluru, Karnataka, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160462",
+   "reason": "CA industrial-training intern (finance/accounting; CA students only)"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors Software Eng (Bengaluru, Karnataka, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160479",
+   "reason": "Pure SWE intern (code reviews, software development), no data/AI angle"
+  },
+  {
+   "company": "Honeywell",
+   "role": "Intern Bachelors Software Eng (Bengaluru, Karnataka, India)",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160483",
+   "reason": "Pure SWE intern (code reviews, software development), no data/AI angle"
+  },
+  {
+   "company": "ABB",
+   "role": "ITI - Trainee",
+   "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Vadodara-Gujarat-India/ITI---Trainee_JR00001300",
+   "reason": "ITI trade trainee (production/shop floor); talent-pipeline posting"
+  },
+  {
+   "company": "GE Vernova",
+   "role": "DT Intern (Chennai)",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Chennai/DT-Intern_R5027950-2",
+   "reason": "Electrical design / power electronics engineering intern; posted Dec 2025"
+  },
+  {
+   "company": "GE HealthCare",
+   "role": "Graduate Engineering Trainee (Bengaluru)",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineering-Trainee_R4048320-1",
+   "reason": "Full-time graduate manufacturing engineer trainee for recent Mech/EE graduates"
+  },
+  {
+   "company": "GE HealthCare",
+   "role": "Graduate Engineer Trainee (Bengaluru)",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4047718-1",
+   "reason": "Full-time graduate manufacturing engineer trainee for recent Mech/EE graduates"
+  },
+  {
+   "company": "GE HealthCare",
+   "role": "Graduate Engineer Trainee (Bengaluru)",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4047566-2",
+   "reason": "Full-time graduate manufacturing engineer trainee for recent Mech/EE graduates"
+  },
+  {
+   "company": "GE HealthCare",
+   "role": "Graduate Engineer Trainee (Bengaluru)",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/GRADUATE-ENGINEERING-TRAINEE_R4043087-1",
+   "reason": "Full-time graduate manufacturing engineer trainee for recent Mech/EE graduates"
+  },
+  {
+   "company": "GE HealthCare",
+   "role": "Graduate Engineer Trainee (Bengaluru)",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Graduate-Engineer-Trainee_R4044668",
+   "reason": "Full-time graduate manufacturing engineer trainee for recent Mech/EE graduates"
+  },
+  {
+   "company": "GE HealthCare",
+   "role": "Graduate Engineer Trainee (Bengaluru)",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Trainee-Engineer_R4046006-1",
+   "reason": "Full-time graduate manufacturing engineer trainee for recent Mech/EE graduates"
+  },
+  {
+   "company": "GE HealthCare",
+   "role": "Graduate Engineer Trainee (Bengaluru)",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Trainee-Engineer_R4044790-1",
+   "reason": "Full-time graduate manufacturing engineer trainee for recent Mech/EE graduates"
+  },
+  {
+   "company": "GE HealthCare",
+   "role": "Research Intern - AI (Bengaluru)",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1",
+   "reason": "Requires currently pursuing a PhD"
+  },
+  {
+   "company": "Colgate-Palmolive",
+   "role": "Research Trainee - Global Innovation Implementation",
+   "url": "https://jobs.colgate.com/job/Research-Trainee-Global-Innovation-Implementation/174511-en_US",
+   "reason": "2-year R&D trainee; needs M.Sc Chemistry/M.Pharm/M.Tech"
+  },
+  {
+   "company": "Colgate-Palmolive",
+   "role": "Cost Trainee (Contractual)",
+   "url": "https://jobs.colgate.com/job/Cost-Trainee-%28Contractual%29/167261-en_US",
+   "reason": "Cost accounting trainee; needs CMA"
+  },
+  {
+   "company": "Colgate-Palmolive",
+   "role": "Research Trainee -Global Science & Systems",
+   "url": "https://jobs.colgate.com/job/Research-Trainee-Global-Science-&amp;-Systems/172654-en_US",
+   "reason": "PLM data-governance trainee; needs postgraduate in sciences"
+  },
+  {
+   "company": "Colgate-Palmolive",
+   "role": "Industrial Trainee (CA)",
+   "url": "https://jobs.colgate.com/job/Industrial-Trainee-%28CA%29/171902-en_US",
+   "reason": "CA industrial trainee (finance)"
+  },
+  {
+   "company": "Colgate-Palmolive",
+   "role": "GIT Trainee (Contractual)",
+   "url": "https://jobs.colgate.com/job/GIT-Trainee-%28Contractual%29/172352-en_US",
+   "reason": "Contractual IT trainee requiring completed Bachelor's; generic software/product engineering"
+  },
+  {
+   "company": "Bosch",
+   "role": "IN_Bosch Rexroth India_Graduate Management Traninee_Engineering & Application",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135641599",
+   "reason": "Full-time Graduate Management Trainee (engineering & application), Sanand; not an internship"
+  },
+  {
+   "company": "Siemens",
+   "role": "Diploma Trainee Engineer (Goa , Goa , India)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520592",
+   "reason": "Permanent full-time trainee role (Diploma engineer, Goa / finance master-data ops, Bangalore)"
+  },
+  {
+   "company": "Siemens",
+   "role": "Trainee (Bangalore , Karnataka , India)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526122",
+   "reason": "Permanent full-time trainee role (Diploma engineer, Goa / finance master-data ops, Bangalore)"
+  },
+  {
+   "company": "Siemens",
+   "role": "Trainee (Bangalore , Karnataka , India)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526123",
+   "reason": "Permanent full-time trainee role (Diploma engineer, Goa / finance master-data ops, Bangalore)"
+  },
+  {
+   "company": "Siemens",
+   "role": "Diploma Trainee Engineer (Goa , Goa , India)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520589",
+   "reason": "Permanent full-time trainee role (Diploma engineer, Goa / finance master-data ops, Bangalore)"
+  },
+  {
+   "company": "Siemens",
+   "role": "Diploma Trainee Engineer (Goa , Goa , India)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520591",
+   "reason": "Permanent full-time trainee role (Diploma engineer, Goa / finance master-data ops, Bangalore)"
+  },
+  {
+   "company": "Siemens",
+   "role": "Diploma Trainee Engineer (Goa , Goa , India)",
+   "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/520587",
+   "reason": "Permanent full-time trainee role (Diploma engineer, Goa / finance master-data ops, Bangalore)"
+  },
+  {
+   "company": "Mahindra Group",
+   "role": "Graduate Apprentice Trainee (Chakan, Chakan, IN)",
+   "url": "https://jobs.mahindracareers.com/job/Chakan-Graduate-Apprentice-Trainee-Chak/1443450300/",
+   "reason": "Graduate apprentice / management trainee for completed graduates (plant / F&A)"
+  },
+  {
+   "company": "Mahindra Group",
+   "role": "Graduate Apprentice Trainee -1 Nashik (Nashik, Nashik Plant I, IN)",
+   "url": "https://jobs.mahindracareers.com/job/Nashik-Graduate-Apprentice-Trainee-1-Nashik-Nash/1420494300/",
+   "reason": "Graduate apprentice / management trainee for completed graduates (plant / F&A)"
+  },
+  {
+   "company": "Mahindra Group",
+   "role": "Management Trainee F&A (Mohali, Swaraj Engines Mohali, IN)",
+   "url": "https://jobs.mahindracareers.com/job/Mohali-Management-Trainee-F&amp;A-Swar/1439395400/",
+   "reason": "Graduate apprentice / management trainee for completed graduates (plant / F&A)"
+  },
+  {
+   "company": "Mahindra Group",
+   "role": "Graduate Apprentice Trainee (Igatpuri, Igatpuri, IN)",
+   "url": "https://jobs.mahindracareers.com/job/Igatpuri-Graduate-Apprentice-Trainee-Igat/1443978400/",
+   "reason": "Graduate apprentice / management trainee for completed graduates (plant / F&A)"
+  },
+  {
+   "company": "Mahindra Group",
+   "role": "Graduate Apprentice Trainee (Igatpuri, Igatpuri, IN)",
+   "url": "https://jobs.mahindracareers.com/job/Igatpuri-Graduate-Apprentice-Trainee-Igat/1435630700/",
+   "reason": "Graduate apprentice / management trainee for completed graduates (plant / F&A)"
+  }
+ ],
+ "round1": [
+  {
+   "company": "Procter & Gamble India",
+   "role": "Information Technology Intern",
+   "old_url": "https://www.pgcareers.com/global/en/job/R000161858/Information-Technology-Intern",
+   "status": "live",
+   "new_url": "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Information-Technology-Intern_R000161858",
+   "note": "Workday detail 200, canApply true, posted 2026-10-28; kept."
+  },
+  {
+   "company": "Procter & Gamble India",
+   "role": "IT Internship",
+   "old_url": "https://www.pgcareers.com/global/en/job/R000154803/IT-Internship",
+   "status": "closed",
+   "new_url": "",
+   "note": "pgcareers page returns HTTP 410; requisition not in Workday search."
+  },
+  {
+   "company": "Unilever / Hindustan Unilever",
+   "role": "Digital & AI Apprenticeship (India among hiring countries)",
+   "old_url": "https://nus.edu.sg/cfg/events/details/696b9ce7eaa0a8044d729a208d2991b0",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No such posting on Unilever Workday (Experienced_Professionals or Early_Careers sites), India or global."
+  },
+  {
+   "company": "Reliance Jio",
+   "role": "Data Science Intern (Kolkata)",
+   "old_url": "https://myinternships.in/job/reliance-jio-data-science-intern-kolkata-af0683",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Not on careers.ril.com job search; careers.jio.com listing is behind profile login."
+  },
+  {
+   "company": "PepsiCo GBS Hyderabad",
+   "role": "Intern (product strategy / consumer sentiment analysis)",
+   "old_url": "https://joinsaarthi.com/jobs/pepsico/intern-hyderabad/0aa38651-94ef-4a90-88d0-3576279f183c",
+   "status": "not_found",
+   "new_url": "",
+   "note": "pepsicojobs Jibe API: 221 India postings, none intern."
+  },
+  {
+   "company": "Shell India (Shell Digital, Bengaluru)",
+   "role": "Shell Digital Data Science & ML Ops Intern / Data Analyst Intern / Analytics Consultant Intern",
+   "old_url": "https://myinternships.in/job/shell-india-is-hiring-shell-digital-data-science-and-ml-ops-intern-bengaluru-39a54a",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Shell Workday India: 0 intern postings."
+  },
+  {
+   "company": "Shell India",
+   "role": "Shell Assessed Internship Programme (Bengaluru/Mumbai)",
+   "old_url": "https://jobs.weekday.works/shell-india-shell-internship-2026-india",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No 2027 India assessed internship on Shell Workday."
+  },
+  {
+   "company": "Siemens Healthineers",
+   "role": "CS Intern",
+   "old_url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/489924",
+   "status": "closed",
+   "new_url": "",
+   "note": "Job detail redirects to Error page (403); Healthineers Phenom India board has 0 intern postings."
+  },
+  {
+   "company": "Schneider Electric India",
+   "role": "Generative AI Developer Intern / Data Analytics Intern / AI-ML Engineer Intern (Bengaluru)",
+   "old_url": "https://myinternships.in/job/schneider-electric-generative-ai-developer-intern-bengaluru-f67a26",
+   "status": "not_found",
+   "new_url": "",
+   "note": "careers.se.com Jibe: 614 India postings, none intern."
+  },
+  {
+   "company": "GE Aerospace",
+   "role": "DT Intern - Data Science",
+   "old_url": "https://geaerospace.dejobs.org/bengaluru-ind/dt-intern-data-science/8CDFC76F750A4FD79B0E26DE482839F6/job",
+   "status": "not_found",
+   "new_url": "",
+   "note": "GE Aerospace Workday India (Bengaluru/Pune facets): 15 postings, none intern."
+  }
+ ],
+ "companies": [
+  {
+   "name": "Hindustan Unilever / Unilever",
+   "ats": "workday",
+   "endpoint": "https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professionals/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India: 14 postings, 0 intern"
+  },
+  {
+   "name": "Procter & Gamble",
+   "ats": "workday",
+   "endpoint": "https://pg.wd5.myworkdayjobs.com/wday/cxs/pg/1000/jobs",
+   "india_intern_hits": 3,
+   "kept": 1,
+   "note": "Workday India: IT Intern kept; 2 Sales internships (MBA) rejected"
+  },
+  {
+   "name": "Nestle India",
+   "ats": "successfactors-rmk",
+   "endpoint": "https://jobdetails.nestle.com/search/?locationsearch=India (nestle.in/jobs answers 403)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "SF RMK India: 0 intern postings (nestle.in 403)"
+  },
+  {
+   "name": "ITC",
+   "ats": "zoho-recruit",
+   "endpoint": "https://recruitment.itcportal.com/jobs/Careers (embedded job JSON)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Zoho Recruit board (48 full-time): 0 intern"
+  },
+  {
+   "name": "Reliance Industries",
+   "ats": "custom (ASP.NET)",
+   "endpoint": "https://careers.ril.com/rilcareers/frmJobSearch.aspx; https://careers.jio.com/frmJobCategories.aspx",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "careers.ril.com ASP.NET search has no intern postings; Jio portal login-only"
+  },
+  {
+   "name": "Tata Group (TCS, Tata Steel, Tata Motors, Tata Consumer)",
+   "ats": "successfactors-rmk / ripplehire / custom",
+   "endpoint": "https://careers.tatamotors.com/search/; https://careers.tataconsumer.com/search/; https://tatasteel.ripplehire.com/candidate/ (JS app, no listing); https://www.tcs.com/careers/india/internship (403)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Tata Motors & Tata Consumer RMK: 0 intern; Tata Steel ripplehire JS-only; TCS internship page 403"
+  },
+  {
+   "name": "Mahindra Group",
+   "ats": "successfactors-rmk",
+   "endpoint": "https://jobs.mahindracareers.com/search/",
+   "india_intern_hits": 5,
+   "kept": 0,
+   "note": "SF RMK: only graduate apprentice / MT roles"
+  },
+  {
+   "name": "Aditya Birla Group",
+   "ats": "peoplestrong",
+   "endpoint": "https://abgcareers.peoplestrong.com/ (JS app)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "PeopleStrong JS portal; no public listing found"
+  },
+  {
+   "name": "Larsen & Toubro (LTIMindtree, L&T Tech)",
+   "ats": "peoplestrong / ripplehire",
+   "endpoint": "https://larsentoubrocareers.peoplestrong.com/ ; ltm.com/careers (ripplehire)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "PeopleStrong/ripplehire JS portals; no public listing found"
+  },
+  {
+   "name": "Godrej Group",
+   "ats": "phenom",
+   "endpoint": "https://careers.godrejindustries.com/widgets (refineSearch, refNum GGXGGZIN)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Phenom India: 607 postings, 0 intern"
+  },
+  {
+   "name": "Asian Paints",
+   "ats": "successfactors-rmk",
+   "endpoint": "https://careers.asianpaints.com/search/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "SF RMK: 0 intern postings"
+  },
+  {
+   "name": "Marico",
+   "ats": "sensehq",
+   "endpoint": "https://marico.sensehq.com/careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "SenseHQ board ~5 postings, 0 intern"
+  },
+  {
+   "name": "L'Oreal India",
+   "ats": "radancy-talentbrew",
+   "endpoint": "https://careers.loreal.com/en/search-jobs/results (OrganizationIds 3456)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "TalentBrew: 582 global intern/trainee results, 0 India"
+  },
+  {
+   "name": "Coca-Cola",
+   "ats": "workday",
+   "endpoint": "https://coke.wd1.myworkdayjobs.com/wday/cxs/coke/coca-cola-careers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India: 6 postings, 0 intern"
+  },
+  {
+   "name": "PepsiCo GBS",
+   "ats": "jibe/icims",
+   "endpoint": "https://www.pepsicojobs.com/api/jobs (Jibe; iCIMS apply)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Jibe India: 221 postings, 0 intern"
+  },
+  {
+   "name": "Diageo India",
+   "ats": "workday",
+   "endpoint": "https://diageo.wd3.myworkdayjobs.com/wday/cxs/diageo/Diageo_Careers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India: 34, 0 intern"
+  },
+  {
+   "name": "Mondelez",
+   "ats": "workday",
+   "endpoint": "https://mdlz.wd3.myworkdayjobs.com/wday/cxs/mdlz/External/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India: 60, 0 intern"
+  },
+  {
+   "name": "Colgate-Palmolive",
+   "ats": "successfactors-rmk",
+   "endpoint": "https://jobs.colgate.com/services/recruiting/v1/jobs",
+   "india_intern_hits": 5,
+   "kept": 0,
+   "note": "SF RMK India: 5 trainee roles, all rejected"
+  },
+  {
+   "name": "Shell",
+   "ats": "workday",
+   "endpoint": "https://shell.wd3.myworkdayjobs.com/wday/cxs/shell/ShellCareers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India: 19, 0 intern"
+  },
+  {
+   "name": "bp",
+   "ats": "workday",
+   "endpoint": "https://bpinternational.wd3.myworkdayjobs.com/wday/cxs/bpinternational/bpCareers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India: 21, 0 intern"
+  },
+  {
+   "name": "Siemens",
+   "ats": "avature",
+   "endpoint": "https://jobs.siemens.com/en_US/externaljobs/SearchJobs/?search=<q>; Healthineers: careers.siemens-healthineers.com Phenom /widgets (refNum SHDSHWUS)",
+   "india_intern_hits": 6,
+   "kept": 0,
+   "note": "Avature: India trainee roles are permanent; Healthineers Phenom 0"
+  },
+  {
+   "name": "Schneider Electric",
+   "ats": "jibe/icims",
+   "endpoint": "https://careers.se.com/api/jobs (Jibe; iCIMS apply)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Jibe India 614, 0 intern"
+  },
+  {
+   "name": "ABB",
+   "ats": "workday",
+   "endpoint": "https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "Workday India: 1 ITI trainee (rejected)"
+  },
+  {
+   "name": "Honeywell",
+   "ats": "oracle",
+   "endpoint": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions (site CX_1, India locationId 300000000469485)",
+   "india_intern_hits": 33,
+   "kept": 2,
+   "note": "Oracle India: 33 intern reqs; AI (9 reqs) + Data Eng (2 reqs) kept"
+  },
+  {
+   "name": "GE (Aerospace, Vernova, HealthCare)",
+   "ats": "workday",
+   "endpoint": "https://geaerospace.wd5.myworkdayjobs.com/wday/cxs/geaerospace/GE_ExternalSite/jobs; https://gevernova.wd5.myworkdayjobs.com/wday/cxs/gevernova/Vernova_ExternalSite/jobs; https://gehc.wd5.myworkdayjobs.com/wday/cxs/gehc/GEHC_ExternalSite/jobs",
+   "india_intern_hits": 9,
+   "kept": 0,
+   "note": "Workday (3 tenants, India city facets): only GET/PhD/electrical interns"
+  },
+  {
+   "name": "Bosch",
+   "ats": "smartrecruiters",
+   "endpoint": "https://api.smartrecruiters.com/v1/companies/BoschGroup/postings?country=in",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "SmartRecruiters India 581, 0 intern"
+  }
+ ]
+}

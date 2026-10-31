@@ -1,0 +1,249 @@
+{
+ "cluster": "R4c-indian-fin-2",
+ "checked": "30 Oct 2026",
+ "openings": [],
+ "rejected": [],
+ "round1": [],
+ "companies": [
+  {
+   "name": "State Bank of India",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "Bank of Baroda",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "IndusInd Bank",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "RBL Bank",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "Federal Bank",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "AU Small Finance Bank",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "Bandhan Bank",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "Nippon India AMC",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "Angel One",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "Upstox",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "Nuvama",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "IIFL Finance",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "JM Financial",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "Edelweiss",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "Cholamandalam Finance",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "Shriram Finance",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "Muthoot Finance",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "L&T Finance",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "Poonawalla Fincorp",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "Hero FinCorp",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "CDSL",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "NSDL",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "MCX",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "ICRA",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "CareEdge Ratings",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "India Ratings",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "HDFC AMC",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "SBI Funds Management",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "ICICI Securities",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  },
+  {
+   "name": "HDFC Securities",
+   "ats": "",
+   "endpoint": "",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "crawl in progress (partial file)"
+  }
+ ]
+}

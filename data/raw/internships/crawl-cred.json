@@ -1,0 +1,12 @@
+{
+ "company": "CRED",
+ "ats": "lever",
+ "endpoint": "https://api.lever.co/v0/postings/cred?mode=json",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 13,
+ "india_intern_hits": [],
+ "details": {}
+}

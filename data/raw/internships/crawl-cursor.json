@@ -1,0 +1,43 @@
+{
+ "company": "Cursor (Anysphere)",
+ "ats": "ashby",
+ "endpoint": "https://api.ashbyhq.com/posting-api/job-board/cursor?includeCompensation=true",
+ "queried_at": "2026-10-30T03:11Z",
+ "queries": [
+  "whole board; filtered ats.is_india(location) + intern regex on title/employmentType"
+ ],
+ "total_hits": 125,
+ "india_postings": 6,
+ "india_intern_hits": [],
+ "india_fde_fulltime": [
+  "Regional Director, Forward Deployed Engineering @ Singapore",
+  "Forward Deployed Engineer - India @ Bengaluru"
+ ],
+ "details": {},
+ "india_titles": [
+  [
+   "Strategic Enterprise Account Executive - India",
+   "Bengaluru"
+  ],
+  [
+   "Field Engineer - India ",
+   "Bengaluru"
+  ],
+  [
+   "Solutions Architect - India",
+   "Bengaluru"
+  ],
+  [
+   "Ai Deployment Manager - India",
+   "Bengaluru"
+  ],
+  [
+   "Regional Director, Forward Deployed Engineering",
+   "Singapore"
+  ],
+  [
+   "Forward Deployed Engineer - India",
+   "Bengaluru"
+  ]
+ ]
+}

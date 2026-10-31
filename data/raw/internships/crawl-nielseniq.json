@@ -1,0 +1,18 @@
+{
+ "company": "NielsenIQ",
+ "ats": "smartrecruiters",
+ "endpoint": "https://api.smartrecruiters.com/v1/companies/NielsenIQ/postings?country=in",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  ""
+ ],
+ "total_hits": 65,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "65 India postings, none intern/trainee"
+}

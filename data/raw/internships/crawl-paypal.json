@@ -1,0 +1,19 @@
+{
+ "company": "PayPal",
+ "ats": "eightfold_pcsx",
+ "endpoint": "https://paypal.eightfold.ai/api/pcsx/search?domain=paypal.com",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "graduate",
+  "data analyst intern",
+  "data science intern",
+  ""
+ ],
+ "total_hits": 14,
+ "india_intern_hits": [],
+ "details": {}
+}

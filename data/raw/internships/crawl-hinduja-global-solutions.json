@@ -1,0 +1,13 @@
+{
+ "company": "Hinduja Global Solutions",
+ "ats": "SuccessFactors RMK (careers.joinhgs.com)",
+ "endpoint": "POST https://careers.joinhgs.com/services/recruiting/v1/jobs (hgs.com -> joinhgs.com)",
+ "queried_at": "2026-10-30T13:41:12.517138Z",
+ "queries": [
+  "whole board",
+  ""
+ ],
+ "total_hits": 55,
+ "india_intern_hits": [],
+ "details": {}
+}

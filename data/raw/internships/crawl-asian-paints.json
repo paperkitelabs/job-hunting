@@ -1,0 +1,17 @@
+{
+ "company": "Asian Paints",
+ "ats": "successfactors-rmk",
+ "endpoint": "https://careers.asianpaints.com/search/",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "2027",
+  ""
+ ],
+ "total_hits": 500,
+ "india_intern_hits": [],
+ "details": {}
+}

@@ -1,0 +1,50 @@
+{
+ "company": "Eclerx",
+ "ats": "Oracle Recruiting Cloud",
+ "endpoint": "https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1 (India locationId 300000000467203)",
+ "queried_at": "2026-10-30T13:25:04.735083Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "graduate",
+  "fresher"
+ ],
+ "total_hits": 163,
+ "india_intern_hits": [
+  {
+   "title": "intern",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/81650",
+   "id": "81650",
+   "posted": "2026-07-06"
+  },
+  {
+   "title": "intern",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/82326",
+   "id": "82326",
+   "posted": "2026-05-25"
+  }
+ ],
+ "details": {
+  "https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/81650": {
+   "title": "intern",
+   "loc": "Mumbai, Maharashtra, India",
+   "posted": "2026-07-06T13:56:18+00:00",
+   "end": null,
+   "desc": "10+ years of relevant experience in UI design \nCreate visually compelling and highly usable interfaces for web and mobile applications. \nDevelop wireframes, prototypes, and high-fidelity mockups that effectively communicate design ideas and interactions. \nCollaborate with UX designers, product managers, and developers to translate user requirements into functional designs. \nEnsure designs are consistent with brand guidelines and design standards. \nWork closely with cross-functional teams to understand project requirements and deliver high-quality design solutions on time. \nPresent and articulate design concepts and decisions to stakeholders and team members. \nMentor and guide junior designers, providing feedback and support to help them grow their skills. \nCollaborate with front-end developers to ensure the accurate implementation of design specifications."
+  },
+  "https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/82326": {
+   "title": "intern",
+   "loc": "Mumbai, Maharashtra, India",
+   "posted": "2026-05-25T10:16:03+00:00",
+   "end": null,
+   "desc": "Shared in email separately"
+  }
+ }
+}

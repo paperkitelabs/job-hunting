@@ -1,0 +1,11 @@
+{
+ "company": "KPIT Technologies",
+ "ats": "unknown (TalentOjo per aggregators)",
+ "endpoint": "careers.kpit.com, kpit.talentojo.com",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "error": "Unreachable: careers.kpit.com and kpit.talentojo.com connection fails; kpit.com/careers-graduates is a static page with no listings. Not crawled."
+}

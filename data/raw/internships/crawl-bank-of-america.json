@@ -1,0 +1,13 @@
+{
+ "company": "Bank of America",
+ "ats": "other (jobssearchservlet JSON)",
+ "endpoint": "https://careers.bankofamerica.com/services/jobssearchservlet?search=jobsByCountry&country=India ; /services/campusjobssearchservlet",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "(India board 138)",
+  "(campus board 35)"
+ ],
+ "total_hits": 138,
+ "india_intern_hits": [],
+ "details": {}
+}

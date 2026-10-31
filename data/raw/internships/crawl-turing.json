@@ -1,0 +1,43 @@
+{
+ "company": "Turing",
+ "ats": "greenhouse",
+ "endpoint": "https://boards-api.greenhouse.io/v1/boards/turing/jobs?content=true",
+ "queried_at": "2026-10-30T03:11Z",
+ "queries": [
+  "whole board; filtered ats.is_india(location) + intern regex on title/employmentType"
+ ],
+ "total_hits": 38,
+ "india_postings": 6,
+ "india_intern_hits": [],
+ "india_fde_fulltime": [
+  "Forward-Deployed AI Engineer @ Hyderabad, Telangana, India",
+  "Forward-Deployed AI Engineer @ Bengaluru, Karnataka, India"
+ ],
+ "details": {},
+ "india_titles": [
+  [
+   "Forward-Deployed AI Engineer",
+   "Hyderabad, Telangana, India"
+  ],
+  [
+   "Forward-Deployed AI Engineer",
+   "Bengaluru, Karnataka, India"
+  ],
+  [
+   "Product Manager",
+   "India - Remote"
+  ],
+  [
+   "Senior Full-Stack Engineer - Enterprise AI ",
+   "Mumbai, Maharashtra, India"
+  ],
+  [
+   "Software Engineer",
+   "Bengaluru, Karnataka, India"
+  ],
+  [
+   "Strategic Project Lead - Code",
+   "India - Remote"
+  ]
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "company": "Maersk",
+ "ats": "workday",
+ "endpoint": "https://maersk.wd3.myworkdayjobs.com/wday/cxs/maersk/Maersk_Careers/jobs",
+ "queried_at": "2026-10-30T07:28:16",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "student",
+  "2027",
+  "co-op",
+  "graduate intern",
+  ""
+ ],
+ "total_hits": 259,
+ "india_intern_hits": [
+  {
+   "title": "Intern- MGF",
+   "loc": "India, Chennai, 600116",
+   "url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern--MGF_R198729",
+   "id": "R198729",
+   "posted": "Posted 2 Days Ago"
+  },
+  {
+   "title": "Intern - MGF NCS Specialist",
+   "loc": "India, Chennai, 600116",
+   "url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern---MGF-NCS-Specialist_R199621",
+   "id": "R199621",
+   "posted": "Posted 16 Days Ago"
+  },
+  {
+   "title": "Intern - MGF NCS Specialist",
+   "loc": "India, Chennai, 600116",
+   "url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern---MGF-NCS-Specialist_R199620",
+   "id": "R199620",
+   "posted": "Posted 16 Days Ago"
+  },
+  {
+   "title": "Intern - MGF NCS Specialist",
+   "loc": "India, Chennai, 600116",
+   "url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern---MGF-NCS-Specialist_R199615",
+   "id": "R199615",
+   "posted": "Posted 16 Days Ago"
+  },
+  {
+   "title": "Intern - MGF NCS Specialist",
+   "loc": "India, Chennai, 600116",
+   "url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern---MGF-NCS-Specialist_R199608",
+   "id": "R199608",
+   "posted": "Posted 21 Days Ago"
+  }
+ ],
+ "details": {
+  "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern--MGF_R198729": {
+   "title": "Intern- MGF",
+   "loc": "India, Chennai, 600116",
+   "country": "India",
+   "id": "R198729",
+   "posted": "2026-10-28",
+   "end": "2026-11-04",
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern--MGF_R198729",
+   "desc": "About the Role We are looking for motivated interns to support on our Maersk Ground Freight Team. \n Key Responsibilities \n Handle inbound and outbound communications with customers, client personnel, delivery teams, carrier partners, and internal stakeholders via phone, email, and SMS. \nAssess customer needs and provide timely, accurate, and effective solutions to delivery-related inquiries, issues, and exceptions. \nTroubleshoot delivery exceptions in coordination with delivery and carrier teams, including customer availability concerns, route challenges, locating delivery addresses, go-backs, and communicating revised delivery timeframes. \n Monitor assigned delivery routes and teams in real time to support adherence to planned schedules, on time performance, and successful delivery execution. \nProvide real-time route status updates and proactively communicate delivery exceptions, delays, and risks to relevant stakeholders. \nReport and escalate route and delivery issues as appropriate, coordinating with field operations, carrier teams, and other stakeholders to drive timely resolution. \nCollaborate with field operations and carrier partners to resolve operational challenges and maintain service continuity. \nDeliver intraday updates and reports on route performance, delivery status, and operational exceptions. \nConduct proactive follow-up with customers following exception-based resolutions to confirm satisfaction and ensure a positive customer experience. \nSupport carrier compliance with operational standards, service expectations, and customer requirements. \nMeet defined customer service, dispatch, and operational KPI targets within established service levels. \nApply company values, policies, and service standards in all customer and stakeholder interactions. \nStudents should be currently pursuing or graduated in Bachelor's degree and okay to work in US time shifts and can start immediately. \n Maersk is committed to a diverse and inclusive workplace, and we embrace different styles of thinking. Maersk is an equal opportunities employer and welcomes applicants without regard to race, colour, gender, sex, age, religion, creed, national origin, ancestry, citizenship, marital status, sexual orientation, physical or mental disability, medical condition, pregnancy or parental leave, veteran status, gender identity, genetic information, or any other characteristic protected by applicable law. We will consider qualified applicants with criminal histories in a manner consistent with all legal requirements. \n We are happy to support your need for any adjustments during the application and hiring process. If you need special assistance or an accommodation to use our website, apply for a position, or to perform a job, please contact us by emailing accommodationrequests@maersk.com .",
+   "status": 200
+  },
+  "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern---MGF-NCS-Specialist_R199621": {
+   "title": "Intern - MGF NCS Specialist",
+   "loc": "India, Chennai, 600116",
+   "country": "India",
+   "id": "R199621",
+   "posted": "2026-10-14",
+   "end": null,
+   "time_type": "Part time",
+   "can_apply": true,
+   "url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern---MGF-NCS-Specialist_R199621",
+   "desc": "The MGF CX Specialist supports National Customer Service LTL Services by managing customer communications and real-time dispatch execution across calls, emails, and SMS. The role owns resolution of routine last-mile delivery issues within established guidelines, supporting customers, field operations, and carrier delivery teams to drive timely, successful deliveries and a consistent customer experience. \n Responsible \n Handle inbound and outbound communications with customers, client personnel, delivery teams, carrier partners, and internal stakeholders via phone, email, and SMS. \n Assess customer needs and provide timely, accurate, and effective solutions to delivery-related inquiries, issues, and exceptions. \n Troubleshoot delivery exceptions in coordination with delivery and carrier teams, including customer availability concerns, route challenges, locating delivery addresses, go-backs, and communicating revised delivery timeframes. \n Monitor assigned delivery routes and teams in real time to support adherence to planned schedules, on-time performance, and successful delivery execution. \n Provide real-time route status updates and proactively communicate delivery exceptions, delays, and risks to relevant stakeholders. \n Report and escalate route and delivery issues as appropriate, coordinating with field operations, carrier teams, and other stakeholders to drive timely resolution. \n Collaborate with field operations and carrier partners to resolve operational challenges and maintain service continuity. \n Deliver intraday updates and reports on route performance, delivery status, and operational exceptions. \n Conduct proactive follow-up with customers following exception-based resolutions to confirm satisfaction and ensure a positive customer experience. \n Support carrier compliance with operational standards, service expectations, and customer requirements. \n Meet defined customer service, dispatch, and operational KPI targets within established service levels. \n Apply company values, policies, and service standards in all customer and stakeholder interactions. \n Accountable \n Timely and accurate resolution of delivery issues and exceptions impacting customer experience. \n Consistent achievement of customer service, dispatch, and operational KPI targets. \n Effective route monitoring, issue escalation, and coordination across stakeholders to ensure successful last-mile delivery execution. \n Maintenance of high levels of customer satisfaction through proactive communication, follow-up, and service recovery efforts. \n Support of carrier compliance with operational standards, delivery commitments, and customer expectations. \n Maersk is committed to a diverse and inclusive workplace, and we embrace different styles of thinking. Maersk is an equal opportunities employer and welcomes applicants without regard to race, colour, gender, sex, age, religion, creed, national origin, ancestry, citizenship, marital status, sexual orientation, physical or mental disability, medical condition, pregnancy or parental leave, veteran status, gender identity, genetic information, or any other characteristic protected by applicable law. We will consider qualified applicants with criminal histories in a manner consistent with all legal requirements. \n We are happy to support your need for any adjustments during the application and hiring process. If you need special assistance or an accommodation to use our website, apply for a position, or to perform a job, please contact us by emailing accommodationrequests@maersk.com .",
+   "status": 200
+  },
+  "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern---MGF-NCS-Specialist_R199620": {
+   "title": "Intern - MGF NCS Specialist",
+   "loc": "India, Chennai, 600116",
+   "country": "India",
+   "id": "R199620",
+   "posted": "2026-10-14",
+   "end": null,
+   "time_type": "Part time",
+   "can_apply": true,
+   "url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern---MGF-NCS-Specialist_R199620",
+   "desc": "The MGF CX Specialist supports National Customer Service LTL Services by managing customer communications and real-time dispatch execution across calls, emails, and SMS. The role owns resolution of routine last-mile delivery issues within established guidelines, supporting customers, field operations, and carrier delivery teams to drive timely, successful deliveries and a consistent customer experience. \n Responsible \n Handle inbound and outbound communications with customers, client personnel, delivery teams, carrier partners, and internal stakeholders via phone, email, and SMS. \n Assess customer needs and provide timely, accurate, and effective solutions to delivery-related inquiries, issues, and exceptions. \n Troubleshoot delivery exceptions in coordination with delivery and carrier teams, including customer availability concerns, route challenges, locating delivery addresses, go-backs, and communicating revised delivery timeframes. \n Monitor assigned delivery routes and teams in real time to support adherence to planned schedules, on-time performance, and successful delivery execution. \n Provide real-time route status updates and proactively communicate delivery exceptions, delays, and risks to relevant stakeholders. \n Report and escalate route and delivery issues as appropriate, coordinating with field operations, carrier teams, and other stakeholders to drive timely resolution. \n Collaborate with field operations and carrier partners to resolve operational challenges and maintain service continuity. \n Deliver intraday updates and reports on route performance, delivery status, and operational exceptions. \n Conduct proactive follow-up with customers following exception-based resolutions to confirm satisfaction and ensure a positive customer experience. \n Support carrier compliance with operational standards, service expectations, and customer requirements. \n Meet defined customer service, dispatch, and operational KPI targets within established service levels. \n Apply company values, policies, and service standards in all customer and stakeholder interactions. \n Accountable \n Timely and accurate resolution of delivery issues and exceptions impacting customer experience. \n Consistent achievement of customer service, dispatch, and operational KPI targets. \n Effective route monitoring, issue escalation, and coordination across stakeholders to ensure successful last-mile delivery execution. \n Maintenance of high levels of customer satisfaction through proactive communication, follow-up, and service recovery efforts. \n Support of carrier compliance with operational standards, delivery commitments, and customer expectations. \n Maersk is committed to a diverse and inclusive workplace, and we embrace different styles of thinking. Maersk is an equal opportunities employer and welcomes applicants without regard to race, colour, gender, sex, age, religion, creed, national origin, ancestry, citizenship, marital status, sexual orientation, physical or mental disability, medical condition, pregnancy or parental leave, veteran status, gender identity, genetic information, or any other characteristic protected by applicable law. We will consider qualified applicants with criminal histories in a manner consistent with all legal requirements. \n We are happy to support your need for any adjustments during the application and hiring process. If you need special assistance or an accommodation to use our website, apply for a position, or to perform a job, please contact us by emailing accommodationrequests@maersk.com .",
+   "status": 200
+  },
+  "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern---MGF-NCS-Specialist_R199615": {
+   "title": "Intern - MGF NCS Specialist",
+   "loc": "India, Chennai, 600116",
+   "country": "India",
+   "id": "R199615",
+   "posted": "2026-10-14",
+   "end": null,
+   "time_type": "Part time",
+   "can_apply": true,
+   "url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern---MGF-NCS-Specialist_R199615",
+   "desc": "The MGF CX Specialist supports National Customer Service LTL Services by managing customer communications and real-time dispatch execution across calls, emails, and SMS. The role owns resolution of routine last-mile delivery issues within established guidelines, supporting customers, field operations, and carrier delivery teams to drive timely, successful deliveries and a consistent customer experience. \n Responsible \n Handle inbound and outbound communications with customers, client personnel, delivery teams, carrier partners, and internal stakeholders via phone, email, and SMS. \n Assess customer needs and provide timely, accurate, and effective solutions to delivery-related inquiries, issues, and exceptions. \n Troubleshoot delivery exceptions in coordination with delivery and carrier teams, including customer availability concerns, route challenges, locating delivery addresses, go-backs, and communicating revised delivery timeframes. \n Monitor assigned delivery routes and teams in real time to support adherence to planned schedules, on-time performance, and successful delivery execution. \n Provide real-time route status updates and proactively communicate delivery exceptions, delays, and risks to relevant stakeholders. \n Report and escalate route and delivery issues as appropriate, coordinating with field operations, carrier teams, and other stakeholders to drive timely resolution. \n Collaborate with field operations and carrier partners to resolve operational challenges and maintain service continuity. \n Deliver intraday updates and reports on route performance, delivery status, and operational exceptions. \n Conduct proactive follow-up with customers following exception-based resolutions to confirm satisfaction and ensure a positive customer experience. \n Support carrier compliance with operational standards, service expectations, and customer requirements. \n Meet defined customer service, dispatch, and operational KPI targets within established service levels. \n Apply company values, policies, and service standards in all customer and stakeholder interactions. \n Accountable \n Timely and accurate resolution of delivery issues and exceptions impacting customer experience. \n Consistent achievement of customer service, dispatch, and operational KPI targets. \n Effective route monitoring, issue escalation, and coordination across stakeholders to ensure successful last-mile delivery execution. \n Maintenance of high levels of customer satisfaction through proactive communication, follow-up, and service recovery efforts. \n Support of carrier compliance with operational standards, delivery commitments, and customer expectations. \n Maersk is committed to a diverse and inclusive workplace, and we embrace different styles of thinking. Maersk is an equal opportunities employer and welcomes applicants without regard to race, colour, gender, sex, age, religion, creed, national origin, ancestry, citizenship, marital status, sexual orientation, physical or mental disability, medical condition, pregnancy or parental leave, veteran status, gender identity, genetic information, or any other characteristic protected by applicable law. We will consider qualified applicants with criminal histories in a manner consistent with all legal requirements. \n We are happy to support your need for any adjustments during the application and hiring process. If you need special assistance or an accommodation to use our website, apply for a position, or to perform a job, please contact us by emailing accommodationrequests@maersk.com .",
+   "status": 200
+  },
+  "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern---MGF-NCS-Specialist_R199608": {
+   "title": "Intern - MGF NCS Specialist",
+   "loc": "India, Chennai, 600116",
+   "country": "India",
+   "id": "R199608",
+   "posted": "2026-10-09",
+   "end": null,
+   "time_type": "Part time",
+   "can_apply": true,
+   "url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/India-Chennai-600116/Intern---MGF-NCS-Specialist_R199608",
+   "desc": "The MGF CX Specialist supports National Customer Service LTL Services by managing customer communications and real-time dispatch execution across calls, emails, and SMS. The role owns resolution of routine last-mile delivery issues within established guidelines, supporting customers, field operations, and carrier delivery teams to drive timely, successful deliveries and a consistent customer experience. \n Responsible \n Handle inbound and outbound communications with customers, client personnel, delivery teams, carrier partners, and internal stakeholders via phone, email, and SMS. \n Assess customer needs and provide timely, accurate, and effective solutions to delivery-related inquiries, issues, and exceptions. \n Troubleshoot delivery exceptions in coordination with delivery and carrier teams, including customer availability concerns, route challenges, locating delivery addresses, go-backs, and communicating revised delivery timeframes. \n Monitor assigned delivery routes and teams in real time to support adherence to planned schedules, on-time performance, and successful delivery execution. \n Provide real-time route status updates and proactively communicate delivery exceptions, delays, and risks to relevant stakeholders. \n Report and escalate route and delivery issues as appropriate, coordinating with field operations, carrier teams, and other stakeholders to drive timely resolution. \n Collaborate with field operations and carrier partners to resolve operational challenges and maintain service continuity. \n Deliver intraday updates and reports on route performance, delivery status, and operational exceptions. \n Conduct proactive follow-up with customers following exception-based resolutions to confirm satisfaction and ensure a positive customer experience. \n Support carrier compliance with operational standards, service expectations, and customer requirements. \n Meet defined customer service, dispatch, and operational KPI targets within established service levels. \n Apply company values, policies, and service standards in all customer and stakeholder interactions. \n Accountable \n Timely and accurate resolution of delivery issues and exceptions impacting customer experience. \n Consistent achievement of customer service, dispatch, and operational KPI targets. \n Effective route monitoring, issue escalation, and coordination across stakeholders to ensure successful last-mile delivery execution. \n Maintenance of high levels of customer satisfaction through proactive communication, follow-up, and service recovery efforts. \n Support of carrier compliance with operational standards, delivery commitments, and customer expectations. \n Maersk is committed to a diverse and inclusive workplace, and we embrace different styles of thinking. Maersk is an equal opportunities employer and welcomes applicants without regard to race, colour, gender, sex, age, religion, creed, national origin, ancestry, citizenship, marital status, sexual orientation, physical or mental disability, medical condition, pregnancy or parental leave, veteran status, gender identity, genetic information, or any other characteristic protected by applicable law. We will consider qualified applicants with criminal histories in a manner consistent with all legal requirements. \n We are happy to support your need for any adjustments during the application and hiring process. If you need special assistance or an accommodation to use our website, apply for a position, or to perform a job, please contact us by emailing accommodationrequests@maersk.com .",
+   "status": 200
+  }
+ }
+}

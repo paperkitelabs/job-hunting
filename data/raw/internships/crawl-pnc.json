@@ -1,0 +1,21 @@
+{
+ "company": "PNC",
+ "ats": "Workday (Phenom front end)",
+ "endpoint": "https://pnc.wd5.myworkdayjobs.com/External",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate"
+ ],
+ "total_hits": 636,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Workday has no India locations (only US); 'IN' hits are Indianapolis. 0 India intern postings."
+}

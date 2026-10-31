@@ -1,0 +1,13 @@
+{
+ "company": "SBI Card",
+ "ats": "oracle",
+ "endpoint": "https://edox.fa.ap1.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions siteNumber=CX (whole board)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  ""
+ ],
+ "total_hits": 104,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Whole board 104 jobs; 0 intern/trainee titles."
+}

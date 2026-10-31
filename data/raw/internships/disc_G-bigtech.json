@@ -1,0 +1,348 @@
+{
+ "cluster": "G-bigtech",
+ "openings": [],
+ "leads": [
+  {
+   "company": "Adobe",
+   "role": "Applied Data Scientist Intern (Mumbai)",
+   "aggregator_url": "https://myinternships.in/job/adobe-applied-data-scientist-intern-mumbai-e35de8",
+   "careers_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced",
+   "note": "Aggregator says 4-month, in-office Mumbai, aimed at 2026 freshers and final-year students, Python/ML/statistics/SQL, 2 openings, rolling. Not seen on Adobe Workday. Best fit for location, so check the Workday 'intern' + India search."
+  },
+  {
+   "company": "Microsoft",
+   "role": "Applied Sciences Intern (India), job 200041777",
+   "aggregator_url": "https://www.sightsinplus.com/news/internship/microsoft-internship-2026-3-intern-roles-open-in-india/",
+   "careers_url": "https://jobs.careers.microsoft.com/global/en/search?q=intern&lc=India",
+   "note": "Aug 2026 aggregator articles list an Applied Sciences Intern in India (reported both as remote and as Bangalore on-site), job number 200041777 per careerstn/freshersrecruitment. Work: analyse and improve ML algorithms, prototype AI applications. Check the ID on the Microsoft careers site (now Eightfold-based)."
+  },
+  {
+   "company": "Microsoft",
+   "role": "Research Sciences Intern (India, multiple locations), job 200015233",
+   "aggregator_url": "https://careerstn.com/microsoft-research-sciences-intern-hiring-2026-apply-now-india-multiple-locations/",
+   "careers_url": "https://jobs.careers.microsoft.com/global/en/search?q=intern&lc=India",
+   "note": "Listed as on-site, 2026 hiring. A second Bangalore listing gives job 200013369 (https://careerstn.com/microsoft-research-sciences-intern-hiring-2026-bangalore-apply-now/). Some older Prosple copies are expired. Check both IDs."
+  },
+  {
+   "company": "Microsoft",
+   "role": "Technology Consulting Intern (Hyderabad)",
+   "aggregator_url": "https://www.sightsinplus.com/news/internship/microsoft-internship-2026-3-intern-roles-open-in-india/",
+   "careers_url": "https://jobs.careers.microsoft.com/global/en/search?q=technology%20consulting%20intern&lc=India",
+   "note": "Aug 2026 article lists it with the Applied/Research Sciences interns. Consult track. Could be a summer programme for penultimate-year students, so check eligibility."
+  },
+  {
+   "company": "Microsoft",
+   "role": "Data Science Intern (India)",
+   "aggregator_url": "https://www.jobinsider.in/jobs/microsoft-data-science-internship-blr-26/",
+   "careers_url": "https://jobs.careers.microsoft.com/global/en/search?q=data%20science%20intern&lc=India",
+   "note": "Aggregators (one updated 18 Oct 2026) list batches 2025/2026/2027 in Bengaluru/Hyderabad/Pune/Gurgaon/Noida. Also https://freshershunt.in/microsoft-internship-data-science-internship/. Not seen on the Microsoft domain. Prosple copies are expired."
+  },
+  {
+   "company": "Google",
+   "role": "Student Researcher (3 job IDs on google.com, location not visible)",
+   "aggregator_url": "",
+   "careers_url": "https://google.com/about/careers/applications/jobs/results/131518356678156998-student-researcher",
+   "note": "Found on google.com: 131518356678156998, 134313315235963590 (https://google.com/about/careers/applications/jobs/results/134313315235963590-student-researcher), 132362676918461126 (https://google.com/about/careers/applications/jobs/results/132362676918461126-student-researcher). Snippets did not show the location. The one 2027 BS/MS listing whose location showed is US-only. Check whether any is Bengaluru/Hyderabad (ML/research, BS eligible). India 2026 cycle (103667844620657350) is closed."
+  },
+  {
+   "company": "Amazon",
+   "role": "Programmer Analyst Intern, 2027 batch (Hyderabad)",
+   "aggregator_url": "https://thejobcompany.co.in/frontend/job_details?job_id=6432",
+   "careers_url": "https://www.amazon.jobs/en/search?base_query=intern&loc_query=India",
+   "note": "Aggregator updated 26 Sep 2026. Probably engineering/tools work rather than analytics, so low fit. Check the title on amazon.jobs."
+  },
+  {
+   "company": "Amazon",
+   "role": "Unknown title, amazon.jobs/jobs/2868632",
+   "aggregator_url": "",
+   "careers_url": "https://amazon.jobs/jobs/2868632",
+   "note": "Came up on an India 2027 intern + data science/analyst site:amazon.jobs query, but the snippet showed no title. Open it and keep it only if it is an India analyst/DS/scientist intern."
+  }
+ ],
+ "excluded": [
+  {
+   "company": "Google",
+   "role": "Application Engineering Intern, Winter 2027 (Bengaluru)",
+   "url": "https://google.com/about/careers/applications/jobs/results/92840449600824006-application-engineering-intern/",
+   "reason": "Deadline 15 Sep 2026 has passed. Also an engineering role (26-week, Jan 2027 start, 2027 grads). Re-check only if Google reopened it, since the format fits the candidate."
+  },
+  {
+   "company": "Google",
+   "role": "Software Engineering Intern, Summer 2027 (Bengaluru/Hyderabad/Pune)",
+   "url": "https://google.com/about/careers/applications/jobs/results/120997883141857990-software-engineering-intern",
+   "reason": "Pure SWE; summer programme for 2027/2028 batches; reported deadline 28 Jun 2026"
+  },
+  {
+   "company": "Google",
+   "role": "Student Researcher, PhD, Winter-Summer 2027",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/75043041429070534",
+   "reason": "PhD only; Waterloo/Toronto locations"
+  },
+  {
+   "company": "Google",
+   "role": "Student Researcher, 2026 (Bengaluru)",
+   "url": "https://google.com/about/careers/applications/jobs/results/103667844620657350-student-researcher-2026",
+   "reason": "2026 cycle; deadline 31 Jul 2026 (some say 31 Mar) has passed"
+  },
+  {
+   "company": "Amazon",
+   "role": "SDE I Intern 6M July-Dec",
+   "url": "https://amazon.jobs/en/jobs/2750545/sde-i-intern-6m-july-dec",
+   "reason": "Pure SDE; Jul–Dec slot, outside window"
+  },
+  {
+   "company": "Amazon",
+   "role": "HR Ops Admin - Interns, PXT InOps",
+   "url": "https://amazon.jobs/en/jobs/2672676/hr-ops-admin-interns-pxt-inops",
+   "reason": "HR/ops role, not wanted"
+  },
+  {
+   "company": "Microsoft",
+   "role": "Software Engineering - Internship Opportunities (India, multiple locations)",
+   "url": "https://jobs.careers.microsoft.com/us/en/job/1577325/Software-Engineering---Internship-Opportunities",
+   "reason": "Pure SWE internship"
+  }
+ ],
+ "companies": [
+  {
+   "name": "Google",
+   "careers_url": "https://www.google.com/about/careers/applications/jobs/results/?location=India&target_level=INTERN_AND_APPRENTICE",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found (in target roles)",
+   "note": "Winter 2027 (26-week, Jan start) India intern track exists for Application Engineering, but its 15 Sep 2026 deadline has passed. Student Researcher India 2026 is closed. 3 Student Researcher IDs with unknown location are in leads. WebFetch to google.com failed with DNS."
+  },
+  {
+   "name": "Microsoft",
+   "careers_url": "https://jobs.careers.microsoft.com/global/en/search?lc=India&et=Internship",
+   "ats": "eightfold",
+   "ats_endpoint": "",
+   "result": "none found on careers domain; 4 leads",
+   "note": "Applied Sciences / Research Sciences / Data Science / Tech Consulting interns reported by aggregators Aug–Oct 2026. Job IDs 200041777, 200015233, 200013369 need checking."
+  },
+  {
+   "name": "Amazon",
+   "careers_url": "https://www.amazon.jobs/en/teams/internships-for-students",
+   "ats": "other",
+   "ats_endpoint": "https://www.amazon.jobs/en/search.json?base_query=intern&loc_query=India",
+   "result": "none found; 2 leads",
+   "note": "Aggregators mention 2027-grad SDE interns with Jan–Jun 2027 starts. Applied/Data Scientist India intern pages seen were expired. Use search.json with category filters for Business Intelligence / Data Science / Applied Science."
+  },
+  {
+   "name": "Apple",
+   "careers_url": "https://jobs.apple.com/en-in/search?location=india-INDC&team=internships-STDNT-INTRN",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": ""
+  },
+  {
+   "name": "Meta",
+   "careers_url": "https://www.metacareers.com/jobs?offices[0]=Bangalore%2C%20India&roles[0]=intern",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": "Meta India hires few interns."
+  },
+  {
+   "name": "Adobe",
+   "careers_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced",
+   "ats": "workday",
+   "ats_endpoint": "https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs",
+   "result": "none found on Workday; 1 lead",
+   "note": "Mumbai Applied Data Scientist Intern lead (aggregator). Adobe India also runs Product/Research/Tech Consultant intern tracks (old Prosple copies are expired)."
+  },
+  {
+   "name": "Salesforce",
+   "careers_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
+   "ats": "workday",
+   "ats_endpoint": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": "Runs India Futureforce interns."
+  },
+  {
+   "name": "Oracle",
+   "careers_url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/requisitions?location=India",
+   "ats": "oracle",
+   "ats_endpoint": "https://eeho.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions (site CX_45001; unverified)",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": ""
+  },
+  {
+   "name": "SAP Labs India",
+   "careers_url": "https://jobs.sap.com/search/?q=intern&locationsearch=India",
+   "ats": "successfactors",
+   "ats_endpoint": "",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": "SAP Labs India hires 6-month interns (Bengaluru/Gurugram/Pune)."
+  },
+  {
+   "name": "IBM",
+   "careers_url": "https://www.ibm.com/careers/search?field_keyword_08[0]=Internship&field_keyword_05[0]=India",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": ""
+  },
+  {
+   "name": "Intel",
+   "careers_url": "https://intel.wd1.myworkdayjobs.com/External",
+   "ats": "workday",
+   "ats_endpoint": "https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": "Intel India commonly posts Jan–Jun 6-month 'Graduate Intern' roles (Bengaluru)."
+  },
+  {
+   "name": "NVIDIA",
+   "careers_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+   "ats": "workday",
+   "ats_endpoint": "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": "NVIDIA India posts 2027 interns in Bengaluru/Pune/Hyderabad."
+  },
+  {
+   "name": "Qualcomm",
+   "careers_url": "https://careers.qualcomm.com/careers?location=India&query=intern",
+   "ats": "eightfold",
+   "ats_endpoint": "",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": ""
+  },
+  {
+   "name": "Cisco",
+   "careers_url": "https://jobs.cisco.com/jobs/SearchJobs/intern?21178=%5B169482%5D",
+   "ats": "phenom",
+   "ats_endpoint": "",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": ""
+  },
+  {
+   "name": "ServiceNow",
+   "careers_url": "https://careers.servicenow.com/jobs/?search=intern&location=India",
+   "ats": "smartrecruiters",
+   "ats_endpoint": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings?q=intern",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": ""
+  },
+  {
+   "name": "Atlassian",
+   "careers_url": "https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=India",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": "Atlassian India (Bengaluru, remote-first) runs grad/intern programmes."
+  },
+  {
+   "name": "Intuit",
+   "careers_url": "https://jobs.intuit.com/search-jobs/intern/India",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": "Intuit Bengaluru hires 6-month interns."
+  },
+  {
+   "name": "Uber",
+   "careers_url": "https://www.uber.com/us/en/careers/list/?query=intern&location=IND",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": ""
+  },
+  {
+   "name": "LinkedIn",
+   "careers_url": "https://careers.linkedin.com/students",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": "Postings live on linkedin.com/jobs (LinkedIn's own site, so allowed for LinkedIn as employer)."
+  },
+  {
+   "name": "Walmart Global Tech",
+   "careers_url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal",
+   "ats": "workday",
+   "ats_endpoint": "https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": "WGT India (Bengaluru/Chennai) mostly hires interns through campus."
+  },
+  {
+   "name": "Target India",
+   "careers_url": "https://corporate.target.com/careers/global-locations/india",
+   "ats": "workday",
+   "ats_endpoint": "https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs (unverified)",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": ""
+  },
+  {
+   "name": "Autodesk",
+   "careers_url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+   "ats": "workday",
+   "ats_endpoint": "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": ""
+  },
+  {
+   "name": "Workday",
+   "careers_url": "https://workday.wd5.myworkdayjobs.com/Workday",
+   "ats": "workday",
+   "ats_endpoint": "https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": "Workday Pune/Chennai."
+  },
+  {
+   "name": "Expedia Group",
+   "careers_url": "https://careers.expediagroup.com/jobs/?keyword=intern&location=India",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": ""
+  },
+  {
+   "name": "Dell Technologies",
+   "careers_url": "https://dell.wd1.myworkdayjobs.com/External",
+   "ats": "workday",
+   "ats_endpoint": "https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": ""
+  },
+  {
+   "name": "HP / HPE",
+   "careers_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite ; https://careers.hpe.com",
+   "ats": "workday",
+   "ats_endpoint": "https://hp.wd5.myworkdayjobs.com/wday/cxs/hp/ExternalCareerSite/jobs (unverified)",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": ""
+  },
+  {
+   "name": "VMware / Broadcom",
+   "careers_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career",
+   "ats": "workday",
+   "ats_endpoint": "https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs (unverified)",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": ""
+  },
+  {
+   "name": "Zscaler",
+   "careers_url": "https://www.zscaler.com/careers",
+   "ats": "greenhouse",
+   "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/zscaler/jobs (unverified)",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": ""
+  },
+  {
+   "name": "Nutanix",
+   "careers_url": "https://careers.nutanix.com/en/jobs/?search=intern&location=India",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": ""
+  },
+  {
+   "name": "Texas Instruments",
+   "careers_url": "https://careers.ti.com/search-jobs/?keyword=intern&location=India",
+   "ats": "oracle",
+   "ats_endpoint": "",
+   "result": "not searched: shared WebSearch budget (200/turn) exhausted before this company was reached",
+   "note": "TI India interns are mostly hardware/VLSI, so low fit."
+  }
+ ]
+}

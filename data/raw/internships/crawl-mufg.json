@@ -1,0 +1,69 @@
+{
+ "company": "MUFG",
+ "ats": "workday",
+ "endpoint": "https://mufgub.wd3.myworkdayjobs.com/wday/cxs/mufgub/MUFG-Careers/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "summer analyst",
+  "winter analyst",
+  "industrial placement",
+  "industrial trainee",
+  "graduate",
+  "2027",
+  "spring",
+  "student",
+  "campus",
+  ""
+ ],
+ "total_hits": 201,
+ "india_intern_hits": [
+  {
+   "title": "Apprentice",
+   "loc": "MUFG Global Service Private Ltd. - Bengaluru (BCIT)",
+   "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Apprentice_10078663-WD",
+   "id": "10078663-WD",
+   "posted": "2026-08-07"
+  },
+  {
+   "title": "Apprentice Global Operations",
+   "loc": "Mumbai Office (MGS)",
+   "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Mumbai-Office-MGS/Apprentice-Global-Operations_10079688-WD-1",
+   "id": "10079688-WD",
+   "posted": "2026-10-16"
+  }
+ ],
+ "details": {
+  "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Apprentice_10078663-WD": {
+   "title": "Apprentice",
+   "loc": "MUFG Global Service Private Ltd. - Bengaluru (BCIT)",
+   "country": "India",
+   "id": "10078663-WD",
+   "posted": "2026-08-07",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Apprentice_10078663-WD",
+   "desc": "Do you want your voice heard and your actions to count? \nDiscover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long-term relationships, serving society, and fostering shared and sustainable growth for a better world. \nWith a vision to be the world’s most trusted financial group, it’s part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. This means investing in talent, technologies, and tools that empower you to own your career. \nJoin MUFG, where being inspired is expected and making a meaningful impact is rewarded. \n Purpose of Role \nResponsible for supporting business team in execution of functions related transaction processing, timely response to queries raised, record maintenance, reconciliation, follow internal and regulatory procedures and liaise with other internal stakeholders to ensure smooth processing of transactions. \n Main Responsibilities \n Process \nPerform the duties of Maker for the activities assigned diligently. \nUnderstand the process/ policies of the Bank and adhere to the needs. \nWork closely with overseas branch to process/execute the transactions as per accuracy/quality standards/SLAs of the Bank. \nLearn the system functions and adhere to the controls. \nSupport overseas branch to resolve operational incidents/reporting (if any). \nProvide suggestion(s) to improve/streamline the operational processes. \n Customer \nDevelop and maintain strong stakeholder management with key stakeholders within MUFG. \nSupport and resolve customer enquiries and provide excellent customer service. \nWork in partnership with Compliance to understand relevant operational guidelines, MUFG’s standard procedures and local regulations and assess the impact on the daily operations workflow. \nWork in partnership with the wider operations team for information sharing and to ensure that transactions are processed accurately and in a timely manner. \nTo support developmental projects relating to the Department. \n People \nGood in teamwork and a team player \n Candidate Profile \nGraduate in Business, Finance, Marketing, or a related field. \nStrong analytical and problem-solving skills. \nExcellent communication and interpersonal skills to deal courteously and effectively with others. \nAbility to work independently and collaboratively in a multicultural environment. \nAdaptability and eagerness to learn and embrace new challenges in a dynamic and fast-paced environment. \nStrong PC skills (MS Office) \nAttention to details. \nMitsubishi UFJ Financial Group (MUFG) is an equal opportunity employer. We view our employees as our key assets as they are fundamental to our long-term growth and success. MUFG is committed to hiring based on merit and organsational fit, regardless of race, religion or gender.",
+   "status": 200
+  },
+  "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Mumbai-Office-MGS/Apprentice-Global-Operations_10079688-WD-1": {
+   "title": "Apprentice Global Operations",
+   "loc": "Mumbai Office (MGS)",
+   "country": "India",
+   "id": "10079688-WD",
+   "posted": "2026-10-16",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Mumbai-Office-MGS/Apprentice-Global-Operations_10079688-WD-1",
+   "desc": "Do you want your voice heard and your actions to count? \nDiscover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long-term relationships, serving society, and fostering shared and sustainable growth for a better world. \nWith a vision to be the world’s most trusted financial group, it’s part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. This means investing in talent, technologies, and tools that empower you to own your career. \nJoin MUFG, where being inspired is expected and making a meaningful impact is rewarded. \n Only for Freshers \n About Us \nMUFG Bank, Ltd. is Japan’s premier bank, with a global network spanning in more than 40 markets. Outside of Japan, the bank offers an extensive scope of commercial and investment banking products and services to businesses, governments, and individuals worldwide. MUFG Bank’s parent, Mitsubishi UFJ Financial Group, Inc. (MUFG) is one of the world’s leading financial groups. Headquartered in Tokyo and with over 360 years of history, the Group has about 120,000 employees and offers services including commercial banking, trust banking, securities, credit cards, consumer finance, asset management, and leasing. \nThe Group aims to be the world’s most trusted financial group through close collaboration among our operating companies and flexibly respond to all the financial needs of our customers, serving society, and fostering shared and sustainable growth for a better world. MUFG’s shares trade on the Tokyo, Nagoya, and New York stock exchanges. \nFor more information, visit https://www.mufg.jp/english \n MUFG Global Service Private Limited \n Established in 2020, MUFG Global Service Private Limited (MGS India) [Formerly known as MUFG Enterprise Solutions India Private Limited] is 100% subsidiary of MUFG Bank Ltd having offices in Bengaluru and Mumbai. MGS India has been set up as a Global Capability Centre / Centre of Excellence to provide support services across various functions such as IT, KYC/ AML, Credit, Operations etc. to MUFG Bank offices globally. With a current headcount of above 1000, MGS India has plans to significantly ramp-up its growth over the next 18-24 months while servicing MUFG’s global network across Americas, EMEA and Asia Pacific. \n About the Role \nPosition Title : Apprentice \nCorporate Title :Apprentice \nReporting to :Vice President \nLocation : Mumbai \nDescription:- \nThe duration of apprentice program is 1 year. \nAll 5 days Work From Office. \nCandidates should be open to work in shifts. \n Job Profile \n Purpose of Role \nResponsible for supporting business team in execution of functions related transaction processing, timely response to queries raised, record maintenance, reconciliation, follow internal and regulatory procedures and liaise with other internal stakeholders to ensure smooth processing of transactions. \n Main Responsibilities \n Process \nPerform the duties of Maker for the activities assigned diligently. \nUnderstand the process/ policies of the Bank and adhere to the needs. \nWork closely with overseas branch to process/execute the transactions as per accuracy/quality standards/SLAs of the Bank. \nLearn the system functions and adhere to the controls. \nSupport overseas branch to resolve operational incidents/reporting (if any). \nProvide suggestion(s) to improve/streamline the operational processes.\n Customer \nDevelop and maintain strong stakeholder management with key stakeholders within MUFG. \nSupport and resolve customer enquiries and provide excellent customer service. \nWork in partnership with Compliance to understand relevant operational guidelines, MUFG’s standard procedures and local regulations and assess the impact on the daily operations workflow. \nWork in partnership with the wider operations team for information sharing and to ensure that transactions are processed accurately and in a timely manner. \nTo support developmental projects relating to the Department. \n People \nGood in teamwork and a team player \n Candidate Profile Graduate in Business, Finance, Marketing, or a related field.Strong analytical and problem-solving skills.Excellent communication and interpersonal skills to deal courteously and effectively with others.Ability to work independently and collaboratively in a multicultural environment.Adaptability and eagerness to learn and embrace new challenges in a dynamic and fast-paced environment.Strong PC skills (MS Office)Attention to details.undefined \n Equal Opportunity Employer \nThe MUFG Group is committed to providing equal employment opportunities to all applicants and employees and does not discriminate on the basis of race, colour, national origin, physical appearance, religion, gender expression, gender identity, sex, age, ancestry, marital status, disability, medical condition, sexual orientation, genetic information, or any other protected status of an individual or that individual's associates or relatives, or any other classification protected by the applicable laws. \nMitsubishi UFJ Financial Group (MUFG) is an equal opportunity employer. We view our employees as our key assets as they are fundamental to our long-term growth and success. MUFG is committed to hiring based on merit and organsational fit, regardless of race, religion or gender.",
+   "status": 200
+  }
+ }
+}

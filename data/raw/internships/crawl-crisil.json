@@ -1,0 +1,497 @@
+{
+ "company": "CRISIL",
+ "ats": "zwayam",
+ "endpoint": "https://public.zwayam.com/jobs/search (companyId 15438) + /jobs-service/v1/jobs/careersite",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "(full board, 621 jobs)"
+ ],
+ "total_hits": 621,
+ "india_intern_hits": [
+  {
+   "title": "Intern needed in Business Controls Team",
+   "loc": "Mumbai",
+   "url": "https://career.crisil.com/crisil/jobview/intern-needed-in-business-controls-team-mumbai-maharashtra-india-2026101214550160",
+   "id": "2026101214550160",
+   "posted": "2026-10-12"
+  },
+  {
+   "title": "Intern",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026093019250125",
+   "id": "2026093019250125",
+   "posted": "2026-09-30"
+  },
+  {
+   "title": "Management Trainee",
+   "loc": "Pune, Maharashtra, India / Chennai, Tamil Nadu, India",
+   "url": "https://career.crisil.com/crisil/jobview/management-trainee-pune-maharashtra-india-chennai-tamil-nadu-india-2026102114392754",
+   "id": "2026102114392754",
+   "posted": "2026-10-19"
+  },
+  {
+   "title": "Management Trainee",
+   "loc": "Pune, Maharashtra, India / Chennai, Tamil Nadu, India",
+   "url": "https://career.crisil.com/crisil/jobview/management-trainee-pune-maharashtra-india-chennai-tamil-nadu-india-2026102114394689",
+   "id": "2026102114394689",
+   "posted": "2026-10-19"
+  },
+  {
+   "title": "CA internship",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://career.crisil.com/crisil/jobview/ca-internship-mumbai-maharashtra-india-2026101216250148",
+   "id": "2026101216250148",
+   "posted": "2026-10-12"
+  },
+  {
+   "title": "Management Trainee",
+   "loc": "Gurugram, Haryana, India",
+   "url": "https://career.crisil.com/crisil/jobview/rating-analyst-gurugram-haryana-india-2026090914500187",
+   "id": "2026090914500187",
+   "posted": "2026-09-09"
+  },
+  {
+   "title": "Management Trainee",
+   "loc": "Gurgaon, Haryana, India",
+   "url": "https://career.crisil.com/crisil/jobview/rating-analyst-gurgaon-haryana-india-2026091520000112",
+   "id": "2026091520000112",
+   "posted": "2026-09-15"
+  },
+  {
+   "title": "CA Industrial Trainee",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://career.crisil.com/crisil/jobview/ca-industrial-trainee-mumbai-maharashtra-india-2026090909300128",
+   "id": "2026090909300128",
+   "posted": "2026-09-08"
+  },
+  {
+   "title": "Intern",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026091011292585",
+   "id": "2026091011292585",
+   "posted": "2026-09-08"
+  },
+  {
+   "title": "CA Industrial Trainee",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://career.crisil.com/crisil/jobview/ca-industrial-trainee-mumbai-maharashtra-india-2026090909350151",
+   "id": "2026090909350151",
+   "posted": "2026-09-08"
+  },
+  {
+   "title": "Intern - People Services",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://career.crisil.com/crisil/jobview/intern-people-services-mumbai-maharashtra-india-2026073116500117",
+   "id": "2026073116500117",
+   "posted": "2026-07-31"
+  },
+  {
+   "title": "Intern",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-202608251030017",
+   "id": "202608251030017",
+   "posted": "2026-08-25"
+  },
+  {
+   "title": "Intern - Agri",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026070810050121",
+   "id": "2026070810050121",
+   "posted": "2026-07-08"
+  },
+  {
+   "title": "Intern",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026071316550354",
+   "id": "2026071316550354",
+   "posted": "2026-07-13"
+  },
+  {
+   "title": "Graduate Trainee",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://career.crisil.com/crisil/jobview/graduate-trainee-mumbai-maharashtra-india-2025121717573084",
+   "id": "2025121717573084",
+   "posted": "2025-11-19"
+  },
+  {
+   "title": "Intern",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-202602051510032",
+   "id": "202602051510032",
+   "posted": "2026-02-05"
+  },
+  {
+   "title": "Intern – Financial services research",
+   "loc": "Mumbai, Maharashtra, India",
+   "url": "https://career.crisil.com/crisil/jobview/intern-financial-services-research-mumbai-maharashtra-india-2025121218353064",
+   "id": "2025121218353064",
+   "posted": "2025-12-12"
+  },
+  {
+   "title": "Generative AI Intern",
+   "loc": "Pune, Maharashtra, India",
+   "url": "https://career.crisil.com/crisil/jobview/generative-ai-intern-pune-maharashtra-india-2026012011451279",
+   "id": "2026012011451279",
+   "posted": "2026-01-06"
+  },
+  {
+   "title": "Apprentice",
+   "loc": "Pune, Maharashtra, India",
+   "url": "https://career.crisil.com/crisil/jobview/retainer-pune-maharashtra-india-2025102813300544",
+   "id": "2025102813300544",
+   "posted": "2025-10-27"
+  },
+  {
+   "title": "Java -Fresher for Integral IQ - Third Party Payroll",
+   "loc": "Hyderabad, Telangana, India",
+   "url": "https://career.crisil.com/crisil/jobview/database-resource-for-integral-iq-hyderabad-telangana-india-2025090300564712",
+   "id": "2025090300564712",
+   "posted": "2025-08-28"
+  },
+  {
+   "title": "Tester Fresher",
+   "loc": "Hyderabad, Telangana, India",
+   "url": "https://career.crisil.com/crisil/jobview/tester-fresher-hyderabad-telangana-india-202510031232102",
+   "id": "202510031232102",
+   "posted": "2025-10-01"
+  }
+ ],
+ "details": {
+  "https://career.crisil.com/crisil/jobview/intern-needed-in-business-controls-team-mumbai-maharashtra-india-2026101214550160": {
+   "status": 200,
+   "title": "Intern needed in Business Controls Team",
+   "loc": "Mumbai",
+   "created": 1791796000000,
+   "desc": "Job Description \n Key Responsibilities \n Assist with updating and maintaining control documentation. \n Support preparation of control testing packages by collecting, organizing, and formatting evidence under review. \n Help compile testing results, maintain trackers and publish status updates (status, owners, findings, remediation due dates). \n Perform routine data collection and validation for control monitoring activities \n Support walkthroughs and documentation refreshes by preparing guidebook, process maps, or checklists. \n Assist with monitoring activities and reporting, including consolidating status updates for leadership. \n Conduct basic analytical tasks as assigned (e.g., summarizing exception lists, identifying trends for review by a manager). \n Qualifications \n Strong interest in internal controls, risk management, audit, compliance, or governance. \n Strong attention to detail and a disciplined approach to documentation. \n Working knowledge of spreadsheets (Excel) and the ability to learn tools used for controls documentation and evidence management. \n Working knowledge of using AI and process automation tools \n Clear written and verbal communication skills. \n Ability to handle confidential information responsibly. \n Comfortable working in a structured environment with deadlines. \n Skills & Competencies \n Analytical thinking and strong problem-solving habits. \n Ownership mindset and reliability with recurring tasks. \n Ability to collaborate across teams while maintaining independence and confidentiality. \n Professional judgment in handling sensitive and confidential information.",
+   "skills": "Business Control, Audit Testing, Process Review, internal business control testing",
+   "edu": "Bcom, Mcom, Inter CA etc",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026093019250125": {
+   "status": 200,
+   "title": "Intern",
+   "loc": "Mumbai, Maharashtra, India",
+   "created": 1790774505000,
+   "desc": "We are looking for a highly motivated intern to support HR Transformation initiatives by analyzing HR business processes, documenting requirements, and designing a comprehensive Harness Engineering Framework . The role combines strong technical skills, business analysis and process engineering to drive AI automation-ready and scalable HR solutions. \n Key Responsibilities \nStudy and map end-to-end HR processes across Talent Acquisition, Core HR, Learning, Performance, Compensation, and Employee Lifecycle. \nDesign and maintain workflow diagrams, requirements traceability, and harness engineering artifacts . \nAnalyze HR data and system integrations to support digital transformation initiatives. \nCollaborate with HR, Product, and Technology teams to define future-state processes and AI automations.",
+   "skills": "Document Management,Communication Skills",
+   "edu": "MCA, Batchelor of Engineering, MBA with HR",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/management-trainee-pune-maharashtra-india-chennai-tamil-nadu-india-2026102114392754": {
+   "status": 200,
+   "title": "Management Trainee",
+   "loc": "Pune, Maharashtra, India / Chennai, Tamil Nadu, India",
+   "created": 1792411599000,
+   "desc": "Supporting the Research analyst team for a large Europe based fund house specializing in an accounting based proprietary valuation \nAssist in maintaining proprietary equity valuation models for the companies under coverage \nApply customized accounting adjustments to evaluate true economic value of a company \nActively involved in supporting the research analysts during earnings season including, updating models, forecasting using consensus and providing summary of results for internal circulation. \nIn-depth analysis of financial statements including notes to accounts to ensure high level of data accuracy. \nReading and analyzing company presentations, call transcripts, broker reports to capture the relevant impact on overall company valuations \nTracking and analyzing news flows, daily share price movements and managing databases for respective stocks. \nWork on ad-hoc analysis on accounting parameters across companies and sectors \nComprehensive analysis of ESG aspect for coverage companies",
+   "skills": "Accounting,Finance,Strong Analytical Skills",
+   "edu": "CA",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/management-trainee-pune-maharashtra-india-chennai-tamil-nadu-india-2026102114394689": {
+   "status": 200,
+   "title": "Management Trainee",
+   "loc": "Pune, Maharashtra, India / Chennai, Tamil Nadu, India",
+   "created": 1792409027000,
+   "desc": "Supporting the Research analyst team for a large Europe based fund house specializing in an accounting based proprietary valuation \nAssist in maintaining proprietary equity valuation models for the companies under coverage \nApply customized accounting adjustments to evaluate true economic value of a company \nActively involved in supporting the research analysts during earnings season including, updating models, forecasting using consensus and providing summary of results for internal circulation. \nIn-depth analysis of financial statements including notes to accounts to ensure high level of data accuracy. \nReading and analyzing company presentations, call transcripts, broker reports to capture the relevant impact on overall company valuations \nTracking and analyzing news flows, daily share price movements and managing databases for respective stocks. \nWork on ad-hoc analysis on accounting parameters across companies and sectors \nComprehensive analysis of ESG aspect for coverage companies",
+   "skills": "Accounting, Financial Analysis, Strong Analytical Skills, Finance",
+   "edu": "CA",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/ca-internship-mumbai-maharashtra-india-2026101216250148": {
+   "status": 200,
+   "title": "CA internship",
+   "loc": "Mumbai, Maharashtra, India",
+   "created": 1791798004000,
+   "desc": "Understanding of debt and equity market \n Sound knowledge of the capital market instruments and various investment products like mutual fund, PMS, INVITs, REITS, AIFs, Insurance etc. \n Understanding of regulations of mutual fund, PMS , InvIT and AIF \n Demonstrated analytical and report writing skills \n Proficiency in MS Office, especially MS excel and Power Point Presentation \n Independent performer",
+   "skills": "Analytical Ability, strong communication skills, research",
+   "edu": "CA Inter",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/rating-analyst-gurugram-haryana-india-2026090914500187": {
+   "status": 200,
+   "title": "Management Trainee",
+   "loc": "Gurugram, Haryana, India",
+   "created": 1788943582000,
+   "desc": "Role- \nClient Management / Stakeholder Management. \nDiscuss with the key management personnel of the corporates being rated to understand their strategy and business model. \nCommunicate the final Rating to the client. \nAnalyse Company’s financial performance which includes past financial and business performance & Benchmark these against peers performance. \nProject future performance of the company. \nUndertake rigorous credit risk analysis encompassing industry / business research and financial analysis of various large corporates. \nAssign Ratings and prepare reports that cogently capture the rationale behind the rating. \nMake credit rating recommendation to the Rating Committee. \n Roles & Responsibilities- \nEnsure adherence to timelines. \nMaintain a high quality of analytics and rating committee presentation. \nComplete ownership of a client account. Responsible for all day-to-day operations of the account. Interfacing clients for all operational activities. \nHandholding of 1-2 junior analysts. Should support the manager in day-to-day activities. \nTeam & account management would include, but not limited to training & development of the team, coaching, sharing of best practices, providing feedback, etc. \nUndertake regular liaison with client management and analyst teams to gauge feedback and satisfaction. \nSupporting thought leadership and content building exercises in Mid Corporate Segment",
+   "skills": "Corporate Credit,Financial Statement Analysis",
+   "edu": "MBA/CA",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/rating-analyst-gurgaon-haryana-india-2026091520000112": {
+   "status": 200,
+   "title": "Management Trainee",
+   "loc": "Gurgaon, Haryana, India",
+   "created": 1789480233000,
+   "desc": "Role- \nClient Management / Stakeholder Management. \nDiscuss with the key management personnel of the corporates being rated to understand their strategy and business model. \nCommunicate the final Rating to the client. \nAnalyse Company’s financial performance which includes past financial and business performance & Benchmark these against peers performance. \nProject future performance of the company. \nUndertake rigorous credit risk analysis encompassing industry / business research and financial analysis of various large corporates. \nAssign Ratings and prepare reports that cogently capture the rationale behind the rating. \nMake credit rating recommendation to the Rating Committee. \n Roles & Responsibilities- \nEnsure adherence to timelines. \nMaintain a high quality of analytics and rating committee presentation. \nComplete ownership of a client account. Responsible for all day-to-day operations of the account. Interfacing clients for all operational activities. \nHandholding of 1-2 junior analysts. Should support the manager in day-to-day activities. \nTeam & account management would include, but not limited to training & development of the team, coaching, sharing of best practices, providing feedback, etc. \nUndertake regular liaison with client management and analyst teams to gauge feedback and satisfaction. \nSupporting thought leadership and content building exercises in Mid Corporate Segment",
+   "skills": "credit analysis, Corporate Credit, Financial Analysis",
+   "edu": "MBA/CA",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/ca-industrial-trainee-mumbai-maharashtra-india-2026090909300128": {
+   "status": 200,
+   "title": "CA Industrial Trainee",
+   "loc": "Mumbai, Maharashtra, India",
+   "created": 1788871919000,
+   "desc": "replacement for leaving CA trainees",
+   "skills": "Capital markets, Mutual Funds, Excel, PowerPoint, Alternative Investments",
+   "edu": "CA industrial trainee",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026091011292585": {
+   "status": 200,
+   "title": "Intern",
+   "loc": "Mumbai, Maharashtra, India",
+   "created": 1788870853000,
+   "desc": "Looking for an intern in our FS consulting team who can conduct deep-dive research and data driven analysis to provide support in execution of consulting projects for Banks/NBFCs, etc. Ability to analyze the supporting material provided by these entities along with understanding the regulatory requirements of this space.\nPreferred Experience: Prior exposure to Banks, NBFCs, or consulting/research work in financial services; strong analytical and secondary research skills.\nQualifications & Requirements: Students pursuing MBA/Btech/BBA/Bcom/CA /CFA",
+   "skills": "Excel, PowerPoint, Data Analysis, Research",
+   "edu": "pursuing UG/PG",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/ca-industrial-trainee-mumbai-maharashtra-india-2026090909350151": {
+   "status": 200,
+   "title": "CA Industrial Trainee",
+   "loc": "Mumbai, Maharashtra, India",
+   "created": 1788873222000,
+   "desc": "CA Industrial Trainee",
+   "skills": "Capital Market, Alternative Investments, Mutual Funds, Excel, PowerPoint",
+   "edu": "CA industrial trainee",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/intern-people-services-mumbai-maharashtra-india-2026073116500117": {
+   "status": 200,
+   "title": "Intern - People Services",
+   "loc": "Mumbai, Maharashtra, India",
+   "created": 1785487542000,
+   "desc": "Role: Intern- People Services\n Duration: 6 months\n Location: Mumbai\n Role Overview \nWe are looking for a People Services Intern to support day-to-day HR operations and employee lifecycle processes. This role offers hands-on exposure to core HR activities, employee services, HR systems, reporting, and stakeholder management, providing a strong foundation in HR Operations.\n Key Responsibilities \n• Support employee lifecycle processes, including onboarding, HRMS updates, background verification, and exit formalities.\n• Respond to employee queries related to HR policies, processes, and employee services.\n• Manage requests through the HR ticketing system and ensure timely resolution.\n• Prepare and maintain HR reports, MIS, and data analysis using Excel.\n• Maintain employee records and HR documentation with accuracy.\n• Coordinate with internal stakeholders to ensure smooth HR operations and service delivery.\n Skills & Competencies \n• Good communication and interpersonal skills.\n• Basic HR domain knowledge.\n• Strong Excel skills, including report preparation and data management.\n• Logical and analytical thinking.\n• Attention to detail and organizational skills.\n• Proficiency in MS Office applications.\nThis internship provides an excellent opportunity to gain practical exposure to HR Operations and People Services in a professional corporate environment.",
+   "skills": "HR Operations,HR Shared Services,Employee Lifecycle Management,Onboarding,MIS Reporting,Excel,HR Support",
+   "edu": "Graduate/Post Graduate - HR",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-202608251030017": {
+   "status": 200,
+   "title": "Intern",
+   "loc": "Mumbai, Maharashtra, India",
+   "created": 1787633566000,
+   "desc": "Looking for an intern in our FS consulting team who can conduct deep-dive research and data driven analysis to provide support in execution ofconsulting projects for Banks/NBFCs, etc. \nHelp business teams for deal origination for fund raise, commercial due diligence, etc. \nQualifications & Requirements: Students pursuing BBA/Bcom/CA /CFA",
+   "skills": "Excel, PowerPoint, Data Analysis",
+   "edu": "pursuing UG/PG",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026070810050121": {
+   "status": 200,
+   "title": "Intern - Agri",
+   "loc": "Mumbai, Maharashtra, India",
+   "created": 1783481476000,
+   "desc": "We are seeking a motivated intern to support primary market research in India's agricultural biologicals sector (Biologicals, Biofertilizers, Biopesticides & Plant Growth Regulators). The role involves conducting surveys with farmers, retailers, distributors, and agronomists to assess product adoption, market penetration, growth opportunities, and challenges across regions and crop segments. \n Key Responsibilities \n Market Research & Data Collection \n Conduct structured surveys and interviews with farmers and retailers. \n Gather data on product awareness, adoption, usage patterns, market penetration, and purchase drivers. \n Ensure accuracy of survey responses and maintain survey databases and field reports. \n Market Analysis \n Analyze adoption trends across states, regions, and crop categories. \n Assess farmer usage, retailer stocking preferences, product acceptance, and repeat purchase behavior. \n Identify market opportunities and unmet needs. \n Growth Drivers, Barriers & Gap Assessment \n Evaluate growth drivers such as yield improvement, organic farming adoption, export requirements, and government initiatives. \n Identify barriers including awareness gaps, pricing concerns, efficacy perceptions, regulatory challenges, and distribution limitations. \n Recommend strategies to improve adoption through training, demonstrations, retailer engagement, and advisory programs. \n Reporting \n Prepare data summaries, insights, and actionable recommendations. \n Support development of dashboards and market research reports. \n Key Deliverables \n State-wise and crop-wise adoption analysis. \n Regional market opportunity assessment. \n Farmer and retailer perception insights. \n Growth driver and barrier analysis. \n Gap assessment with recommendations. \n Survey findings dashboard/report. \n Preferred Qualifications \n Pursuing or recently completed B.Sc./M.Sc. Agriculture, Agri-Business Management, Rural Management, or related fields . \n Strong interest in agricultural inputs, biologicals, sustainability, and market research. \n Proficiency in MS Excel \n Willing to travel for field surveys; telephonic surveys may be conducted partially in selected states. \n Duration of the internship - 1 month",
+   "skills": "Market Research,Agriculture,Survey,Data Collection",
+   "edu": "PGDM- Post Graduate Diploma in Agribusiness Management",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026071316550354": {
+   "status": 200,
+   "title": "Intern",
+   "loc": "Mumbai, Maharashtra, India",
+   "created": 1783938275000,
+   "desc": "Tester - Please approve",
+   "skills": "Recruitment",
+   "edu": "MBA",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/graduate-trainee-mumbai-maharashtra-india-2025121717573084": {
+   "status": 200,
+   "title": "Graduate Trainee",
+   "loc": "Mumbai, Maharashtra, India",
+   "created": 1763531035000,
+   "desc": "Fixed Income Research\n• Fixed Income valuations and Indices – working on criteria development, daily index\ncomputation, index rebalancing, launch of innovative and replicable indices for index\nfunds/ETFs, valuation models, index algorithm, portfolio construction, daily\noperations, pricing and valuation of fixed income security\n• Assist in designing and review of index computation approach/ valuation approach of\ndebt securities by – studying trends in primary and secondary markets, interaction\nwith market participants.\n• Tracking competition and other global practices on passive investments\n• Co-ordination with technology to build valuation and index algorithms in the software\ntool.\n• Interaction with market participants to gather market intelligence with an objective to\nimprove valuation and index construction process.\n• New product development and maintenance.\n• Write thought leadership articles and support franchise activities\n• Meeting clients at regular intervals for feedback on products \n ➢ Presentations to clients/ prospects for Fixed income products \n ➢ Making presentations to senior management on criteria for new products\nDomain Experience/ desired skills:\n•Fixed income domain knowledge\n•Knowledge of fixed income mutual funds (or AIF, PMS, Insurance) products\n•Knowledge on passive investments\n•Knowledge of regulatory guidelines governing mutual funds\n•Fixed income market understanding – yield levels, key trends, market preference and market structure\n•Fluency with bond and index mathematics\n•Analytical inclination\n•Strong oral, written and presentation skills \n Good to Have skills:\nKnowledge of coding languages",
+   "skills": "Fixed Income,portfolio management,investments,valuation",
+   "edu": "Graduate/Post Graduate. Candidates pursuing CFA/FRM would be added advantage",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-202602051510032": {
+   "status": 200,
+   "title": "Intern",
+   "loc": "Mumbai, Maharashtra, India",
+   "created": 1770284299000,
+   "desc": "• Engage in primary interactions with industry participants to gather critical information. \n• Accurately record responses and any additional relevant information provided by participants. \n• Regularly report progress, challenges, and insights to the supervisor. \n• Collaborate with the survey team to resolve any issues or challenges encountered during the survey process. \n• Adhere to confidentiality and privacy standards regarding participant information \n• Ability to adapt to different environments and handle rejection gracefully.",
+   "skills": "Primary Research",
+   "edu": "GRaduate",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/intern-financial-services-research-mumbai-maharashtra-india-2025121218353064": {
+   "status": 200,
+   "title": "Intern – Financial services research",
+   "loc": "Mumbai, Maharashtra, India",
+   "created": 1765540724000,
+   "desc": "1. Research & Profiling: Conduct deep-dive research and prepare structured profiles for Indian fintechs (lending, payments, insuretech, wealthtech), capturing business models, product lines, founders, funding, and competitive overview.\n2. Fintech Ecosystem Understanding: Analyse the broader fintech landscape—lending tech, insuretech, embedded finance, and regulatory developments—with the ability to break down risk models, unit economics, and tech-led innovations.\n3. Preferred Experience: Prior exposure to fintech lending companies, NBFCs, lendtech/credit decisioning platforms, or consulting/research work in financial services; strong analytical and secondary research skills.\n4. Qualifications & Requirements: Students pursuing MBA / CA / CFA Level 1–2, or those with fintech, digital lending, or analytics certifications preferred; strong interest in financial technology, business models, and market intelligence",
+   "skills": "Research Analysis, Financial Research, Research Analyst, Secondary Research",
+   "edu": "intern",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/generative-ai-intern-pune-maharashtra-india-2026012011451279": {
+   "status": 200,
+   "title": "Generative AI Intern",
+   "loc": "Pune, Maharashtra, India",
+   "created": 1767706944000,
+   "desc": "We are looking for a motivated Generative AI Intern with a strong foundation in Python and Generative AI concepts . The intern will work closely with our technical team to build, experiment, and optimize GenAI-powered solutions, including large language models (LLMs), prompt engineering, and AI-driven applications. \nThis role is ideal for someone eager to gain hands-on experience with cutting-edge AI technologies in a real-world environment. \nKey Responsibilities \nAssist in developing and testing Generative AI applications using Python \nWork with Large Language Models (LLMs) such as GPT-style models \nImplement and experiment with prompt engineering techniques \nSupport data preprocessing, model fine-tuning, and evaluation \nBuild prototypes, scripts, and proof-of-concept AI solutions \nCollaborate with team members to integrate GenAI features into applications \nDocument learnings, experiments, and code clearly \nRequired Skills & Qualifications \nStrong knowledge of Python programming \nBasic understanding of Generative AI and LLMs \nFamiliarity with concepts like: \nPrompt engineering \nTransformers (basic understanding) \nText generation, summarization, or chatbots \nExperience with libraries or tools such as: \nOpenAI APIs / Hugging Face (preferred) \nNumPy, Pandas (basic level) \nGood problem-solving and analytical skills \nAbility to learn quickly and work independently",
+   "skills": "Python, generative ai, Machine Learning",
+   "edu": "B.Tech",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/retainer-pune-maharashtra-india-2025102813300544": {
+   "status": 200,
+   "title": "Apprentice",
+   "loc": "Pune, Maharashtra, India",
+   "created": 1761583570000,
+   "desc": "Functional Responsibility / Domain Related: \n Work on financial data gathering/enrichment and being up-to-date on market trends in financial data, content and products. \n Extract required data set from input / source document related to assigned tasks into required output template / applications. \n Deliver on predefined team targets including delivering outcomes with high quality and excellence. \n Explore opportunities and provide ideas to improve the current processes using emerging technologies or lean tools \n Collaborate effectively with technical and non-technical global stakeholders  Identify areas to extract faster, accurate and reliable data or documents. \n Keeping up-to-date knowledge of content sets to add value to end to end ratings process. \n Ensure reporting and visualization needs for research reports, dashboards.",
+   "skills": "Finance, Accounting, Financial Analysis, Financial Statements",
+   "edu": "MBA",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/database-resource-for-integral-iq-hyderabad-telangana-india-2025090300564712": {
+   "status": 200,
+   "title": "Java -Fresher for Integral IQ - Third Party Payroll",
+   "loc": "Hyderabad, Telangana, India",
+   "created": 1756375975000,
+   "desc": "Renaming to Java -Fresher for Integral IQ - Third Party Payroll from Database Developer \nas per HariKrishna Request",
+   "skills": "Postgre, SQL, Database Migration",
+   "edu": "B.E",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  },
+  "https://career.crisil.com/crisil/jobview/tester-fresher-hyderabad-telangana-india-202510031232102": {
+   "status": 200,
+   "title": "Tester Fresher",
+   "loc": "Hyderabad, Telangana, India",
+   "created": 1759301099000,
+   "desc": "Good knowledge on testing concepts and methodologies \n Strong at creating test cases and scenarios \n Good knowledge of core java concepts \n Well versed with Java scripting for Selenium \n Good understanding of implementation of automation testing \n Strong understanding of Selenium web driver \n Good understanding of basic SQL queries",
+   "skills": "Selenium, Software Testing, Manual Testing, Entry Level, Java",
+   "edu": "B.Tech, B.SC, BE",
+   "raw_keys": [
+    "id",
+    "jobCode",
+    "jobUrl",
+    "status",
+    "jobVisibiltyLevel"
+   ]
+  }
+ }
+}

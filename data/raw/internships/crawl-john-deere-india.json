@@ -1,0 +1,15 @@
+{
+ "company": "John Deere India",
+ "ats": "eightfold + successfactors",
+ "endpoint": "https://johndeere.eightfold.ai/api/pcsx/search?domain=johndeere.com ; https://jobs.deere.com/successfactors/search/",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "",
+  "intern",
+  "India",
+  "Pune"
+ ],
+ "total_hits": 331,
+ "india_intern_hits": [],
+ "details": {}
+}

@@ -1,0 +1,593 @@
+{
+ "cluster": "I-indian-product-unicorns",
+ "companies": [
+  {
+   "name": "Flipkart",
+   "hint": "flipkartcareers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.flipkartcareers.com/#!/joblist",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found on careers site",
+     "note": "Only aggregator leads (4). Flipkart runs GRiD and campus programmes; GRiD 8.0 closed Jul 2026.",
+     "src": "I-indian-product-unicorns"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Flipkart",
+     "role": "Data Analytics Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/job/flipkart-data-analytics-intern-bengaluru-c9db54",
+     "careers_url": "https://www.flipkartcareers.com/#!/joblist",
+     "note": "Aggregator only; not found on flipkartcareers. myinternships.in listings look auto-generated - low confidence.",
+     "src": "I-indian-product-unicorns"
+    },
+    {
+     "company": "Flipkart",
+     "role": "SQL Data Analyst Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/job/flipkart-sql-data-analyst-intern-bengaluru-260cd8",
+     "careers_url": "https://www.flipkartcareers.com/#!/joblist",
+     "note": "Aggregator only; SQL analytics/reporting. Low confidence.",
+     "src": "I-indian-product-unicorns"
+    },
+    {
+     "company": "Flipkart",
+     "role": "Business Analyst Intern - Supply Chain Data (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/job/flipkart-is-hiring-business-analyst-intern-supply-chain-data-bengaluru-39a52d",
+     "careers_url": "https://www.flipkartcareers.com/#!/joblist",
+     "note": "Aggregator says 2026 freshers / final-year, 0 yrs. Low confidence.",
+     "src": "I-indian-product-unicorns"
+    },
+    {
+     "company": "Flipkart",
+     "role": "Data Quality Analyst Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/job/flipkart-data-quality-analyst-intern-bengaluru-537eaf",
+     "careers_url": "https://www.flipkartcareers.com/#!/joblist",
+     "note": "Aggregator only. Low confidence.",
+     "src": "I-indian-product-unicorns"
+    }
+   ]
+  },
+  {
+   "name": "Myntra",
+   "hint": "myntra careers",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.myntra.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: shared WebSearch budget (200/turn) ran out after ~20 queries in this cluster; WebFetch/curl to ATS hosts blocked (jobs.lever.co DNS fail, greenhouse/lever API 403). careers_url is a best-guess, unverified.",
+     "src": "I-indian-product-unicorns"
+    },
+    {
+     "careers_url": "https://careers.myntra.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Campus page (life.myntra.com/campus-corner) says interns hired only via campus placements; 2/4/6-month internships.",
+     "src": "R2d-india-insurance-groups"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "PhonePe",
+   "hint": "smartrecruiters PHONEPELIMITED",
+   "round_notes": [
+    {
+     "careers_url": "https://job-boards.greenhouse.io/phonepe",
+     "ats": "greenhouse",
+     "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/phonepe/jobs",
+     "result": "none found",
+     "note": "PhonePe is on Greenhouse (not SmartRecruiters). Board has ~70-130 jobs; no intern title surfaced in search. Historically posts 'Intern - Analytics' (6 months). Query API for 'Intern'.",
+     "src": "I-indian-product-unicorns"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "PhonePe",
+     "role": "Various internships (Internshala lists 61 as of Oct 2026)",
+     "aggregator_url": "https://internshala.com/internships/internship-at-phonepe/",
+     "careers_url": "https://job-boards.greenhouse.io/phonepe",
+     "note": "Includes market-research/MIS-dashboard roles; check Greenhouse board for Intern - Analytics (PhonePe historically runs 6-month analytics internships, ~Rs20k/month).",
+     "src": "I-indian-product-unicorns"
+    },
+    {
+     "company": "PhonePe",
+     "role": "Product Analyst (Entry Level, 0-2 yrs) - full-time, not intern",
+     "aggregator_url": "https://freehire.me/jobs/product-analyst-entry-level-phonepe-sfbraj2v",
+     "careers_url": "https://job-boards.greenhouse.io/phonepe",
+     "note": "Posted 15 Sep 2026; full-time so outside intern scope, but relevant for a May-2027 grad.",
+     "src": "I-indian-product-unicorns"
+    }
+   ]
+  },
+  {
+   "name": "Paytm",
+   "hint": "paytm careers",
+   "round_notes": [
+    {
+     "careers_url": "https://paytm.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: shared WebSearch budget (200/turn) ran out after ~20 queries in this cluster; WebFetch/curl to ATS hosts blocked (jobs.lever.co DNS fail, greenhouse/lever API 403). careers_url is a best-guess, unverified.",
+     "src": "I-indian-product-unicorns"
+    },
+    {
+     "careers_url": "https://jobs.lever.co/paytm?commitment=Intern",
+     "ats": "lever",
+     "ats_endpoint": "https://api.lever.co/v0/postings/paytm?mode=json&commitment=Intern",
+     "result": "found 2",
+     "note": "PM Intern (Jul 2026) and Growth Mgmt Intern-Insurance (Jun 2026) in Noida; also separate board jobs.lever.co/paytmpayments. Rest are design/HR interns.",
+     "src": "R2d-india-insurance-groups"
+    }
+   ],
+   "round1_openings": [
+    {
+     "company": "Paytm",
+     "role": "Product Management - Intern",
+     "url": "https://jobs.lever.co/paytm/1155c0e3-bf03-4b46-97f0-44673b6518f7",
+     "location": "Noida",
+     "job_id": "1155c0e3-bf03-4b46-97f0-44673b6518f7",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "students / interns (not stated in snippet)",
+     "track": "pm",
+     "posted": "2026-07-22",
+     "deadline": "",
+     "jd": "Product management intern on a telco product team: prepares product requirement documents (PRDs) and supports dashboards and reporting. Cross-functional work with product/engineering.",
+     "evidence": "WebSearch (allowed_domains jobs.lever.co) result 'Paytm - Product Management - Intern'; summary gave posted 2026-07-22. Lever board also has commitment=Intern filter: https://jobs.lever.co/paytm?commitment=Intern. ~3 months old, may have closed.",
+     "confidence": "medium",
+     "src": "R2d-india-insurance-groups"
+    },
+    {
+     "company": "Paytm",
+     "role": "Growth Management Intern- Insurance",
+     "url": "https://jobs.lever.co/paytm/62bd3d00-f65c-4c70-b413-92d886a112e7/",
+     "location": "Noida",
+     "job_id": "62bd3d00-f65c-4c70-b413-92d886a112e7",
+     "type": "Internship",
+     "duration": "3-6 months",
+     "overrun": "",
+     "exp": "not stated",
+     "track": "analyst",
+     "posted": "2026-06-19",
+     "deadline": "",
+     "jd": "Growth intern for Paytm Insurance: analyse data to track performance, uncover insights and recommend optimisations; A/B testing and funnel work. Requires Excel/Google Sheets; SQL, Google Analytics or Tableau a plus.",
+     "evidence": "Two jobs.lever.co searches returned this posting; summary said posted 2026-06-19 (~131 days old). Borderline growth/analytics role; age suggests it may be closed.",
+     "confidence": "low",
+     "src": "R2d-india-insurance-groups"
+    }
+   ],
+   "round1_leads": []
+  },
+  {
+   "name": "Razorpay",
+   "hint": "razorpay careers",
+   "round_notes": [
+    {
+     "careers_url": "https://razorpay.com/jobs/",
+     "ats": "greenhouse",
+     "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/razorpaysoftwareprivatelimited/jobs",
+     "result": "none found (1 returnship excluded)",
+     "note": "Greenhouse board razorpaysoftwareprivatelimited has Product Analytics dept; aggregator leads for Data Analyst Intern. Query API for 'Intern'.",
+     "src": "I-indian-product-unicorns"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Razorpay",
+     "role": "Data Analyst Intern (Merchant Risk Engine), Bengaluru",
+     "aggregator_url": "https://myinternships.in/internships/razorpay-is-hiring-data-analyst-intern-merchant-risk-engine-bengaluru-39a52b",
+     "careers_url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited",
+     "note": "Risk modelling/Python/stats; 2026 freshers & final-year. Not confirmed on Greenhouse board.",
+     "src": "I-indian-product-unicorns"
+    },
+    {
+     "company": "Razorpay",
+     "role": "Data Analyst Intern (12 months), Bengaluru",
+     "aggregator_url": "https://myinternships.in/internships/razorpay-is-hiring-data-analyst-intern-bengaluru-17shw8",
+     "careers_url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited",
+     "note": "12 months would overrun May 2027. Low confidence.",
+     "src": "I-indian-product-unicorns"
+    },
+    {
+     "company": "Razorpay",
+     "role": "Intern - Product Management (Singapore)",
+     "aggregator_url": "https://builtinsingapore.com/job/intern-product-management/8763390",
+     "careers_url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited",
+     "note": "Singapore-based (Direct Debit product for Malaysia) - outside India; reposted recently per BuiltIn.",
+     "src": "I-indian-product-unicorns"
+    }
+   ]
+  },
+  {
+   "name": "CRED",
+   "hint": "lever cred",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.cred.club/",
+     "ats": "lever",
+     "ats_endpoint": "https://api.lever.co/v0/postings/cred?mode=json",
+     "result": "not searched",
+     "note": "No jobs.lever.co/cred board surfaced in 1 search; ATS unconfirmed. NOT SEARCHED: shared WebSearch budget (200/turn) ran out after ~20 queries in this cluster; WebFetch/curl to ATS hosts blocked (jobs.lever.co DNS fail, greenhouse/lever API 403). careers_url is a best-guess, unverified.",
+     "src": "I-indian-product-unicorns"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Zerodha",
+   "hint": "zerodha careers",
+   "round_notes": [
+    {
+     "careers_url": "https://zerodha.com/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: shared WebSearch budget (200/turn) ran out after ~20 queries in this cluster; WebFetch/curl to ATS hosts blocked (jobs.lever.co DNS fail, greenhouse/lever API 403). careers_url is a best-guess, unverified.",
+     "src": "I-indian-product-unicorns"
+    },
+    {
+     "careers_url": "https://careers.zerodha.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Historically no internship programme; Dec 2025 comment 'not hiring at the moment'.",
+     "src": "R2d-india-insurance-groups"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Groww",
+   "hint": "greenhouse groww",
+   "round_notes": [
+    {
+     "careers_url": "https://groww.in/careers",
+     "ats": "greenhouse",
+     "ats_endpoint": "https://boards-api.eu.greenhouse.io/v1/boards/groww/jobs",
+     "result": "none found (in scope)",
+     "note": "Groww board is on EU Greenhouse (job-boards.eu.greenhouse.io/groww). Visible interns are growth/content/design; one AI&MarTech growth intern lead.",
+     "src": "I-indian-product-unicorns"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Groww",
+     "role": "Intern - Growth (AI & MarTech), Bangalore on-site, 6 months",
+     "aggregator_url": "https://peerlist.io/company/groww/careers/intern--growth-ai--martech/jobhr8dq6jbdklepghmgdn6m877jlg",
+     "careers_url": "https://job-boards.eu.greenhouse.io/groww",
+     "note": "Growth/MarTech leaning - may be marketing, check JD for AI/analytics angle.",
+     "src": "I-indian-product-unicorns"
+    }
+   ]
+  },
+  {
+   "name": "Swiggy",
+   "hint": "smartrecruiters swiggy",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.swiggy.com/",
+     "ats": "smartrecruiters",
+     "ats_endpoint": "https://api.smartrecruiters.com/v1/companies/swiggy/postings",
+     "result": "none found on careers site",
+     "note": "site: search returned no SmartRecruiters hits; aggregator leads for PM intern, product analyst intern, DS intern.",
+     "src": "I-indian-product-unicorns"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Swiggy",
+     "role": "Product Management Intern (Bangalore)",
+     "aggregator_url": "https://jobs.weekday.works/swiggy-product-management-intern",
+     "careers_url": "https://careers.swiggy.com/",
+     "note": "weekday says sourced from a job board; consumer-facing product role. Verify on Swiggy careers / SmartRecruiters.",
+     "src": "I-indian-product-unicorns"
+    },
+    {
+     "company": "Swiggy",
+     "role": "Product Analyst Intern",
+     "aggregator_url": "https://myinternships.in/job/swiggy-product-analyst-intern-kochi-a5af3a",
+     "careers_url": "https://careers.swiggy.com/",
+     "note": "Aggregator lists Kochi/Hyderabad/Bengaluru variants (SQL, Mixpanel, A/B testing); location data inconsistent - low confidence.",
+     "src": "I-indian-product-unicorns"
+    },
+    {
+     "company": "Swiggy",
+     "role": "Data Science Intern",
+     "aggregator_url": "https://myinternships.in/job/swiggy-data-science-intern-gurugram-2718ab",
+     "careers_url": "https://careers.swiggy.com/",
+     "note": "Aggregator only; Python/stats/ML. Low confidence. Same site also claims a Navi Mumbai Data Analyst Intern.",
+     "src": "I-indian-product-unicorns"
+    }
+   ]
+  },
+  {
+   "name": "Zomato / Eternal / Blinkit",
+   "hint": "eternal careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.eternal.com/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: shared WebSearch budget (200/turn) ran out after ~20 queries in this cluster; WebFetch/curl to ATS hosts blocked (jobs.lever.co DNS fail, greenhouse/lever API 403). careers_url is a best-guess, unverified.",
+     "src": "I-indian-product-unicorns"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Zepto",
+   "hint": "zepto careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.zeptonow.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: shared WebSearch budget (200/turn) ran out after ~20 queries in this cluster; WebFetch/curl to ATS hosts blocked (jobs.lever.co DNS fail, greenhouse/lever API 403). careers_url is a best-guess, unverified.",
+     "src": "I-indian-product-unicorns"
+    },
+    {
+     "careers_url": "https://www.zeptonow.com/careers-at-zepto",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Careers page lists full-time roles (e.g. Analytics Manager Central, Mumbai); intern postings seen only on myinternships.in (unreliable, not recorded). Page title hints TalentRecruit ATS.",
+     "src": "R2d-india-insurance-groups"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Meesho",
+   "hint": "lever meesho",
+   "round_notes": [
+    {
+     "careers_url": "https://www.meesho.io/jobs",
+     "ats": "lever",
+     "ats_endpoint": "https://api.lever.co/v0/postings/meesho?mode=json",
+     "result": "none found (in scope)",
+     "note": "Lever board jobs.lever.co/meesho confirmed; only TA Coordinator intern surfaced. Interview reports show Business Analyst Intern hiring late-2025/Jan-2026 - query API.",
+     "src": "I-indian-product-unicorns"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Meesho",
+     "role": "Data Science Intern",
+     "aggregator_url": "https://myinternships.in/job/meesho-data-science-intern-jodhpur-c81151",
+     "careers_url": "https://jobs.lever.co/meesho",
+     "note": "Aggregator says 3 months, 2026 freshers/final-year; location 'Jodhpur' implausible - low confidence. Not seen on Lever.",
+     "src": "I-indian-product-unicorns"
+    }
+   ]
+  },
+  {
+   "name": "Nykaa",
+   "hint": "nykaa careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.nykaa.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: shared WebSearch budget (200/turn) ran out after ~20 queries in this cluster; WebFetch/curl to ATS hosts blocked (jobs.lever.co DNS fail, greenhouse/lever API 403). careers_url is a best-guess, unverified.",
+     "src": "I-indian-product-unicorns"
+    },
+    {
+     "careers_url": "https://careers.nykaa.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Job URLs are careers.nykaa.com/<uuid>; no intern postings indexed; site showed 'no job postings available' snapshot.",
+     "src": "R2d-india-insurance-groups"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Dream11 / Dream Sports",
+   "hint": "dreamsports careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.dreamsports.group/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: shared WebSearch budget (200/turn) ran out after ~20 queries in this cluster; WebFetch/curl to ATS hosts blocked (jobs.lever.co DNS fail, greenhouse/lever API 403). careers_url is a best-guess, unverified.",
+     "src": "I-indian-product-unicorns"
+    },
+    {
+     "careers_url": "https://jobs.lever.co/dreamsports",
+     "ats": "lever",
+     "ats_endpoint": "https://api.lever.co/v0/postings/dreamsports?mode=json",
+     "result": "none found (1 lead)",
+     "note": "FDE Internship seen only on aggregator (updated 2 Oct 2026); not surfaced on Lever via search - verify via Lever API.",
+     "src": "R2d-india-insurance-groups"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Dream11 (outside cluster list)",
+     "role": "Forward Deployment Engineer Internship (Mumbai)",
+     "aggregator_url": "https://thejobcompany.co.in/frontend/job_details?job_id=6456",
+     "careers_url": "https://www.dreamsports.group/careers",
+     "note": "A search summary said this is a Mumbai internship that may convert to full-time, last updated 02 Oct 2026. The listing is probably the thejobcompany link, but that is not confirmed. It is the only FDE internship for India found. Forward to whoever covers Indian product companies.",
+     "src": "H-ai-firms-fde"
+    },
+    {
+     "company": "Dream11 / Dream Sports",
+     "role": "Forward Deployment Engineer Internship",
+     "aggregator_url": "https://thejobcompany.co.in/frontend/job_details?job_id=6456",
+     "careers_url": "https://jobs.lever.co/dreamsports",
+     "note": "NOT CONFIRMED on careers site. Aggregator lists 'Forward Deployment Engineer Internship', Dream11, Mumbai, Internship + FTE, updated 02 Oct 2026. Dream Sports hires via Lever (jobs.lever.co/dreamsports - live postings seen e.g. Lead Machine Learning Scientist 985ee0c8-a054-4e39-96b9-517a601df79c, Mumbai). 4 targeted searches (jobs.lever.co, dreamsports.group, open web) did not surface an FDE intern posting on Lever; older careers page about.dream11.com/jobs.html also seen. Check the Lever board/API (https://api.lever.co/v0/postings/dreamsports) for 'Forward'.",
+     "src": "R2d-india-insurance-groups"
+    }
+   ]
+  },
+  {
+   "name": "Jio Platforms",
+   "hint": "careers.jio.com Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.jio.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: shared WebSearch budget (200/turn) ran out after ~20 queries in this cluster; WebFetch/curl to ATS hosts blocked (jobs.lever.co DNS fail, greenhouse/lever API 403). careers_url is a best-guess, unverified.",
+     "src": "I-indian-product-unicorns"
+    },
+    {
+     "careers_url": "https://careers.jio.com/frmStudent_Campus.aspx",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Unpaid project-based Internship Program (https://careers.jio.com/frmStudentIntern.aspx; needs institute permission, online test, first-come basis) - no data/AI-specific posting. Recent postings are GET (network) and Summer Trainee (Java dev).",
+     "src": "R2d-india-insurance-groups"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Ola / Ola Electric",
+   "hint": "ola careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.olaelectric.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: shared WebSearch budget (200/turn) ran out after ~20 queries in this cluster; WebFetch/curl to ATS hosts blocked (jobs.lever.co DNS fail, greenhouse/lever API 403). careers_url is a best-guess, unverified.",
+     "src": "I-indian-product-unicorns"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Urban Company",
+   "hint": "urbancompany careers",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.urbancompany.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: shared WebSearch budget (200/turn) ran out after ~20 queries in this cluster; WebFetch/curl to ATS hosts blocked (jobs.lever.co DNS fail, greenhouse/lever API 403). careers_url is a best-guess, unverified.",
+     "src": "I-indian-product-unicorns"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "InMobi / Glance",
+   "hint": "inmobi careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.inmobi.com/company/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: shared WebSearch budget (200/turn) ran out after ~20 queries in this cluster; WebFetch/curl to ATS hosts blocked (jobs.lever.co DNS fail, greenhouse/lever API 403). careers_url is a best-guess, unverified.",
+     "src": "I-indian-product-unicorns"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Tata Digital / Tata Neu",
+   "hint": "tatadigital careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.tatadigital.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: shared WebSearch budget (200/turn) ran out after ~20 queries in this cluster; WebFetch/curl to ATS hosts blocked (jobs.lever.co DNS fail, greenhouse/lever API 403). careers_url is a best-guess, unverified.",
+     "src": "I-indian-product-unicorns"
+    },
+    {
+     "careers_url": "https://www.tatadigital.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "No indexed intern postings; brands (Tata 1mg, BigBasket, Croma, Tata iQ) may post separately.",
+     "src": "R2d-india-insurance-groups"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "MakeMyTrip",
+   "hint": "makemytrip careers",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.makemytrip.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: shared WebSearch budget (200/turn) ran out after ~20 queries in this cluster; WebFetch/curl to ATS hosts blocked (jobs.lever.co DNS fail, greenhouse/lever API 403). careers_url is a best-guess, unverified.",
+     "src": "I-indian-product-unicorns"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Lenskart",
+   "hint": "lenskart careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.lenskart.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: shared WebSearch budget (200/turn) ran out after ~20 queries in this cluster; WebFetch/curl to ATS hosts blocked (jobs.lever.co DNS fail, greenhouse/lever API 403). careers_url is a best-guess, unverified.",
+     "src": "I-indian-product-unicorns"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Physics Wallah / upGrad",
+   "hint": "careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.pw.live/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: shared WebSearch budget (200/turn) ran out after ~20 queries in this cluster; WebFetch/curl to ATS hosts blocked (jobs.lever.co DNS fail, greenhouse/lever API 403). careers_url is a best-guess, unverified. upGrad: https://www.upgrad.com/careers/",
+     "src": "I-indian-product-unicorns"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  }
+ ]
+}

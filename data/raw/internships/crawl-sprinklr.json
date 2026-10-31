@@ -1,0 +1,100 @@
+{
+ "company": "Sprinklr",
+ "ats": "workday",
+ "endpoint": "https://sprinklr.wd1.myworkdayjobs.com/wday/cxs/sprinklr/careers/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate",
+  "forward deployed"
+ ],
+ "india_facet": {
+  "locationCountry": [
+   "c4f78be1a8f14da0ab49ce1162348a5e"
+  ]
+ },
+ "total_hits": 19,
+ "india_intern_hits": [],
+ "details": {},
+ "search_results_titles": [
+  [
+   "Account Executive - Consultant",
+   "India - Haryana - Gurgaon"
+  ],
+  [
+   "Helpdesk Analyst",
+   "India - Karnataka - Bangalore"
+  ],
+  [
+   "IT AI and Automation Engineer",
+   "India - Haryana - Gurgaon"
+  ],
+  [
+   "Internal Communications Manager",
+   "India - Haryana - Gurgaon"
+  ],
+  [
+   "Lead Managed Services Consultant",
+   "2 Locations"
+  ],
+  [
+   "Lead Platinum Support Account Manager",
+   "2 Locations"
+  ],
+  [
+   "Lead Product Designer",
+   "India - Haryana - Gurgaon"
+  ],
+  [
+   "Managed Services Consultant - Lead",
+   "India - Haryana - Gurgaon"
+  ],
+  [
+   "Managed Services Consultant - Sr",
+   "India - Haryana - Gurgaon"
+  ],
+  [
+   "Principal Program Manager – SDR & ISR",
+   "India - Karnataka - Bangalore"
+  ],
+  [
+   "Senior Director, AI Strategy & Support Innovation",
+   "2 Locations"
+  ],
+  [
+   "Senior Implementation Consultant, CCAAS",
+   "2 Locations"
+  ],
+  [
+   "Senior Product Security Engineer",
+   "India - Haryana - Gurgaon"
+  ],
+  [
+   "Sr. Content Writer",
+   "India - Karnataka - Bangalore"
+  ],
+  [
+   "Sr. Implementation Consultant - CCAAS (AMER shift)",
+   "2 Locations"
+  ],
+  [
+   "Sr. Managed Services Consultant - CCAAS",
+   "India - Karnataka - Bangalore"
+  ],
+  [
+   "Sr. Manager - Implementation (CCAAS)",
+   "2 Locations"
+  ],
+  [
+   "Support Platform Administrator",
+   "2 Locations"
+  ]
+ ]
+}

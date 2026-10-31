@@ -1,0 +1,339 @@
+{
+ "cluster": "J1-conglomerates-fmcg",
+ "openings": [
+  {
+   "company": "Procter & Gamble India",
+   "role": "Information Technology Intern",
+   "url": "https://www.pgcareers.com/global/en/job/R000161858/Information-Technology-Intern",
+   "location": "Mumbai (General Office), India",
+   "job_id": "R000161858",
+   "type": "Internship",
+   "duration": "6 months (start date not stated in snippet)",
+   "overrun": "",
+   "exp": "not stated in snippet (P&G India IT internships typically target engineering students)",
+   "track": "ai",
+   "posted": "unknown (recent requisition number series, R00016xxxx)",
+   "deadline": "unknown",
+   "jd": "6-month IT internship at P&G's Mumbai general office with tracks in software engineering, platform engineering, AI engineering and data science/data engineering. Interns work on a live business project.",
+   "evidence": "WebSearch restricted to pgcareers.com returned 'Information Technology Intern in MUMBAI, India' at this URL; the summary described a 6-month programme with AI engineering and data science tracks. The requisition number is newer than the Sales internship R000161131 that is also listed, which suggests a current posting. Needs a liveness check; it could also be a summer cohort.",
+   "confidence": "medium"
+  },
+  {
+   "company": "Procter & Gamble India",
+   "role": "IT Internship",
+   "url": "https://www.pgcareers.com/global/en/job/R000154803/IT-Internship",
+   "location": "Mumbai, India",
+   "job_id": "R000154803",
+   "type": "Internship",
+   "duration": "not stated",
+   "overrun": "",
+   "exp": "not stated",
+   "track": "ai",
+   "posted": "unknown (older requisition than R000161858)",
+   "deadline": "unknown",
+   "jd": "P&G IT internship in Mumbai. The snippet gave no JD detail; P&G IT internships cover software, AI engineering and data science/engineering tracks.",
+   "evidence": "WebSearch restricted to pgcareers.com returned 'IT Internship in MUMBAI, India' at this URL. The lower requisition number suggests an earlier (2026) cycle, so it may be closed. Verify.",
+   "confidence": "low"
+  }
+ ],
+ "leads": [
+  {
+   "company": "Unilever / Hindustan Unilever",
+   "role": "Digital & AI Apprenticeship (India among hiring countries)",
+   "aggregator_url": "https://nus.edu.sg/cfg/events/details/696b9ce7eaa0a8044d729a208d2991b0",
+   "careers_url": "https://careers.unilever.com/",
+   "note": "Seen on a university recruitment-talk page, which lists India among hiring countries for a Digital & AI apprenticeship aimed at business analytics/CS students. No careers.unilever.com India posting found. Search the Unilever careers site for 'Digital & AI' / 'apprentice' with location India."
+  },
+  {
+   "company": "Shell India (Shell Digital, Bengaluru)",
+   "role": "Shell Digital Data Science & ML Ops Intern / Data Analyst Intern / Analytics Consultant Intern",
+   "aggregator_url": "https://myinternships.in/job/shell-india-is-hiring-shell-digital-data-science-and-ml-ops-intern-bengaluru-39a54a",
+   "careers_url": "https://www.shell.com/careers.html",
+   "note": "Aggregator listing: 3 months, in-office Bengaluru, Python/SQL/statistics. CAUTION: myinternships.in uses boilerplate text that repeats across companies, and these listings may be synthetic. Verify on Shell's Workday."
+  },
+  {
+   "company": "Shell India",
+   "role": "Shell Assessed Internship Programme (Bengaluru/Mumbai)",
+   "aggregator_url": "https://jobs.weekday.works/shell-india-shell-internship-2026-india",
+   "careers_url": "https://www.shell.com/careers/students-and-graduates.html",
+   "note": "The 2026 cycle was seen on aggregators (Prosple copy marked expired). A 2027 cycle has not been seen yet. Check Shell students & graduates for the India assessed internship."
+  },
+  {
+   "company": "Schneider Electric India",
+   "role": "Generative AI Developer Intern / Data Analytics Intern / AI-ML Engineer Intern (Bengaluru)",
+   "aggregator_url": "https://myinternships.in/job/schneider-electric-generative-ai-developer-intern-bengaluru-f67a26",
+   "careers_url": "https://careers.se.com/",
+   "note": "Several Bengaluru AI/data intern listings on myinternships.in (GenAI 6 months, Data Analytics 6 months hybrid, Analytics Consultant 3 months). CAUTION: likely templated/synthetic aggregator content; a careers.se.com-restricted search found no India intern postings."
+  },
+  {
+   "company": "GE Aerospace",
+   "role": "DT Intern - Data Science",
+   "aggregator_url": "https://geaerospace.dejobs.org/bengaluru-ind/dt-intern-data-science/8CDFC76F750A4FD79B0E26DE482839F6/job",
+   "careers_url": "https://careers.geaerospace.com/",
+   "note": "Bengaluru Digital Technology data science intern on the DirectEmployers (dejobs) mirror. Find the matching requisition on GE Aerospace careers (Workday) and check its cohort and date."
+  },
+  {
+   "company": "Siemens Healthineers",
+   "role": "CS Intern",
+   "aggregator_url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/489924",
+   "careers_url": "https://jobs.siemens-healthineers.com/",
+   "note": "Official URL, but posted 02-Jan-2026. Location and data angle are unclear and it is probably stale, so it was not put in openings. Aggregators also mention 'Siemens Healthineers Technical Intern - Data Engineer' in Bangalore (Jan 2026) and a Siemens 'Agentic AI Development Intern' in Bangalore/Pune."
+  },
+  {
+   "company": "Reliance Jio",
+   "role": "Data Science Intern (Kolkata)",
+   "aggregator_url": "https://myinternships.in/job/reliance-jio-data-science-intern-kolkata-af0683",
+   "careers_url": "https://careers.jio.com/",
+   "note": "Aggregator only, with conflicting stipends. Jio corporate internships go through the careers.jio.com profile and an assessment."
+  },
+  {
+   "company": "PepsiCo GBS Hyderabad",
+   "role": "Intern (product strategy / consumer sentiment analysis)",
+   "aggregator_url": "https://joinsaarthi.com/jobs/pepsico/intern-hyderabad/0aa38651-94ef-4a90-88d0-3576279f183c",
+   "careers_url": "https://www.pepsicojobs.com/main/jobs?keywords=intern&location=India",
+   "note": "Aggregator listing for a Hyderabad 'Intern' whose content covers product strategy and sentiment analysis. Unverified; search pepsicojobs for India interns."
+  }
+ ],
+ "excluded": [
+  {
+   "company": "Procter & Gamble India",
+   "role": "Human Resources Internship",
+   "url": "https://www.pgcareers.com/global/en/job/R000154743/Human-Resources-Internship",
+   "reason": "HR role - not wanted"
+  },
+  {
+   "company": "Procter & Gamble India",
+   "role": "Internship - Sales",
+   "url": "https://www.pgcareers.com/pl/en/job/R000161131/Internship-Sales",
+   "reason": "Sales role - not wanted"
+  },
+  {
+   "company": "Procter & Gamble India",
+   "role": "P&G Spotlight 2026 | IT",
+   "url": "https://jobs.b2venture.vc/companies/calvin-risk-2/jobs/74068016-p-g-spotlight-2026-it",
+   "reason": "Summer 2026 internship competition for penultimate-year students (posted Apr 2026) - past or wrong cohort"
+  },
+  {
+   "company": "Unilever",
+   "role": "Unilever Internship Programme - Consumer Marketing Insights / Customer Development / Finance (Singapore)",
+   "url": "https://careers.unilever.com/en/job/singapur/unilever-internship-programme-consumer-marketing-insights/34155/92020348144",
+   "reason": "Singapore-based, Jul-Dec 2026, non-India and largely marketing/finance"
+  },
+  {
+   "company": "bp",
+   "role": "Summer Internship - Digital - Data, AI & Engineering",
+   "url": "https://www.gradcracker.com/hub/111/bp/work-placement-internship/86261/summer-internship-digital-data-ai-and-engineering",
+   "reason": "UK summer internship (Jun-Sep 2026), not India"
+  }
+ ],
+ "companies": [
+  {
+   "name": "Hindustan Unilever / Unilever",
+   "careers_url": "https://careers.unilever.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "careers.unilever.com search shows only Singapore/Europe internships. India runs the ULIP / Unilever Future Leaders Internship via campus; a Digital & AI apprenticeship lists India as a hiring country (lead)."
+  },
+  {
+   "name": "Procter & Gamble",
+   "careers_url": "https://www.pgcareers.com/in/en/internships",
+   "ats": "phenom",
+   "ats_endpoint": "",
+   "result": "found 2",
+   "note": "pgcareers India: IT Intern R000161858 (6-month, AI/DS tracks) and IT Internship R000154803 in Mumbai; HR and Sales internships excluded. The pgcareers.com host is blocked for WebFetch."
+  },
+  {
+   "name": "Nestle India",
+   "careers_url": "https://www.nestle.in/jobs",
+   "ats": "successfactors",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after 14 queries",
+   "note": ""
+  },
+  {
+   "name": "ITC",
+   "careers_url": "https://www.itcportal.com/careers/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after 14 queries",
+   "note": ""
+  },
+  {
+   "name": "Reliance Industries",
+   "careers_url": "https://careers.ril.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Searched Jio/RIL; only aggregator leads. Jio internships go via a careers.jio.com profile and an assessment."
+  },
+  {
+   "name": "Tata Group (TCS, Tata Steel, Tata Motors, Tata Consumer)",
+   "careers_url": "https://www.tata.com/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after 14 queries",
+   "note": "TCS: ibegin.tcs.com; Tata Steel: tatasteel.com/careers; Tata Motors: careers.tatamotors.com"
+  },
+  {
+   "name": "Mahindra Group",
+   "careers_url": "https://www.mahindra.com/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after 14 queries",
+   "note": ""
+  },
+  {
+   "name": "Aditya Birla Group",
+   "careers_url": "https://careers.adityabirla.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after 14 queries",
+   "note": ""
+  },
+  {
+   "name": "Larsen & Toubro (LTIMindtree, L&T Tech)",
+   "careers_url": "https://www.larsentoubro.com/corporate/careers/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after 14 queries",
+   "note": "LTIMindtree: ltimindtree.com/careers; LTTS: ltts.com/careers"
+  },
+  {
+   "name": "Godrej Group",
+   "careers_url": "https://www.godrejcareers.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after 14 queries",
+   "note": ""
+  },
+  {
+   "name": "Asian Paints",
+   "careers_url": "https://www.asianpaints.com/more/careers.html",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after 14 queries",
+   "note": ""
+  },
+  {
+   "name": "Marico",
+   "careers_url": "https://marico.com/india/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after 14 queries",
+   "note": ""
+  },
+  {
+   "name": "L'Oreal India",
+   "careers_url": "https://careers.loreal.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after 14 queries",
+   "note": ""
+  },
+  {
+   "name": "Coca-Cola",
+   "careers_url": "https://careers.coca-colacompany.com/",
+   "ats": "workday",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after 14 queries",
+   "note": ""
+  },
+  {
+   "name": "PepsiCo GBS",
+   "careers_url": "https://www.pepsicojobs.com/main/internships-programs",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "No official Hyderabad intern posting surfaced; one aggregator lead."
+  },
+  {
+   "name": "Diageo India",
+   "careers_url": "https://www.diageo.com/en/careers",
+   "ats": "workday",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after 14 queries",
+   "note": ""
+  },
+  {
+   "name": "Mondelez",
+   "careers_url": "https://www.mondelezinternational.com/careers/",
+   "ats": "workday",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after 14 queries",
+   "note": ""
+  },
+  {
+   "name": "Colgate-Palmolive",
+   "careers_url": "https://jobs.colgate.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after 14 queries",
+   "note": ""
+  },
+  {
+   "name": "Shell",
+   "careers_url": "https://www.shell.com/careers/students-and-graduates.html",
+   "ats": "workday",
+   "ats_endpoint": "https://shell.wd3.myworkdayjobs.com/ShellCareers (unverified)",
+   "result": "none found",
+   "note": "Only aggregator leads (Shell Digital Bengaluru, Assessed Internship 2026). No 2027 India posting seen."
+  },
+  {
+   "name": "bp",
+   "careers_url": "https://www.bp.com/en/global/corporate/careers/students-and-graduates.html",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Only UK digital internships found (applications opened 15 Oct). No Pune intern posting seen."
+  },
+  {
+   "name": "Siemens",
+   "careers_url": "https://jobs.siemens.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "A jobs.siemens.com search for India data/AI returned only experienced roles (Pune/Bangalore AI engineers). One stale Healthineers 'CS Intern' (Jan 2026) recorded as a lead."
+  },
+  {
+   "name": "Schneider Electric",
+   "careers_url": "https://careers.se.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "careers.se.com search shows no India intern postings; many myinternships.in listings, probably synthetic."
+  },
+  {
+   "name": "ABB",
+   "careers_url": "https://careers.abb/global/en",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after 14 queries",
+   "note": ""
+  },
+  {
+   "name": "Honeywell",
+   "careers_url": "https://careers.honeywell.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after 14 queries",
+   "note": ""
+  },
+  {
+   "name": "GE (Aerospace, Vernova, HealthCare)",
+   "careers_url": "https://careers.geaerospace.com/",
+   "ats": "workday",
+   "ats_endpoint": "",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after 14 queries (one lead: GE Aerospace DT Intern - Data Science, Bengaluru, via dejobs)",
+   "note": "GE Vernova: careers.gevernova.com; GE HealthCare: careers.gehealthcare.com"
+  },
+  {
+   "name": "Bosch",
+   "careers_url": "https://www.bosch.in/careers/",
+   "ats": "smartrecruiters",
+   "ats_endpoint": "https://api.smartrecruiters.com/v1/companies/BoschGroup/postings (unverified)",
+   "result": "not searched - shared WebSearch budget (200/turn) exhausted after 14 queries",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,555 @@
+{
+ "company": "Honeywell",
+ "ats": "oracle",
+ "endpoint": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions (site CX_1, India locationId 300000000469485)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "2027",
+  "graduate",
+  "Intern Bachelors",
+  "Intern (Bach)",
+  "Intern Masters",
+  "Intern AI",
+  "Intern Data",
+  "Intern Analyst",
+  "Intern Business"
+ ],
+ "total_hits": 150,
+ "india_intern_hits": [
+  {
+   "title": "Intern Bachelors AI",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/161165",
+   "id": "161165",
+   "posted": "2026-10-29"
+  },
+  {
+   "title": "Intern Bachelors AI",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/161166",
+   "id": "161166",
+   "posted": "2026-10-29"
+  },
+  {
+   "title": "Intern Bachelors AI",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/161175",
+   "id": "161175",
+   "posted": "2026-10-29"
+  },
+  {
+   "title": "Intern Bachelors Chemical Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/161162",
+   "id": "161162",
+   "posted": "2026-10-29"
+  },
+  {
+   "title": "Intern Bachelors App Eng",
+   "loc": "Chennai, Tamil Nadu, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160857",
+   "id": "160857",
+   "posted": "2026-10-27"
+  },
+  {
+   "title": "Intern Bachelors App Eng",
+   "loc": "Pune, Maharashtra, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160931",
+   "id": "160931",
+   "posted": "2026-10-27"
+  },
+  {
+   "title": "Intern Bachelors App Eng",
+   "loc": "Pune, Maharashtra, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160933",
+   "id": "160933",
+   "posted": "2026-10-27"
+  },
+  {
+   "title": "Intern Bachelors App Eng",
+   "loc": "Pune, Maharashtra, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160935",
+   "id": "160935",
+   "posted": "2026-10-27"
+  },
+  {
+   "title": "Intern Bachelors App Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160861",
+   "id": "160861",
+   "posted": "2026-10-27"
+  },
+  {
+   "title": "Intern Bachelors App Eng",
+   "loc": "Pune, Maharashtra, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160865",
+   "id": "160865",
+   "posted": "2026-10-27"
+  },
+  {
+   "title": "Intern Bachelors App Eng",
+   "loc": "Pune, Maharashtra, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160877",
+   "id": "160877",
+   "posted": "2026-10-27"
+  },
+  {
+   "title": "Intern Bachelors Software Eng",
+   "loc": "Pune City, Maharashtra, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160868",
+   "id": "160868",
+   "posted": "2026-10-27"
+  },
+  {
+   "title": "Intern Bachelors Systems Eng",
+   "loc": "Pune, Maharashtra, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160947",
+   "id": "160947",
+   "posted": "2026-10-27"
+  },
+  {
+   "title": "Intern Bachelors AI",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160494",
+   "id": "160494",
+   "posted": "2026-10-24"
+  },
+  {
+   "title": "Intern Bachelors AI",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160490",
+   "id": "160490",
+   "posted": "2026-10-24"
+  },
+  {
+   "title": "Intern Bachelors AI",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160493",
+   "id": "160493",
+   "posted": "2026-10-24"
+  },
+  {
+   "title": "Intern (Bachelor's)",
+   "loc": "Pune, Maharashtra, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160465",
+   "id": "160465",
+   "posted": "2026-10-16"
+  },
+  {
+   "title": "Intern Bachelors Software Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160495",
+   "id": "160495",
+   "posted": "2026-10-24"
+  },
+  {
+   "title": "Intern Bachelors Software Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160480",
+   "id": "160480",
+   "posted": "2026-10-26"
+  },
+  {
+   "title": "Intern Bachelors Software Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160482",
+   "id": "160482",
+   "posted": "2026-10-26"
+  },
+  {
+   "title": "Intern Bachelors Software Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160484",
+   "id": "160484",
+   "posted": "2026-10-26"
+  },
+  {
+   "title": "Intern Bachelors Software Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160491",
+   "id": "160491",
+   "posted": "2026-10-24"
+  },
+  {
+   "title": "Intern Bachelors Software Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160492",
+   "id": "160492",
+   "posted": "2026-10-24"
+  },
+  {
+   "title": "Intern Bachelors App Eng",
+   "loc": "Chennai, Tamil Nadu, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160815",
+   "id": "160815",
+   "posted": "2026-10-26"
+  },
+  {
+   "title": "Intern (Bach) Data Engineering",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160488",
+   "id": "160488",
+   "posted": "2026-10-26"
+  },
+  {
+   "title": "Intern (Bach) Data Engineering",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160486",
+   "id": "160486",
+   "posted": "2026-10-26"
+  },
+  {
+   "title": "Intern Bachelors Systems Eng",
+   "loc": "Chennai, Tamil Nadu, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160859",
+   "id": "160859",
+   "posted": "2026-10-26"
+  },
+  {
+   "title": "Intern (Bachelor's)",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160462",
+   "id": "160462",
+   "posted": "2026-10-16"
+  },
+  {
+   "title": "Intern Bachelors AI",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160473",
+   "id": "160473",
+   "posted": "2026-10-22"
+  },
+  {
+   "title": "Intern Bachelors AI",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160487",
+   "id": "160487",
+   "posted": "2026-10-22"
+  },
+  {
+   "title": "Intern Bachelors AI",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160489",
+   "id": "160489",
+   "posted": "2026-10-22"
+  },
+  {
+   "title": "Intern Bachelors Software Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160479",
+   "id": "160479",
+   "posted": "2026-10-22"
+  },
+  {
+   "title": "Intern Bachelors Software Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "url": "https://careers.honeywell.com/en/sites/Honeywell/job/160483",
+   "id": "160483",
+   "posted": "2026-10-22"
+  }
+ ],
+ "details": {
+  "https://careers.honeywell.com/en/sites/Honeywell/job/161165": {
+   "title": "Intern Bachelors AI",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-29T10:08:49+00:00",
+   "end": null,
+   "desc": "",
+   "short": "As an Intern Bachelors AI here at Honeywell, you will gain hands-on experience in designing and developing AI algorithms, models, and systems. Work alongside experienced AI engineers on real-world projects shaping AI technology.You will report directly to our Manager and you’ll work out of our Bengaluru, Karnataka location on a Hybrid work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/161166": {
+   "title": "Intern Bachelors AI",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-29T10:18:01+00:00",
+   "end": null,
+   "desc": "",
+   "short": "As an Intern Bachelors AI here at Honeywell, you will gain hands-on experience in designing and developing AI algorithms, models, and systems. Work alongside experienced AI engineers on real-world projects shaping AI technology.You will report directly to our Manager and you’ll work out of our Bangalore, Karnataka location on a Hybrid work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/161175": {
+   "title": "Intern Bachelors AI",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-29T10:26:41+00:00",
+   "end": null,
+   "desc": "",
+   "short": "As an Intern Bachelors AI here at Honeywell, you will gain hands-on experience in designing and developing AI algorithms, models, and systems. Work alongside experienced AI engineers on real-world projects shaping AI technology.You will report directly to our Manager and you’ll work out of our Banglore, Karnataka location on a Hybrid work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/161162": {
+   "title": "Intern Bachelors Chemical Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-29T09:56:31+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors Chemical Eng here at Honeywell, you will gain hands-on experience and exposure to various aspects of chemical engineering within our company. You will work on real-world projects, collaborate with experienced engineers, and contribute to the development and improvement of chemical processes and solutions. \nIn this role, you will impact the team by bringing fresh perspectives, supporting ongoing projects, and learning from industry experts. Your contributions will help drive innovation, efficiency, and excellence in our chemical engineering processes. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities\nAssist in the design, development, and implementation of chemical processes and solutions \nSupport cross-functional teams in product development and improvement initiatives \nConduct research and analysis to stay updated with industry trends and advancements in chemical engineering \nParticipate in project planning and execution to ensure successful outcomes \nEnsure compliance with safety regulations and industry standards \nProvide technical support and troubleshooting for chemical engineering projects \nCollaborate with team members to drive innovation and continuous improvement \nYOU MUST HAVE\nEnrollment in a Chemical Engineering program \nStrong problem-solving and analytical skills \n WE VALUE\nPursuing an advanced degree in Chemical Engineering \nExperience with chemical engineering principles and practices \nAbility to work collaboratively in a team environment",
+   "short": "As an Intern Bachelors Chemical Eng here at Honeywell, you will gain hands-on experience, work on real-world projects, and contribute to the development of chemical processes and solutions.You will report directly to our Manager and you’ll work out of our Bangalore, Karnataka location on a Hybrid work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160857": {
+   "title": "Intern Bachelors App Eng",
+   "loc": "Chennai, Tamil Nadu, India",
+   "posted": "2026-10-27T05:41:24+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors App Eng here at Honeywell, you will gain hands-on experience and exposure to various aspects of application engineering. This internship will provide you with the opportunity to work on real projects, collaborate with experienced engineers, and develop your technical skills in a supportive and innovative environment. \nIn this role, you will impact the development and implementation of engineering solutions, contribute to the success of projects, and support the continuous improvement of processes. By working closely with our engineering teams, you will help Honeywell maintain its position as a global technology leader, delivering high-quality solutions that improve the quality of life for people around the world. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities\nAssist in the design, development, and testing of new applications \nCollaborate with crossfunctional teams to ensure project success \nSupport engineers in various stages of the application engineering process \nConduct research and analysis to support project objectives \nDocument and communicate project progress and findings \nYOU MUST HAVE\nEnrolled in a relevant engineering program \nBasic understanding of engineering principles \n WE VALUE\nPursuing an advanced degree in Electrical Engineering (EE), Mechanical Engineering (ME), or related field \nExperience with engineering software and tools \nStrong analytical and problem-solving skills",
+   "short": "As an Intern Bachelors App Eng here at Honeywell, you will gain hands-on experience in application engineering, work on real projects, and develop technical skills in a supportive environment.You will report directly to our [Title] and you’ll work out of our [City, State] location on a [Hybrid, On-site, Remote] work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160931": {
+   "title": "Intern Bachelors App Eng",
+   "loc": "Pune, Maharashtra, India",
+   "posted": "2026-10-27T00:14:45+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors App Eng here at Honeywell, you will gain hands-on experience and exposure to various aspects of application engineering. This internship will provide you with the opportunity to work on real projects, collaborate with experienced engineers, and develop your technical skills in a supportive and innovative environment. \nIn this role, you will impact the development and implementation of engineering solutions, contribute to the success of projects, and support the continuous improvement of processes. By working closely with our engineering teams, you will help Honeywell maintain its position as a global technology leader, delivering high-quality solutions that improve the quality of life for people around the world. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities\nAssist in the design, development, and testing of new applications \nCollaborate with crossfunctional teams to ensure project success \nSupport engineers in various stages of the application engineering process \nConduct research and analysis to support project objectives \nDocument and communicate project progress and findings \nYOU MUST HAVE\nEnrolled in a relevant engineering program \nBasic understanding of engineering principles \n WE VALUE\nPursuing an advanced degree in Electrical Engineering (EE), Mechanical Engineering (ME), or related field \nExperience with engineering software and tools \nStrong analytical and problem-solving skills",
+   "short": "As an Intern Bachelors App Eng here at Honeywell, you will gain hands-on experience in application engineering, work on real projects, and develop technical skills in a supportive environment.You will report directly to our [Title] and you’ll work out of our [City, State] location on a [Hybrid, On-site, Remote] work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160933": {
+   "title": "Intern Bachelors App Eng",
+   "loc": "Pune, Maharashtra, India",
+   "posted": "2026-10-27T07:01:31+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors App Eng here at Honeywell, you will gain hands-on experience and exposure to various aspects of application engineering. This internship will provide you with the opportunity to work on real projects, collaborate with experienced engineers, and develop your technical skills in a supportive and innovative environment. \nIn this role, you will impact the development and implementation of engineering solutions, contribute to the success of projects, and support the continuous improvement of processes. By working closely with our engineering teams, you will help Honeywell maintain its position as a global technology leader, delivering high-quality solutions that improve the quality of life for people around the world. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities\nAssist in the design, development, and testing of new applications \nCollaborate with crossfunctional teams to ensure project success \nSupport engineers in various stages of the application engineering process \nConduct research and analysis to support project objectives \nDocument and communicate project progress and findings \nYOU MUST HAVE\nEnrolled in a relevant engineering program \nBasic understanding of engineering principles \n WE VALUE\nPursuing an advanced degree in Electrical Engineering (EE), Mechanical Engineering (ME), or related field \nExperience with engineering software and tools \nStrong analytical and problem-solving skills",
+   "short": "As an Intern Bachelors App Eng here at Honeywell, you will gain hands-on experience in application engineering, work on real projects, and develop technical skills in a supportive environment.You will report directly to our [Title] and you’ll work out of our [City, State] location on a [Hybrid, On-site, Remote] work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160935": {
+   "title": "Intern Bachelors App Eng",
+   "loc": "Pune, Maharashtra, India",
+   "posted": "2026-10-27T07:03:54+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors App Eng here at Honeywell, you will gain hands-on experience and exposure to various aspects of application engineering. This internship will provide you with the opportunity to work on real projects, collaborate with experienced engineers, and develop your technical skills in a supportive and innovative environment. \nIn this role, you will impact the development and implementation of engineering solutions, contribute to the success of projects, and support the continuous improvement of processes. By working closely with our engineering teams, you will help Honeywell maintain its position as a global technology leader, delivering high-quality solutions that improve the quality of life for people around the world. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities\nAssist in the design, development, and testing of new applications \nCollaborate with crossfunctional teams to ensure project success \nSupport engineers in various stages of the application engineering process \nConduct research and analysis to support project objectives \nDocument and communicate project progress and findings \nYOU MUST HAVE\nEnrolled in a relevant engineering program \nBasic understanding of engineering principles \n WE VALUE\nPursuing an advanced degree in Electrical Engineering (EE), Mechanical Engineering (ME), or related field \nExperience with engineering software and tools \nStrong analytical and problem-solving skills",
+   "short": "As an Intern Bachelors App Eng here at Honeywell, you will gain hands-on experience in application engineering, work on real projects, and develop technical skills in a supportive environment.You will report directly to our [Title] and you’ll work out of our [City, State] location on a [Hybrid, On-site, Remote] work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160861": {
+   "title": "Intern Bachelors App Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-27T06:59:57+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors App Eng here at Honeywell, you will gain hands-on experience and exposure to various aspects of application engineering. This internship will provide you with the opportunity to work on real projects, collaborate with experienced engineers, and develop your technical skills in a supportive and innovative environment. \nIn this role, you will impact the development and implementation of engineering solutions, contribute to the success of projects, and support the continuous improvement of processes. By working closely with our engineering teams, you will help Honeywell maintain its position as a global technology leader, delivering high-quality solutions that improve the quality of life for people around the world. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities\nAssist in the design, development, and testing of new applications \nCollaborate with crossfunctional teams to ensure project success \nSupport engineers in various stages of the application engineering process \nConduct research and analysis to support project objectives \nDocument and communicate project progress and findings \nYOU MUST HAVE\nEnrolled in a relevant engineering program \nBasic understanding of engineering principles \n WE VALUE\nPursuing an advanced degree in Electrical Engineering (EE), Mechanical Engineering (ME), or related field \nExperience with engineering software and tools \nStrong analytical and problem-solving skills",
+   "short": "As an Intern Bachelors App Eng here at Honeywell, you will gain hands-on experience in application engineering, work on real projects, and develop technical skills in a supportive environment.You will report directly to our [Title] and you’ll work out of our [City, State] location on a [Hybrid, On-site, Remote] work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160865": {
+   "title": "Intern Bachelors App Eng",
+   "loc": "Pune, Maharashtra, India",
+   "posted": "2026-10-27T06:40:12+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors App Eng here at Honeywell, you will gain hands-on experience and exposure to various aspects of application engineering. This internship will provide you with the opportunity to work on real projects, collaborate with experienced engineers, and develop your technical skills in a supportive and innovative environment. \nIn this role, you will impact the development and implementation of engineering solutions, contribute to the success of projects, and support the continuous improvement of processes. By working closely with our engineering teams, you will help Honeywell maintain its position as a global technology leader, delivering high-quality solutions that improve the quality of life for people around the world. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities\nAssist in the design, development, and testing of new applications \nCollaborate with crossfunctional teams to ensure project success \nSupport engineers in various stages of the application engineering process \nConduct research and analysis to support project objectives \nDocument and communicate project progress and findings \nYOU MUST HAVE\nEnrolled in a relevant engineering program \nBasic understanding of engineering principles \n WE VALUE\nPursuing an advanced degree in Electrical Engineering (EE), Mechanical Engineering (ME), or related field \nExperience with engineering software and tools \nStrong analytical and problem-solving skills",
+   "short": "As an Intern Bachelors App Eng here at Honeywell, you will gain hands-on experience in application engineering, work on real projects, and develop technical skills in a supportive environment.You will report directly to our [Title] and you’ll work out of our [City, State] location on a [Hybrid, On-site, Remote] work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160877": {
+   "title": "Intern Bachelors App Eng",
+   "loc": "Pune, Maharashtra, India",
+   "posted": "2026-10-27T00:21:50+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors App Eng here at Honeywell, you will gain hands-on experience and exposure to various aspects of application engineering. This internship will provide you with the opportunity to work on real projects, collaborate with experienced engineers, and develop your technical skills in a supportive and innovative environment. \nIn this role, you will impact the development and implementation of engineering solutions, contribute to the success of projects, and support the continuous improvement of processes. By working closely with our engineering teams, you will help Honeywell maintain its position as a global technology leader, delivering high-quality solutions that improve the quality of life for people around the world. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities\nAssist in the design, development, and testing of new applications \nCollaborate with crossfunctional teams to ensure project success \nSupport engineers in various stages of the application engineering process \nConduct research and analysis to support project objectives \nDocument and communicate project progress and findings \nYOU MUST HAVE\nEnrolled in a relevant engineering program \nBasic understanding of engineering principles \n WE VALUE\nPursuing an advanced degree in Electrical Engineering (EE), Mechanical Engineering (ME), or related field \nExperience with engineering software and tools \nStrong analytical and problem-solving skills",
+   "short": "As an Intern Bachelors App Eng here at Honeywell, you will gain hands-on experience in application engineering, work on real projects, and develop technical skills in a supportive environment.You will report directly to our [Title] and you’ll work out of our [City, State] location on a [Hybrid, On-site, Remote] work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160868": {
+   "title": "Intern Bachelors Software Eng",
+   "loc": "Pune City, Maharashtra, India",
+   "posted": "2026-10-27T06:47:53+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors Software Eng here at Honeywell, you will gain hands-on experience in software development, working on real-world projects that contribute to the company's success. You will collaborate with experienced engineers, learn new technologies, and develop your skills in a supportive and innovative environment. \nIn this role, you will impact the development of cutting-edge software solutions, contributing to Honeywell's mission of delivering high-quality products and services. Your work will help improve the efficiency, productivity, and safety of various industries, making a tangible difference in the world. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities\nLearn and apply software engineering principles \nParticipate in code reviews and contribute to software development \nCollaborate with crossfunctional teams to design and develop software solutions \nGain exposure to different programming languages, tools, and technologies \nYOU MUST HAVE\nEnrollment in a Bachelor's program in Software Engineering or related field \nBasic understanding of software development principles \n WE VALUE\nPursuing an advanced degree in Software Engineering or related field \nExperience with programming languages such as Java, Python, or C++ \nStrong problem-solving skills and a passion for technology",
+   "short": "As an Intern Bachelors Software Eng here at Honeywell, you will gain hands-on experience in software development, working on real-world projects, collaborating with experienced engineers, and learning new technologies.You will report directly to our [Title] and you’ll work out of our [City, State] location on a [Hybrid, On-site, Remote] work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160947": {
+   "title": "Intern Bachelors Systems Eng",
+   "loc": "Pune, Maharashtra, India",
+   "posted": "2026-10-27T07:08:33+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors Systems Eng here at Honeywell, you will gain hands-on experience in systems engineering, working on real-world projects that drive innovation and efficiency. You will have the opportunity to collaborate with experienced engineers, learn about advanced technologies, and contribute to the development of cutting-edge solutions. This internship will provide you with valuable insights into the field of systems engineering and help you build a strong foundation for your future career. \nIn this role, you will impact the development and implementation of systems engineering projects, contributing to the optimization of processes and the creation of innovative solutions. Your work will support the overall success of our engineering initiatives and help drive the advancement of technology within Honeywell. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities\nAssist in the design and development of systems engineering projects \nSupport the testing and validation of systems to ensure functionality and performance \nCollaborate with crossfunctional teams to gather requirements and define system specifications \nDocument system design, processes, and procedures \nParticipate in system troubleshooting and issue resolution \nYOU MUST HAVE\nEnrolled in a Bachelor's degree program in Systems Engineering or a related field \nBasic understanding of systems engineering principles \n WE VALUE\nPursuing an advanced degree in Systems Engineering or related field \nExperience with systems engineering tools and software \nStrong analytical and problem-solving skills",
+   "short": "As an Intern Bachelors Systems Eng here at Honeywell, you will gain hands-on experience in systems engineering, working on real-world projects, collaborating with experienced engineers, and contributing to cutting-edge solutions.You will report directly to our [Title] and you’ll work out of our [City, State] location on a [Hybrid, On-site, Remote] work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160494": {
+   "title": "Intern Bachelors AI",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-24T14:08:54+00:00",
+   "end": null,
+   "desc": "",
+   "short": "As an Intern Bachelors AI here at Honeywell, you will gain hands-on experience in designing and developing AI algorithms, models, and systems. Work alongside experienced AI engineers on real-world projects shaping AI technology.You will report directly to our Manager and you’ll work out of our Bengaluru, Karnataka location on a Hybrid work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160490": {
+   "title": "Intern Bachelors AI",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-24T13:41:28+00:00",
+   "end": null,
+   "desc": "",
+   "short": "As an Intern Bachelors AI here at Honeywell, you will gain hands-on experience in designing and developing AI algorithms, models, and systems. Work alongside experienced AI engineers on real-world projects shaping AI technology.You will report directly to our Manager and you’ll work out of our Bengaluru , Karnataka location on a Hybrid work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160493": {
+   "title": "Intern Bachelors AI",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-24T14:02:50+00:00",
+   "end": null,
+   "desc": "",
+   "short": "As an Intern Bachelors AI here at Honeywell, you will gain hands-on experience in designing and developing AI algorithms, models, and systems. Work alongside experienced AI engineers on real-world projects shaping AI technology.You will report directly to our Manager and you’ll work out of our Bengaluru , Karnataka location on a Hybrid work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160465": {
+   "title": "Intern (Bachelor's)",
+   "loc": "Pune, Maharashtra, India",
+   "posted": "2026-10-16T14:22:26+00:00",
+   "end": null,
+   "desc": "YOU MUST HAVE \nPursuing Chartered Accountancy (CA) – eligible for Industrial Training as per ICAI guidelines \nEagerness to learn and take on new challenges. \nStrong understanding of accounting principles and financial reporting \nStrong analytical and problem-solving skills \n Key Responsibilities \nPost monthly journal entries accurately and on time \nUpload Trial Balance into the Hyperion consolidation tool for group reporting. \nPrepare monthly schedules required for consolidation and reporting. \nAssist the Entity Controller in closing monthly books of accounts. \nSupport statutory audit requirements, including preparation of audit schedules and responding to auditor queries. \nAssist with data analysis and reporting. \nConduct research and gather information for various projects. \nCollaborate with cross-functional teams to achieve goals. \nParticipate in team meetings and contribute ideas and suggestions. \nWE VALUE \nRequired experience in a similar field should be enough. \nAbility to work collaboratively in a team environment. \nProficiency in MS Excel and other financial systems \n Stipend - 40 K Monthly \n Duration - 9 - 12 Months \n Location - Pune \n Work from Office (Mon-Fri) \n looking for an immediate joiner \n Eligibility Criteria: Candidates currently pursuing CA are eligible. Candidates pursuing any other academic degree or professional course are not eligible.",
+   "short": "As an Intern here at Honeywell, you will have the opportunity to gain hands-on experience and contribute to real-world projects. You will work closely with experienced professionals, learning and applying your knowledge in a dynamic and innovative environment. This internship will provide you with valuable insights and skills that will help you in your future career. In this role, Intern will play a key role in supporting monthly financial close and statutory audit processes. This position offers hands-on exposure to corporate accounting, reporting, and compliance in a dynamic business environment. Your work will help drive innovation and efficiency, providing you with a solid foundation for your professional growth.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160495": {
+   "title": "Intern Bachelors Software Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-24T14:19:08+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors Software Eng here at Honeywell, you will gain hands-on experience in software development, working on real-world projects that contribute to the company's success. You will collaborate with experienced engineers, learn new technologies, and develop your skills in a supportive and innovative environment. \nIn this role, you will impact the development of cutting-edge software solutions, contributing to Honeywell's mission of delivering high-quality products and services. Your work will help improve the efficiency, productivity, and safety of various industries, making a tangible difference in the world. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities\nLearn and apply software engineering principles \nParticipate in code reviews and contribute to software development \nCollaborate with crossfunctional teams to design and develop software solutions \nGain exposure to different programming languages, tools, and technologies \nYOU MUST HAVE\nEnrollment in a Bachelor's program in Software Engineering or related field \nBasic understanding of software development principles \n WE VALUE\nPursuing an advanced degree in Software Engineering or related field \nExperience with programming languages such as Java, Python, or C++ \nStrong problem-solving skills and a passion for technology",
+   "short": "As an Intern Bachelors Software Eng here at Honeywell, you will gain hands-on experience in software development, working on real-world projects, collaborating with experienced engineers, and learning new technologies.You will report directly to our Manager and you’ll work out of our Bengaluru , Karnataka location on a Hybrid work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160480": {
+   "title": "Intern Bachelors Software Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-26T10:25:35+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors Software Eng here at Honeywell, you will gain hands-on experience in software development, working on real-world projects that contribute to the company's success. You will collaborate with experienced engineers, learn new technologies, and develop your skills in a supportive and innovative environment. \nIn this role, you will impact the development of cutting-edge software solutions, contributing to Honeywell's mission of delivering high-quality products and services. Your work will help improve the efficiency, productivity, and safety of various industries, making a tangible difference in the world. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities \nLearn and apply software engineering principles \nParticipate in code reviews and contribute to software development \nCollaborate with crossfunctional teams to design and develop software solutions \nGain exposure to different programming languages, tools, and technologies \nYOU MUST HAVE \nEnrollment in a Bachelor's program in Software Engineering or related field \nBasic understanding of software development principles \nWE VALUE \nPursuing an advanced degree in Software Engineering or related field \nExperience with programming languages such as Java, Python, or C++ \nStrong problem-solving skills and a passion for technology",
+   "short": "As an Intern Bachelors Software Eng here at Honeywell, you will gain hands-on experience in software development, working on real-world projects, collaborating with experienced engineers, and learning new technologies.You will report directly to our Manager and you’ll work out of our Bengaluru, Karnataka location on a Hybrid work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160482": {
+   "title": "Intern Bachelors Software Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-26T10:28:22+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors Software Eng here at Honeywell, you will gain hands-on experience in software development, working on real-world projects that contribute to the company's success. You will collaborate with experienced engineers, learn new technologies, and develop your skills in a supportive and innovative environment. \nIn this role, you will impact the development of cutting-edge software solutions, contributing to Honeywell's mission of delivering high-quality products and services. Your work will help improve the efficiency, productivity, and safety of various industries, making a tangible difference in the world. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities \nLearn and apply software engineering principles \nParticipate in code reviews and contribute to software development \nCollaborate with crossfunctional teams to design and develop software solutions \nGain exposure to different programming languages, tools, and technologies \nYOU MUST HAVE \nEnrollment in a Bachelor's program in Software Engineering or related field \nBasic understanding of software development principles \nWE VALUE \nPursuing an advanced degree in Software Engineering or related field \nExperience with programming languages such as Java, Python, or C++ \nStrong problem-solving skills and a passion for technology",
+   "short": "As an Intern Bachelors Software Eng here at Honeywell, you will gain hands-on experience in software development, working on real-world projects, collaborating with experienced engineers, and learning new technologies.You will report directly to our Manager and you’ll work out of our Bengaluru, Karnataka location on a Hybrid work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160484": {
+   "title": "Intern Bachelors Software Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-26T10:38:11+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors Software Eng here at Honeywell, you will gain hands-on experience in software development, working on real-world projects that contribute to the company's success. You will collaborate with experienced engineers, learn new technologies, and develop your skills in a supportive and innovative environment. \nIn this role, you will impact the development of cutting-edge software solutions, contributing to Honeywell's mission of delivering high-quality products and services. Your work will help improve the efficiency, productivity, and safety of various industries, making a tangible difference in the world. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities \nLearn and apply software engineering principles \nParticipate in code reviews and contribute to software development \nCollaborate with crossfunctional teams to design and develop software solutions \nGain exposure to different programming languages, tools, and technologies \nYOU MUST HAVE \nEnrollment in a Bachelor's program in Software Engineering or related field \nBasic understanding of software development principles \nWE VALUE \nPursuing an advanced degree in Software Engineering or related field \nExperience with programming languages such as Java, Python, or C++ \nStrong problem-solving skills and a passion for technology",
+   "short": "As an Intern Bachelors Software Eng here at Honeywell, you will gain hands-on experience in software development, working on real-world projects, collaborating with experienced engineers, and learning new technologies.You will report directly to our Manager and you’ll work out of our Bangalore, Karnataka location on a Hybrid work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160491": {
+   "title": "Intern Bachelors Software Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-24T13:49:41+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors Software Eng here at Honeywell, you will gain hands-on experience in software development, working on real-world projects that contribute to the company's success. You will collaborate with experienced engineers, learn new technologies, and develop your skills in a supportive and innovative environment. \nIn this role, you will impact the development of cutting-edge software solutions, contributing to Honeywell's mission of delivering high-quality products and services. Your work will help improve the efficiency, productivity, and safety of various industries, making a tangible difference in the world. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities\nLearn and apply software engineering principles \nParticipate in code reviews and contribute to software development \nCollaborate with crossfunctional teams to design and develop software solutions \nGain exposure to different programming languages, tools, and technologies \nYOU MUST HAVE\nEnrollment in a Bachelor's program in Software Engineering or related field \nBasic understanding of software development principles \n WE VALUE\nPursuing an advanced degree in Software Engineering or related field \nExperience with programming languages such as Java, Python, or C++ \nStrong problem-solving skills and a passion for technology",
+   "short": "As an Intern Bachelors Software Eng here at Honeywell, you will gain hands-on experience in software development, working on real-world projects, collaborating with experienced engineers, and learning new technologies.You will report directly to our Manager and you’ll work out of our Bengaluru , Karnataka location on a Hybrid work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160492": {
+   "title": "Intern Bachelors Software Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-24T13:56:32+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors Software Eng here at Honeywell, you will gain hands-on experience in software development, working on real-world projects that contribute to the company's success. You will collaborate with experienced engineers, learn new technologies, and develop your skills in a supportive and innovative environment. \nIn this role, you will impact the development of cutting-edge software solutions, contributing to Honeywell's mission of delivering high-quality products and services. Your work will help improve the efficiency, productivity, and safety of various industries, making a tangible difference in the world. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities\nLearn and apply software engineering principles \nParticipate in code reviews and contribute to software development \nCollaborate with crossfunctional teams to design and develop software solutions \nGain exposure to different programming languages, tools, and technologies \nYOU MUST HAVE\nEnrollment in a Bachelor's program in Software Engineering or related field \nBasic understanding of software development principles \n WE VALUE\nPursuing an advanced degree in Software Engineering or related field \nExperience with programming languages such as Java, Python, or C++ \nStrong problem-solving skills and a passion for technology",
+   "short": "As an Intern Bachelors Software Eng here at Honeywell, you will gain hands-on experience in software development, working on real-world projects, collaborating with experienced engineers, and learning new technologies.You will report directly to our Manager and you’ll work out of our Bengaluru, Karnataka location on a Hybrid work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160815": {
+   "title": "Intern Bachelors App Eng",
+   "loc": "Chennai, Tamil Nadu, India",
+   "posted": "2026-10-26T08:13:55+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors App Eng here at Honeywell, you will gain hands-on experience and exposure to various aspects of application engineering. This internship will provide you with the opportunity to work on real projects, collaborate with experienced engineers, and develop your technical skills in a supportive and innovative environment. \nIn this role, you will impact the development and implementation of engineering solutions, contribute to the success of projects, and support the continuous improvement of processes. By working closely with our engineering teams, you will help Honeywell maintain its position as a global technology leader, delivering high-quality solutions that improve the quality of life for people around the world. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities\nAssist in the design, development, and testing of new applications \nCollaborate with crossfunctional teams to ensure project success \nSupport engineers in various stages of the application engineering process \nConduct research and analysis to support project objectives \nDocument and communicate project progress and findings \nYOU MUST HAVE\nEnrolled in a relevant engineering program \nBasic understanding of engineering principles \n WE VALUE\nPursuing an advanced degree in Electrical Engineering (EE), Mechanical Engineering (ME), or related field \nExperience with engineering software and tools \nStrong analytical and problem-solving skills",
+   "short": "As an Intern Bachelors App Eng here at Honeywell, you will gain hands-on experience in application engineering, work on real projects, and develop technical skills in a supportive environment.You will report directly to our [Title] and you’ll work out of our [City, State] location on a [Hybrid, On-site, Remote] work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160488": {
+   "title": "Intern (Bach) Data Engineering",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-26T10:57:23+00:00",
+   "end": null,
+   "desc": "As an Intern (Bach) Data Engineering here at Honeywell, you will gain hands-on experience in designing, developing, and implementing data engineering solutions. This role will provide you with the opportunity to work on real-world projects, collaborate with cross-functional teams, and learn from experienced data engineers. You will be involved in optimizing data pipelines, ETL processes, and ensuring data quality and integrity. \nIn this role, you will impact the efficiency and effectiveness of our data engineering processes, contributing to the overall success of our data-driven initiatives. You will also have the chance to stay up-to-date with emerging technologies and industry best practices in data engineering. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities \nAssist in the development and implementation of data pipelines and ETL processes \nCollaborate with crossfunctional teams to gather requirements and understand business needs \nPerform data analysis and provide insights to support decisionmaking \nLearn and utilize various data engineering tools and technologies \nContribute to the continuous improvement of data engineering processes and best practices \nYOU MUST HAVE \nBasic understanding of data engineering concepts \nFamiliarity with programming languages like Python, Java, or Scala \nWE VALUE \nPursuing an advanced degree in Computer Science, Engineering, or a related field \nExperience with data modeling, data warehousing, and data integration \nStrong analytical and problem-solving skills",
+   "short": "As an Intern (Bach) Data Engineering here at Honeywell, you will design, develop, and implement data engineering solutions, optimize data pipelines, and ensure data quality. Collaborate with teams and learn from experienced engineers.You will report directly to our Manager and you’ll work out of our Bangalore, Karnataka location on a Hybrid work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160486": {
+   "title": "Intern (Bach) Data Engineering",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-26T10:48:25+00:00",
+   "end": null,
+   "desc": "As an Intern (Bach) Data Engineering here at Honeywell, you will gain hands-on experience in designing, developing, and implementing data engineering solutions. This role will provide you with the opportunity to work on real-world projects, collaborate with cross-functional teams, and learn from experienced data engineers. You will be involved in optimizing data pipelines, ETL processes, and ensuring data quality and integrity. \nIn this role, you will impact the efficiency and effectiveness of our data engineering processes, contributing to the overall success of our data-driven initiatives. You will also have the chance to stay up-to-date with emerging technologies and industry best practices in data engineering. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities\nAssist in the development and implementation of data pipelines and ETL processes \nCollaborate with crossfunctional teams to gather requirements and understand business needs \nPerform data analysis and provide insights to support decisionmaking \nLearn and utilize various data engineering tools and technologies \nContribute to the continuous improvement of data engineering processes and best practices \nYOU MUST HAVE\nBasic understanding of data engineering concepts \nFamiliarity with programming languages like Python, Java, or Scala \n WE VALUE\nPursuing an advanced degree in Computer Science, Engineering, or a related field \nExperience with data modeling, data warehousing, and data integration \nStrong analytical and problem-solving skills",
+   "short": "As an Intern (Bach) Data Engineering here at Honeywell, you will design, develop, and implement data engineering solutions, optimize data pipelines, and ensure data quality. Collaborate with teams and learn from experienced engineers.You will report directly to our [Title] and you’ll work out of our [City, State] location on a [Hybrid, On-site, Remote] work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160859": {
+   "title": "Intern Bachelors Systems Eng",
+   "loc": "Chennai, Tamil Nadu, India",
+   "posted": "2026-10-26T07:59:04+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors Systems Eng here at Honeywell, you will gain hands-on experience in systems engineering, working on real-world projects that drive innovation and efficiency. You will have the opportunity to collaborate with experienced engineers, learn about advanced technologies, and contribute to the development of cutting-edge solutions. This internship will provide you with valuable insights into the field of systems engineering and help you build a strong foundation for your future career. \nIn this role, you will impact the development and implementation of systems engineering projects, contributing to the optimization of processes and the creation of innovative solutions. Your work will support the overall success of our engineering initiatives and help drive the advancement of technology within Honeywell. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities\nAssist in the design and development of systems engineering projects \nSupport the testing and validation of systems to ensure functionality and performance \nCollaborate with crossfunctional teams to gather requirements and define system specifications \nDocument system design, processes, and procedures \nParticipate in system troubleshooting and issue resolution \nYOU MUST HAVE\nEnrolled in a Bachelor's degree program in Systems Engineering or a related field \nBasic understanding of systems engineering principles \n WE VALUE\nPursuing an advanced degree in Systems Engineering or related field \nExperience with systems engineering tools and software \nStrong analytical and problem-solving skills",
+   "short": "As an Intern Bachelors Systems Eng here at Honeywell, you will gain hands-on experience in systems engineering, working on real-world projects, collaborating with experienced engineers, and contributing to cutting-edge solutions.You will report directly to our [Title] and you’ll work out of our [City, State] location on a [Hybrid, On-site, Remote] work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160462": {
+   "title": "Intern (Bachelor's)",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-16T14:23:42+00:00",
+   "end": null,
+   "desc": "Chartered Accountant Student Eligible for Industrial Training as per ICAI. \nHands on experience on SAP \nWorking knowledge of US GAAP, SOX Compliance \nPrevious commercial site FP&A experience preferred. \nSupport in weekly / monthly analysis of all major business KPI’s from an overall LOB / SBU perspective incl. all P&L / WC and Cash metrics with in depth analysis on major variance drivers in a standard and robust format. \nSupport and coordinate the STRAP / AOP process from a Financial perspective in close partnership with the business & ISC \nSupport in Developing and enable strong and robust estimating process for midterm (3+9 / 5+7/ 8+4) and for quarterly Short Range Outlooks & Summary of Risks & Opportunities (SRO) by close partnership with the business. \nCoordinate and support on Finance aspect of Capex process in partnership with Pole / Global Finance \nEnsure compliance with all corporate statutory laws, US GAAP and Honeywell Accounting Policies \nPartner Special projects and ad hoc analyses as assigned. \nExcellent influencing skills \nExcellent knowledge of all key Financial processes. \nSystems skills with SAP, Hyperion, and Microsoft office products and database applications. \nStrong process improvement and implementation track record. \nStrong written and oral communications skills. \nIndependent and assertive. \nSelf-motivated, with an ability to contribute individually (work with minimal supervision) together with being a strong team player. \n Stipend - 40 K Monthly \n Eligibility - Looking for an early joiner - Chartered Accountant Student only \n Duration - 12 Months \n Location - Bangalore \n Work - Work from office \n Shift Timing - 1 PM - 10 PM",
+   "short": "Honeywell Fire and Security India is looking for a Finance Intern to work closely with Business and Finance leadership. This position will play a key support role to Finance Team in providing overall insight into Financial & Business performance. Specifically, the successful candidate will be responsible for FP&A, MIS Matters of BA business of India ensuring robust analysis and overview to Mgmt on Financials performance on a weekly / monthly and quarterly basis. The role will support the overall STRAP / AOP process and ensure that solid midterm and short range outlooks are provided with robust and clear KPI’s to assess business performance.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160473": {
+   "title": "Intern Bachelors AI",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-22T08:00:32+00:00",
+   "end": null,
+   "desc": "",
+   "short": "As an Intern Bachelors AI here at Honeywell, you will gain hands-on experience in designing and developing AI algorithms, models, and systems. Work alongside experienced AI engineers on real-world projects shaping AI technology.You will report directly to our Manager and you’ll work out of our Bangalore,Karanataka location on a Hybrid work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160487": {
+   "title": "Intern Bachelors AI",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-22T12:16:02+00:00",
+   "end": null,
+   "desc": "",
+   "short": "As an Intern Bachelors AI here at Honeywell, you will gain hands-on experience in designing and developing AI algorithms, models, and systems. Work alongside experienced AI engineers on real-world projects shaping AI technology.You will report directly to our Manger, and you’ll work out of our Bengaluru , Karantaka  location on a Hybrid work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160489": {
+   "title": "Intern Bachelors AI",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-22T12:18:52+00:00",
+   "end": null,
+   "desc": "",
+   "short": "As an Intern Bachelors AI here at Honeywell, you will gain hands-on experience in designing and developing AI algorithms, models, and systems. Work alongside experienced AI engineers on real-world projects shaping AI technology.You will report directly to our Manager and you’ll work out of our Bengaluru, Karnataka location on a Hybrid work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160479": {
+   "title": "Intern Bachelors Software Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-22T09:13:09+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors Software Eng here at Honeywell, you will gain hands-on experience in software development, working on real-world projects that contribute to the company's success. You will collaborate with experienced engineers, learn new technologies, and develop your skills in a supportive and innovative environment. \nIn this role, you will impact the development of cutting-edge software solutions, contributing to Honeywell's mission of delivering high-quality products and services. Your work will help improve the efficiency, productivity, and safety of various industries, making a tangible difference in the world. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities\nLearn and apply software engineering principles \nParticipate in code reviews and contribute to software development \nCollaborate with crossfunctional teams to design and develop software solutions \nGain exposure to different programming languages, tools, and technologies \nYOU MUST HAVE\nEnrollment in a Bachelor's program in Software Engineering or related field \nBasic understanding of software development principles \n WE VALUE\nPursuing an advanced degree in Software Engineering or related field \nExperience with programming languages such as Java, Python, or C++ \nStrong problem-solving skills and a passion for technology",
+   "short": "As an Intern Bachelors Software Eng here at Honeywell, you will gain hands-on experience in software development, working on real-world projects, collaborating with experienced engineers, and learning new technologies.You will report directly to our Manager and you’ll work out of our Bengaluru , Karnatakalocation on a Hybrid work schedule.",
+   "status": 200
+  },
+  "https://careers.honeywell.com/en/sites/Honeywell/job/160483": {
+   "title": "Intern Bachelors Software Eng",
+   "loc": "Bengaluru, Karnataka, India",
+   "posted": "2026-10-22T09:54:12+00:00",
+   "end": null,
+   "desc": "As an Intern Bachelors Software Eng here at Honeywell, you will gain hands-on experience in software development, working on real-world projects that contribute to the company's success. You will collaborate with experienced engineers, learn new technologies, and develop your skills in a supportive and innovative environment. \nIn this role, you will impact the development of cutting-edge software solutions, contributing to Honeywell's mission of delivering high-quality products and services. Your work will help improve the efficiency, productivity, and safety of various industries, making a tangible difference in the world. \nAt Honeywell, our people leaders play a critical role in developing and supporting our employees to help them perform at their best and drive change across the company. Help to build a strong, diverse team by recruiting talent, identifying, and developing successors, driving retention and engagement, and fostering an inclusive culture. \nKey Responsibilities\nLearn and apply software engineering principles \nParticipate in code reviews and contribute to software development \nCollaborate with crossfunctional teams to design and develop software solutions \nGain exposure to different programming languages, tools, and technologies \nYOU MUST HAVE\nEnrollment in a Bachelor's program in Software Engineering or related field \nBasic understanding of software development principles \n WE VALUE\nPursuing an advanced degree in Software Engineering or related field \nExperience with programming languages such as Java, Python, or C++ \nStrong problem-solving skills and a passion for technology",
+   "short": "As an Intern Bachelors Software Eng here at Honeywell, you will gain hands-on experience in software development, working on real-world projects, collaborating with experienced engineers, and learning new technologies.You will report directly to our Manager and you’ll work out of our Bengaluru , Karnataka location on a Hybrid work schedule.",
+   "status": 200
+  }
+ }
+}

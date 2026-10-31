@@ -1,0 +1,21 @@
+{
+ "company": "Truist",
+ "ats": "Workday (Phenom front end)",
+ "endpoint": "https://truist.wd1.myworkdayjobs.com/Careers",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate"
+ ],
+ "total_hits": 803,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Workday US-only (no India locations); 0 India intern postings."
+}

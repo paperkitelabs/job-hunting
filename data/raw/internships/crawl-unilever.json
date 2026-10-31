@@ -1,0 +1,20 @@
+{
+ "company": "Hindustan Unilever / Unilever",
+ "ats": "workday",
+ "endpoint": "https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professionals/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "graduate",
+  "2027",
+  "(India country facet)"
+ ],
+ "total_hits": 14,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Also checked Unilever_Early_Careers site (3 Ecuador postings) and 'Digital & AI' / 'apprentice' searches without India facet: no India intern."
+}

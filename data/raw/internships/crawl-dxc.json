@@ -1,0 +1,20 @@
+{
+ "company": "DXC Technology",
+ "ats": "Workday",
+ "endpoint": "https://dxctechnology.wd1.myworkdayjobs.com/wday/cxs/dxctechnology/DXCJobs/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate"
+ ],
+ "total_hits": 128,
+ "india_intern_hits": [],
+ "details": {}
+}

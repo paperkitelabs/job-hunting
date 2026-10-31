@@ -1,0 +1,17 @@
+{
+ "company": "IKEA",
+ "ats": "radancy",
+ "endpoint": "https://jobs.ikea.com/en/search-jobs/results",
+ "queried_at": "2026-10-30T07:23:13",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "India",
+  ""
+ ],
+ "total_hits": 62,
+ "india_intern_hits": [],
+ "details": {}
+}

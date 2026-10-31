@@ -1,0 +1,22 @@
+{
+ "company": "Sanofi",
+ "ats": "workday",
+ "endpoint": "https://sanofi.wd3.myworkdayjobs.com/wday/cxs/sanofi/SanofiCareers/jobs",
+ "queried_at": "2026-10-30T07:31:29",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "student",
+  "2027",
+  "co-op",
+  "graduate intern",
+  ""
+ ],
+ "total_hits": 88,
+ "india_intern_hits": [],
+ "details": {}
+}

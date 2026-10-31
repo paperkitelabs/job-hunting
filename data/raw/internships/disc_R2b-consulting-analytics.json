@@ -1,0 +1,293 @@
+{
+ "cluster": "R2b-consulting-analytics",
+ "openings": [
+  {
+   "company": "BCG (BCG X Delivery Finance)",
+   "role": "BCG X Finance Intern",
+   "url": "https://careers.bcg.com/global/en/job/59487/BCG-X-Finance-Intern",
+   "location": "Gurgaon, Haryana, India",
+   "job_id": "59487",
+   "type": "Internship",
+   "duration": "not stated (a sibling requisition 59156 describes a 1-year internship)",
+   "overrun": "likely runs past May 2027 if 1-year",
+   "exp": "Bachelor's/Master's degree or currently enrolled; strong interest in analytics topics",
+   "track": "analyst",
+   "posted": "",
+   "deadline": "",
+   "jd": "Trainee supporting BCG X Delivery Finance: builds reporting dashboards and data pipelines and automates recurring reports using Power BI and Tableau Prep. Asks for a degree (or current enrolment) and strong interest in analytics. Team sits in Finance, so it is finance-reporting analytics, not core data science.",
+   "evidence": "WebSearch (allowed_domains careers.bcg.com) returned 'BCG X Finance Intern in Gurgaon, Haryana, India' at this URL twice; snippet describes dashboards/data pipelines/Power BI/Tableau Prep. A second requisition (59156, ja/ca locales) says 'position not currently open' and targets Finance/Commerce/Economics students, so status is uncertain.",
+   "confidence": "low"
+  }
+ ],
+ "leads": [],
+ "excluded": [
+  {
+   "company": "BCG",
+   "role": "BCG X Finance Intern (req 59156)",
+   "url": "https://careers.bcg.com/ca/fr/job/59156/BCG-X-Finance-Intern",
+   "reason": "1-year internship restricted to Finance/Accounting/Commerce/Economics students; Japanese-locale page says position not currently open"
+  },
+  {
+   "company": "BCG",
+   "role": "Data Scientist Internship - BCG X",
+   "url": "https://careers.bcg.com/job/10020535/Data-Scientist-Internship-BCG-X",
+   "reason": "Requires master's/PhD enrolment; no India location shown; legacy job ID (likely stale)"
+  },
+  {
+   "company": "BCG",
+   "role": "Product Analyst - Intern (New Delhi)",
+   "url": "https://careers.bcg.com/job/23734BR/Product-Analyst-Intern",
+   "reason": "Legacy-format job ID (old posting, likely closed); business-operations/requirements-documentation role aimed at Business Administration students"
+  },
+  {
+   "company": "Bain & Company",
+   "role": "SRM University - Intern Analyst - Batch of 2026",
+   "url": "https://www.bain.com/careers/find-a-role/position/?jobid=100835",
+   "reason": "Campus-specific (SRM University only) BCN intern; not open to DJ Sanghvi off-campus"
+  },
+  {
+   "company": "Bain & Company",
+   "role": "PES University - UG Intern Role - Batch of 2026",
+   "url": "https://www.bain.com/careers/find-a-role/position/?jobid=98191",
+   "reason": "Campus-specific (PES University only)"
+  },
+  {
+   "company": "Bain & Company",
+   "role": "Hindu College - Intern Analyst - Batch of 2027",
+   "url": "https://www.bain.com/careers/find-a-role/position/?jobid=98896",
+   "reason": "Campus-specific (Hindu College only); shows BCN does run 'Intern Analyst' for batch-of-2027 via campuses"
+  },
+  {
+   "company": "Bain & Company",
+   "role": "Intern - Campus Recruiting Team (BCN)",
+   "url": "https://www.bain.com/careers/find-a-role/position/?jobid=105805",
+   "reason": "HR / campus-recruiting role, not wanted"
+  },
+  {
+   "company": "McKinsey & Company",
+   "role": "Business Analyst Intern - Tech & AI",
+   "url": "https://www.mckinsey.com/careers/search-jobs/jobs/businessanalystintern-techai-110176",
+   "reason": "Lisbon, 6–8 week summer placement Jun–Jul 2027 (penultimate-year summer programme), not India"
+  },
+  {
+   "company": "McKinsey & Company",
+   "role": "Business Analyst Intern",
+   "url": "https://www.mckinsey.com/careers/search-jobs/jobs/businessanalystintern-37776",
+   "reason": "Generic 8–10 week summer BA intern; grad window ~Dec 2027–Jul 2028 (candidate graduates May 2027); no India location confirmed"
+  },
+  {
+   "company": "McKinsey & Company",
+   "role": "Business Analyst Intern (10-12 month program)",
+   "url": "https://www.mckinsey.com/careers/search-jobs/jobs/businessanalystintern10-12monthprogram-49706",
+   "reason": "Not India (other results were Mexico); offer-after-degree programme for students still in university"
+  },
+  {
+   "company": "McKinsey & Company",
+   "role": "Associate Intern",
+   "url": "https://www.mckinsey.com/careers/search-jobs/jobs/associateintern-14918",
+   "reason": "MBA/PhD summer associate intern"
+  },
+  {
+   "company": "Accenture",
+   "role": "Data Engineer Intern (R00329471)",
+   "url": "https://www.accenture.com/in-en/careers/jobdetails?id=R00329471_en&title=Data+Engineer+Intern",
+   "reason": "Located in Prague (part-time), despite in-en URL"
+  },
+  {
+   "company": "Accenture",
+   "role": "Data Analyst Internship Program (R00329607)",
+   "url": "https://www.accenture.com/in-en/careers/jobdetails?id=R00329607_en",
+   "reason": "Poland role (Polish language required), despite in-en URL"
+  },
+  {
+   "company": "Accenture",
+   "role": "Accenture Internship - Oct / Nov Intake 2026 (R00349245)",
+   "url": "https://www.accenture.com/in-en/careers/jobdetails?id=R00349245_en",
+   "reason": "Appears to be Malaysia (Malaysian language requirements); verify — if India it would fit (Tech or Strategy & Consulting, 2nd/penultimate-year UG)"
+  },
+  {
+   "company": "Accenture",
+   "role": "Entry Level Technology Summer Analyst - NAELFY27 (R00355981)",
+   "url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00355981_en",
+   "reason": "US summer 2027 programme, grads Dec 2027–Aug 2028"
+  },
+  {
+   "company": "Gartner",
+   "role": "Intern - Financial Planning & Analysis",
+   "url": "https://jobs.gartner.com/jobs/job/114357-intern-financial-planning-analysis/",
+   "reason": "Finance/FP&A internship for management graduates (Gurgaon) — finance not wanted"
+  },
+  {
+   "company": "ZS Associates",
+   "role": "Strategy Insights & Planning Associate Consultant - Intern",
+   "url": "https://jobs.zs.com/jobs/63438?lang=en-us",
+   "reason": "'Multiple Locations' with no India shown; sibling postings 63439/63440 are North America university summer interns; likely NA/Europe summer programme"
+  },
+  {
+   "company": "ZS Associates",
+   "role": "Decision Analytics Associate (Consultant) - Intern (North America - University Students)",
+   "url": "https://jobs.zs.com/jobs/63439?lang=en-us",
+   "reason": "North America only, no visa sponsorship"
+  },
+  {
+   "company": "EXL",
+   "role": "Associate - Business Analyst / Associate - Data Analyst / Fresher - General Analytics",
+   "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/18463",
+   "reason": "Full-time fresher roles (0–3 yrs, posted ~22 Oct 2026), not internships; possibly useful for full-time later (also job/16594)"
+  },
+  {
+   "company": "Kantar",
+   "role": "Analyst (R102561), Kantar Analytics India, Bangalore",
+   "url": "https://kantar.wd3.myworkdayjobs.com/en-US/KANTAR/job/Analyst_R102561",
+   "reason": "Full-time analyst role, not an internship"
+  },
+  {
+   "company": "AB InBev",
+   "role": "Procurement and Sustainability Intern / Trade Marketing Intern / Brewing Intern",
+   "url": "https://abinbev.wd1.myworkdayjobs.com/en-US/EUR/job/Procurement-and-Sustainability-Intern_30051279",
+   "reason": "Europe/Canada, non-analytics"
+  },
+  {
+   "company": "Alvarez & Marsal",
+   "role": "Strategy Consulting Intern - Financial Services",
+   "url": "https://careers.alvarezandmarsal.com/jobs/17978355-strategy-consulting-intern-financial-services",
+   "reason": "Location not shown in snippet (no India signal); verify via careers site"
+  },
+  {
+   "company": "Alvarez & Marsal",
+   "role": "Indirect Tax - Industrial Trainee (Gurugram)",
+   "url": "https://careers.alvarezandmarsal.com/search/job-type/intern/jobs/in",
+   "reason": "Tax role, not wanted"
+  }
+ ],
+ "companies": [
+  {
+   "name": "McKinsey & Company",
+   "careers_url": "https://www.mckinsey.com/careers/search-jobs",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Only global BA-intern summer postings surfaced (Lisbon/Mexico/US). India site says McKinsey India hosts internal roles + client-capabilities hubs (Gurugram, Bengaluru, Chennai research & analytics). No India off-cycle intern indexed."
+  },
+  {
+   "name": "BCG",
+   "careers_url": "https://careers.bcg.com/global/en/locations/india",
+   "ats": "phenom",
+   "ats_endpoint": "",
+   "result": "found 1 (low confidence)",
+   "note": "BCG X Finance Intern (59487) Gurgaon is the only India intern surfaced; India full-time DS/FDE roles exist (e.g. 57205 Lead FDE Mumbai). Internship page: https://careers.bcg.com/global/en/internship-opportunities"
+  },
+  {
+   "name": "Bain & Company",
+   "careers_url": "https://www.bain.com/careers/find-a-role/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found (open to off-campus)",
+   "note": "BCN New Delhi/Gurugram runs campus-specific 'Intern Analyst - Batch of 2026/2027' postings per college (SRM 100835, PES 98191, Hindu College 98896); no generic off-campus posting surfaced. Job URL pattern: position/?jobid=NNNNNN."
+  },
+  {
+   "name": "Accenture (Strategy & Consulting, Song)",
+   "careers_url": "https://www.accenture.com/in-en/careers/life-at-accenture/internships-students",
+   "ats": "workday",
+   "ats_endpoint": "https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs",
+   "result": "none found",
+   "note": "in-en jobdetails URLs often host non-India roles (Prague/Poland/Malaysia). India campus portal: https://indiacampus.accenture.com/myzone/accenture/1/jobs/ . India student page mainly third-year summer interns."
+  },
+  {
+   "name": "ZS Associates",
+   "careers_url": "https://jobs.zs.com",
+   "ats": "icims",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Intern postings found are North America/London summer 2026-27 (63438-63440, 24234). India hiring is full-time fresher (BTS/DA/DSA) mostly via campus."
+  },
+  {
+   "name": "Gartner",
+   "careers_url": "https://jobs.gartner.com/locations/gurgaon/",
+   "ats": "workday",
+   "ats_endpoint": "https://gartner.wd5.myworkdayjobs.com/wday/cxs/gartner/EXT/jobs",
+   "result": "none found (in scope)",
+   "note": "Only Gurgaon intern indexed is FP&A (114357, finance). Gartner has had 'Business and Technology Insights Intern' in Gurgaon (testimonials) — worth checking the live Workday feed for 'intern'. Search filter showed 8 intern roles globally."
+  },
+  {
+   "name": "EXL",
+   "careers_url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs?location=India&locationId=300000000467203&locationLevel=country&mode=job-location",
+   "ats": "oracle",
+   "ats_endpoint": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList&finder=findReqs;siteNumber=CX_2,keyword=intern",
+   "result": "none found",
+   "note": "Oracle site CX_2 has ~2,600 roles; India analytics fresher roles posted Oct 2026 (Associate Business Analyst 18463, Associate Data Analyst 16594, 'Fresher - General Analytics'). Only intern found is US (NY, Jun 2026). Query the Oracle API with keyword=intern."
+  },
+  {
+   "name": "WNS",
+   "careers_url": "https://www.wns.com/about-us/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "No WNS-domain internship listings indexed; only myinternships.in (unreliable, ignored). WNS India HQ is Vikhroli, Mumbai."
+  },
+  {
+   "name": "Axtria",
+   "careers_url": "https://www.careers.axtria.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Careers site lists experienced roles; freshers hired via campus training programme (Axtria Institute)."
+  },
+  {
+   "name": "AB InBev GCC",
+   "careers_url": "https://abinbev.wd1.myworkdayjobs.com/en-US/IND",
+   "ats": "workday",
+   "ats_endpoint": "https://abinbev.wd1.myworkdayjobs.com/wday/cxs/abinbev/IND/jobs",
+   "result": "none found",
+   "note": "India site 'IND' (entity GCC Service India Pvt Ltd, Bangalore) shows full-time analytics roles only; interns found are EUR/CAN sites. Check live IND feed for 'intern'."
+  },
+  {
+   "name": "Publicis Sapient",
+   "careers_url": "https://careers.publicissapient.com/students/india",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "10-week internship (SWE / Product Manager intern) programme; no India-specific intern job-details URL indexed. Job URL pattern: careers.publicissapient.com/job-details/<year>-<id>-..."
+  },
+  {
+   "name": "Kantar",
+   "careers_url": "https://kantar.wd3.myworkdayjobs.com/KANTAR",
+   "ats": "workday",
+   "ats_endpoint": "https://kantar.wd3.myworkdayjobs.com/wday/cxs/kantar/KANTAR/jobs",
+   "result": "none found",
+   "note": "Also entry-level site https://kantar.wd3.myworkdayjobs.com/KANTAREL (cxs .../kantar/KANTAREL/jobs). India offices Bangalore/Mumbai/Gurgaon; only full-time Analyst R102561 surfaced."
+  },
+  {
+   "name": "Grant Thornton Bharat",
+   "careers_url": "https://www.grantthornton.in/careers/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Internships run via CampACE (B-school summer interns, live projects, CA articleship) and CASEQuest; no posted analytics intern found."
+  },
+  {
+   "name": "Alvarez & Marsal",
+   "careers_url": "https://careers.alvarezandmarsal.com/search/job-type/intern/jobs/in",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found (in scope)",
+   "note": "Intern filter shows ~1 India intern (Indirect Tax Industrial Trainee, Gurugram). Firm says it recruits interns year-round in Asia; recheck."
+  },
+  {
+   "name": "Kearney",
+   "careers_url": "https://www.kearney.com/about/locations/india/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "India runs Business Analyst (UG) and Summer Associate programmes, typically campus; no off-cycle posting indexed."
+  },
+  {
+   "name": "Protiviti",
+   "careers_url": "https://www.protiviti.com/in-en/students-and-graduates-our-recruiting-process",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Internship programme is North America only (Workday roberthalf ProtivitiNA). India hires fresh graduates/PG; PCC India careers: https://inpcc.protiviti.com/careers"
+  }
+ ]
+}

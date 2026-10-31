@@ -1,0 +1,42 @@
+{
+ "company": "NVIDIA",
+ "ats": "workday",
+ "endpoint": "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "graduate intern",
+  "student",
+  "co-op",
+  "university"
+ ],
+ "total_hits": 230,
+ "india_intern_hits": [
+  {
+   "title": "PhD Intern, AI ML in Wireless L1/L2 - Fall 2026",
+   "loc": "India, Bengaluru",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423",
+   "id": "JR2024423",
+   "posted": "Posted 30+ Days Ago"
+  }
+ ],
+ "details": {
+  "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423": {
+   "title": "PhD Intern, AI ML in Wireless L1/L2 - Fall 2026",
+   "loc": "India, Bengaluru",
+   "country": "India",
+   "id": "JR2024423",
+   "posted": "2026-08-31",
+   "end": null,
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423",
+   "desc": "Our work at NVIDIA is dedicated towards a computing model focused on visual and AI computing. For two decades, NVIDIA has pioneered visual computing, the art and science of computer graphics, with our invention of the GPU. The GPU has also shown to be spectacularly effective at solving some of the most complex problems in computer science. Today, NVIDIA’s GPU simulates human intelligence, running deep learning algorithms and acting as the brain of computers, robots and self-driving cars that can perceive and understand the world. We are looking to grow our company and teams with the smartest people in the world and there has never been a more exciting time to join NVIDIA. \nNVIDIA Aerial CUDA Accelerated RAN (ACAR) is framework for building high-performance, software-defined, cloud-native Radio Access Network functions over NVIDIA CPU/GPU/DPU based systems, which will drive our AI native 6G solutions. We are seeking a self-motivated Intern to drive the adoption of AI/ML functions in the Phy and Mac layers of our Aerial SW. This position offers the opportunity to work on cutting-edge technology, using NVIDIA's world-class compute platforms to advance the field of AI native wireless stack to achieve the Spectral and Energy efficiency goals of 6G! \n What you'll be doing: \nAs a member of Aerial RAN team working on AI Native stacks, you will be contributing to \nDevelop and Optimize AI / ML modules for functional blocks specifically in wireless signal processing \nPerform literature survey to understand the prior art on AI/ML for RAN \nAnalyze and identify the suitable ML architecture for the RAN functions of interest. \nIdentify the right ML Architecture, complexity for each of the functional blocks \nCollaborate with multi-functional teams to optimize the OTA performance and compute complexity with DevTech and other business units within NVIDIA \nBenchmarking of OTA performance improvements with AI models and compute needs on different platforms \nIteratively train, test & modify Model Arch for performance improvements \n What we need to see: \nFull time PhD student doing research in the fields of AI and Wireless domains, and able to work as an Intern for at least 6 months or more starting from last week of January 2026 \nThorough understanding of the wireless Layer1/Layer2 functions and algorithm aspects \nExcellent grip on AI and ML concepts, techniques and abreast of latest developments in this field \nDeep understanding of Transformers, CNNs and other ML Architectures and their use cases \nHands on experience in simulating signal processing algorithms in Matlab and Python. \nProgramming skills in C/C++ \nExperience in analyzing the problem, identifying the right model architectures. developing Models, Training and Optimization, preferably on signal processing domains \n Ways to stand out from the crowd: \nKnowledge of CPU, DSP or GPU architecture, as well as memory, I/O and networking interfaces. \nExperience with programming latency sensitive, real-time, multi-threaded applications on CPUs and one or more of GPUs or DSPs or Vector processors. \nAppetite to learn the details of how next generations of GPU will operate and build an outstanding Software-Radio 5G/6G stack that can fully demonstrate their power. \nFamiliarity with CUDA programming and NVIDIA GPU Architectures \nNVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!",
+   "status": 200
+  }
+ }
+}

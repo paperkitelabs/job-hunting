@@ -1,0 +1,20 @@
+{
+ "company": "PepsiCo GBS",
+ "ats": "jibe/icims",
+ "endpoint": "https://www.pepsicojobs.com/api/jobs (Jibe; iCIMS apply)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "off-cycle",
+  "2027",
+  "analyst intern",
+  "graduate",
+  "'' (all India)"
+ ],
+ "total_hits": 213,
+ "india_intern_hits": [],
+ "details": {}
+}

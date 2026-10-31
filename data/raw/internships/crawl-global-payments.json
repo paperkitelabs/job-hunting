@@ -1,0 +1,23 @@
+{
+ "company": "Global Payments",
+ "ats": "workday",
+ "endpoint": "https://tsys.wd1.myworkdayjobs.com/wday/cxs/tsys/TSYS/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "",
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "graduate",
+  "2027",
+  "industrial",
+  "student",
+  "campus"
+ ],
+ "total_hits": 35,
+ "india_intern_hits": [],
+ "details": {}
+}

@@ -1,0 +1,482 @@
+{
+ "cluster": "H-ai-firms-fde",
+ "companies": [
+  {
+   "name": "Anthropic",
+   "hint": "greenhouse anthropic (Bengaluru)",
+   "round_notes": [
+    {
+     "careers_url": "https://www.anthropic.com/careers",
+     "ats": "greenhouse",
+     "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
+     "result": "none found",
+     "note": "Bengaluru office opened Feb 2026 (India MD Irina Ghose). Only India role seen: full-time 'Startup Partnerships - India' (posted 30 Jun 2026). No internship. boards-api.greenhouse.io failed DNS from this session.",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "OpenAI",
+   "hint": "openai careers (India)",
+   "round_notes": [
+    {
+     "careers_url": "https://openai.com/careers",
+     "ats": "ashby",
+     "ats_endpoint": "https://api.ashbyhq.com/posting-api/job-board/openai",
+     "result": "none found",
+     "note": "Offices in New Delhi, with Mumbai and Bengaluru announced for 2026. No India intern postings in search.",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Google DeepMind",
+   "hint": "deepmind careers",
+   "round_notes": [
+    {
+     "careers_url": "https://deepmind.google/about/careers/",
+     "ats": "greenhouse",
+     "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/deepmind/jobs",
+     "result": "programme not open yet",
+     "note": "India student roles go through the Google Student Researcher programme on google.com/about/careers. The 2026 cycle has closed and a 2027 posting has not appeared. DeepMind Bengaluru has postdoc roles only.",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Databricks",
+   "hint": "databricks careers / greenhouse",
+   "round_notes": [
+    {
+     "careers_url": "https://www.databricks.com/company/careers/university-recruiting",
+     "ats": "greenhouse",
+     "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs",
+     "result": "none found",
+     "note": "2027-start intern postings found are US/Berlin/London/Belgrade. Bengaluru DS intern exists only on aggregators (see leads).",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Databricks",
+     "role": "Data Science Graduate Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/job/databricks-is-hiring-data-science-graduate-intern-bengaluru-39a4ee",
+     "careers_url": "https://www.databricks.com/company/careers/university-recruiting",
+     "note": "Aggregator only, undated. Says 3 months, in-office, for 2026 freshers and final-year students; Python, SQL, statistics, ML; building pipelines, dashboards, ML models. Related aggregator pages for Data Science Intern Bengaluru: https://myinternships.in/job/databricks-is-hiring-data-science-intern-bengaluru-51b889 and https://myinternships.in/job/databricks-data-science-intern-bengaluru-341b74. No matching posting found on databricks.com. Low confidence; myinternships.in looks like a content farm.",
+     "src": "H-ai-firms-fde"
+    }
+   ]
+  },
+  {
+   "name": "Snowflake",
+   "hint": "snowflake careers",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.snowflake.com/us/en/pune",
+     "ats": "phenom",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Pune hub (400+ staff). Data Engineer Intern Pune 2026 seen only on aggregators (lead).",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Snowflake",
+     "role": "Data Engineer Intern - Pune (2026)",
+     "aggregator_url": "https://apna.co/job/1688342760",
+     "careers_url": "https://careers.snowflake.com/us/en/pune",
+     "note": "Aggregators (apna, freshershunt, jobinsider, yohire, placement-officer dated 5 May 2026) say it is for B.Tech/M.Tech 2026 and 2027 batches, paid and full-time, may convert to a full-time job. Data-engineering role, so borderline for the candidate. Could not confirm on careers.snowflake.com; may be closed.",
+     "src": "H-ai-firms-fde"
+    }
+   ]
+  },
+  {
+   "name": "Palantir",
+   "hint": "palantir careers / lever",
+   "round_notes": [
+    {
+     "careers_url": "https://www.palantir.com/careers/",
+     "ats": "lever",
+     "ats_endpoint": "https://api.lever.co/v0/postings/palantir?mode=json",
+     "result": "none found",
+     "note": "FDSE internships are US/UK only. Full-time India roles exist, but no India internship.",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Scale AI",
+   "hint": "greenhouse scaleai",
+   "round_notes": [
+    {
+     "careers_url": "https://scale.com/careers",
+     "ats": "greenhouse",
+     "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs",
+     "result": "none found",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Sarvam AI",
+   "hint": "ashby sarvam",
+   "round_notes": [
+    {
+     "careers_url": "https://www.sarvam.ai/careers",
+     "ats": "ashby",
+     "ats_endpoint": "https://api.ashbyhq.com/posting-api/job-board/sarvam",
+     "result": "none found",
+     "note": "Many Bengaluru intern listings appear on aggregators (GenAI/ML/NLP/research, DevRel, frontend/backend), but none was confirmed on Ashby. Pull the Ashby API to verify. Also runs an AI Residency.",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Sarvam AI",
+     "role": "Generative AI / ML / NLP / AI Research Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/internships/sarvam-ai-is-hiring-generative-ai-intern-bengaluru-bv7p",
+     "careers_url": "https://www.sarvam.ai/careers",
+     "note": "Aggregator only. Also: https://myinternships.in/job/sarvam-ai-machine-learning-intern-bengaluru-50dca2 , https://myinternships.in/job/sarvam-ai-nlp-intern-bengaluru-c6eec2 , https://myinternships.in/job/sarvam-ai-ai-research-intern-bengaluru-50c28a (2025–2027 grads). Sarvam runs its job board on Ashby (jobs.ashbyhq.com/sarvam), but no Ashby page came up in search. Also has an AI Residency programme (analyticsindiamag) and a full-time Forward Deployed Engineer role (seedtable.com/jobs/31158). Low confidence.",
+     "src": "H-ai-firms-fde"
+    }
+   ]
+  },
+  {
+   "name": "Krutrim",
+   "hint": "olakrutrim careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.olakrutrim.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Cut about half its staff, with more layoffs reported 29 Jul 2026. Unlikely to be hiring interns.",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Glean",
+   "hint": "glean careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.glean.com/careers",
+     "ats": "greenhouse",
+     "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs",
+     "result": "none found",
+     "note": "Bangalore roles: Associate Solutions Architect (full-time), ML SWE, Industrial Trainee Tax (excluded). Intern programme is US-only.",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Rippling",
+   "hint": "rippling careers Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://www.rippling.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Bengaluru AI Lab opened 22 Sep 2026. PM intern Bengaluru seen only on an aggregator (lead). DS intern Summer 2027 is SF/NY.",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Rippling",
+     "role": "Product Management Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/job/rippling-india-product-management-intern-bengaluru-db3aa6",
+     "careers_url": "https://www.rippling.com/careers",
+     "note": "Aggregator only, undated. Says hybrid, 3 months; analysing user data and product metrics, SQL/analytics. Rippling opened a Bengaluru AI Lab on 22 Sep 2026, which is hiring research and engineering roles; no intern posting seen there.",
+     "src": "H-ai-firms-fde"
+    }
+   ]
+  },
+  {
+   "name": "MongoDB",
+   "hint": "mongodb careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.mongodb.com/company/careers",
+     "ats": "greenhouse",
+     "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/mongodb/jobs",
+     "result": "none found",
+     "note": "Gurugram has a SWE intern (Spring 2027 grads; excluded), an HR Tech intern (excluded) and possibly a PM intern (lead). Pull the Greenhouse API and filter for Gurugram intern.",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "MongoDB",
+     "role": "Product Management Intern (Gurugram)",
+     "aggregator_url": "",
+     "careers_url": "https://www.mongodb.com/company/careers",
+     "note": "A search summary mentioned a Gurugram PM Intern (internal technology) but did not attach a clear URL. MongoDB's Greenhouse boards turned up: job-boards.greenhouse.io/mdbgeneralreferrals/jobs/7239041 and /7378863, one of which is a Gurugram Software Engineer Intern (Spring 2027 grads). It is not known which ID is which, so search Greenhouse for 'Product Management Intern Gurugram'.",
+     "src": "H-ai-firms-fde"
+    }
+   ]
+  },
+  {
+   "name": "Elastic",
+   "hint": "jobs.elastic.co",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.elastic.co",
+     "ats": "greenhouse",
+     "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/elastic/jobs",
+     "result": "none found",
+     "note": "No official India intern posting. June 2026 reorganization.",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Confluent",
+   "hint": "confluent careers",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.confluent.io",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "C3 AI",
+   "hint": "c3 ai careers",
+   "round_notes": [
+    {
+     "careers_url": "https://c3.ai/careers/",
+     "ats": "greenhouse",
+     "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/c3iot/jobs",
+     "result": "none found",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Uniphore",
+   "hint": "uniphore careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.uniphore.com/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Observe.AI",
+   "hint": "observe.ai careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.observe.ai/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Sprinklr",
+   "hint": "sprinklr careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.sprinklr.com/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached",
+     "src": "H-ai-firms-fde"
+    },
+    {
+     "careers_url": "https://www.sprinklr.com/careers/internship-and-early-careers/",
+     "ats": "workday",
+     "ats_endpoint": "https://sprinklr.wd1.myworkdayjobs.com/wday/cxs/sprinklr/careers/jobs",
+     "result": "none found",
+     "note": "Paid 8–24-week internships in India (DS testimonials, Gurgaon). Only a UX Research Intern indexed.",
+     "src": "R2c-tech-ai"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Freshworks",
+   "hint": "smartrecruiters freshworks",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.smartrecruiters.com/Freshworks",
+     "ats": "smartrecruiters",
+     "ats_endpoint": "https://api.smartrecruiters.com/v1/companies/Freshworks/postings",
+     "result": "none found",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached",
+     "src": "H-ai-firms-fde"
+    },
+    {
+     "careers_url": "https://careers.smartrecruiters.com/Freshworks",
+     "ats": "smartrecruiters",
+     "ats_endpoint": "https://api.smartrecruiters.com/v1/companies/Freshworks/postings",
+     "result": "none found",
+     "note": "Only experienced roles; FSSA academy is for 12th-pass students. API check with q=intern recommended.",
+     "src": "R2c-tech-ai"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Zoho",
+   "hint": "zoho careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.zoho.com/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Postman",
+   "hint": "postman careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.postman.com/company/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached",
+     "src": "H-ai-firms-fde"
+    },
+    {
+     "careers_url": "https://www.postman.com/company/careers/",
+     "ats": "greenhouse",
+     "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/postman/jobs",
+     "result": "none found",
+     "note": "No intern postings on the Greenhouse board; the Newmanaut early-career role is old.",
+     "src": "R2c-tech-ai"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "BrowserStack",
+   "hint": "browserstack careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.browserstack.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached (Mumbai HQ, high priority to re-check)",
+     "src": "H-ai-firms-fde"
+    },
+    {
+     "careers_url": "https://www.browserstack.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Holds a yearly fresher/intern drive (~Aug; interns start Jan). The 2026-batch Customer Engineering Intern in Mumbai closed Feb 2026.",
+     "src": "R2c-tech-ai"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Atlan",
+   "hint": "ashby atlan",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.ashbyhq.com/atlan",
+     "ats": "ashby",
+     "ats_endpoint": "https://api.ashbyhq.com/posting-api/job-board/atlan",
+     "result": "none found",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Turing",
+   "hint": "greenhouse turing",
+   "round_notes": [
+    {
+     "careers_url": "https://boards.greenhouse.io/turing",
+     "ats": "greenhouse",
+     "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/turing/jobs",
+     "result": "none found",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Cohere / Mistral / Perplexity / Cursor (India roles)",
+   "hint": "ashby/greenhouse",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.ashbyhq.com/cohere",
+     "ats": "ashby",
+     "ats_endpoint": "https://api.ashbyhq.com/posting-api/job-board/cohere",
+     "result": "none found",
+     "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached",
+     "src": "H-ai-firms-fde"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  }
+ ]
+}

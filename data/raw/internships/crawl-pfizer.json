@@ -1,0 +1,44 @@
+{
+ "company": "Pfizer",
+ "ats": "workday",
+ "endpoint": "https://pfizer.wd1.myworkdayjobs.com/wday/cxs/pfizer/PfizerCareers/jobs",
+ "queried_at": "2026-10-30T07:31:09",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "student",
+  "2027",
+  "co-op",
+  "graduate intern",
+  ""
+ ],
+ "total_hits": 28,
+ "india_intern_hits": [
+  {
+   "title": "Intern",
+   "loc": "India - Chennai",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Intern_4965781",
+   "id": "4965781",
+   "posted": "Posted 3 Days Ago"
+  }
+ ],
+ "details": {
+  "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Intern_4965781": {
+   "title": "Intern",
+   "loc": "India - Chennai",
+   "country": "India",
+   "id": "4965781",
+   "posted": "2026-10-27",
+   "end": "2026-11-02",
+   "time_type": "Full time",
+   "can_apply": true,
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Intern_4965781",
+   "desc": "Role Summary \nJoin our Global Technology Engineering and Launch-Analytical technology (GTEL-AT) team as an intern focused on advancing digital transformation in Analytical Technology. You will develop computational tools, APP and system-level models to support process characterization and optimization, with an emphasis on hybrid modeling (data-driven + mechanistic), process monitoring/control, and automation projects aligned with the Lab of the Future (LoTF) vision. Your talent will be tapped for digital fluency enhancement of colleagues. \n Key Responsibilities \nDevelopment of E&L app: Development of an E&L app which can track internal and external data repositories, BoH sites and guidance documents. \nDigital Fluency Training: Provide training sessions to colleagues to enhance digital fluency and adoption of AI tools and analytics within the department. \nVendor Collaboration: Engage with external vendors to co-develop AI-based digital application tailored for Analytical Technology workflows. \nProject Support: Work collaboratively with cross-functional teams to run automation projects, contributing to the development of the Lab of the Future (LoTF). \nModel Development: Develop and validate a model for TRS100 in partnership with departmental subject matter experts (SMEs) and vendors. \nComputational Modeling: Apply data-driven modeling, machine learning, AI, statistical methods, and mechanistic models to process development and monitoring. \nChemistry & Analytics: Utilize a strong foundation in basic chemistry and analytical techniques to support project objectives and ensure scientific rigor. \nResults Communication: Present findings and progress to internal teams and, occasionally, at external forums, using data analysis and visualization tools. \n Basic Qualifications \nUndergraduate or postgraduate student in Chemical Engineering, Biochemical Engineering, Mechanical Engineering, Process Control Engineering, Pharmaceutical Engineering, Biotechnology, Chemistry, Analytics, or related discipline. \nAcademic focus on data-driven or mechanistic modeling, with demonstrated experience in computational techniques. \nStrong background in basic chemistry and analytics. \nExperience with programming (Python, R, MATLAB, C/C++), numerical methods, and high-performance computing (Linux-based environments). \nExcellent organizational and interpersonal skills; able to manage multiple projects and work effectively in cross-functional teams. \nStrong written and verbal communication skills. \nStrong background in APP development \nPreferred Qualifications \nExperience in modeling and developing digital applications for laboratory environments. \nPrior involvement in automation or digital transformation projects in laboratory or manufacturing settings. \nWork Location \n Chennai \nWork Location Assignment: On Premise \n Pfizer is an equal opportunity employer and complies with all applicable equal employment opportunity legislation in each jurisdiction in which it operates. \nTo learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers . \n Support Services",
+   "status": 200
+  }
+ }
+}

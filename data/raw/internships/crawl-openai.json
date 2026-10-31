@@ -1,0 +1,44 @@
+{
+ "company": "OpenAI",
+ "ats": "ashby",
+ "endpoint": "https://api.ashbyhq.com/posting-api/job-board/openai?includeCompensation=true",
+ "queried_at": "2026-10-30T03:11Z",
+ "queries": [
+  "whole board; filtered ats.is_india(location) + intern regex on title/employmentType"
+ ],
+ "total_hits": 814,
+ "india_postings": 7,
+ "india_intern_hits": [],
+ "india_fde_fulltime": [],
+ "details": {},
+ "india_titles": [
+  [
+   "Account Director, Digital Natives",
+   "Delhi, India"
+  ],
+  [
+   "Applied AI Architect",
+   "Delhi, India"
+  ],
+  [
+   "Partner AI Deployment Engineer - AWS",
+   "Bangalore - Remote"
+  ],
+  [
+   "Account Director, Large Enterprise",
+   "Delhi, India"
+  ],
+  [
+   "Account Director, Mid-Market",
+   "India - Remote"
+  ],
+  [
+   "Manager, Applied AI Architect (India)",
+   "Bangalore - Remote"
+  ],
+  [
+   "Incident Commander, Detection & Response - APAC",
+   "Australia - Remote"
+  ]
+ ]
+}

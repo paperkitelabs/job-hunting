@@ -1,0 +1,20 @@
+{
+ "company": "Bosch",
+ "ats": "smartrecruiters",
+ "endpoint": "https://api.smartrecruiters.com/v1/companies/BoschGroup/postings?country=in",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "all India postings (581)"
+ ],
+ "total_hits": 581,
+ "india_intern_hits": [
+  {
+   "title": "IN_Bosch Rexroth India_Graduate Management Traninee_Engineering & Application",
+   "loc": "Sanand, GJ, India",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135641599",
+   "id": "744000135641599",
+   "posted": "2026-07-03T04:59:37.512Z"
+  }
+ ],
+ "details": {}
+}

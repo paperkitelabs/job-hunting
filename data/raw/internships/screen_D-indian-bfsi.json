@@ -1,0 +1,449 @@
+{
+ "cluster": "D-indian-bfsi",
+ "checked": "30 Oct 2026",
+ "openings": [
+  {
+   "company": "Reserve Bank of India",
+   "role": "Research Internship at the Reserve Bank of India (DSIM – Department of Statistics and Information Management)",
+   "url": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=3496",
+   "location": "Mumbai",
+   "city_rank": 1,
+   "job_id": "",
+   "duration": "6 months (extendable)",
+   "dates": "Jan–Jun 2027 (1 Jan batch)",
+   "runs_past_may": true,
+   "exp": "DSIM: PG Statistics/Econometrics/Economics or B.E./B.Tech (Computer) or degree in Data Science / B.Tech / B.Sc CS; open to domestic and foreign students; work experience not required",
+   "pay": "₹45,000/month",
+   "track": "ai",
+   "posted": "2024-12-24",
+   "deadline": "2026-11-30",
+   "jd": "Interns assist RBI researchers on policy and journal research projects, compiling data and applying statistical/econometric tools; DSIM covers data warehouse, surveys, macro forecasting. Desirable: econometrics, Python/R/Stata, ML, Tableau/Power BI.",
+   "li": "Reserve Bank of India DSIM",
+   "resume": "DS / AI",
+   "verified": "Official RBI opportunities page 200 (Vacancies > Research Internship); scheme states 1 Jan batch applications accepted July–November of previous year",
+   "note": "Standing scheme, not a dated notice. Apply by email to the department with CV, 2 references, SOP and the RBI form. Wording ('individuals who have been in college relatively recently') implies a held degree; check that a final-year B.Tech can join Jan 2027 with college permission. The deadline is inferred as end of November. Max 20 interns/yr."
+  }
+ ],
+ "rejected": [
+  {
+   "company": "Kotak Mahindra Bank",
+   "role": "Management Trainee-Process Analyst_Support Services-Consumer Risk_Mumbai",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/267051",
+   "reason": "full-time Management Trainee grade (Kotak campus MT/KYMP track), not an internship; JD empty"
+  },
+  {
+   "company": "Kotak Mahindra Bank",
+   "role": "Management Trainee-Product Manager_TRANSACTION BANKING-GTS Cash_Mumbai",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/260863",
+   "reason": "full-time MBA Management Trainee role, not an internship"
+  },
+  {
+   "company": "Kotak Mahindra Bank",
+   "role": "Management Trainee-Product Manager_HO & Support-Branch Programme Team_Mumbai",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/265740",
+   "reason": "full-time MBA Management Trainee role, not an internship"
+  },
+  {
+   "company": "Kotak Mahindra Bank",
+   "role": "Management Trainee-Kotak Private Banking-Product Manager",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/217048",
+   "reason": "full-time MT role posted Nov 2025, not an internship"
+  },
+  {
+   "company": "Kotak Mahindra Bank",
+   "role": "Management Trainee-Digital Banking-Net & Mobile Banking HO Team",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/95790",
+   "reason": "KYMP full-time MT for top management institutes (MBA); posted 2023"
+  },
+  {
+   "company": "Kotak Mahindra Bank",
+   "role": "Management Trainee-Relationship Manager_Loan Against Property-Sales_Bhubaneswar",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/271895",
+   "reason": "sales; full-time MT"
+  },
+  {
+   "company": "Kotak Mahindra Bank",
+   "role": "Management Trainee-TREASURY-FOREX MERCHANT-Retail Sales",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/220365",
+   "reason": "sales; full-time MT"
+  },
+  {
+   "company": "Kotak Mahindra Bank",
+   "role": "Management Trainee-Customer Assistance Manager_CREDIT CARD-Hardship Assistance Unit_Chennai",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/260319",
+   "reason": "ops/collections; full-time MT"
+  },
+  {
+   "company": "Kotak Mahindra Bank",
+   "role": "Management Trainee-Business Relationship Manager-SBE_Small Business Enterprise-Sales_Indore",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/263634",
+   "reason": "sales; full-time MT"
+  },
+  {
+   "company": "Kotak Mahindra Bank",
+   "role": "Management Trainee-Business Relationship Manager-Business Loans_Business Loans-Sales_Ahmedabad",
+   "url": "https://hcbt.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/264305",
+   "reason": "sales; full-time MT"
+  },
+  {
+   "company": "Kotak Mahindra Bank",
+   "role": "Kotak NextGen Bankers Programme",
+   "url": "https://www.kotak.bank.in/en/about-us/careers/nextgen.html",
+   "reason": "paid Manipal BFSI course with 2-month branch internship; branch sales (BRM) track, needs graduation"
+  },
+  {
+   "company": "Tata Capital",
+   "role": "Management Trainee - Career Management - Mumbai - Lower Parel - JM",
+   "url": "https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/52149",
+   "reason": "campus MBA Management Trainee full-time hire, not an internship"
+  },
+  {
+   "company": "Tata Capital",
+   "role": "SPARK summer internship",
+   "url": "https://www.tatacapital.com/careers.html",
+   "reason": "MBA campus summer internship only"
+  },
+  {
+   "company": "Aditya Birla Capital (AB Sun Life Insurance)",
+   "role": "Trainee",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG105020",
+   "reason": "full-time 'Trainee' grade (ABSLI Finance & Planning, strategy/MIS) requiring a completed bachelor's in business/finance; not a student internship; closes 2026-11-22"
+  },
+  {
+   "company": "Aditya Birla Capital (AB Sun Life Insurance)",
+   "role": "Trainee",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG108984",
+   "reason": "full-time Trainee grade (ABSLI planning/strategy), 1-2 yrs exp and bachelor's required"
+  },
+  {
+   "company": "Aditya Birla Capital (AB Sun Life Insurance)",
+   "role": "Trainee",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG108979",
+   "reason": "finance/accounting reporting; 2-5 yrs exp"
+  },
+  {
+   "company": "Aditya Birla Capital (AB Sun Life Insurance)",
+   "role": "TM-Trainee-UW-Thane",
+   "url": "https://abgcareers.peoplestrong.com/job/detail/ABG106723",
+   "reason": "underwriting operations trainee, full-time"
+  },
+  {
+   "company": "Aditya Birla Capital",
+   "role": "Sales Trainee (35 postings, various cities)",
+   "url": "https://careers.adityabirla.com/job-search",
+   "reason": "sales roles, full-time"
+  },
+  {
+   "company": "Axis Bank",
+   "role": "AHEAD / Aspire / Management Trainee campus programmes",
+   "url": "https://www.axis.bank.in/careers/campus-careers",
+   "reason": "campus programmes for Tier-1 B-school MBAs; MT is full-time; no internship posted on RippleHire"
+  },
+  {
+   "company": "SEBI",
+   "role": "SEBI Young Professional Program 2026",
+   "url": "https://www.sebi.gov.in/sebiweb/other/careerdetail.jsp?careerId=408",
+   "reason": "Feb 2026 notice, closed (results out Jun 2026); graduates only, not an internship"
+  }
+ ],
+ "round1": [
+  {
+   "company": "HDFC Bank",
+   "role": "Credit Risk Analytics Intern (Risk Management Group), Mumbai",
+   "old_url": "https://myinternships.in/job/hdfc-bank-risk-management-group-is-hiring-credit-risk-analytics-intern-mumbai-942f71",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Full HDFC RippleHire board (482 jobs) has no intern titles"
+  },
+  {
+   "company": "HDFC Bank",
+   "role": "Data Visualization Intern, Mumbai",
+   "old_url": "https://myinternships.in/job/hdfc-bank-is-hiring-data-visualization-intern-mumbai-411df1",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Not on HDFC RippleHire board"
+  },
+  {
+   "company": "ICICI Bank",
+   "role": "Data Analyst Intern, Mumbai (4 months)",
+   "old_url": "https://myinternships.in/internships/icici-bank-is-hiring-data-analyst-intern-mumbai-620b3e",
+   "status": "not_found",
+   "new_url": "",
+   "note": "icicicareers.com blocks scripted access (WAF); could not check"
+  },
+  {
+   "company": "ICICI Bank",
+   "role": "Business Analyst Intern, Mumbai",
+   "old_url": "https://myinternships.in/job/icici-bank-business-analyst-intern-mumbai-1cd9d2",
+   "status": "not_found",
+   "new_url": "",
+   "note": "icicicareers.com blocks scripted access (WAF); could not check"
+  },
+  {
+   "company": "Axis Bank",
+   "role": "Data Science Intern, Mumbai",
+   "old_url": "https://myinternships.in/job/axis-bank-data-science-intern-mumbai-32c664",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Full Axis RippleHire board (10,575 jobs) has no intern titles"
+  },
+  {
+   "company": "Axis Bank",
+   "role": "Data Science Intern, Navi Mumbai",
+   "old_url": "https://myinternships.in/job/axis-bank-data-science-intern-navi-mumbai-3a8c46",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Not on Axis RippleHire board"
+  },
+  {
+   "company": "Axis Bank",
+   "role": "Technology Track - AI, Data & Analytics (AIESEC Global Talent)",
+   "old_url": "https://aiesec.org/opportunity/global-talent/1337586",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Not on Axis careers; AIESEC is not an employer link"
+  },
+  {
+   "company": "Kotak Mahindra Bank",
+   "role": "Data Science Intern, Mumbai",
+   "old_url": "https://myinternships.in/job/kotak-mahindra-bank-data-science-intern-mumbai-af2f8d",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Kotak Oracle CX India: no intern titles"
+  },
+  {
+   "company": "Kotak Mahindra Bank",
+   "role": "Growth Analytics Intern, Mumbai (Powai)",
+   "old_url": "https://myinternships.in/internships/kotak-mahindra-bank-is-hiring-growth-analytics-intern-mumbai-a341cf",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Kotak Oracle CX India: no intern titles"
+  },
+  {
+   "company": "IDFC FIRST Bank",
+   "role": "Customer Experience Data Analyst (intern), Mumbai",
+   "old_url": "https://myinternships.in/internships/idfc-first-bank-is-hiring-customer-experience-data-analyst-mumbai-11810a",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Closest is 'Data Analyst - Cx' P-233012 (Mumbai), which is a full-time 0-2 yrs role, not an intern"
+  },
+  {
+   "company": "Bajaj Finance",
+   "role": "Data Science Intern, Pune",
+   "old_url": "https://myinternships.in/job/bajaj-finance-is-hiring-data-science-intern-pune-52840b",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No Bajaj careers ATS found"
+  },
+  {
+   "company": "Bajaj Finserv",
+   "role": "Technology Intern",
+   "old_url": "https://jobs.weekday.works/bajaj-finserv-technology-intern",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No Bajaj careers ATS found"
+  },
+  {
+   "company": "Bajaj Finserv Direct (Bajaj Markets)",
+   "role": "Data Science Intern, Pune",
+   "old_url": "https://myinternships.in/job/bajaj-finserv-direct-bajaj-markets-data-science-intern-pune-7fd259",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No Bajaj careers ATS found"
+  },
+  {
+   "company": "NSE",
+   "role": "Market Surveillance Data Intern, Mumbai",
+   "old_url": "https://myinternships.in/job/national-stock-exchange-of-india-nse-is-hiring-market-surveillance-data-intern-mumbai-942f77",
+   "status": "not_found",
+   "new_url": "",
+   "note": "nseindia.com returns 403 to scripted access; could not check"
+  },
+  {
+   "company": "RBI",
+   "role": "RBI Research Internship (DEPR / DSIM)",
+   "old_url": "https://internshala.com/blog/rbi-research-internship/",
+   "status": "matched",
+   "new_url": "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=3496",
+   "note": "Official scheme page live; 1 Jan 2027 batch window Jul–Nov 2026 open; DSIM lists B.Tech/Data Science"
+  }
+ ],
+ "companies": [
+  {
+   "name": "HDFC Bank",
+   "ats": "ripplehire",
+   "endpoint": "hdfcbank.ripplehire.com candidatejobsearch",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Full board 482 jobs; 0 intern/trainee"
+  },
+  {
+   "name": "ICICI Bank",
+   "ats": "custom",
+   "endpoint": "icicicareers.com",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHABLE: WAF error page"
+  },
+  {
+   "name": "Axis Bank",
+   "ats": "ripplehire",
+   "endpoint": "axisbank.ripplehire.com candidatejobsearch",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Full board 10,575 jobs; 0 intern/trainee; campus programmes are MBA-only"
+  },
+  {
+   "name": "Kotak Mahindra Bank",
+   "ats": "oracle",
+   "endpoint": "hcbt.fa.em2.oraclecloud.com CX",
+   "india_intern_hits": 10,
+   "kept": 0,
+   "note": "India: 10 'Management Trainee' (full-time MT) rejected; 0 internships"
+  },
+  {
+   "name": "IDFC FIRST Bank",
+   "ats": "phenom",
+   "endpoint": "careers.idfcfirst.bank.in search-results",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Whole board 1,403 jobs; 0 intern; internships only via campus partners"
+  },
+  {
+   "name": "Yes Bank",
+   "ats": "unknown",
+   "endpoint": "yes.bank.in/careers (404)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHABLE: no careers portal found"
+  },
+  {
+   "name": "Bajaj Finserv / Bajaj Finance",
+   "ats": "unknown",
+   "endpoint": "bajajfinserv.in/careers → homepage",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHABLE: no ATS found"
+  },
+  {
+   "name": "Tata Capital",
+   "ats": "oracle",
+   "endpoint": "eofh.fa.em2.oraclecloud.com CX",
+   "india_intern_hits": 3,
+   "kept": 0,
+   "note": "5,590 jobs; only MT campus reqs; SPARK is MBA-only"
+  },
+  {
+   "name": "Aditya Birla Capital",
+   "ats": "peoplestrong",
+   "endpoint": "careers.adityabirla.com/api/v3/jobs",
+   "india_intern_hits": 39,
+   "kept": 0,
+   "note": "1,985 ABG jobs (1,736 FS); 35 Sales Trainee + 4 ABSLI Trainee, all full-time, rejected"
+  },
+  {
+   "name": "Jio Financial Services",
+   "ats": "unknown",
+   "endpoint": "jfs.in (DNS fail)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHABLE"
+  },
+  {
+   "name": "Piramal Finance",
+   "ats": "darwinbox",
+   "endpoint": "piramalgroup.darwinbox.in",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHABLE: Cloudflare challenge on API"
+  },
+  {
+   "name": "Mahindra Finance",
+   "ats": "unknown",
+   "endpoint": "mahindrafinance.com/careers/job-openings",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "No job feed on page; mahindracareers.com does not resolve"
+  },
+  {
+   "name": "HDFC Life",
+   "ats": "custom",
+   "endpoint": "hdfclife.com/hdfc-careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "No job API (placeholder endpoint)"
+  },
+  {
+   "name": "ICICI Lombard",
+   "ats": "unknown",
+   "endpoint": "icicilombard.com/careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHABLE: 403 WAF"
+  },
+  {
+   "name": "SBI Card",
+   "ats": "oracle",
+   "endpoint": "edox.fa.ap1.oraclecloud.com CX",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Whole board 104 jobs; 0 intern"
+  },
+  {
+   "name": "NSE",
+   "ats": "unknown",
+   "endpoint": "nseindia.com/careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHABLE: 403 WAF"
+  },
+  {
+   "name": "BSE",
+   "ats": "custom SPA",
+   "endpoint": "bseindia.com/static/about/careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "SPA, no job feed found"
+  },
+  {
+   "name": "NPCI",
+   "ats": "unknown",
+   "endpoint": "npci.org.in/careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHABLE: 403 WAF"
+  },
+  {
+   "name": "Motilal Oswal",
+   "ats": "none",
+   "endpoint": "motilaloswal.com/careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Culture page only; no listing/ATS"
+  },
+  {
+   "name": "Avendus",
+   "ats": "darwinbox",
+   "endpoint": "avendus.darwinbox.in candidatev2",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHABLE: Cloudflare challenge"
+  },
+  {
+   "name": "Kotak Securities / Kotak AMC",
+   "ats": "darwinbox / radware",
+   "endpoint": "kotaksecurities.darwinbox.in; kotakmf.com",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "NOT REACHABLE: Cloudflare / Radware bot check"
+  },
+  {
+   "name": "SEBI / RBI internship schemes",
+   "ats": "official notices",
+   "endpoint": "opportunities.rbi.org.in; sebi.gov.in internships",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "RBI Research Internship Jan 2027 batch open (kept, eligibility flagged); SEBI: no open internship notice"
+  }
+ ]
+}

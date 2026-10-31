@@ -1,0 +1,11 @@
+{
+ "company": "Persistent Systems",
+ "ats": "unknown",
+ "endpoint": "careers.persistent.com",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "error": "Unreachable: careers.persistent.com resets connection (HTTP/2 INTERNAL_ERROR / empty reply). Not crawled."
+}

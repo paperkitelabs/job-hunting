@@ -1,0 +1,11 @@
+{
+ "company": "NPCI",
+ "ats": "unknown",
+ "endpoint": "https://www.npci.org.in/careers",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "NOT REACHABLE / no feed: 403 Access Denied (WAF) on npci.org.in."
+}

@@ -1,0 +1,26 @@
+{
+ "company": "LSEG",
+ "ats": "workday",
+ "endpoint": "https://lseg.wd3.myworkdayjobs.com/wday/cxs/lseg/Careers/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "",
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "graduate",
+  "industrial trainee",
+  "research intern",
+  "quant intern",
+  "2027",
+  "co-op",
+  "early career",
+  "campus"
+ ],
+ "total_hits": 204,
+ "india_intern_hits": [],
+ "details": {}
+}

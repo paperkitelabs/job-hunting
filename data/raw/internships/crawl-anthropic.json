@@ -1,0 +1,32 @@
+{
+ "company": "Anthropic",
+ "ats": "greenhouse",
+ "endpoint": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs?content=true",
+ "queried_at": "2026-10-30T03:11Z",
+ "queries": [
+  "whole board; filtered ats.is_india(location) + intern regex on title/employmentType"
+ ],
+ "total_hits": 671,
+ "india_postings": 4,
+ "india_intern_hits": [],
+ "india_fde_fulltime": [],
+ "details": {},
+ "india_titles": [
+  [
+   "Applied AI Architect",
+   "Bangalore, India"
+  ],
+  [
+   "Applied AI Architect",
+   "Mumbai, India"
+  ],
+  [
+   "Applied AI Architect, Partnerships",
+   "Bangalore, India"
+  ],
+  [
+   "Enterprise Account Executive, Industries - BFSI",
+   "Mumbai, India"
+  ]
+ ]
+}

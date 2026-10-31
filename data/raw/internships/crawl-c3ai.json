@@ -1,0 +1,24 @@
+{
+ "company": "C3 AI",
+ "ats": "greenhouse",
+ "endpoint": "https://boards-api.greenhouse.io/v1/boards/c3iot/jobs?content=true | https://boards-api.greenhouse.io/v1/boards/c3ascend/jobs?content=true",
+ "queried_at": "2026-10-30T03:11Z",
+ "queries": [
+  "whole board; filtered ats.is_india(location) + intern regex on title/employmentType"
+ ],
+ "total_hits": 94,
+ "india_postings": 2,
+ "india_intern_hits": [],
+ "india_fde_fulltime": [],
+ "details": {},
+ "india_titles": [
+  [
+   "Industry Solution Leader - Oil, Gas & Chemical (Refining / Chemical Asset Performance)",
+   "Bengaluru, Karnataka, India"
+  ],
+  [
+   "Software Engineer - Customer support",
+   "Bengaluru, Karnataka, India"
+  ]
+ ]
+}

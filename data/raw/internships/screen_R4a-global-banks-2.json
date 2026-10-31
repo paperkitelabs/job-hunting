@@ -1,0 +1,209 @@
+{
+ "cluster": "R4a-global-banks-2",
+ "checked": "30 Oct 2026",
+ "openings": [],
+ "rejected": [],
+ "round1": [],
+ "companies": [
+  {
+   "name": "Citizens Financial Group",
+   "ats": "Oracle Recruiting Cloud (Radancy front end)",
+   "endpoint": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Oracle CX_1 has 436 jobs, all US locations (no India location facet); intern queries 0 India hits; jobs.citizensbank.com Radancy search shows no India."
+  },
+  {
+   "name": "U.S. Bank",
+   "ats": "Workday (Phenom front end)",
+   "endpoint": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet: 37 postings, none intern/trainee/graduate."
+  },
+  {
+   "name": "PNC",
+   "ats": "Workday (Phenom front end)",
+   "endpoint": "https://pnc.wd5.myworkdayjobs.com/External",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday has no India locations (only US); 'IN' hits are Indianapolis. 0 India intern postings."
+  },
+  {
+   "name": "Truist",
+   "ats": "Workday (Phenom front end)",
+   "endpoint": "https://truist.wd1.myworkdayjobs.com/Careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday US-only (no India locations); 0 India intern postings."
+  },
+  {
+   "name": "Fifth Third",
+   "ats": "Workday",
+   "endpoint": "https://fifththird.wd5.myworkdayjobs.com/53careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday US-only; 0 India postings."
+  },
+  {
+   "name": "KeyBank",
+   "ats": "Workday",
+   "endpoint": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday US-only; 0 India postings."
+  },
+  {
+   "name": "Ally",
+   "ats": "Workday",
+   "endpoint": "https://ally.wd1.myworkdayjobs.com/Ally",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday (77 jobs) US-only; 0 India postings."
+  },
+  {
+   "name": "Charles Schwab",
+   "ats": "iCIMS (Radancy front end schwabjobs.com)",
+   "endpoint": "https://www.schwabjobs.com/search-jobs/India",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Schwab GCC India (Hyderabad) has ~60 postings, all experienced SWE/eng/manager roles; all 2027 interns are US (Westlake/Omaha/Denver etc.)."
+  },
+  {
+   "name": "Vanguard",
+   "ats": "Workday",
+   "endpoint": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday: ~70 Hyderabad postings (location facet, no country facet), none intern/trainee; intern postings all US."
+  },
+  {
+   "name": "T. Rowe Price",
+   "ats": "Workday",
+   "endpoint": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice + /TRowePriceInternational",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Both Workday sites have no India locations; 0 India postings."
+  },
+  {
+   "name": "Edward Jones",
+   "ats": "BrassRing (partnerid 26235)",
+   "endpoint": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=26235",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "US/Canada-only employer; no India operations or postings. Not crawled further."
+  },
+  {
+   "name": "TIAA / Nuveen",
+   "ats": "Workday",
+   "endpoint": "https://tiaa.wd1.myworkdayjobs.com/Search",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet: 53-54 postings (Mumbai/Pune/Bengaluru), none intern/trainee."
+  },
+  {
+   "name": "Discover / Capital One",
+   "ats": "Workday (Radancy front end)",
+   "endpoint": "https://capitalone.wd12.myworkdayjobs.com/Capital_One",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Discover merged into Capital One; Workday 'Bangalore, In' location: 18 postings, none intern/trainee/campus."
+  },
+  {
+   "name": "DBS Bank",
+   "ats": "Workday",
+   "endpoint": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet: ~300-447 postings (DBS Bank India + DBS Tech India); intern/trainee/apprentice queries 0 India hits; full India list scanned, no intern/trainee titles."
+  },
+  {
+   "name": "OCBC",
+   "ats": "none found",
+   "endpoint": "https://www.ocbc.com/group/careers/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "OCBC careers page 404s; no India operations; no Workday tenant (ocbc.wd3 422). 0 India postings."
+  },
+  {
+   "name": "ANZ",
+   "ats": "SuccessFactors RMK",
+   "endpoint": "https://careers.anz.com/search/?q=intern&locationsearch=India",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "'intern AND India' search returns 9 Bengaluru/Mumbai experienced roles (keyword matched 'internal'); no intern/graduate postings in India."
+  },
+  {
+   "name": "Westpac",
+   "ats": "Oracle Recruiting Cloud",
+   "endpoint": "https://ebuu.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Oracle site has Australia/NZ locations only; no India."
+  },
+  {
+   "name": "Commonwealth Bank (CBA India)",
+   "ats": "Workday",
+   "endpoint": "https://cba.wd3.myworkdayjobs.com/CommBank_Careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet: 57-60 Bengaluru postings, none intern/graduate."
+  },
+  {
+   "name": "NAB",
+   "ats": "Eightfold (PCSX)",
+   "endpoint": "https://nab.eightfold.ai/careers?domain=nab.com.au",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Eightfold India: 28 postings (Gurugram/Bengaluru), all Analyst-to-VP experienced roles, no intern."
+  },
+  {
+   "name": "ABN AMRO",
+   "ats": "unreachable",
+   "endpoint": "https://www.abnamro.com/en/careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "abnamro.com careers timed out from this session; no Workday tenant (abnamro.wd3 422); ABN AMRO has no India hiring hub. Not crawled."
+  },
+  {
+   "name": "ING",
+   "ats": "Workday (Radancy front end careers.ing.com)",
+   "endpoint": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday + Radancy: interns in NL/BE/LU/SG/HK/KR/PH etc., none in India (ING has no India unit)."
+  },
+  {
+   "name": "Rabobank",
+   "ats": "unreachable",
+   "endpoint": "https://www.rabobank.jobs/en/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "rabobank.jobs returns 403 bot-challenge; no Workday tenant found (rabobank.wd3 404). Not crawled."
+  },
+  {
+   "name": "Commerzbank",
+   "ats": "custom (jobs.commerzbank.com)",
+   "endpoint": "https://jobs.commerzbank.com/index.php?ac=search_result",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Custom job portal keyword search returned 0 for India/Bengaluru; Commerzbank international hubs are Prague/Sofia/Lodz. 0 India postings found."
+  },
+  {
+   "name": "Natixis",
+   "ats": "custom React app (recrutement.natixis.com, BPCE)",
+   "endpoint": "https://recrutement.natixis.com/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "JS-only BPCE recruitment app; no public JSON endpoint located; natixis.wd3 422; web search found no Natixis India listings. Not crawled."
+  },
+  {
+   "name": "Julius Baer",
+   "ats": "Workday",
+   "endpoint": "https://juliusbaer.wd3.myworkdayjobs.com/External",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday (191 jobs) has no India locations; 0 India postings."
+  }
+ ]
+}

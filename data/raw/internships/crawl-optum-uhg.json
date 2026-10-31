@@ -1,0 +1,22 @@
+{
+ "company": "Optum / UnitedHealth Group",
+ "ats": "radancy (taleo backend)",
+ "endpoint": "https://careers.unitedhealthgroup.com/search-jobs/results",
+ "queried_at": "2026-10-30T07:23:38",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "India",
+  "Hyderabad",
+  "Bengaluru",
+  "Noida",
+  "Gurgaon",
+  "Mumbai",
+  "Chennai"
+ ],
+ "total_hits": 223,
+ "india_intern_hits": [],
+ "details": {}
+}

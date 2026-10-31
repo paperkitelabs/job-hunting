@@ -1,0 +1,19 @@
+{
+ "company": "Gartner",
+ "ats": "workday",
+ "endpoint": "https://gartner.wd5.myworkdayjobs.com/wday/cxs/gartner/EXT/jobs (India country facet)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027"
+ ],
+ "total_hits": 39,
+ "india_intern_hits": [],
+ "details": {}
+}

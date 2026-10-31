@@ -1,0 +1,12 @@
+{
+ "company": "Lenskart",
+ "ats": "ainterviews.com job board",
+ "endpoint": "https://careers.lenskart.com/ -> ainterviews.com/job_board/lenskart_ho/",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {}
+}

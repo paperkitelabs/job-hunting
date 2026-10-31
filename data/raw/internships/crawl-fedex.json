@@ -1,0 +1,22 @@
+{
+ "company": "FedEx",
+ "ats": "workday",
+ "endpoint": "https://fedex.wd1.myworkdayjobs.com/wday/cxs/fedex/FXE-MEISA-External/jobs",
+ "queried_at": "2026-10-30T07:29:22",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "student",
+  "2027",
+  "co-op",
+  "graduate intern",
+  ""
+ ],
+ "total_hits": 62,
+ "india_intern_hits": [],
+ "details": {}
+}

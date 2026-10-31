@@ -1,0 +1,31 @@
+{
+ "company": "IBM Consulting / IBM India",
+ "ats": "ibm search api",
+ "endpoint": "https://www-api.ibm.com/search/api/v2 appId=careers field_keyword_05=India",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "co-op",
+  "student"
+ ],
+ "total_hits": 42,
+ "india_intern_hits": [
+  {
+   "title": "IBM Research/Research Software - Intern",
+   "loc": "Multiple Cities",
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=137471",
+   "id": "137471",
+   "posted": "2026-10-30 (index dcdate)"
+  }
+ ],
+ "details": {
+  "https://careers.ibm.com/careers/JobDetail?jobId=137471": {
+   "title": "IBM Research/Research Software - Intern",
+   "desc": "About IBM IBM India since 1992 provides solutions and services spanning all major industries including financial services, healthcare, government, automotive, telecommunications and education, among others. As a trusted partner with wide-ranging service...",
+   "note": "JobDetail page is JS (202); JD text from search index body: May–Aug 2027 summer, B.E./B.Tech/M.Tech/PhD, 70% CGPA"
+  }
+ }
+}

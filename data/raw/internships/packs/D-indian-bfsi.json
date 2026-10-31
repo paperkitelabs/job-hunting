@@ -1,0 +1,485 @@
+{
+ "cluster": "D-indian-bfsi",
+ "companies": [
+  {
+   "name": "HDFC Bank",
+   "hint": "hdfcbank careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.hdfc.bank.in/about-us/careers-new",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Official careers page seen in results (hdfc.bank.in). HDFC is a RippleHire client. Only aggregator (myinternships) intern listings found - see leads.",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "HDFC Bank",
+     "role": "Credit Risk Analytics Intern (Risk Management Group), Mumbai",
+     "aggregator_url": "https://myinternships.in/job/hdfc-bank-risk-management-group-is-hiring-credit-risk-analytics-intern-mumbai-942f71",
+     "careers_url": "https://www.hdfc.bank.in/about-us/careers-new",
+     "note": "myinternships.in listing; this aggregator appears to mass-generate templated 'is hiring' pages (same wording across cities, rolling, no job ID) - treat as unverified/possibly synthetic; no matching posting found on the company careers site (search budget exhausted before site: checks). Mentions Python/ML.",
+     "src": "D-indian-bfsi"
+    },
+    {
+     "company": "HDFC Bank",
+     "role": "Data Visualization Intern, Mumbai",
+     "aggregator_url": "https://myinternships.in/job/hdfc-bank-is-hiring-data-visualization-intern-mumbai-411df1",
+     "careers_url": "https://www.hdfc.bank.in/about-us/careers-new",
+     "note": "myinternships.in listing; this aggregator appears to mass-generate templated 'is hiring' pages (same wording across cities, rolling, no job ID) - treat as unverified/possibly synthetic; no matching posting found on the company careers site (search budget exhausted before site: checks).",
+     "src": "D-indian-bfsi"
+    }
+   ]
+  },
+  {
+   "name": "ICICI Bank",
+   "hint": "icicicareers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.icicicareers.com",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "icicicareers.com custom portal; not indexed by search. Only aggregator listings - see leads.",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "ICICI Bank",
+     "role": "Data Analyst Intern, Mumbai (4 months)",
+     "aggregator_url": "https://myinternships.in/internships/icici-bank-is-hiring-data-analyst-intern-mumbai-620b3e",
+     "careers_url": "https://www.icicicareers.com",
+     "note": "myinternships.in listing; this aggregator appears to mass-generate templated 'is hiring' pages (same wording across cities, rolling, no job ID) - treat as unverified/possibly synthetic; no matching posting found on the company careers site (search budget exhausted before site: checks).",
+     "src": "D-indian-bfsi"
+    },
+    {
+     "company": "ICICI Bank",
+     "role": "Business Analyst Intern, Mumbai",
+     "aggregator_url": "https://myinternships.in/job/icici-bank-business-analyst-intern-mumbai-1cd9d2",
+     "careers_url": "https://www.icicicareers.com",
+     "note": "myinternships.in listing; this aggregator appears to mass-generate templated 'is hiring' pages (same wording across cities, rolling, no job ID) - treat as unverified/possibly synthetic; no matching posting found on the company careers site (search budget exhausted before site: checks).",
+     "src": "D-indian-bfsi"
+    }
+   ]
+  },
+  {
+   "name": "Axis Bank",
+   "hint": "axisbank careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.axisbank.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Hires via RippleHire-powered Axis careers portal. Only aggregator/AIESEC listings - see leads.",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Axis Bank",
+     "role": "Data Science Intern, Mumbai (3 months, in-office)",
+     "aggregator_url": "https://myinternships.in/job/axis-bank-data-science-intern-mumbai-32c664",
+     "careers_url": "https://www.axisbank.com/careers",
+     "note": "myinternships.in listing; this aggregator appears to mass-generate templated 'is hiring' pages (same wording across cities, rolling, no job ID) - treat as unverified/possibly synthetic; no matching posting found on the company careers site (search budget exhausted before site: checks). Axis hires via RippleHire.",
+     "src": "D-indian-bfsi"
+    },
+    {
+     "company": "Axis Bank",
+     "role": "Data Science Intern, Navi Mumbai (3 months, hybrid)",
+     "aggregator_url": "https://myinternships.in/job/axis-bank-data-science-intern-navi-mumbai-3a8c46",
+     "careers_url": "https://www.axisbank.com/careers",
+     "note": "myinternships.in listing; this aggregator appears to mass-generate templated 'is hiring' pages (same wording across cities, rolling, no job ID) - treat as unverified/possibly synthetic; no matching posting found on the company careers site (search budget exhausted before site: checks).",
+     "src": "D-indian-bfsi"
+    },
+    {
+     "company": "Axis Bank",
+     "role": "Technology Track - AI, Data & Analytics (AIESEC Global Talent, Mumbai)",
+     "aggregator_url": "https://aiesec.org/opportunity/global-talent/1337586",
+     "careers_url": "https://www.axisbank.com/careers",
+     "note": "AIESEC Global Talent listing (36k INR/month per snippet); undated; AIESEC programmes usually target non-Indian nationals - check eligibility.",
+     "src": "D-indian-bfsi"
+    }
+   ]
+  },
+  {
+   "name": "Kotak Mahindra Bank",
+   "hint": "kotak careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.kotak.com/en/careers.html",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Kotak Life uses kotaklifeinsurance.darwinbox.in; bank portal not indexed. Aggregator leads only. Careers URL not confirmed in search results (search budget exhausted).",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Kotak Mahindra Bank",
+     "role": "Data Science Intern, Mumbai",
+     "aggregator_url": "https://myinternships.in/job/kotak-mahindra-bank-data-science-intern-mumbai-af2f8d",
+     "careers_url": "https://www.kotak.com/en/careers.html",
+     "note": "myinternships.in listing; this aggregator appears to mass-generate templated 'is hiring' pages (same wording across cities, rolling, no job ID) - treat as unverified/possibly synthetic; no matching posting found on the company careers site (search budget exhausted before site: checks).",
+     "src": "D-indian-bfsi"
+    },
+    {
+     "company": "Kotak Mahindra Bank",
+     "role": "Growth Analytics Intern, Mumbai (Powai)",
+     "aggregator_url": "https://myinternships.in/internships/kotak-mahindra-bank-is-hiring-growth-analytics-intern-mumbai-a341cf",
+     "careers_url": "https://www.kotak.com/en/careers.html",
+     "note": "myinternships.in listing; this aggregator appears to mass-generate templated 'is hiring' pages (same wording across cities, rolling, no job ID) - treat as unverified/possibly synthetic; no matching posting found on the company careers site (search budget exhausted before site: checks). Skills: product analytics, A/B testing, SQL.",
+     "src": "D-indian-bfsi"
+    }
+   ]
+  },
+  {
+   "name": "IDFC FIRST Bank",
+   "hint": "idfcfirstbank careers",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.idfcfirst.bank.in",
+     "ats": "phenom",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "careers.idfcfirst.bank.in (FAQ seen) - internships via Campus Internship programme with partner colleges and 'InternNova' flagship internship programme; off-campus route unclear.",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "IDFC FIRST Bank",
+     "role": "Customer Experience Data Analyst (intern), Mumbai",
+     "aggregator_url": "https://myinternships.in/internships/idfc-first-bank-is-hiring-customer-experience-data-analyst-mumbai-11810a",
+     "careers_url": "https://careers.idfcfirst.bank.in",
+     "note": "myinternships.in listing; this aggregator appears to mass-generate templated 'is hiring' pages (same wording across cities, rolling, no job ID) - treat as unverified/possibly synthetic; no matching posting found on the company careers site (search budget exhausted before site: checks). IDFC careers FAQ says internships are via its Campus Internship programme with partner colleges; also 'InternNova' flagship internship programme referenced on idfcfirstbank.com pages.",
+     "src": "D-indian-bfsi"
+    }
+   ]
+  },
+  {
+   "name": "Yes Bank",
+   "hint": "yesbank careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.yesbank.in/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Not searched (search budget exhausted). Careers URL not confirmed in search results (search budget exhausted).",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Bajaj Finserv / Bajaj Finance",
+   "hint": "bajajfinserv careers Pune",
+   "round_notes": [
+    {
+     "careers_url": "https://www.bajajfinserv.in/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Only aggregator listings (myinternships/weekday) - see leads. Careers URL not confirmed in search results (search budget exhausted).",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Bajaj Finance",
+     "role": "Data Science Intern, Pune (3 months)",
+     "aggregator_url": "https://myinternships.in/job/bajaj-finance-is-hiring-data-science-intern-pune-52840b",
+     "careers_url": "https://www.bajajfinserv.in/careers",
+     "note": "myinternships.in listing; this aggregator appears to mass-generate templated 'is hiring' pages (same wording across cities, rolling, no job ID) - treat as unverified/possibly synthetic; no matching posting found on the company careers site (search budget exhausted before site: checks).",
+     "src": "D-indian-bfsi"
+    },
+    {
+     "company": "Bajaj Finserv",
+     "role": "Technology Intern",
+     "aggregator_url": "https://jobs.weekday.works/bajaj-finserv-technology-intern",
+     "careers_url": "https://www.bajajfinserv.in/careers",
+     "note": "weekday.works listing seen only as title; may be SDE-leaning; verify.",
+     "src": "D-indian-bfsi"
+    }
+   ]
+  },
+  {
+   "name": "Tata Capital",
+   "hint": "tatacapital careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.tatacapital.com/careers.html",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Runs 'Spark' summer internship (MBA-oriented, past cohort). No 2026-27 listing found. Careers URL not confirmed in search results (search budget exhausted).",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Aditya Birla Capital",
+   "hint": "adityabirlacapital careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.adityabirla.com",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Not searched (search budget exhausted). Careers URL not confirmed in search results (search budget exhausted).",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Jio Financial Services",
+   "hint": "jfs careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.jfs.in/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "No JFS intern listing found; results were Jio Institute / Jio Infocomm only. Careers URL not confirmed in search results (search budget exhausted).",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Piramal Finance",
+   "hint": "piramal careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.piramalfinance.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Not searched (search budget exhausted). Careers URL not confirmed in search results (search budget exhausted).",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Mahindra Finance",
+   "hint": "mahindrafinance careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.mahindracareers.com",
+     "ats": "successfactors",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Not searched (search budget exhausted). Careers URL not confirmed in search results (search budget exhausted).",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "HDFC Life",
+   "hint": "hdfclife careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.hdfclife.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Not searched (search budget exhausted). Careers URL not confirmed in search results (search budget exhausted).",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "ICICI Lombard",
+   "hint": "icicilombard careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.icicilombard.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Not searched (search budget exhausted). Careers URL not confirmed in search results (search budget exhausted).",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "SBI Card",
+   "hint": "sbicard careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.sbicard.com/en/careers.page",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Not searched (search budget exhausted). Careers URL not confirmed in search results (search budget exhausted).",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "NSE",
+   "hint": "nseindia careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.nseindia.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Only aggregator 'Market Surveillance Data Intern' lead. Careers URL not confirmed in search results (search budget exhausted).",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Bajaj Finserv Direct (Bajaj Markets)",
+     "role": "Data Science Intern, Pune (3 months, in-office)",
+     "aggregator_url": "https://myinternships.in/job/bajaj-finserv-direct-bajaj-markets-data-science-intern-pune-7fd259",
+     "careers_url": "https://www.bajajfinserv.in/careers",
+     "note": "myinternships.in listing; this aggregator appears to mass-generate templated 'is hiring' pages (same wording across cities, rolling, no job ID) - treat as unverified/possibly synthetic; no matching posting found on the company careers site (search budget exhausted before site: checks).",
+     "src": "D-indian-bfsi"
+    },
+    {
+     "company": "NSE",
+     "role": "Market Surveillance Data Intern, Mumbai (6 months)",
+     "aggregator_url": "https://myinternships.in/job/national-stock-exchange-of-india-nse-is-hiring-market-surveillance-data-intern-mumbai-942f77",
+     "careers_url": "https://www.nseindia.com/careers",
+     "note": "myinternships.in listing; this aggregator appears to mass-generate templated 'is hiring' pages (same wording across cities, rolling, no job ID) - treat as unverified/possibly synthetic; no matching posting found on the company careers site (search budget exhausted before site: checks).",
+     "src": "D-indian-bfsi"
+    }
+   ]
+  },
+  {
+   "name": "BSE",
+   "hint": "bseindia careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.bseindia.com/static/about/careers.aspx",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Not searched (search budget exhausted). Careers URL not confirmed in search results (search budget exhausted).",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "NPCI",
+   "hint": "npci careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.npci.org.in/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "No official intern listing; past summer DS interns via IIT campus; 2026 GET drive closed; referral drive mentioned. Careers URL not confirmed in search results (search budget exhausted).",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Motilal Oswal",
+   "hint": "motilaloswal careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.motilaloswal.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Not searched (search budget exhausted). Careers URL not confirmed in search results (search budget exhausted).",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Avendus",
+   "hint": "avendus careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.avendus.com/india/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Not searched (search budget exhausted). Careers URL not confirmed in search results (search budget exhausted).",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Kotak Securities / Kotak AMC",
+   "hint": "kotak careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.kotak.com/en/careers.html",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Not searched separately (search budget exhausted). Careers URL not confirmed in search results (search budget exhausted).",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "SEBI / RBI internship schemes",
+   "hint": "sebi.gov.in / rbi.org.in student internships",
+   "round_notes": [
+    {
+     "careers_url": "https://www.sebi.gov.in/sebiweb/about/AboutAction.do?doInternships=yes",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "programme not open yet",
+     "note": "SEBI ITD internship (Jul-Dec cycle, apply ~May-Jun) closed for 2026, historically MBA/MCA. RBI Summer Placement = penultimate-year PG (excluded). RBI Research Internship (DEPR/DSIM, ~6 months, twice-yearly intake) is PG-only per aggregators - see leads. sebi.gov.in fetch blocked (DNS).",
+     "src": "D-indian-bfsi"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "RBI",
+     "role": "RBI Research Internship (DEPR / DSIM, Central Office Mumbai, ~6 months)",
+     "aggregator_url": "https://internshala.com/blog/rbi-research-internship/",
+     "careers_url": "https://www.rbi.org.in",
+     "note": "Aggregators say ~6 months, ~Rs 45k/month, up to ~20 interns/yr, applications twice a year; one aggregator mentions a 15 Nov 2026 deadline (unverified). Eligibility listed as PG in Economics/Econometrics/Statistics/Finance/quant fields - B.Tech final-year likely NOT eligible; DSIM is the data-science fit. Verify official notice.",
+     "src": "D-indian-bfsi"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,254 @@
+{
+ "cluster": "C-payments-insurance",
+ "status_note": "INCOMPLETE: the shared WebSearch budget ran out after 16 queries. Only American Express, Mastercard, Visa, PayPal and Synchrony were searched, and only partly. The other 19 companies were not searched. WebFetch to paypal.eightfold.ai failed (DNS ENOTFOUND, outside allowed network). Tip for re-run: WebSearch with allowed_domains=[careers domain] does return careers-site pages, while site: in the query text does not.",
+ "openings": [],
+ "leads": [
+  {
+   "company": "PayPal",
+   "role": "Data Analyst Intern (Bangalore/Chennai)",
+   "aggregator_url": "https://jobs.weekday.works/paypal-data-analyst-intern",
+   "careers_url": "https://paypal.eightfold.ai/careers",
+   "note": "Weekday listing, 0 yrs exp, undated. Not confirmed on PayPal Eightfold. Liveness unknown."
+  },
+  {
+   "company": "American Express",
+   "role": "Campus Internship (Chennai)",
+   "aggregator_url": "https://jobs.weekday.works/american-express-campus-internship",
+   "careers_url": "https://www.americanexpress.com/en-us/careers/student-programs/global-students-page.html",
+   "note": "Title only, no details visible. Amex says India student hiring goes through universities. Low value."
+  },
+  {
+   "company": "Mastercard",
+   "role": "Consultant Intern (Gurgaon / HITEC City / Mumbai)",
+   "aggregator_url": "https://kalingauniversity.prosple.com/graduate-employers/mastercard-india/jobs-internships/consultant-intern",
+   "careers_url": "https://careers.mastercard.com/us/en/internships/1000",
+   "note": "Prosple. Grad window Dec 2025-Jul 2026, so likely the previous cycle and probably closed. Watch for a 2027-grad version (Advisors / Consulting track)."
+  }
+ ],
+ "excluded": [
+  {
+   "company": "Mastercard",
+   "role": "Data Scientist Intern, Summer 2027 - India (Gurgaon, AI Garage)",
+   "url": "https://freehire.me/jobs/data-scientist-intern-summer-2027-india-mastercard-b5xtcz7f",
+   "reason": "Summer 2027 programme. Mastercard internships require you to 'complete studies the following year' (penultimate-year), so a May 2027 graduate doesn't qualify. Seen on an aggregator only (posted ~Aug 2026); the careers.mastercard.com URL was not seen."
+  },
+  {
+   "company": "Mastercard",
+   "role": "Data Scientist, Launch Program 2027 - India (Gurgaon)",
+   "url": "https://resumly.ai/jobs/6adc089c682ba1e2fe10d002",
+   "reason": "Full-time 18-month graduate programme, not an internship. Could still interest the candidate as a 2027 grad: careers page https://careers.mastercard.com/us/en/early-careers/launch"
+  },
+  {
+   "company": "Visa",
+   "role": "Visa Summer Internship 2026 (Bengaluru)",
+   "url": "https://coursejoiner.com/internship/visa-summer-internship-2026/",
+   "reason": "Penultimate-year summer programme (2027 grads, May-Aug 2026), already over or closed."
+  },
+  {
+   "company": "American Express",
+   "role": "Analyst - Data Science / Analyst - Data Analytics / Analyst - Risk Management (Gurugram, Bengaluru)",
+   "url": "https://offcampusjobs4u.com/american-express-recruitment-2026-analyst-data-science-bangalore/",
+   "reason": "Full-time fresher analyst roles (Feb 2026 postings), not internships. Aggregator only."
+  },
+  {
+   "company": "Mastercard",
+   "role": "Intern, Sales Analyst, 2026 Mastercard Summer Internship - Jakarta",
+   "url": "https://careers.mastercard.com/us/en/job/R-256570/Intern-Sales-Analyst-2026-Mastercard-Summer-Internship-Jakarta-Indonesia",
+   "reason": "Outside India, sales, summer 2026."
+  }
+ ],
+ "companies": [
+  {
+   "name": "American Express",
+   "careers_url": "https://www.americanexpress.com/en-us/careers/student-programs/global-students-page.html",
+   "ats": "oracle",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Partly searched. Amex says India student recruiting goes through universities and tech internships run 10 wk-6 mo, with applications Jul-Nov. Gurgaon/Mumbai location pages say no openings. Contact: IndiaCampusRecruitment@aexp.com. myinternships.in has many 'Amex Bengaluru intern' listings that look templated and unreliable, so I ignored them."
+  },
+  {
+   "name": "Mastercard",
+   "careers_url": "https://careers.mastercard.com/us/en/internships/1000",
+   "ats": "workday",
+   "ats_endpoint": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers (front end: careers.mastercard.com phenom, job URLs careers.mastercard.com/us/en/job/R-xxxxxx/<slug>)",
+   "result": "none found",
+   "note": "Partly searched. Internships need you to 'complete studies the following year' (penultimate-year). Summer 2027 India DS intern posted ~Aug 2026, excluded. Launch Program 2027 (full-time grad) may suit the candidate. City pages: careers.mastercard.com/us/en/pune-india, /gurugram-india, /mumbai-india, /vadodara-india"
+  },
+  {
+   "name": "Visa",
+   "careers_url": "https://corporate.visa.com/en/jobs/",
+   "ats": "smartrecruiters",
+   "ats_endpoint": "https://api.smartrecruiters.com/v1/companies/Visa/postings (unverified)",
+   "result": "none found",
+   "note": "Partly searched. India summer internship (Bengaluru) is penultimate-year, and the 2026 cycle is over. Visa job URLs look like visa.<cc>/<lang>/jobs/REFxxxxxW. Off-cycle not seen."
+  },
+  {
+   "name": "PayPal",
+   "careers_url": "https://paypal.eightfold.ai/careers",
+   "ats": "eightfold",
+   "ats_endpoint": "https://paypal.eightfold.ai/api/apply/v2/jobs?domain=paypal.com (DNS blocked in this session)",
+   "result": "none found",
+   "note": "Partly searched. Only a Weekday 'Data Analyst Intern' lead. Glassdoor shows Bengaluru Data Science Intern interviews in Feb 2026, which suggests an Jan-Jun-style intern intake exists."
+  },
+  {
+   "name": "Synchrony",
+   "careers_url": "https://www.synchronycareers.com/",
+   "ats": "workday",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Partly searched. Only myinternships.in templated listings (BI Analyst / Data Insights / Data Analyst Intern, Hyderabad), which look unreliable. careers_url from prior knowledge / list hint, not seen in search this run - verify"
+  },
+  {
+   "name": "FIS",
+   "careers_url": "https://careers.fisglobal.com/",
+   "ats": "workday",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  },
+  {
+   "name": "Fiserv",
+   "careers_url": "https://careers.fiserv.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  },
+  {
+   "name": "Global Payments",
+   "careers_url": "https://jobs.globalpayments.com/",
+   "ats": "workday",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  },
+  {
+   "name": "Swiss Re",
+   "careers_url": "https://careers.swissre.com/",
+   "ats": "successfactors",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  },
+  {
+   "name": "Allianz",
+   "careers_url": "https://careers.allianz.com/",
+   "ats": "successfactors",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  },
+  {
+   "name": "AXA XL",
+   "careers_url": "https://axaxl.com/careers",
+   "ats": "workday",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  },
+  {
+   "name": "MetLife",
+   "careers_url": "https://www.metlifecareers.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  },
+  {
+   "name": "Prudential / PGIM",
+   "careers_url": "https://www.pgim.com/careers",
+   "ats": "workday",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  },
+  {
+   "name": "Chubb",
+   "careers_url": "https://careers.chubb.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  },
+  {
+   "name": "Marsh McLennan (Marsh, Mercer, Oliver Wyman)",
+   "careers_url": "https://careers.marshmclennan.com/",
+   "ats": "workday",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  },
+  {
+   "name": "Aon",
+   "careers_url": "https://jobs.aon.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  },
+  {
+   "name": "WTW",
+   "careers_url": "https://careers.wtwco.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  },
+  {
+   "name": "Gallagher",
+   "careers_url": "https://jobs.ajg.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  },
+  {
+   "name": "Ameriprise Financial",
+   "careers_url": "https://www.ameriprise.com/careers",
+   "ats": "workday",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  },
+  {
+   "name": "Principal Global Services",
+   "careers_url": "https://www.principal.com/about-us/careers",
+   "ats": "workday",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  },
+  {
+   "name": "Zurich / ZINFI",
+   "careers_url": "https://www.zurich.com/careers",
+   "ats": "successfactors",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  },
+  {
+   "name": "Experian",
+   "careers_url": "https://jobs.experian.com/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  },
+  {
+   "name": "TransUnion CIBIL",
+   "careers_url": "https://careers.transunion.com/",
+   "ats": "workday",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  },
+  {
+   "name": "Equifax",
+   "careers_url": "https://careers.equifax.com/",
+   "ats": "workday",
+   "ats_endpoint": "",
+   "result": "not searched",
+   "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too)."
+  }
+ ]
+}

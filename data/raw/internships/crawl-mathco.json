@@ -1,0 +1,12 @@
+{
+ "company": "MathCo (TheMathCompany)",
+ "ats": "PeopleStrong",
+ "endpoint": "POST https://mathco-careers.peoplestrong.com/api/cp/rest/altone/cp/jobs/v1?offset=0&limit=100 (mathco.com/explore-roles redirects here)",
+ "queried_at": "2026-10-30T13:31:06.172209Z",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 25,
+ "india_intern_hits": [],
+ "details": {}
+}

@@ -1,0 +1,22 @@
+{
+ "company": "AstraZeneca",
+ "ats": "workday",
+ "endpoint": "https://astrazeneca.wd3.myworkdayjobs.com/wday/cxs/astrazeneca/Careers/jobs",
+ "queried_at": "2026-10-30T07:28:24",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "student",
+  "2027",
+  "co-op",
+  "graduate intern",
+  ""
+ ],
+ "total_hits": 30,
+ "india_intern_hits": [],
+ "details": {}
+}

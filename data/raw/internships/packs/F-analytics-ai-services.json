@@ -1,0 +1,683 @@
+{
+ "cluster": "F-analytics-ai-services",
+ "companies": [
+  {
+   "name": "Fractal Analytics",
+   "hint": "fractal.wd1.myworkdayjobs.com/Careers (Mumbai)",
+   "round_notes": [
+    {
+     "careers_url": "https://fractal.wd1.myworkdayjobs.com/Careers",
+     "ats": "workday",
+     "ats_endpoint": "https://fractal.wd1.myworkdayjobs.com/wday/cxs/fractal/Careers/jobs",
+     "result": "none found (on careers site); 5 aggregator leads",
+     "note": "Workday site confirmed (DevOps Lead SR-14538 seen). Search engine doesn't index intern postings; query cxs endpoint for 'intern'. Runs summer intern programme for penultimate-year (usually opens Dec).",
+     "src": "F-analytics-ai-services"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Fractal Analytics",
+     "role": "Product Analytics Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/internships/fractal-analytics-is-hiring-product-analytics-intern-bengaluru-bb751c",
+     "careers_url": "https://fractal.wd1.myworkdayjobs.com/Careers",
+     "note": "myinternships.in listing (aggregator; pages look templated, stipend/openings unverified); no matching careers-site posting surfaced in search",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "Fractal Analytics",
+     "role": "Product Analyst Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/job/fractal-analytics-product-analyst-intern-bengaluru-c6cbde",
+     "careers_url": "https://fractal.wd1.myworkdayjobs.com/Careers",
+     "note": "myinternships.in listing (aggregator; pages look templated, stipend/openings unverified); no matching careers-site posting surfaced in search",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "Fractal Analytics",
+     "role": "Consultant Intern - Data Science Pipeline (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/internships/fractal-analytics-is-hiring-consultant-intern-data-science-pipeline-bengaluru-52df44",
+     "careers_url": "https://fractal.wd1.myworkdayjobs.com/Careers",
+     "note": "myinternships.in listing (aggregator; pages look templated, stipend/openings unverified); no matching careers-site posting surfaced in search",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "Fractal Analytics",
+     "role": "Machine Learning Intern (Hyderabad)",
+     "aggregator_url": "https://myinternships.in/internships/fractal-analytics-is-hiring-machine-learning-intern-hyderabad-a7f676",
+     "careers_url": "https://fractal.wd1.myworkdayjobs.com/Careers",
+     "note": "myinternships.in listing (aggregator; pages look templated, stipend/openings unverified); no matching careers-site posting surfaced in search",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "Fractal Analytics",
+     "role": "Analytics Consultant Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/job/fractal-analytics-analytics-consultant-intern-bengaluru-d63189",
+     "careers_url": "https://fractal.wd1.myworkdayjobs.com/Careers",
+     "note": "myinternships.in listing (aggregator; pages look templated, stipend/openings unverified); no matching careers-site posting surfaced in search",
+     "src": "F-analytics-ai-services"
+    }
+   ]
+  },
+  {
+   "name": "Mu Sigma",
+   "hint": "musigma careers Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://www.mu-sigma.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Hires Trainee Decision Scientists (full-time) via campus/AMCAT; last seen drive closed. Careers URL not verified in search.",
+     "src": "F-analytics-ai-services"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Tiger Analytics",
+   "hint": "tigeranalytics careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.tigeranalytics.com/current-openings",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found (official page lists experienced roles); 3 aggregator leads",
+     "note": "Own careers site at tigeranalytics.com/current-openings.",
+     "src": "F-analytics-ai-services"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Tiger Analytics",
+     "role": "Data Scientist Intern (ML Engineering), Bengaluru",
+     "aggregator_url": "https://myinternships.in/internships/tiger-analytics-is-hiring-data-scientist-intern-ml-engineering-bengaluru-39a536",
+     "careers_url": "https://www.tigeranalytics.com/current-openings",
+     "note": "myinternships.in listing (aggregator; pages look templated, stipend/openings unverified); no matching careers-site posting surfaced in search; snippet: 3 months, in-office, 2026 freshers & final-year students",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "Tiger Analytics",
+     "role": "Data Analyst Intern",
+     "aggregator_url": "https://jobs.weekday.works/tiger-analytics-data-analyst-intern",
+     "careers_url": "https://www.tigeranalytics.com/current-openings",
+     "note": "weekday.works aggregator; date unknown",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "Tiger Analytics",
+     "role": "AI/ML Research Intern (Delhi)",
+     "aggregator_url": "https://myinternships.in/internships/tiger-analytics-is-hiring-ai-ml-research-intern-delhi-6b80df",
+     "careers_url": "https://www.tigeranalytics.com/current-openings",
+     "note": "myinternships.in listing (aggregator; pages look templated, stipend/openings unverified); no matching careers-site posting surfaced in search",
+     "src": "F-analytics-ai-services"
+    }
+   ]
+  },
+  {
+   "name": "LatentView Analytics",
+   "hint": "latentview careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.latentview.com/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found on careers site; 5 aggregator leads",
+     "note": "Careers path from blog; ATS unknown.",
+     "src": "F-analytics-ai-services"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "LatentView Analytics",
+     "role": "Data Analyst Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/job/latentview-analytics-data-analyst-intern-bengaluru-af8ab1",
+     "careers_url": "https://www.latentview.com/careers/",
+     "note": "myinternships.in listing (aggregator; pages look templated, stipend/openings unverified); no matching careers-site posting surfaced in search; snippet: 6 months",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "LatentView Analytics",
+     "role": "Product Analyst Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/job/latentview-analytics-product-analyst-intern-bengaluru-2cbd21",
+     "careers_url": "https://www.latentview.com/careers/",
+     "note": "myinternships.in listing (aggregator; pages look templated, stipend/openings unverified); no matching careers-site posting surfaced in search",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "LatentView Analytics",
+     "role": "Analytics Consultant Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/job/latentview-analytics-analytics-consultant-intern-bengaluru-a4db3f",
+     "careers_url": "https://www.latentview.com/careers/",
+     "note": "myinternships.in listing (aggregator; pages look templated, stipend/openings unverified); no matching careers-site posting surfaced in search",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "LatentView Analytics",
+     "role": "Data Science Intern (Nagpur)",
+     "aggregator_url": "https://myinternships.in/job/latentview-analytics-data-science-intern-nagpur-4c33d5",
+     "careers_url": "https://www.latentview.com/careers/",
+     "note": "myinternships.in listing (aggregator; pages look templated, stipend/openings unverified); no matching careers-site posting surfaced in search",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "LatentView Analytics",
+     "role": "Business Analyst Intern (Delhi)",
+     "aggregator_url": "https://myinternships.in/job/latentview-analytics-business-analyst-intern-delhi-9177e1",
+     "careers_url": "https://www.latentview.com/careers/",
+     "note": "myinternships.in listing (aggregator; pages look templated, stipend/openings unverified); no matching careers-site posting surfaced in search",
+     "src": "F-analytics-ai-services"
+    }
+   ]
+  },
+  {
+   "name": "Tredence",
+   "hint": "tredence careers",
+   "round_notes": [
+    {
+     "careers_url": "https://career.tredence.com/",
+     "ats": "successfactors",
+     "ats_endpoint": "",
+     "result": "none found on careers site; 3 aggregator leads",
+     "note": "career.tredence.com/job/<title>/<id> pattern (SAP SuccessFactors career site builder style). Has a 14-week Data Science grad programme.",
+     "src": "F-analytics-ai-services"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Tredence",
+     "role": "Data Science Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/job/tredence-is-hiring-data-science-intern-bengaluru-166nhu",
+     "careers_url": "https://career.tredence.com/",
+     "note": "myinternships.in listing (aggregator; pages look templated, stipend/openings unverified); no matching careers-site posting surfaced in search",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "Tredence",
+     "role": "Machine Learning Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/job/tredence-is-hiring-machine-learning-intern-bengaluru-1bqlka",
+     "careers_url": "https://career.tredence.com/",
+     "note": "myinternships.in listing (aggregator; pages look templated, stipend/openings unverified); no matching careers-site posting surfaced in search",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "Tredence",
+     "role": "Data Analyst Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/job/tredence-is-hiring-data-analyst-intern-bengaluru-17k50g",
+     "careers_url": "https://career.tredence.com/",
+     "note": "myinternships.in listing (aggregator; pages look templated, stipend/openings unverified); no matching careers-site posting surfaced in search",
+     "src": "F-analytics-ai-services"
+    }
+   ]
+  },
+  {
+   "name": "Quantiphi",
+   "hint": "quantiphi.wd1.myworkdayjobs.com (Mumbai)",
+   "round_notes": [
+    {
+     "careers_url": "https://quantiphi.wd1.myworkdayjobs.com/Careers_at_Quantiphi",
+     "ats": "workday",
+     "ats_endpoint": "https://quantiphi.wd1.myworkdayjobs.com/wday/cxs/quantiphi/Careers_at_Quantiphi/jobs",
+     "result": "none found on careers site; 3 aggregator leads",
+     "note": "Site name Careers_at_Quantiphi confirmed via JR11731 URL. 2026-batch intern drive closed Jun 2026.",
+     "src": "F-analytics-ai-services"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Quantiphi",
+     "role": "Data Analyst Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/internships/quantiphi-is-hiring-data-analyst-intern-bengaluru-57f142",
+     "careers_url": "https://quantiphi.wd1.myworkdayjobs.com/Careers_at_Quantiphi",
+     "note": "myinternships.in listing (aggregator; pages look templated, stipend/openings unverified); no matching careers-site posting surfaced in search; snippet: 4 months, rolling",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "Quantiphi",
+     "role": "Business Analyst Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/job/quantiphi-is-hiring-business-analyst-intern-bengaluru-2oaafq",
+     "careers_url": "https://quantiphi.wd1.myworkdayjobs.com/Careers_at_Quantiphi",
+     "note": "myinternships.in listing (aggregator; pages look templated, stipend/openings unverified); no matching careers-site posting surfaced in search",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "Quantiphi",
+     "role": "Data Science Intern (Jaipur)",
+     "aggregator_url": "https://myinternships.in/job/quantiphi-is-hiring-data-science-intern-jaipur-b5f3a6",
+     "careers_url": "https://quantiphi.wd1.myworkdayjobs.com/Careers_at_Quantiphi",
+     "note": "myinternships.in listing (aggregator; pages look templated, stipend/openings unverified); no matching careers-site posting surfaced in search",
+     "src": "F-analytics-ai-services"
+    }
+   ]
+  },
+  {
+   "name": "Course5 Intelligence",
+   "hint": "course5i careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.course5i.com/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched (shared web-search budget exhausted)",
+     "note": "careers URL unverified",
+     "src": "F-analytics-ai-services"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Sigmoid",
+   "hint": "sigmoid careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.sigmoid.com/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched (shared web-search budget exhausted)",
+     "note": "careers URL unverified",
+     "src": "F-analytics-ai-services"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Genpact",
+   "hint": "genpact.wd108.myworkdayjobs.com/External_Careers",
+   "round_notes": [
+    {
+     "careers_url": "https://genpact.wd108.myworkdayjobs.com/External_Careers",
+     "ats": "workday",
+     "ats_endpoint": "https://genpact.wd108.myworkdayjobs.com/wday/cxs/genpact/External_Careers/jobs (also campussite: https://genpact.wd108.myworkdayjobs.com/wday/cxs/genpact/campussite/jobs)",
+     "result": "found 1 (low confidence) + 4 leads",
+     "note": "Posts generic 'Interns' fixed-term trainee reqs across Indian cities; check both External_Careers and campussite sites for 'Interns'.",
+     "src": "F-analytics-ai-services"
+    }
+   ],
+   "round1_openings": [
+    {
+     "company": "Genpact",
+     "role": "Interns",
+     "url": "https://genpact.wd108.myworkdayjobs.com/en-US/campussite/job/Interns_JR10012377",
+     "location": "India (similar 'Interns' posting seen for Hyderabad - Hafeezpet Phoenix; exact location of JR10012377 not confirmed)",
+     "job_id": "JR10012377",
+     "type": "Internship",
+     "duration": "fixed-term trainee; a sibling Hyderabad posting shows job end date 2027-03-31",
+     "overrun": "",
+     "exp": "students/graduates with business, commerce or analytics background (as described in snippets)",
+     "track": "analyst",
+     "posted": "",
+     "deadline": "aggregator copies (talentd.in) of Genpact 'Interns' postings show deadlines 27 Nov 2026 (Noida) and 1 Dec 2026",
+     "jd": "Generic Genpact 'Interns' fixed-term trainee role, hybrid. Asks for business/commerce/analytics background; Power BI, Tableau or Google Data Analytics certification listed as pluses; potential for full-time employment based on performance.",
+     "evidence": "Search result 'Interns - Myworkdayjobs.com' at genpact.wd108.myworkdayjobs.com/en-US/campussite/job/Interns_JR10012377 (query: Genpact Intern myworkdayjobs External_Careers India data analytics 2026). Job end date 2027-03-31 on sibling posting suggests current cycle. Note: an Indeed copy said 'only open for External Referrals'. Content may be analytics-adjacent ops; verify JD.",
+     "confidence": "low",
+     "src": "F-analytics-ai-services"
+    }
+   ],
+   "round1_leads": [
+    {
+     "company": "Genpact",
+     "role": "Interns (Gurugram, fixed term)",
+     "aggregator_url": "https://www.talentd.in/jobs/genpact-gurgaon-hiring-interns-fixed-term-apply-now",
+     "careers_url": "https://genpact.wd108.myworkdayjobs.com/External_Careers",
+     "note": "talentd.in says 'Apply on myworkdayjobs.com'; one Genpact Interns copy lists deadline 1 Dec 2026, ~25-30K/month. Find JR id on Workday.",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "Genpact",
+     "role": "Interns (Noida, hybrid)",
+     "aggregator_url": "https://www.talentd.in/jobs/career-interns-at-genpact-noida-hybrid-apply-now",
+     "careers_url": "https://genpact.wd108.myworkdayjobs.com/External_Careers",
+     "note": "deadline 27 Nov 2026 per aggregator",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "Genpact",
+     "role": "Interns (Hyderabad, fixed-term trainee)",
+     "aggregator_url": "https://www.talentd.in/jobs/genpact-hiring-interns-in-hyderabad-fixed-term-trainee-role",
+     "careers_url": "https://genpact.wd108.myworkdayjobs.com/External_Careers",
+     "note": "job end date 2027-03-31 per snippet; analytics/BI skills",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "Genpact",
+     "role": "Business Interns (Jaipur)",
+     "aggregator_url": "https://www.talentd.in/jobs/genpact-is-hiring-business-interns-in-jaipur-india",
+     "careers_url": "https://genpact.wd108.myworkdayjobs.com/External_Careers",
+     "note": "aggregator; role content unverified",
+     "src": "F-analytics-ai-services"
+    }
+   ]
+  },
+  {
+   "name": "EXL",
+   "hint": "exlservice careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.exlservice.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched (shared web-search budget exhausted)",
+     "note": "careers URL unverified",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "careers_url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs?location=India&locationId=300000000467203&locationLevel=country&mode=job-location",
+     "ats": "oracle",
+     "ats_endpoint": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList&finder=findReqs;siteNumber=CX_2,keyword=intern",
+     "result": "none found",
+     "note": "Oracle site CX_2 has ~2,600 roles; India analytics fresher roles posted Oct 2026 (Associate Business Analyst 18463, Associate Data Analyst 16594, 'Fresher - General Analytics'). Only intern found is US (NY, Jun 2026). Query the Oracle API with keyword=intern.",
+     "src": "R2b-consulting-analytics"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "WNS",
+   "hint": "wns careers Mumbai/Pune",
+   "round_notes": [
+    {
+     "careers_url": "https://www.wns.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched (shared web-search budget exhausted)",
+     "note": "careers URL unverified",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "careers_url": "https://www.wns.com/about-us/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "No WNS-domain internship listings indexed; only myinternships.in (unreliable, ignored). WNS India HQ is Vikhroli, Mumbai.",
+     "src": "R2b-consulting-analytics"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Axtria",
+   "hint": "axtria careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.axtria.com/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched (shared web-search budget exhausted)",
+     "note": "careers URL unverified",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "careers_url": "https://www.careers.axtria.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Careers site lists experienced roles; freshers hired via campus training programme (Axtria Institute).",
+     "src": "R2b-consulting-analytics"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "IQVIA",
+   "hint": "iqvia careers",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.iqvia.com/en/internship-program-india",
+     "ats": "phenom",
+     "ats_endpoint": "",
+     "result": "found 1 (low confidence) + 5 leads",
+     "note": "~400 interns/yr in India, 6-12 month internships (tech, clinical, advanced analytics). jobs.iqvia.com/en/jobs/R<id> pattern; Workday backend likely (not verified).",
+     "src": "F-analytics-ai-services"
+    }
+   ],
+   "round1_openings": [
+    {
+     "company": "IQVIA",
+     "role": "Intern - Engineering Graduate (SCION Delivery Platform)",
+     "url": "https://jobs.iqvia.com/en/jobs/R1549869-0",
+     "location": "Bengaluru, India",
+     "job_id": "R1549869",
+     "type": "Internship",
+     "duration": "6 months",
+     "overrun": "",
+     "exp": "2026 engineering graduates (as summarised) - candidate is 2027 grad, eligibility may not match",
+     "track": "ai",
+     "posted": "",
+     "deadline": "",
+     "jd": "6-month in-office internship on IQVIA's SCION Delivery Platform, a data delivery and analytics platform. Engineering-graduate profile; data/analytics platform work.",
+     "evidence": "Search result 'Intern at IQVIA' jobs.iqvia.com/en/jobs/R1549869-0 (query: IQVIA intern India 2026 ...). Liveness unknown; may lean engineering rather than DS.",
+     "confidence": "low",
+     "src": "F-analytics-ai-services"
+    }
+   ],
+   "round1_leads": [
+    {
+     "company": "IQVIA",
+     "role": "Intern (posting 72500122176)",
+     "aggregator_url": "https://jobs.iqvia.com/es/trabajo/-/intern/29974/72500122176",
+     "careers_url": "https://jobs.iqvia.com/en/internship-program-india",
+     "note": "URL is on IQVIA's own careers domain but role/location unknown from snippet; check whether India + analytics",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "IQVIA",
+     "role": "Intern Analyst (Campus), Bengaluru",
+     "aggregator_url": "https://builtinbengaluru.in/job/intern-analyst-campus/4551931",
+     "careers_url": "https://jobs.iqvia.com/en/internship-program-india",
+     "note": "aggregator; date unknown",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "IQVIA",
+     "role": "Market Research Intern (Gurgaon/Bangalore)",
+     "aggregator_url": "https://careers-ust.prosple.com/graduate-employers/iqvia-india/jobs-internships/market-research-intern",
+     "careers_url": "https://jobs.iqvia.com/en/internship-program-india",
+     "note": "Prosple aggregator; may be expired",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "IQVIA",
+     "role": "Intern (Gurgaon) R1451432",
+     "aggregator_url": "",
+     "careers_url": "https://jobs.iqvia.com/en/internship-program-india",
+     "note": "Req R1451432 mentioned in search summary only; URL not seen",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "company": "IQVIA",
+     "role": "AI Technology Intern / Analytics Specialist (roundup Aug 2026)",
+     "aggregator_url": "https://www.hitechplus.in/2026/08/iqvia-hiring-2026-analytics-specialist.html",
+     "careers_url": "https://jobs.iqvia.com/en/internship-program-india",
+     "note": "blog roundup Aug 2026 mentions an AI Technology Intern; find req on jobs.iqvia.com",
+     "src": "F-analytics-ai-services"
+    }
+   ]
+  },
+  {
+   "name": "Kantar",
+   "hint": "kantar careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.kantar.com/careers",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched (shared web-search budget exhausted)",
+     "note": "ATS assumed Workday, not verified",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "careers_url": "https://kantar.wd3.myworkdayjobs.com/KANTAR",
+     "ats": "workday",
+     "ats_endpoint": "https://kantar.wd3.myworkdayjobs.com/wday/cxs/kantar/KANTAR/jobs",
+     "result": "none found",
+     "note": "Also entry-level site https://kantar.wd3.myworkdayjobs.com/KANTAREL (cxs .../kantar/KANTAREL/jobs). India offices Bangalore/Mumbai/Gurgaon; only full-time Analyst R102561 surfaced.",
+     "src": "R2b-consulting-analytics"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "NielsenIQ",
+   "hint": "smartrecruiters NielsenIQ",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.smartrecruiters.com/NielsenIQ",
+     "ats": "smartrecruiters",
+     "ats_endpoint": "https://api.smartrecruiters.com/v1/companies/NielsenIQ/postings?q=intern&country=in",
+     "result": "none found (India intern); 1 lead",
+     "note": "SmartRecruiters board confirmed (Pune/Mumbai full-time roles seen). Query API for India interns.",
+     "src": "F-analytics-ai-services"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "NielsenIQ",
+     "role": "Intern - Consumer Insights (India)",
+     "aggregator_url": "https://kalingauniversity.prosple.com/graduate-employers/nielseniq-india/jobs-internships/intern-consumer-insights",
+     "careers_url": "https://jobs.smartrecruiters.com/NielsenIQ",
+     "note": "Prosple aggregator; date unknown",
+     "src": "F-analytics-ai-services"
+    }
+   ]
+  },
+  {
+   "name": "Circana",
+   "hint": "circana careers Pune",
+   "round_notes": [
+    {
+     "careers_url": "https://www.circana.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched (shared web-search budget exhausted)",
+     "note": "careers URL unverified",
+     "src": "F-analytics-ai-services"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "dunnhumby",
+   "hint": "dunnhumby careers Gurugram",
+   "round_notes": [
+    {
+     "careers_url": "https://www.dunnhumby.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched (shared web-search budget exhausted)",
+     "note": "careers URL unverified",
+     "src": "F-analytics-ai-services"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "AB InBev GCC",
+   "hint": "ab-inbev careers Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://www.ab-inbev.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched (shared web-search budget exhausted)",
+     "note": "GCC Bengaluru; careers URL unverified",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "careers_url": "https://abinbev.wd1.myworkdayjobs.com/en-US/IND",
+     "ats": "workday",
+     "ats_endpoint": "https://abinbev.wd1.myworkdayjobs.com/wday/cxs/abinbev/IND/jobs",
+     "result": "none found",
+     "note": "India site 'IND' (entity GCC Service India Pvt Ltd, Bangalore) shows full-time analytics roles only; interns found are EUR/CAN sites. Check live IND feed for 'intern'.",
+     "src": "R2b-consulting-analytics"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Publicis Sapient",
+   "hint": "publicissapient careers",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.publicissapient.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched (shared web-search budget exhausted)",
+     "note": "careers URL unverified",
+     "src": "F-analytics-ai-services"
+    },
+    {
+     "careers_url": "https://careers.publicissapient.com/students/india",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "10-week internship (SWE / Product Manager intern) programme; no India-specific intern job-details URL indexed. Job URL pattern: careers.publicissapient.com/job-details/<year>-<id>-...",
+     "src": "R2b-consulting-analytics"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Merkle (dentsu)",
+   "hint": "merkle careers Mumbai/Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://www.merkle.com/careers",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched (shared web-search budget exhausted)",
+     "note": "dentsu uses Workday (not verified here)",
+     "src": "F-analytics-ai-services"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Gramener",
+   "hint": "gramener careers",
+   "round_notes": [
+    {
+     "careers_url": "https://gramener.com/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched (shared web-search budget exhausted)",
+     "note": "careers URL unverified",
+     "src": "F-analytics-ai-services"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Infogain / Absolutdata",
+   "hint": "absolutdata careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.infogain.com/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched (shared web-search budget exhausted)",
+     "note": "careers URL unverified",
+     "src": "F-analytics-ai-services"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  }
+ ]
+}

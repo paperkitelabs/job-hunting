@@ -1,0 +1,18 @@
+{
+ "company": "Macquarie",
+ "ats": "avature (HTML)",
+ "endpoint": "https://recruitment.macquarie.com/en_US/careers/SearchJobs/<kw>",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "internship",
+  "graduate",
+  "India",
+  "Gurugram",
+  "Hyderabad",
+  "Mumbai",
+  "intern"
+ ],
+ "total_hits": 78,
+ "india_intern_hits": [],
+ "details": {}
+}

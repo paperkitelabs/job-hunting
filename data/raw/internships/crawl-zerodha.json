@@ -1,0 +1,12 @@
+{
+ "company": "Zerodha",
+ "ats": "custom JSON",
+ "endpoint": "GET https://careers.zerodha.com/api/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {}
+}

@@ -1,0 +1,22 @@
+{
+ "company": "Lowe's India",
+ "ats": "workday",
+ "endpoint": "https://lowes.wd5.myworkdayjobs.com/wday/cxs/lowes/LWS_External_CS/jobs",
+ "queried_at": "2026-10-30T07:28:40",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "student",
+  "2027",
+  "co-op",
+  "graduate intern",
+  ""
+ ],
+ "total_hits": 37,
+ "india_intern_hits": [],
+ "details": {}
+}

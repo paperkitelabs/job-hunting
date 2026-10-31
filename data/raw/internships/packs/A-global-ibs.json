@@ -1,0 +1,565 @@
+{
+ "cluster": "A-global-ibs",
+ "companies": [
+  {
+   "name": "JPMorgan Chase",
+   "hint": "jpmc.fa.oraclecloud.com CX_1001 / careers.jpmorgan.com",
+   "round_notes": [
+    {
+     "careers_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+     "ats": "oracle",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "No India off-cycle/winter analyst internship found on JPMC sites; off-cycle programmes indexed are Europe-only (2027 IB off-cycle Frankfurt deadline 6 Nov 2026). Aggregators show Mumbai Research Analyst Intern (6 mo) and Credit Analyst Intern (3 mo) - see leads. India QR/AI roles indexed are full-time Associate/VP.",
+     "src": "A-global-ibs"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "JPMorgan Chase",
+     "role": "Research Analyst Intern (Mumbai)",
+     "aggregator_url": "https://myinternships.in/job/jpmorgan-chase-is-hiring-research-analyst-intern-mumbai-827zy",
+     "careers_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+     "note": "Aggregator: 6-month mentored internship in Mumbai, start date not shown. Not found on Oracle careers site via search.",
+     "src": "A-global-ibs"
+    },
+    {
+     "company": "JPMorgan Chase",
+     "role": "Credit Analyst Intern (Mumbai)",
+     "aggregator_url": "https://myinternships.in/job/jpmorgan-chase-is-hiring-credit-analyst-intern-mumbai-2i9xi",
+     "careers_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+     "note": "Aggregator: 3-month in-office Mumbai internship, 2 openings; borrower financial analysis, credit ratios, due diligence, portfolio monitoring; min 60%/6.0 CGPA. Credit analysis is finance-leaning but fits banking analytics. Not confirmed on JPMC site.",
+     "src": "A-global-ibs"
+    }
+   ]
+  },
+  {
+   "name": "Goldman Sachs",
+   "hint": "higher.gs.com",
+   "round_notes": [
+    {
+     "careers_url": "https://higher.gs.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found (4 Prosple leads)",
+     "note": "GS India runs a year-round Off-Cycle Program (GIR, Corporate Planning & Management Bengaluru, FICC & Equities apprenticeship, AWM industrial trainee) - only seen on Prosple; higher.gs.com search not completed (budget ran out).",
+     "src": "A-global-ibs"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Goldman Sachs",
+     "role": "Global Investment Research - Seasonal/Off-Cycle Internship (India)",
+     "aggregator_url": "https://nxtwave-join.prosple.com/graduate-employers/goldman-sachs-india/jobs-internships/global-investment-research-seasonaloff-cycle-internship",
+     "careers_url": "https://higher.gs.com/",
+     "note": "Prosple lists GS India GIR off-cycle internship (also https://kalingauniversity.prosple.com/graduate-employers/goldman-sachs-india/jobs-internships/global-investment-research-off-cycle-internship). Off-Cycle Program open to undergrads eligible for it; length varies; some list start 'ASAP'. Search higher.gs.com for 'Off-Cycle' India.",
+     "src": "A-global-ibs"
+    },
+    {
+     "company": "Goldman Sachs",
+     "role": "Corporate Planning & Management - Seasonal/Off-Cycle Internship (Bengaluru)",
+     "aggregator_url": "https://nxtwave-join.prosple.com/graduate-employers/goldman-sachs-india/jobs-internships/corporate-planning-management-seasonaloff-cycle-internship",
+     "careers_url": "https://higher.gs.com/",
+     "note": "Prosple: on-site Bengaluru, Karnataka; strategy/planning style off-cycle internship. Dates not confirmed.",
+     "src": "A-global-ibs"
+    },
+    {
+     "company": "Goldman Sachs",
+     "role": "FICC and Equities Apprenticeship (Bengaluru, Off-Cycle Program)",
+     "aggregator_url": "https://kalingauniversity.prosple.com/graduate-employers/goldman-sachs-india/jobs-internships/ficc-and-equities-apprenticeship",
+     "careers_url": "https://higher.gs.com/",
+     "note": "Prosple: Global Banking & Markets off-cycle apprenticeship in Bengaluru; markets analytics angle. Also GS AWM Industrial Trainee: https://nxtwave-join.prosple.com/graduate-employers/goldman-sachs-india/jobs-internships/asset-wealth-management-industrial-trainee (and GS Operations off-cycle - ops-only, not wanted).",
+     "src": "A-global-ibs"
+    }
+   ]
+  },
+  {
+   "name": "Morgan Stanley",
+   "hint": "ms.wd5.myworkdayjobs.com/External",
+   "round_notes": [
+    {
+     "careers_url": "https://ms.wd5.myworkdayjobs.com/External",
+     "ats": "workday",
+     "ats_endpoint": "https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs",
+     "result": "programme not open yet / none found",
+     "note": "2025 cohort showed 6-month 'spring' (Jan-start) Risk Management analyst programme, FID Research spring intern, Firm Management (India CEO/COO strategy) industrial placement in Mumbai. No 2026/2027 repost found - query Workday API for 'spring', 'industrial placement', 'intern' Mumbai.",
+     "src": "A-global-ibs"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Citi",
+   "hint": "citi.wd5.myworkdayjobs.com/2 / jobs.citi.com",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.citi.com/location/india-jobs/287/1269750/2",
+     "ats": "workday",
+     "ats_endpoint": "https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs",
+     "result": "found 3 (all low confidence)",
+     "note": "jobs.citi.com (front end) - intern reqs: US Consumer Cards Risk - Intern (26951101), Intern - C00 - MUMBAI (26969886), Banking - Intern. Summer Analyst 2027 programmes excluded. WebFetch to jobs.citi.com fails DNS.",
+     "src": "A-global-ibs"
+    }
+   ],
+   "round1_openings": [
+    {
+     "company": "Citi",
+     "role": "US Consumer Cards Risk - Intern",
+     "url": "https://jobs.citi.com/job/bengaluru/us-consumer-cards-risk-intern/287/93375592576",
+     "location": "Bengaluru (also listed: Mumbai, Pune, Haryana), On-Site/Resident",
+     "job_id": "26951101",
+     "type": "Internship",
+     "duration": "not stated on careers snippet (aggregator coursejoiner claims 6-12 months, unverified)",
+     "overrun": "",
+     "exp": "Currently enrolled in college/university (entry-level intern)",
+     "track": "bfsi",
+     "posted": "2026-03-30",
+     "deadline": "",
+     "jd": "Intern role in Citi's US Consumer Cards (USCC) Risk organisation in India (the related team posting is USCC Risk Modeling Solutions). Entry-level intern position; requires current enrolment in a college/university. Full duties not visible in search snippets.",
+     "evidence": "Search result title 'US Consumer Cards Risk - Intern' on jobs.citi.com with Req Id 26951101, posted Mar. 30, 2026; appeared in site:jobs.citi.com searches on 30 Oct 2026 with no 'no longer accepting' text. Posting is ~7 months old, so it may be an evergreen/pipeline req or may be closed - verify.",
+     "confidence": "low",
+     "src": "A-global-ibs"
+    },
+    {
+     "company": "Citi",
+     "role": "Intern - C00 - MUMBAI",
+     "url": "https://jobs.citi.com/job/mumbai/intern-c00-mumbai/287/96550957376",
+     "location": "Mumbai, On-Site/Resident",
+     "job_id": "26969886",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "Students (entry-level intern); aggregator says any batch / bachelor's",
+     "track": "analyst",
+     "posted": "2026-06-17",
+     "deadline": "",
+     "jd": "Generic Citi intern requisition (C00 grade): 'The Intern is an entry level position at Citi where the student will receive a foundation of knowledge and training.' The business function/team is not visible in snippets - must be checked to confirm it is a data/analytics role.",
+     "evidence": "jobs.citi.com search result 'Intern - C00 - MUMBAI', Req Id 26969886, posted Jun. 17, 2026; also mirrored on fresheroffcampus.com. Function unknown; liveness unknown. An older req of same title exists (78674392912, Req 25844613, Management Development Programs family) - likely stale.",
+     "confidence": "low",
+     "src": "A-global-ibs"
+    },
+    {
+     "company": "Citi",
+     "role": "Banking - Intern",
+     "url": "https://jobs.citi.com/job/mumbai/banking-intern/287/89151037584",
+     "location": "Mumbai, Hybrid",
+     "job_id": "",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "Students (entry-level intern)",
+     "track": "bfsi",
+     "posted": "2025-12-04",
+     "deadline": "",
+     "jd": "Banking intern requisition in Mumbai; search summary indicated it sits with an analytics group within Banking. Detailed duties/skills not visible in snippets.",
+     "evidence": "jobs.citi.com search results 'Banking - Intern' (two reqs: .../banking-intern/287/89151037584 and .../banking-intern/287/89151037616), posted Dec. 4, 2025. Old posting - may be closed; include only if the careers API still lists it.",
+     "confidence": "low",
+     "src": "A-global-ibs"
+    }
+   ],
+   "round1_leads": [
+    {
+     "company": "Citi",
+     "role": "Markets & Quantitative Analysis Analyst Intern (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/internships/citi-india-is-hiring-markets-and-quantitative-analysis-analyst-intern-bengaluru-52df7a",
+     "careers_url": "https://jobs.citi.com/location/india-jobs/287/1269750/2",
+     "note": "Aggregator lists 2 openings, rolling intake, aimed at 2026 freshers/final-year, ~61K/month stipend. Second copy: https://myinternships.in/job/citi-india-is-hiring-markets-and-quantitative-analysis-analyst-intern-bengaluru-39a56b . Not found on jobs.citi.com (only London/Budapest MQA posts indexed). Quant track - worth checking Citi API for 'Markets Quantitative Analysis' India.",
+     "src": "A-global-ibs"
+    }
+   ]
+  },
+  {
+   "name": "Barclays",
+   "hint": "barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays / search.jobs.barclays",
+   "round_notes": [
+    {
+     "careers_url": "https://search.jobs.barclays/",
+     "ats": "workday",
+     "ats_endpoint": "https://barclays.wd3.myworkdayjobs.com/wday/cxs/barclays/External_Career_Site_Barclays/jobs",
+     "result": "not searched",
+     "note": "not searched - shared WebSearch budget (200/turn across all agents) ran out after Citi/JPMorgan/Goldman/Morgan Stanley; re-run discovery for this company",
+     "src": "A-global-ibs"
+    },
+    {
+     "careers_url": "https://search.jobs.barclays/internships",
+     "ats": "other",
+     "ats_endpoint": "https://barclays.wd3.myworkdayjobs.com/wday/cxs/barclays/External_Career_Site_Barclays/jobs",
+     "result": "none found",
+     "note": "No India internship req indexed. Pune search page shows filter 'Internships Data Analytics (1)' and India search shows 29 'intern' keyword hits but no titles/locations visible; 2027 off-cycle programmes only in Europe. Worth a direct API check on Pune+intern.",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Deutsche Bank",
+   "hint": "db.wd3.myworkdayjobs.com/DBWebsite",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.db.com/",
+     "ats": "workday",
+     "ats_endpoint": "https://db.wd3.myworkdayjobs.com/wday/cxs/db/DBWebsite/jobs",
+     "result": "not searched",
+     "note": "not searched - shared WebSearch budget (200/turn across all agents) ran out after Citi/JPMorgan/Goldman/Morgan Stanley; re-run discovery for this company",
+     "src": "A-global-ibs"
+    },
+    {
+     "careers_url": "https://careers.db.com/students-graduates/internship-programme/",
+     "ats": "workday",
+     "ats_endpoint": "https://db.wd3.myworkdayjobs.com/wday/cxs/db/DBWebsite/jobs",
+     "result": "found 1 (low)",
+     "note": "Generic 'Intern' R0443954 in Mumbai. India 2027 summer internship (TDI Pune/Bangalore) is penultimate-year only; India apprenticeships (NATS) are for graduates.",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_openings": [
+    {
+     "company": "Deutsche Bank",
+     "role": "Intern",
+     "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Intern_R0443954",
+     "location": "Mumbai, Nirlon Knowledge Park B1, India",
+     "job_id": "R0443954",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "not stated",
+     "track": "bfsi",
+     "posted": "unknown (R044xxxx series ~mid-2026)",
+     "deadline": "not stated",
+     "jd": "Generic 'Intern' requisition at Deutsche Bank Mumbai (Nirlon). Search snippet showed only the culture boilerplate; function/skills not visible. Needs check.",
+     "evidence": "WebSearch allowed_domains db.wd3.myworkdayjobs.com: result titled 'Intern' with location data 'Mumbai Nirlon Knowledge Pk B1'. Liveness unknown.",
+     "confidence": "low",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_leads": []
+  },
+  {
+   "name": "Nomura",
+   "hint": "careers.nomura.com / nomuracampus.tal.net",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.nomura.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched - shared WebSearch budget (200/turn across all agents) ran out after Citi/JPMorgan/Goldman/Morgan Stanley; re-run discovery for this company; campus programmes on nomuracampus.tal.net",
+     "src": "A-global-ibs"
+    },
+    {
+     "careers_url": "https://www.nomura.com/careers/early-careers/internship-programs/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Powai runs 6-month and 2-month internships (GM, IBD, Tech & Corporate) but India intake is via campus/pre-final year; nothing indexed on careers.nomura.com.",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "HSBC",
+   "hint": "mycareer.hsbc.com / portal.careers.hsbc.com",
+   "round_notes": [
+    {
+     "careers_url": "https://mycareer.hsbc.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched - shared WebSearch budget (200/turn across all agents) ran out after Citi/JPMorgan/Goldman/Morgan Stanley; re-run discovery for this company",
+     "src": "A-global-ibs"
+    },
+    {
+     "careers_url": "https://mycareer.hsbc.com/en_GB/external/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "All India intern reqs found (Bangalore DS/risk analytics, Mumbai Pan-India summer) closed Oct-Nov 2025; India cycle seems to open ~Sep-Oct each year - new 2026 reqs may appear soon.",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "BNP Paribas",
+   "hint": "group.bnpparibas/en/careers (India ISPL Mumbai/Chennai)",
+   "round_notes": [
+    {
+     "careers_url": "https://group.bnpparibas/en/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched - shared WebSearch budget (200/turn across all agents) ran out after Citi/JPMorgan/Goldman/Morgan Stanley; re-run discovery for this company; India = ISPL Mumbai/Chennai",
+     "src": "A-global-ibs"
+    },
+    {
+     "careers_url": "https://group.bnpparibas/en/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "BNP Paribas India Solutions interns seen: DS intern (filled), Ops interns, Prism 2026; no live 2027 analytics/AI intern.",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Standard Chartered",
+   "hint": "jobs.standardchartered.com (SuccessFactors)",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.standardchartered.com/",
+     "ats": "successfactors",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched - shared WebSearch budget (200/turn across all agents) ran out after Citi/JPMorgan/Goldman/Morgan Stanley; re-run discovery for this company",
+     "src": "A-global-ibs"
+    },
+    {
+     "careers_url": "https://www.sc.com/en/global-careers/early-careers/local-programmes-for-students/india-student-opportunities/",
+     "ats": "successfactors",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "India GBS apprenticeships for graduates; no India internship req found.",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "UBS",
+   "hint": "jobs.ubs.com (Pune/Mumbai)",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.ubs.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched - shared WebSearch budget (200/turn across all agents) ran out after Citi/JPMorgan/Goldman/Morgan Stanley; re-run discovery for this company; Pune/Mumbai",
+     "src": "A-global-ibs"
+    },
+    {
+     "careers_url": "https://www.ubs.com/global/en/careers/early-careers/opportunities/internship-program-india.html",
+     "ats": "other",
+     "ats_endpoint": "jobs.ubs.com TGnewUI (BrassRing) partnerid=25008 siteid=5131/5176",
+     "result": "none found",
+     "note": "UBS India internships 2-12 months (regular 6-12 month via university partnerships); no India req indexed on job board.",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Societe Generale",
+   "hint": "careers.societegenerale.com (SG GSC Bengaluru/Chennai)",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.societegenerale.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched - shared WebSearch budget (200/turn across all agents) ran out after Citi/JPMorgan/Goldman/Morgan Stanley; re-run discovery for this company; SG GSC Bengaluru/Chennai",
+     "src": "A-global-ibs"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Credit Agricole CIB",
+   "hint": "jobs.ca-cib.com (Mumbai)",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.ca-cib.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched - shared WebSearch budget (200/turn across all agents) ran out after Citi/JPMorgan/Goldman/Morgan Stanley; re-run discovery for this company; Mumbai",
+     "src": "A-global-ibs"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Bank of America",
+   "hint": "careers.bankofamerica.com (BA Continuum Mumbai/GIFT/Hyd)",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.bankofamerica.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched - shared WebSearch budget (200/turn across all agents) ran out after Citi/JPMorgan/Goldman/Morgan Stanley; re-run discovery for this company; BA Continuum Mumbai/GIFT/Hyderabad",
+     "src": "A-global-ibs"
+    },
+    {
+     "careers_url": "https://careers.bankofamerica.com/en-us/students",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "found 1 (medium)",
+     "note": "Class of 2027 BTech CS/IT Apprentice 26037461 across India sites.",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_openings": [
+    {
+     "company": "Bank of America",
+     "role": "Apprentice",
+     "url": "https://careers.bankofamerica.com/en-us/job-detail/26037461/apprentice-multiple-locations",
+     "location": "Multiple Locations, India (Mumbai, Hyderabad, Chennai listed)",
+     "job_id": "26037461",
+     "type": "Apprenticeship (fixed-term)",
+     "duration": "not stated (sister req 14773 for Class of 2026 was a 6-month apprenticeship)",
+     "overrun": "possibly; start/end not stated",
+     "exp": "Final-year BTech/BE students, Class of 2027, specialisation CS / Computer Engineering / IT; CGPA 8/10 or 80%; Indian citizens; no location preference given",
+     "track": "ai",
+     "posted": "2026 (job ID series 26xxxxxx)",
+     "deadline": "not stated",
+     "jd": "Bank of America (BA Continuum India) technology apprenticeship for Class-of-2027 B.Tech CS/IT students across Indian sites. Exact team/work not visible in snippet; predecessor 'Academic Tech Intern' reqs (25044134/25044490) asked for Java/C#/.NET/C++/Python basics, Agile, Excel, JIRA, Linux.",
+     "evidence": "WebSearch on careers.bankofamerica.com: 'Job ID:26037461 - Apprentice - Multiple Locations'; snippet says final-year BTech/BE Class of 2027, CS/CE/IT, CGPA 8, Indian citizenship, full-time fixed-term. Class-of-2027 target matches candidate; technology role (data/AI angle unconfirmed).",
+     "confidence": "medium",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_leads": []
+  },
+  {
+   "name": "Wells Fargo",
+   "hint": "wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs",
+   "round_notes": [
+    {
+     "careers_url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs",
+     "ats": "workday",
+     "ats_endpoint": "https://wd1.myworkdaysite.com/wday/cxs/wf/WellsFargoJobs/jobs",
+     "result": "not searched",
+     "note": "not searched - shared WebSearch budget (200/turn across all agents) ran out after Citi/JPMorgan/Goldman/Morgan Stanley; re-run discovery for this company",
+     "src": "A-global-ibs"
+    },
+    {
+     "careers_url": "https://www.wellsfargojobs.com/en/early-careers/international-programs/india-programs/",
+     "ats": "workday",
+     "ats_endpoint": "https://wd1.myworkdaysite.com/wday/cxs/wf/WellsFargoJobs/jobs",
+     "result": "none found",
+     "note": "India 2027 interns are summer programmes for 2028 grads (Quant Analytics, Technology); last India intern window opened ~23 Jan 2026 and closed in days.",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "NatWest Group",
+   "hint": "jobs.natwestgroup.com",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.natwestgroup.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched - shared WebSearch budget (200/turn across all agents) ran out after Citi/JPMorgan/Goldman/Morgan Stanley; re-run discovery for this company",
+     "src": "A-global-ibs"
+    },
+    {
+     "careers_url": "https://jobs.natwestgroup.com/search/jobs/in/country/india",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Chennai page shows an internship filter count of 2 but none visible; Accelerate FTC 2026 (6 months) is fixed-term not internship.",
+     "src": "R2a-banks-data"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "MUFG",
+   "hint": "mufgub.wd3.myworkdayjobs.com",
+   "round_notes": [
+    {
+     "careers_url": "https://mufgub.wd3.myworkdayjobs.com/",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched - shared WebSearch budget (200/turn across all agents) ran out after Citi/JPMorgan/Goldman/Morgan Stanley; re-run discovery for this company",
+     "src": "A-global-ibs"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Mizuho",
+   "hint": "mizuho careers India",
+   "round_notes": [
+    {
+     "careers_url": "",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched - shared WebSearch budget (200/turn across all agents) ran out after Citi/JPMorgan/Goldman/Morgan Stanley; re-run discovery for this company; careers URL not confirmed",
+     "src": "A-global-ibs"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Jefferies",
+   "hint": "jefferies.com/careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.jefferies.com/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched - shared WebSearch budget (200/turn across all agents) ran out after Citi/JPMorgan/Goldman/Morgan Stanley; re-run discovery for this company",
+     "src": "A-global-ibs"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Macquarie",
+   "hint": "recruitment.macquarie.com",
+   "round_notes": [
+    {
+     "careers_url": "https://recruitment.macquarie.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched - shared WebSearch budget (200/turn across all agents) ran out after Citi/JPMorgan/Goldman/Morgan Stanley; re-run discovery for this company",
+     "src": "A-global-ibs"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Lloyds Technology Centre",
+   "hint": "lloydsbankinggroup careers Hyderabad",
+   "round_notes": [
+    {
+     "careers_url": "https://www.lloydsbankinggroup.com/careers.html",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "not searched - shared WebSearch budget (200/turn across all agents) ran out after Citi/JPMorgan/Goldman/Morgan Stanley; re-run discovery for this company; Hyderabad tech centre; careers URL from hint, not verified",
+     "src": "A-global-ibs"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  }
+ ]
+}

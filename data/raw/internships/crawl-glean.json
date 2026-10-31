@@ -1,0 +1,108 @@
+{
+ "company": "Glean",
+ "ats": "greenhouse",
+ "endpoint": "https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs?content=true",
+ "queried_at": "2026-10-30T03:11Z",
+ "queries": [
+  "whole board; filtered ats.is_india(location) + intern regex on title/employmentType"
+ ],
+ "total_hits": 131,
+ "india_postings": 23,
+ "india_intern_hits": [],
+ "india_fde_fulltime": [],
+ "details": {},
+ "india_titles": [
+  [
+   " Accountant ",
+   "Bangalore, India"
+  ],
+  [
+   "AI Data Analyst",
+   "Bangalore, India"
+  ],
+  [
+   "AI Success Manager (US East Customer Hours)",
+   "Bangalore, India"
+  ],
+  [
+   "AI Success Manager (US West Customer Hours)",
+   "Bangalore, India"
+  ],
+  [
+   "Content Systems Engineer, Technical Documentation",
+   "Bangalore, India"
+  ],
+  [
+   "Lead Salesforce Developer, GTM Systems",
+   "Bangalore, India"
+  ],
+  [
+   "Procurement Analyst ",
+   "Bangalore, India"
+  ],
+  [
+   "Product Finance Analyst",
+   "Bangalore, India"
+  ],
+  [
+   "Product Manager",
+   "Bangalore, India"
+  ],
+  [
+   "Product Manager, Connectors",
+   "Bangalore, India"
+  ],
+  [
+   "Product Manager, Glean Protect (Security & Governance)",
+   "Bangalore, India"
+  ],
+  [
+   "Quality Assurance Engineer",
+   "Bangalore, India"
+  ],
+  [
+   "Quality Assurance Lead",
+   "Bangalore, India"
+  ],
+  [
+   "Senior Data Engineer, Internal Data Platform & Analytics",
+   "Bangalore, India"
+  ],
+  [
+   "Senior Manager, Technical Accounting ",
+   "Bangalore, India"
+  ],
+  [
+   "Senior Product Marketing Manager - Competitive Intelligence",
+   "Bangalore, India"
+  ],
+  [
+   "Software Engineer, Backend",
+   "Bangalore, India"
+  ],
+  [
+   "Software Engineer, Evals",
+   "Bangalore, India"
+  ],
+  [
+   "Software Engineer, Machine Learning",
+   "Bangalore, India"
+  ],
+  [
+   "Strategic Account Executive, Mumbai",
+   "Remote - India"
+  ],
+  [
+   "Supply Chain Security Engineer",
+   "Bangalore, India"
+  ],
+  [
+   "Tech Lead Manager, Connectors",
+   "Bangalore, India"
+  ],
+  [
+   " Technical Program Manager, AI & Cloud Efficiency ",
+   "Bangalore, India"
+  ]
+ ]
+}

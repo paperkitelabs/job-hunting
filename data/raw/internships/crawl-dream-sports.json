@@ -1,0 +1,12 @@
+{
+ "company": "Dream Sports / Dream11",
+ "ats": "lever (board removed)",
+ "endpoint": "https://api.lever.co/v0/postings/dreamsports (404); dreamsports.group/careers CTA still links jobs.lever.co/dreamsports (404)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {}
+}

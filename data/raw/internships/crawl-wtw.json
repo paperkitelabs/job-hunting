@@ -1,0 +1,17 @@
+{
+ "company": "WTW",
+ "ats": "custom (careers.wtwco.com)",
+ "endpoint": "https://careers.wtwco.com/jobs/search?query=",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "graduate",
+  "india"
+ ],
+ "total_hits": 392,
+ "india_intern_hits": [],
+ "details": {}
+}

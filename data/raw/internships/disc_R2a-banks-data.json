@@ -1,0 +1,412 @@
+{
+ "cluster": "R2a-banks-data",
+ "openings": [
+  {
+   "company": "Bank of America",
+   "role": "Apprentice",
+   "url": "https://careers.bankofamerica.com/en-us/job-detail/26037461/apprentice-multiple-locations",
+   "location": "Multiple Locations, India (Mumbai, Hyderabad, Chennai listed)",
+   "job_id": "26037461",
+   "type": "Apprenticeship (fixed-term)",
+   "duration": "not stated (sister req 14773 for Class of 2026 was a 6-month apprenticeship)",
+   "overrun": "possibly; start/end not stated",
+   "exp": "Final-year BTech/BE students, Class of 2027, specialisation CS / Computer Engineering / IT; CGPA 8/10 or 80%; Indian citizens; no location preference given",
+   "track": "ai",
+   "posted": "2026 (job ID series 26xxxxxx)",
+   "deadline": "not stated",
+   "jd": "Bank of America (BA Continuum India) technology apprenticeship for Class-of-2027 B.Tech CS/IT students across Indian sites. Exact team/work not visible in snippet; predecessor 'Academic Tech Intern' reqs (25044134/25044490) asked for Java/C#/.NET/C++/Python basics, Agile, Excel, JIRA, Linux.",
+   "evidence": "WebSearch on careers.bankofamerica.com: 'Job ID:26037461 - Apprentice - Multiple Locations'; snippet says final-year BTech/BE Class of 2027, CS/CE/IT, CGPA 8, Indian citizenship, full-time fixed-term. Class-of-2027 target matches candidate; technology role (data/AI angle unconfirmed).",
+   "confidence": "medium"
+  },
+  {
+   "company": "Deutsche Bank",
+   "role": "Intern",
+   "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Intern_R0443954",
+   "location": "Mumbai, Nirlon Knowledge Park B1, India",
+   "job_id": "R0443954",
+   "type": "Internship",
+   "duration": "not stated",
+   "overrun": "",
+   "exp": "not stated",
+   "track": "bfsi",
+   "posted": "unknown (R044xxxx series ~mid-2026)",
+   "deadline": "not stated",
+   "jd": "Generic 'Intern' requisition at Deutsche Bank Mumbai (Nirlon). Search snippet showed only the culture boilerplate; function/skills not visible. Needs check.",
+   "evidence": "WebSearch allowed_domains db.wd3.myworkdayjobs.com: result titled 'Intern' with location data 'Mumbai Nirlon Knowledge Pk B1'. Liveness unknown.",
+   "confidence": "low"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Generative AI Intern",
+   "url": "https://career.crisil.com/crisil/jobview/generative-ai-intern-pune-maharashtra-india-2026012011451279",
+   "location": "Pune, Maharashtra, India",
+   "job_id": "2026012011451279",
+   "type": "Internship",
+   "duration": "not stated",
+   "overrun": "",
+   "exp": "not stated",
+   "track": "ai",
+   "posted": "2026-01-20 (from ID timestamp)",
+   "deadline": "not stated",
+   "jd": "GenAI internship at Crisil (S&P Global company) in Pune. Snippet showed only company description; duties/duration not visible.",
+   "evidence": "WebSearch allowed_domains career.crisil.com: 'Generative AI Intern - About Crisil Limited'. Posted ~Jan 2026, so may be filled/closed - low confidence.",
+   "confidence": "low"
+  },
+  {
+   "company": "CRISIL",
+   "role": "Intern",
+   "url": "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026061511050140",
+   "location": "Mumbai, Maharashtra, India",
+   "job_id": "2026061511050140",
+   "type": "Internship",
+   "duration": "not stated",
+   "overrun": "",
+   "exp": "not stated",
+   "track": "analyst",
+   "posted": "2026-06-15 (from ID timestamp)",
+   "deadline": "not stated",
+   "jd": "Generic Intern requisition at Crisil Mumbai. Indexed text only company boilerplate; function unknown (could be research/analytics or non-target).",
+   "evidence": "WebSearch allowed_domains career.crisil.com: 'About Crisil Limited' page at intern-mumbai...2026061511050140. Function and liveness unverified.",
+   "confidence": "low"
+  }
+ ],
+ "leads": [
+  {
+   "company": "Moody's",
+   "role": "Exposure Modelling Summer Intern / Geospatial Summer Intern (Noida)",
+   "aggregator_url": "",
+   "careers_url": "https://careers.moodys.com/en/category/graduate-and-interns-jobs/49841/9383648/1",
+   "note": "Seen in careers.moodys.com search snippets (Noida / Greater Noida, posted 2026) but no direct job URL returned. Team: Data Analytics & Solutions (property exposure / cat-risk modelling). 'Summer' - check whether it is for penultimate-year (likely) and dates."
+  }
+ ],
+ "excluded": [
+  {
+   "company": "Deutsche Bank",
+   "role": "2027 Summer Internship - Technology, Data & Innovation (Pune/Bangalore)",
+   "url": "https://careers.db.com/students-graduates/internship-programme/",
+   "reason": "Penultimate-year only (must graduate 2028)"
+  },
+  {
+   "company": "Deutsche Bank",
+   "role": "Technology intern - YTP",
+   "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Technology-intern---YTP_R0453251",
+   "reason": "AI/data-science intern but located in Singapore (One Raffles Quay), not India"
+  },
+  {
+   "company": "Deutsche Bank",
+   "role": "India TDI - Apprentice Hiring - 2026-2027",
+   "url": "https://db.wd3.myworkdayjobs.com/DBWebsite/job/Pune---Business-Bay/India-TDI---Apprentice-Hiring---2026-2027_R0442325",
+   "reason": "12-month NATS apprenticeship requiring a completed (recent) engineering degree; candidate graduates May 2027"
+  },
+  {
+   "company": "Deutsche Bank",
+   "role": "Apprentice Hiring for 2026-2027 (Non-Technology: Market Risk / COO office)",
+   "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Apprentice---Non-Technology_R0357981",
+   "reason": "12-month NATS apprenticeship for graduates; old req (~727 days); not open to final-year students"
+  },
+  {
+   "company": "Deutsche Bank",
+   "role": "Operations Early Talent 2026-2027",
+   "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Operations-Early-Talent-2026-2027_R0452987",
+   "reason": "Ops role for 2027 B.Com/BBA grads; not target role/degree"
+  },
+  {
+   "company": "Deutsche Bank",
+   "role": "Apprentice HR Hiring for 2026-2027",
+   "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Apprentice---HR_R0419160",
+   "reason": "HR"
+  },
+  {
+   "company": "HSBC",
+   "role": "Analyst - Intern (Risk & Compliance, traded risk model dev, Bangalore)",
+   "url": "https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Analyst-Intern/287746",
+   "reason": "Closed late Nov 2025"
+  },
+  {
+   "company": "HSBC",
+   "role": "Intern - Data Science (Asset Mgmt / IWPB, Bangalore)",
+   "url": "https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Intern-Data-Science/286724",
+   "reason": "Closed Oct 2025"
+  },
+  {
+   "company": "HSBC",
+   "role": "Summer Intern - Pan India (Mumbai)",
+   "url": "https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Summer-Intern-Pan-India/283931",
+   "reason": "Closed Oct 2025; summer programme (8-10 wks)"
+  },
+  {
+   "company": "HSBC",
+   "role": "Internship, Data & Analytics Office",
+   "url": "https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Internship-Data-Analytics-Office/246437",
+   "reason": "Old (2024) requisition"
+  },
+  {
+   "company": "UBS",
+   "role": "2027 Summer Internship - Group Internal Consulting (AI Engineer)",
+   "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=351374",
+   "reason": "10-week summer programme; location not India-confirmed"
+  },
+  {
+   "company": "UBS",
+   "role": "2026 Off-cycle Internship (various)",
+   "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=342188",
+   "reason": "2026 cohort, Europe/Philippines locations, none India"
+  },
+  {
+   "company": "BNP Paribas",
+   "role": "Data Science Intern (Bengaluru)",
+   "url": "https://group.bnpparibas/en/careers/job-offer/data-science-intern-1",
+   "reason": "Marked 'position already filled'"
+  },
+  {
+   "company": "BNP Paribas",
+   "role": "Internship - Operations Analyst",
+   "url": "https://group.bnpparibas/en/careers/job-offer/internship-operations-analyst-1",
+   "reason": "Operations, shift work, asks 6-24 months ops experience"
+  },
+  {
+   "company": "BNP Paribas",
+   "role": "Prism 2026 / Internship 2026",
+   "url": "https://group.bnpparibas/en/careers/job-offer/prism-2026",
+   "reason": "2026 cohort cross-functional (IT/Ops/Finance/HR) programme; not 2027, finance track"
+  },
+  {
+   "company": "BNP Paribas",
+   "role": "Machine Learning Intern - Summer 2027",
+   "url": "https://group.bnpparibas/en/careers/job-offer/machine-learning-intern-summer-2027",
+   "reason": "Canada, Master's/PhD at Canadian university only"
+  },
+  {
+   "company": "Bank of America",
+   "role": "Academic Tech Intern",
+   "url": "https://careers.bankofamerica.com/en-us/job-detail/25044134/academic-tech-intern-multiple-locations",
+   "reason": "Class of 2026 MTech/MCA only; ~1 year old"
+  },
+  {
+   "company": "Bank of America",
+   "role": "India - Apprentice - 2026 - Mumbai",
+   "url": "https://careers.bankofamerica.com/en-us/students/job-detail/14773/india-apprentice-2026-mumbai-mumbai-india",
+   "reason": "Class of 2026; deadline 30 Sep 2026 passed"
+  },
+  {
+   "company": "Bank of America",
+   "role": "Global Technology Summer Analyst 2027 - Business Analyst",
+   "url": "https://careers.bankofamerica.com/en-us/students/job-detail/14419/global-technology-summer-analyst-2027-business-analyst-multiple-locations",
+   "reason": "Penultimate-year summer (grad Nov 2027-Aug 2028)"
+  },
+  {
+   "company": "Wells Fargo",
+   "role": "2027 Quantitative Analytics Program Intern (Bengaluru)",
+   "url": "https://www.wellsfargojobs.com/en/jobs/r-558426/2027-quantitative-analytics-program-intern/",
+   "reason": "Summer May-Aug 2027 for students graduating Mar-Aug 2028; posting closed 26 Aug 2026"
+  },
+  {
+   "company": "Wells Fargo",
+   "role": "2027 Technology Program Intern (Bengaluru/Hyderabad)",
+   "url": "https://www.wellsfargojobs.com/en/jobs/r-557386/",
+   "reason": "Summer May-Aug 2027 for 2028 grads"
+  },
+  {
+   "company": "Wells Fargo",
+   "role": "Technology Program Intern (AI, Machine Learning, Java, Python) (Evergreen)",
+   "url": "https://wd1.myworkdaysite.com/en-US/recruiting/wf/WellsFargoJobs/job/Hyderabad,-India/Technology-Program-Intern--AI--Machine-Learning--Java--Python---Evergreen-_R-477001/apply/applyManually",
+   "reason": "Posting end date 19 Sep 2025"
+  },
+  {
+   "company": "Wells Fargo",
+   "role": "Intern Analyst / Intern Analyst - Quantitative Analytics Profile",
+   "url": "https://www.wellsfargojobs.com/en/jobs/r-494653/intern-analyst/",
+   "reason": "2025 reqs (R-494653 posted 7 Oct 2025; R-473284 older)"
+  },
+  {
+   "company": "Standard Chartered",
+   "role": "Apprentice Technology GBS India 2026",
+   "url": "https://jobs.standardchartered.com/job/Apprentice-Technology-GBS-India-2026/58756-en_GB",
+   "reason": "Closed 7 Aug 2026"
+  },
+  {
+   "company": "Standard Chartered",
+   "role": "Apprentice Operations / Functions GBS India 2026",
+   "url": "https://jobs.standardchartered.com/job/Apprentice-Functions-GBS-India-2026/56452-en_GB/",
+   "reason": "For 2024-2026 graduates (commerce); not final-year, ops/functions"
+  },
+  {
+   "company": "Standard Chartered",
+   "role": "Internship Programmes US/UK 2027",
+   "url": "https://jobs.standardchartered.com/job/Strategic-Solutions-&-Advisory-Internship-Programme-US-2027/57311-en_GB/",
+   "reason": "US/UK summer, penultimate-year"
+  },
+  {
+   "company": "Morningstar",
+   "role": "Intern (AP-22782793) / Finance Intern (AP-22782794), Navi Mumbai",
+   "url": "https://careers.morningstar.com/us/en/job/AP-22782793/Intern",
+   "reason": "~403 days old; sibling req is CA-Inter finance intern; function unknown"
+  },
+  {
+   "company": "Morningstar",
+   "role": "Morningstar Internship Program - Quantitative Research Intern 2027 (Partner Link)",
+   "url": "https://morningstar.wd5.myworkdayjobs.com/en-US/Confidential/job/Morningstar-Internship-Program--Quantitative-Research-Intern-2027--Partner-Link-_REQ-057910-1",
+   "reason": "Partner-link summer 2027 programme, likely US"
+  },
+  {
+   "company": "CRISIL",
+   "role": "HR Tech Internship (Mumbai)",
+   "url": "https://career.crisil.com/crisil/jobview/hr-internship-mumbai-maharashtra-india-2025070913471129",
+   "reason": "HR; 2025 posting"
+  },
+  {
+   "company": "S&P Global",
+   "role": "Machine Learning Engineer - Summer Intern 2027",
+   "url": "https://careers.spglobal.com/jobs/331714?lang=en-us",
+   "reason": "Summer 2027, multiple (likely US) locations"
+  },
+  {
+   "company": "S&P Global",
+   "role": "Apprentice roles (Gurgaon SW Dev 329545, Hyderabad 331282, Ahmedabad Data Ops 327403, ESG Data 318848)",
+   "url": "https://careers.spglobal.com/jobs/329545?lang=en-us",
+   "reason": "12-month apprenticeships for 2025/2026 graduates; candidate not yet graduated; several past valid-through"
+  },
+  {
+   "company": "Moody's",
+   "role": "Analytics and Modeling Intern",
+   "url": "https://careers.moodys.com/analytics-and-modeling-intern/job/10612",
+   "reason": "4-month internship starting Feb 2026; outdated, no India location"
+  },
+  {
+   "company": "D. E. Shaw India",
+   "role": "Industrial Trainee - Financial Operations (Hyderabad)",
+   "url": "https://www.deshawindia.com/careers/industrial-trainee-financial-operations-7003",
+   "reason": "CA Inter + articleship; finance/accounting"
+  }
+ ],
+ "companies": [
+  {
+   "name": "Barclays",
+   "careers_url": "https://search.jobs.barclays/internships",
+   "ats": "other",
+   "ats_endpoint": "https://barclays.wd3.myworkdayjobs.com/wday/cxs/barclays/External_Career_Site_Barclays/jobs",
+   "result": "none found",
+   "note": "No India internship req indexed. Pune search page shows filter 'Internships Data Analytics (1)' and India search shows 29 'intern' keyword hits but no titles/locations visible; 2027 off-cycle programmes only in Europe. Worth a direct API check on Pune+intern."
+  },
+  {
+   "name": "Deutsche Bank",
+   "careers_url": "https://careers.db.com/students-graduates/internship-programme/",
+   "ats": "workday",
+   "ats_endpoint": "https://db.wd3.myworkdayjobs.com/wday/cxs/db/DBWebsite/jobs",
+   "result": "found 1 (low)",
+   "note": "Generic 'Intern' R0443954 in Mumbai. India 2027 summer internship (TDI Pune/Bangalore) is penultimate-year only; India apprenticeships (NATS) are for graduates."
+  },
+  {
+   "name": "Nomura",
+   "careers_url": "https://www.nomura.com/careers/early-careers/internship-programs/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Powai runs 6-month and 2-month internships (GM, IBD, Tech & Corporate) but India intake is via campus/pre-final year; nothing indexed on careers.nomura.com."
+  },
+  {
+   "name": "HSBC",
+   "careers_url": "https://mycareer.hsbc.com/en_GB/external/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "All India intern reqs found (Bangalore DS/risk analytics, Mumbai Pan-India summer) closed Oct-Nov 2025; India cycle seems to open ~Sep-Oct each year - new 2026 reqs may appear soon."
+  },
+  {
+   "name": "BNP Paribas",
+   "careers_url": "https://group.bnpparibas/en/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "BNP Paribas India Solutions interns seen: DS intern (filled), Ops interns, Prism 2026; no live 2027 analytics/AI intern."
+  },
+  {
+   "name": "UBS",
+   "careers_url": "https://www.ubs.com/global/en/careers/early-careers/opportunities/internship-program-india.html",
+   "ats": "other",
+   "ats_endpoint": "jobs.ubs.com TGnewUI (BrassRing) partnerid=25008 siteid=5131/5176",
+   "result": "none found",
+   "note": "UBS India internships 2-12 months (regular 6-12 month via university partnerships); no India req indexed on job board."
+  },
+  {
+   "name": "Bank of America",
+   "careers_url": "https://careers.bankofamerica.com/en-us/students",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "found 1 (medium)",
+   "note": "Class of 2027 BTech CS/IT Apprentice 26037461 across India sites."
+  },
+  {
+   "name": "Wells Fargo",
+   "careers_url": "https://www.wellsfargojobs.com/en/early-careers/international-programs/india-programs/",
+   "ats": "workday",
+   "ats_endpoint": "https://wd1.myworkdaysite.com/wday/cxs/wf/WellsFargoJobs/jobs",
+   "result": "none found",
+   "note": "India 2027 interns are summer programmes for 2028 grads (Quant Analytics, Technology); last India intern window opened ~23 Jan 2026 and closed in days."
+  },
+  {
+   "name": "Standard Chartered",
+   "careers_url": "https://www.sc.com/en/global-careers/early-careers/local-programmes-for-students/india-student-opportunities/",
+   "ats": "successfactors",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "India GBS apprenticeships for graduates; no India internship req found."
+  },
+  {
+   "name": "NatWest Group",
+   "careers_url": "https://jobs.natwestgroup.com/search/jobs/in/country/india",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Chennai page shows an internship filter count of 2 but none visible; Accelerate FTC 2026 (6 months) is fixed-term not internship."
+  },
+  {
+   "name": "Morningstar",
+   "careers_url": "https://careers.morningstar.com/us/en/",
+   "ats": "workday",
+   "ats_endpoint": "https://morningstar.wd5.myworkdayjobs.com/wday/cxs/morningstar/Americas/jobs",
+   "result": "none found",
+   "note": "Navi Mumbai 'Intern' reqs stale/finance; entry-level Data Analyst roles exist for fresh grads (Q2 2026 joining)."
+  },
+  {
+   "name": "CRISIL",
+   "careers_url": "https://career.crisil.com",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "found 2 (low)",
+   "note": "GenAI Intern Pune (Jan 2026) and generic Intern Mumbai (Jun 2026); details/liveness unverified."
+  },
+  {
+   "name": "S&P Global",
+   "careers_url": "https://careers.spglobal.com",
+   "ats": "workday",
+   "ats_endpoint": "https://spgi.wd5.myworkdayjobs.com",
+   "result": "none found",
+   "note": "India uses 12-month apprenticeships for recent grads; 2027 interns are summer/US."
+  },
+  {
+   "name": "Moody's",
+   "careers_url": "https://careers.moodys.com/en/category/graduate-and-interns-jobs/49841/9383648/1",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found (1 lead)",
+   "note": "Noida Exposure Modelling / Geospatial Summer Intern listed (no direct URL)."
+  },
+  {
+   "name": "MSCI",
+   "careers_url": "https://careers.msci.com/early-careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Only NY intern indexed; Mumbai/Pune roles are experienced hires."
+  },
+  {
+   "name": "D. E. Shaw India",
+   "careers_url": "https://www.deshawindia.com/careers/internships",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Internships routed only via campus placement offices (8-12 week summer); Industrial Trainee roles are CA/finance."
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "cluster": "R4d-fintech-india-2",
+ "checked": "30 Oct 2026",
+ "openings": [
+  {
+   "company": "PayU India",
+   "role": "DA intern",
+   "url": "https://careers.payu.in/job/Gurgaon-DA-intern/54092380/",
+   "location": "Gurgaon",
+   "city_rank": 4,
+   "job_id": "54092380",
+   "duration": "minimum 6 months",
+   "dates": "Oct 2026–Mar 2027",
+   "runs_past_may": false,
+   "exp": "not stated (intern)",
+   "pay": "up to ₹50,000/month",
+   "track": "bfsi",
+   "posted": "2026-10-20",
+   "deadline": "",
+   "jd": "Builds AI-enabled data analytics use cases for PayU Internal Audit on the Toqan platform: data pipelines to Salesforce/AWS data lake, anomaly detection, NLP/GenAI query interfaces and continuous-monitoring exception reports.",
+   "li": "PayU Internal Audit (Data Analytics)",
+   "resume": "Analyst / PM",
+   "verified": "SuccessFactors detail page 200 and listed on careers.payu.in live search (q=intern)",
+   "note": "Stated start Oct 2026, so it may be filled soon; apply quickly. Eligibility not stated."
+  },
+  {
+   "company": "Jar",
+   "role": "Growth Intern - Nek",
+   "url": "https://changejar.applytojob.com/apply/fnAOMBtD2D",
+   "location": "Bengaluru",
+   "city_rank": 3,
+   "job_id": "job_20260828110750_IK9SWJIN33O9ZDOJ",
+   "duration": "not stated",
+   "dates": "not stated",
+   "runs_past_may": false,
+   "exp": "Bachelor's in Engineering/Math/Statistics or related, or MBA",
+   "pay": "",
+   "track": "pm",
+   "posted": "2026-08-28",
+   "deadline": "",
+   "jd": "Works with product and growth teams on Nek (Jar's jewellery brand): analyses A/B experiments and product features, validates event data, maintains trackers and builds in-app engagement journeys in Plotline/CleverTap. Asks for strong Excel/Sheets and interest in product analytics tools.",
+   "li": "Jar Nek Growth / Product",
+   "resume": "Analyst / PM",
+   "verified": "JazzHR board changejar.applytojob.com lists it; detail page 200",
+   "note": "Dates not stated; posted Aug 2026."
+  }
+ ],
+ "rejected": [
+  {
+   "company": "PayU India",
+   "role": "Intern",
+   "url": "https://careers.payu.in/PayU/job/Mumbai-Intern/54285680/",
+   "reason": "Finance controllership CA internship (finance/accounting only)"
+  },
+  {
+   "company": "PayU India",
+   "role": "Intern",
+   "url": "https://careers.payu.in/PayU/job/Gurgaon-Intern/3614880/",
+   "reason": "MBA intern, CEO's office; requires current MBA student"
+  },
+  {
+   "company": "PayU India",
+   "role": "Intern 1",
+   "url": "https://careers.payu.in/PayU/job/Gurgaon-Intern-1/53343480/",
+   "reason": "MBA intern, CEO's office (duplicate of the above); requires current MBA student"
+  },
+  {
+   "company": "PayU India",
+   "role": "Marketing Intern",
+   "url": "https://careers.payu.in/PayU/job/Bengaluru-Marketing-Intern/53316580/",
+   "reason": "Marketing role"
+  },
+  {
+   "company": "Jar",
+   "role": "Customer Support Intern",
+   "url": "https://changejar.applytojob.com/apply/ARsQqN0yjj",
+   "reason": "Customer support / ops role"
+  },
+  {
+   "company": "Cashfree Payments",
+   "role": "Marketing Intern (Cross-Border) - 6 months Internship",
+   "url": "https://careers.kula.ai/cashfree/62088-marketing-intern-cross-border-6-months-internship?jobs=true",
+   "reason": "Marketing role"
+  }
+ ],
+ "round1": [],
+ "companies": [
+  {
+   "name": "PayU India",
+   "ats": "SAP SuccessFactors",
+   "endpoint": "https://careers.payu.in/search/",
+   "india_intern_hits": 5,
+   "kept": 1,
+   "note": "Paged all 149 postings + keyword searches"
+  },
+  {
+   "name": "Jar",
+   "ats": "JazzHR",
+   "endpoint": "https://changejar.applytojob.com/apply",
+   "india_intern_hits": 2,
+   "kept": 1,
+   "note": "Whole board (8 jobs)"
+  },
+  {
+   "name": "Cashfree Payments",
+   "ats": "Kula",
+   "endpoint": "https://careers.kula.ai/cashfree?jobs=true",
+   "india_intern_hits": 1,
+   "kept": 0,
+   "note": "Whole board (31 jobs); only a marketing intern"
+  },
+  {
+   "name": "Zeta",
+   "ats": "Lever",
+   "endpoint": "https://api.lever.co/v0/postings/zeta",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Whole board 30 jobs, 0 intern (greenhouse 'zetaglobal' is Zeta Global, a different company)"
+  }
+ ]
+}

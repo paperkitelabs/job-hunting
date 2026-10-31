@@ -1,0 +1,29 @@
+{
+ "company": "Glance (InMobi)",
+ "ats": "greenhouse",
+ "endpoint": "https://boards-api.greenhouse.io/v1/boards/glance/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 34,
+ "india_intern_hits": [
+  {
+   "title": "UX Design - Intern",
+   "loc": "Bengaluru",
+   "url": "https://job-boards.greenhouse.io/glance/jobs/7916115",
+   "id": "7916115",
+   "posted": "2026-10-26"
+  }
+ ],
+ "details": {
+  "https://job-boards.greenhouse.io/glance/jobs/7916115": {
+   "title": "UX Design - Intern",
+   "loc": "Bengaluru",
+   "commitment": null,
+   "posted": "2026-10-26T03:54:17-04:00",
+   "desc": "Glance \nGlance is an intelligent shopping agent, redefining the commerce experience. Powered by proprietary agentic intelligence and generative AI, Glance delivers a hyper-personalized consumer experience across mobile and TV — shaping the new era of shopping. Glance is operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of global technology leader InMobi, and is backed by Mithril Capital, Google and Jio Platforms. To learn more, visit glance.com. \n InMobi \nInMobi Group is a global technology company shaping the future of agentic commerce and advertising. Through its ecosystem of businesses — including InMobi Advertising and flagship consumer platform Glance — InMobi leverages data, machine learning, and generative AI to help brands reach audiences more precisely and consumers discover products more intuitively. Glance, which is pioneering new models of agentic commerce, is owned and operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of InMobi Pte. Ltd. \n InMobi Advertising \nInMobi Advertising, part of global technology company InMobi, is an agentic advertising platform helping brands and merchants achieve their business outcomes. Through its proprietary intelligence, AI-led solutions, and vast consumer reach — including flagship consumer platform Glance — InMobi Advertising delivers the omnichannel performance defining what's next in advertising and commerce. Glance is owned and operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of InMobi Pte. Ltd. To learn more, visit advertising.inmobi.com. \nGlance TV is an AI-powered shopping platform live on connected TVs, spanning ambient content, a dedicated shop app, and an AI shopping agent. We're looking for a UX Design Intern to work alongside our designers across the full surface area of the product. \n What you'll do \nContribute to UX and visual design across shopping cards, brand stores, editorial layouts, ambient surfaces, and agent interactions on the TV canvas \nWork through flows, states, and edge cases for live and upcoming features \nHelp shape and maintain our design system — components, patterns, documentation \nParticipate in critiques, explorations, and reviews alongside lead, visual, and motion designers \nSupport handoff and partner with engineering through to ship \n What we're looking for \nA design student or recent graduate with a strong portfolio that shows thinking and craft — how you frame problems, not just how things look \nCuriosity about interaction, behaviour, and how people actually use products \nSystems thinking — you notice patterns, care about consistency, and like building reusable things \nA maker's disposition — you like shipping, iterating, and getting your hands dirty \nInterest in AI, ambient computing, or the TV/large-screen medium is a plus \n \" Glance collects and processes personal data such as your name, contact details, resume and other information that may contain personal data for the purpose of processing your application. Glance utilizes Greenhouse, a third-party platform. Please review Greenhouse's Privacy Policy to understand how the data collected from you is processed and managed. By clicking on 'Submit Application', you acknowledge and agree to the above privacy terms. Should you have any privacy concerns, you may contact us through the details mentioned in your application confirmation email.\"",
+   "live": "in board list 2026-10-30"
+  }
+ }
+}

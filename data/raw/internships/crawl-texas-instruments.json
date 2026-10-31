@@ -1,0 +1,17 @@
+{
+ "company": "Texas Instruments",
+ "ats": "oracle",
+ "endpoint": "https://edbz.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions (site CX, India loc 300000000361484)",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "graduate",
+  "student"
+ ],
+ "total_hits": 67,
+ "india_intern_hits": [],
+ "details": {}
+}

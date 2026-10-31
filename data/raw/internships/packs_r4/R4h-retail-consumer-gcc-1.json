@@ -1,0 +1,208 @@
+{
+ "cluster": "R4h-retail-consumer-gcc-1",
+ "companies": [
+  {
+   "name": "Home Depot",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Kroger / 84.51",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Best Buy",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "McDonald's (GCC Hyderabad)",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Nike",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Levi Strauss",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "H&M",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Marks & Spencer",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Sainsbury's",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Ralph Lauren",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Gap Inc",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Carrier",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Otis",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Trane Technologies",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Emerson",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Rockwell Automation",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Danaher",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Thermo Fisher",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Medtronic",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Abbott",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Baxter",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "BD (Becton Dickinson)",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Stryker",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Roche",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Bayer",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "MSD (Merck)",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Novo Nordisk",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Takeda",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Teva",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  }
+ ]
+}

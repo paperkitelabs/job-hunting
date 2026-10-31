@@ -1,0 +1,178 @@
+{
+ "https://apply.careers.microsoft.com/careers/job/1970393556917519?domain=microsoft.com": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://career.crisil.com/crisil/jobview/generative-ai-intern-pune-maharashtra-india-2026012011451279": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-202608251030017": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026091011292585": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://career.crisil.com/crisil/jobview/intern-mumbai-maharashtra-india-2026093019250125": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://careers.bcg.com/global/en/job/59487/BCG-X-Finance-Intern": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://careers.honeywell.com/en/sites/Honeywell/job/160488": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://careers.honeywell.com/en/sites/Honeywell/job/160495": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://careers.honeywell.com/en/sites/Honeywell/job/160859": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://careers.honeywell.com/en/sites/Honeywell/job/160868": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://careers.honeywell.com/en/sites/Honeywell/job/160947": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://careers.honeywell.com/en/sites/Honeywell/job/161165": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://careers.payu.in/job/Gurgaon-DA-intern/54092380/": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://changejar.applytojob.com/apply/fnAOMBtD2D": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://eaton.eightfold.ai/careers/job/687239452576?domain=eaton.com": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/147080": {
+  "ok": true,
+  "how": "oracle detail found"
+ },
+ "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-14-45-Uppal-STPI-Hyderabad/Interns_JR10025121": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-14-45-Uppal-STPI-Hyderabad/Interns_JR10025122": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-14-45-Uppal-STPI-Hyderabad/Interns_JR10025124": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-14-45-Uppal-STPI-Hyderabad/Interns_JR10025125": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-E-145146-Sitapura-STPI-Jaipur/Interns_JR10031092-1": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-Floor-1-to-12-Hafeezpet-Phoenix-Hyderabad/Interns_JR10030422": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-Indiabulls-Mega-Mall-Jodhpur-RJ/Interns_JR10031221-1": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-JLN-Marg-STPI-Jaipur/Interns_JR10031397-1": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://genpact.wd108.myworkdayjobs.com/campussite/job/1401-G-India-Stellar-STPI-Noida/Interns_JR10028115": {
+  "ok": false,
+  "how": "workday detail 403"
+ },
+ "https://internshala.com/internship/detail/ai-ml-computer-vision-sports-analytics-internship-in-hyderabad-at-sujith-kumar-gundala1791371206": {
+  "ok": true,
+  "how": "internshala page 200"
+ },
+ "https://internshala.com/internship/detail/data-analytics-internship-in-multiple-locations-at-unnati-enterprises1791551631": {
+  "ok": true,
+  "how": "internshala page 200"
+ },
+ "https://internshala.com/internship/detail/data-engineering-internship-in-bangalore-at-primenumbers-technologies1791894510": {
+  "ok": true,
+  "how": "internshala page 200"
+ },
+ "https://internshala.com/internship/detail/forward-deployed-software-engineer-internship-in-multiple-locations-at-route-mobile-limited1791288694": {
+  "ok": true,
+  "how": "internshala page 200"
+ },
+ "https://internshala.com/internship/detail/part-time-software-development-internship-in-bangalore-at-salesforce1789133363": {
+  "ok": true,
+  "how": "internshala page 200"
+ },
+ "https://internshala.com/internship/detail/reinforcement-learning-data-science-internship-in-multiple-locations-at-arakoo1790829998": {
+  "ok": true,
+  "how": "internshala page 200"
+ },
+ "https://internshala.com/internship/detail/software-development-internship-in-bangalore-at-penguin-solutions1792413587": {
+  "ok": true,
+  "how": "internshala page 200"
+ },
+ "https://internshala.com/internship/detail/work-from-home-market-research-internship-at-axe-consultancy-and-security-services-llc1791797570": {
+  "ok": true,
+  "how": "internshala page 200"
+ },
+ "https://internshala.com/internship/detail/work-from-home-part-time-llm-multimodal-ai-model-training-internship-at-karanpreet-singh1791889583": {
+  "ok": true,
+  "how": "internshala page 200"
+ },
+ "https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Intern_R1567860": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---Horizon/Oliver-Wyman---Actuarial-Intern---Life_R_303261-1": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://opportunities.rbi.org.in/scripts/bs_viewcontent.aspx?Id=3496": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Intern_4965781": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://pg.wd5.myworkdayjobs.com/1000/job/MUMBAI-GENERAL-OFFICE/Information-Technology-Intern_R000161858": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://southasiacareers.deloitte.com/job/Delhi-Intern-CEO%26apos%3BS-OFFICE-Delhi-CEO%26apos%3Bs-Office/60770544/": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Operations-Early-Career-Entry-Program_R-799807": {
+  "ok": true,
+  "how": "workday detail 200, canApply=True"
+ },
+ "https://www.quadeye.com/jobs/199893000002318371": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://www.quadeye.com/jobs/199893000002318430": {
+  "ok": true,
+  "how": "GET 200"
+ },
+ "https://www.quadeye.com/jobs/199893000002318440": {
+  "ok": true,
+  "how": "GET 200"
+ }
+}

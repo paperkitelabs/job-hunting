@@ -1,0 +1,11 @@
+{
+ "company": "LTIMindtree",
+ "ats": "unknown",
+ "endpoint": "careers.ltimindtree.com",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "error": "Unreachable: careers.ltimindtree.com connection fails; www.ltimindtree.com redirects to ltm.com (406). Not crawled."
+}

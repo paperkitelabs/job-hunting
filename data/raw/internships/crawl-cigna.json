@@ -1,0 +1,22 @@
+{
+ "company": "Cigna / Evernorth",
+ "ats": "workday",
+ "endpoint": "https://cigna.wd5.myworkdayjobs.com/wday/cxs/cigna/cignacareers/jobs",
+ "queried_at": "2026-10-30T07:32:40",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "student",
+  "2027",
+  "co-op",
+  "graduate intern",
+  ""
+ ],
+ "total_hits": 113,
+ "india_intern_hits": [],
+ "details": {}
+}

@@ -1,0 +1,20 @@
+{
+ "company": "Expedia Group",
+ "ats": "workday",
+ "endpoint": "https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "graduate intern",
+  "student",
+  "co-op",
+  "university"
+ ],
+ "total_hits": 17,
+ "india_intern_hits": [],
+ "details": {}
+}

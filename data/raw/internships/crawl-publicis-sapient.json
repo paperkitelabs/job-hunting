@@ -1,0 +1,16 @@
+{
+ "company": "Publicis Sapient",
+ "ats": "icims jibe (careers.publicisgroupe.com)",
+ "endpoint": "https://careers.publicisgroupe.com/api/jobs?location=India",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice"
+ ],
+ "total_hits": 22,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "intern/internship/apprentice: 0 results; trainee fuzzy-matched 22 India FT roles, none intern"
+}

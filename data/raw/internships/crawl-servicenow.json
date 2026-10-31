@@ -1,0 +1,17 @@
+{
+ "company": "ServiceNow",
+ "ats": "smartrecruiters",
+ "endpoint": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings?country=in",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  ""
+ ],
+ "total_hits": 82,
+ "india_intern_hits": [],
+ "details": {}
+}

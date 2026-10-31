@@ -1,0 +1,17 @@
+{
+ "company": "AXA XL",
+ "ats": "jibe",
+ "endpoint": "https://careers.axa.com/api/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "graduate",
+  "India"
+ ],
+ "total_hits": 446,
+ "india_intern_hits": [],
+ "details": {}
+}

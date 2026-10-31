@@ -1,0 +1,20 @@
+{
+ "company": "Target India",
+ "ats": "workday",
+ "endpoint": "https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "graduate intern",
+  "student",
+  "co-op",
+  "university"
+ ],
+ "total_hits": 70,
+ "india_intern_hits": [],
+ "details": {}
+}

@@ -1,0 +1,106 @@
+{
+ "company": "Jio Platforms",
+ "ats": "custom ASP.NET (careers.jio.com)",
+ "endpoint": "https://careers.jio.com/frmJobCategories.aspx keyword postback + frmfuncwisejob.aspx category lists (first 10 rows each)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "analyst",
+  "data",
+  "apprentice"
+ ],
+ "total_hits": 70,
+ "india_intern_hits": [
+  {
+   "title": "Jio Point Sales Intern ( 87446661 )",
+   "loc": "Samalkot",
+   "url": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=5QqqZrXKHPKkv3AnuOdh5A==&jbID=QEmDzksfOC0aB3Ep5Tje5A==&funcCode=STY5uyjt2IX+JWtw/FyqipkGHFJqSw/Q",
+   "id": "87446661",
+   "posted": "30 Oct 2026"
+  },
+  {
+   "title": "Jio Point Sales Intern ( 87446663 )",
+   "loc": "Kunigal",
+   "url": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=ig+jaIB7Kq/uuJi1DmHLwg==&jbID=Eyw+V5HZ7e+gS51moYf/9A==&funcCode=STY5uyjt2IX+JWtw/FyqipkGHFJqSw/Q",
+   "id": "87446663",
+   "posted": "30 Oct 2026"
+  },
+  {
+   "title": "Jio Point Sales Intern ( 87432428 )",
+   "loc": "Bhainsa",
+   "url": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=gumTIZDNBrArsuhSFJyEcg==&jbID=ndisrEyX7rBsMVqysVk7WQ==&funcCode=STY5uyjt2IX+JWtw/FyqipkGHFJqSw/Q",
+   "id": "87432428",
+   "posted": "29 Oct 2026"
+  },
+  {
+   "title": "Graduate Engineer Trainee ( 87407382 )",
+   "loc": "Mumbai",
+   "url": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=PnZEcG4c0DKoPIHfD9z66Q==&jbID=oli2+WjXAcV+q3Axi0eH1g==&funcCode=ni4dknKJ6TY=",
+   "id": "87407382",
+   "posted": "27 Oct 2026"
+  },
+  {
+   "title": "Graduate Engineer Trainee ( 87407724 )",
+   "loc": "Mumbai",
+   "url": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=naapXSEYIbmJzpMPrRuTGg==&jbID=p9x2wNtCn9fSUr3u1csd3g==&funcCode=ni4dknKJ6TY=",
+   "id": "87407724",
+   "posted": "27 Oct 2026"
+  },
+  {
+   "title": "Graduate Engineer Trainee ( 87407810 )",
+   "loc": "Mumbai",
+   "url": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=ch+i4E1Ra6Lx2mkkWCgckA==&jbID=DT5bxBdv/7BF4S+Xr8vbkg==&funcCode=ni4dknKJ6TY=",
+   "id": "87407810",
+   "posted": "27 Oct 2026"
+  },
+  {
+   "title": "Network Diploma Engineer Trainee ( 87370108 )",
+   "loc": "Supaul",
+   "url": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=rQiVOx8Ld527RvpBMglNzw==&jbID=XlFEK0KcSCbB/12mPHWkEQ==&funcCode=YhJgFShXD7ZjFGzP95lsOA==",
+   "id": "87370108",
+   "posted": "23 Oct 2026"
+  },
+  {
+   "title": "Network Diploma Engineer Trainee ( 87370648 )",
+   "loc": "Bagaha",
+   "url": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=oCqK0Hn2X/7XalEJgNjimQ==&jbID=RS1URNVfZdcmp5Gn6JedKQ==&funcCode=YhJgFShXD7ZjFGzP95lsOA==",
+   "id": "87370648",
+   "posted": "23 Oct 2026"
+  },
+  {
+   "title": "Network Diploma Engineer Trainee ( 87372323 )",
+   "loc": "Devangere",
+   "url": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=CRls/qQZYG11HCQgSr/mow==&jbID=i0v/d5T5jhLgDwjeEnofIQ==&funcCode=YhJgFShXD7ZjFGzP95lsOA==",
+   "id": "87372323",
+   "posted": "23 Oct 2026"
+  },
+  {
+   "title": "Network Diploma Engineer Trainee ( 87373160 )",
+   "loc": "Tohana",
+   "url": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=BI2XHBzLX6rxwYp+R4qGpA==&jbID=mfbMuubPfJtTS4uVxfDHSQ==&funcCode=YhJgFShXD7ZjFGzP95lsOA==",
+   "id": "87373160",
+   "posted": "23 Oct 2026"
+  },
+  {
+   "title": "Network Diploma Engineer Trainee ( 87373276 )",
+   "loc": "Panipat",
+   "url": "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=leRwcKxKKhKgwX9807Pt/g==&jbID=JmlamxuKT0y5RvUIWaxKbQ==&funcCode=YhJgFShXD7ZjFGzP95lsOA==",
+   "id": "87373276",
+   "posted": "23 Oct 2026"
+  }
+ ],
+ "details": {
+  "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=5QqqZrXKHPKkv3AnuOdh5A==&jbID=QEmDzksfOC0aB3Ep5Tje5A==&funcCode=STY5uyjt2IX+JWtw/FyqipkGHFJqSw/Q": {
+   "title": "Jio Point Sales Intern ( 87446661 )",
+   "status": 200,
+   "desc": "Job Descriptions & Apply for Jio Careers \r\n Skip to main content\r\n Skip to main content\r\n Careers \r\n Home \r\n About Us \r\n Job Opportunities \r\n Alumni Corner\r\n Alumni\r\n Verification \r\n Alumni\r\n Assistance \r\n Alumni Portal \r\n Validate Your Offer \r\n Switch to \r\n English \r\n Jio Point Sales Intern ( 87446661 ) \r\n &title=Jio%20Jobs%20&summary=My%20favorite%20%20program&source=LinkedIn\" onclick=\"return Linkdn_click()\" class=\"linkendinicon\"> \r\n \" aria-label=\"Facebook link\" onclick=\"return fbs_click()\" target=\"_blank\" class=\"facebookicon\"> \r\n To view this video please enable JavaScript, and consider upgrading to a web browser that\r\n supports HTML5 video \r\n Posted Date \r\n 30 Oct 2026 \r\n Function/Business Area \r\n Sales and Distribution \r\n Location \r\n Samalkot \r\n Job Responsibilities \r\n 1.Assist the store in-charge with Jio product demos to drive\nconversions.\n2.Handle walk-in queries and ensure quick issue resolution.\n3.Maintain product displays as per guidelines.\n4.Ensure merchandising as per organizational specifications.\n5.Ensure a delightful and seamless customer experience. \r\n Education Requirement \r\n 10+2/ITI/Diploma \r\n Experience Requirement \r\n Fresher \r\n Skills & Competencies \r\n 1.Good communication skills.\n2.Fluency in the local Language and basic understanding of English.\n3.Basic proficiency in using smartphones and laptops. \r\nPlease update your profile and upload resume to apply \r\n Forgot Password \r\n Location Map : Samalkot \r\nCopyright © 2026 Reliance Jio Infocomm Ltd. All rights reserved. \r\n Privacy Policy \r\n Legal Notice \r\n Fraud Alert - Global \r\n Fraud Alert \r\n à¤§à¥‹à¤–à¤¾à¤§à¤¡à¤¼à¥€ à¤•à¥€ à¤šà¥‡à¤¤à¤¾à¤µà¤¨à¥€ \r\n à¤«à¤¸à¤µà¤£à¥à¤•à¥€à¤šà¤¾ à¤‡à¤¶à¤¾à¤°à¤¾ \r\n àª›à«‡àª¤àª°àªªàª¿àª‚àª¡à«€ àª…àª‚àª—à«‡ àªšà«‡àª¤àªµàª£à«€ \r\n à®®à¯‹à®šà®Ÿà®¿ à®Žà®šà¯à®šà®°à®¿à®•à¯à®•à¯ˆ! \r\n à°®à±‹à°¸à°¾à°²à°ªà±ˆ à°¹à±†à°šà±à°šà°°à°¿à°• \r\n à´µà´žàµà´šà´¨à´¾ à´®àµà´¨àµà´¨à´±à´¿à´¯à´¿à´ªàµà´ªàµ! \r\n à²®à³‹à²¸à²¦ à²•à³à²°à²¿à²¤à³ à²Žà²šà³à²šà²°à²¿à²•à³†! \r\n User Login \r\n Partner Login \r\n Forgot Password? \r\n Or Sign in with \r\n Forgot Password? \r\nAlert \r\nHello, this is an alert \r\nConfirm \r\nAre you sure you want to delete? \r\nAlert \r\nHello, this is an alertsssa \r\n Privacy Policy"
+  },
+  "https://careers.jio.com/frmjobdescription.aspx?JBTITLE=PnZEcG4c0DKoPIHfD9z66Q==&jbID=oli2+WjXAcV+q3Axi0eH1g==&funcCode=ni4dknKJ6TY=": {
+   "title": "Graduate Engineer Trainee ( 87407382 )",
+   "status": 200,
+   "desc": "Job Descriptions & Apply for Jio Careers \r\n Skip to main content\r\n Skip to main content\r\n Careers \r\n Home \r\n About Us \r\n Job Opportunities \r\n Alumni Corner\r\n Alumni\r\n Verification \r\n Alumni\r\n Assistance \r\n Alumni Portal \r\n Validate Your Offer \r\n Switch to \r\n English \r\n Graduate Engineer Trainee ( 87407382 ) \r\n &title=Jio%20Jobs%20&summary=My%20favorite%20%20program&source=LinkedIn\" onclick=\"return Linkdn_click()\" class=\"linkendinicon\"> \r\n \" aria-label=\"Facebook link\" onclick=\"return fbs_click()\" target=\"_blank\" class=\"facebookicon\"> \r\n To view this video please enable JavaScript, and consider upgrading to a web browser that\r\n supports HTML5 video \r\n Posted Date \r\n 27 Oct 2026 \r\n Function/Business Area \r\n Others \r\n Location \r\n Mumbai \r\n Job Responsibilities \r\n 1. Support design of Core network architecture.\n2. Coordinate with device and product teams to develop requirements to,\nsupport 4G, 3G, roaming capability.\n3. Support 4G, 3G and 2G core operations.\n4. Monitor core KPIs and service parameters.\n5. Assist in subscriber provisioning flows.\n6. Validate authentication and charging systems.\n7. Support interconnect and roaming testing.\n8. Analyze call flow and signalling issues.\n9. Troubleshoot core alarms and outages.\n10. Document configurations and changes.\n11. Coordinate with RAN and transport teams.\n12. Support upgrades and new node rollout. \r\n Education Requirement \r\n B.E./ B.Tech \r\n Experience Requirement \r\n Fresher \r\n Skills & Competencies \r\n 1. Basic knowledge of 4G, 3G and 2G network\n2. Knowledge of signalling protocols basics.\n3. Strong analytical and troubleshooting skills.\n4. Ability to interpret network KPIs.\n5. Good written and verbal communication.\n6. Team player with learning mindset.\n7. Basic IP networking knowledge.\n8. Familiarity with telecom standards. \r\nPlease update your profile and upload resume to apply \r\n Forgot Password \r\n Location Map : Mumbai \r\nCopyright © 2026 Reliance Jio Infocomm Ltd. All rights reserved. \r\n Privacy Policy \r\n Legal Notice \r\n Fraud Alert - Global \r\n Fraud Alert \r\n à¤§à¥‹à¤–à¤¾à¤§à¤¡à¤¼à¥€ à¤•à¥€ à¤šà¥‡à¤¤à¤¾à¤µà¤¨à¥€ \r\n à¤«à¤¸à¤µà¤£à¥à¤•à¥€à¤šà¤¾ à¤‡à¤¶à¤¾à¤°à¤¾ \r\n àª›à«‡àª¤àª°àªªàª¿àª‚àª¡à«€ àª…àª‚àª—à«‡ àªšà«‡àª¤àªµàª£à«€ \r\n à®®à¯‹à®šà®Ÿà®¿ à®Žà®šà¯à®šà®°à®¿à®•à¯à®•à¯ˆ! \r\n à°®à±‹à°¸à°¾à°²à°ªà±ˆ à°¹à±†à°šà±à°šà°°à°¿à°• \r\n à´µà´žàµà´šà´¨à´¾ à´®àµà´¨àµà´¨à´±à´¿à´¯à´¿à´ªàµà´ªàµ! \r\n à²®à³‹à²¸à²¦ à²•à³à²°à²¿à²¤à³ à²Žà²šà³à²šà²°à²¿à²•à³†! \r\n User Login \r\n Partner Login \r\n Forgot Password? \r\n Or Sign in wit"
+  }
+ }
+}

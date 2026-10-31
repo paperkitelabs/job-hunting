@@ -1,0 +1,324 @@
+{
+ "cluster": "H-ai-firms-fde",
+ "openings": [],
+ "leads": [
+  {
+   "company": "Databricks",
+   "role": "Data Science Graduate Intern (Bengaluru)",
+   "aggregator_url": "https://myinternships.in/job/databricks-is-hiring-data-science-graduate-intern-bengaluru-39a4ee",
+   "careers_url": "https://www.databricks.com/company/careers/university-recruiting",
+   "note": "Aggregator only, undated. Says 3 months, in-office, for 2026 freshers and final-year students; Python, SQL, statistics, ML; building pipelines, dashboards, ML models. Related aggregator pages for Data Science Intern Bengaluru: https://myinternships.in/job/databricks-is-hiring-data-science-intern-bengaluru-51b889 and https://myinternships.in/job/databricks-data-science-intern-bengaluru-341b74. No matching posting found on databricks.com. Low confidence; myinternships.in looks like a content farm."
+  },
+  {
+   "company": "Snowflake",
+   "role": "Data Engineer Intern - Pune (2026)",
+   "aggregator_url": "https://apna.co/job/1688342760",
+   "careers_url": "https://careers.snowflake.com/us/en/pune",
+   "note": "Aggregators (apna, freshershunt, jobinsider, yohire, placement-officer dated 5 May 2026) say it is for B.Tech/M.Tech 2026 and 2027 batches, paid and full-time, may convert to a full-time job. Data-engineering role, so borderline for the candidate. Could not confirm on careers.snowflake.com; may be closed."
+  },
+  {
+   "company": "Rippling",
+   "role": "Product Management Intern (Bengaluru)",
+   "aggregator_url": "https://myinternships.in/job/rippling-india-product-management-intern-bengaluru-db3aa6",
+   "careers_url": "https://www.rippling.com/careers",
+   "note": "Aggregator only, undated. Says hybrid, 3 months; analysing user data and product metrics, SQL/analytics. Rippling opened a Bengaluru AI Lab on 22 Sep 2026, which is hiring research and engineering roles; no intern posting seen there."
+  },
+  {
+   "company": "MongoDB",
+   "role": "Product Management Intern (Gurugram)",
+   "aggregator_url": "",
+   "careers_url": "https://www.mongodb.com/company/careers",
+   "note": "A search summary mentioned a Gurugram PM Intern (internal technology) but did not attach a clear URL. MongoDB's Greenhouse boards turned up: job-boards.greenhouse.io/mdbgeneralreferrals/jobs/7239041 and /7378863, one of which is a Gurugram Software Engineer Intern (Spring 2027 grads). It is not known which ID is which, so search Greenhouse for 'Product Management Intern Gurugram'."
+  },
+  {
+   "company": "Sarvam AI",
+   "role": "Generative AI / ML / NLP / AI Research Intern (Bengaluru)",
+   "aggregator_url": "https://myinternships.in/internships/sarvam-ai-is-hiring-generative-ai-intern-bengaluru-bv7p",
+   "careers_url": "https://www.sarvam.ai/careers",
+   "note": "Aggregator only. Also: https://myinternships.in/job/sarvam-ai-machine-learning-intern-bengaluru-50dca2 , https://myinternships.in/job/sarvam-ai-nlp-intern-bengaluru-c6eec2 , https://myinternships.in/job/sarvam-ai-ai-research-intern-bengaluru-50c28a (2025–2027 grads). Sarvam runs its job board on Ashby (jobs.ashbyhq.com/sarvam), but no Ashby page came up in search. Also has an AI Residency programme (analyticsindiamag) and a full-time Forward Deployed Engineer role (seedtable.com/jobs/31158). Low confidence."
+  },
+  {
+   "company": "Dream11 (outside cluster list)",
+   "role": "Forward Deployment Engineer Internship (Mumbai)",
+   "aggregator_url": "https://thejobcompany.co.in/frontend/job_details?job_id=6456",
+   "careers_url": "https://www.dreamsports.group/careers",
+   "note": "A search summary said this is a Mumbai internship that may convert to full-time, last updated 02 Oct 2026. The listing is probably the thejobcompany link, but that is not confirmed. It is the only FDE internship for India found. Forward to whoever covers Indian product companies."
+  }
+ ],
+ "excluded": [
+  {
+   "company": "Sarvam AI",
+   "role": "AI Engineer - Intern",
+   "url": "https://jobs.khoslaventures.com/companies/sarvam-ai-2/jobs/85244113-ai-engineer-intern",
+   "reason": "VC job-board mirror shows 'no longer accepting applications'"
+  },
+  {
+   "company": "Sarvam AI",
+   "role": "Growth Marketing Intern (Bengaluru)",
+   "url": "https://www.jobinsider.in/jobs/sarvam-growth-marketing-internship-2026/",
+   "reason": "Marketing role, not wanted (aggregator page)"
+  },
+  {
+   "company": "Sarvam AI",
+   "role": "Frontend Intern (On-Device AI) / Backend Intern (Inference Pipelines)",
+   "url": "https://freshershunt.in/sarvam-internship-2026/",
+   "reason": "Pure SWE; aimed at 2025/2026 batches; aggregator page"
+  },
+  {
+   "company": "Glean",
+   "role": "Industrial Trainee, Tax (Bangalore)",
+   "url": "https://zerogtalent.com/ai-jobs/glean/industrial-trainee-tax-4707386005",
+   "reason": "Tax/finance trainee, not wanted (Greenhouse job id 4707386005)"
+  },
+  {
+   "company": "Glean",
+   "role": "Software Engineer Intern (Summer 2027)",
+   "url": "https://jobs.generalcatalyst.com/companies/glean/jobs/57889178-software-engineer-intern-summer",
+   "reason": "US-based (Mountain View/SF) summer SWE internship"
+  },
+  {
+   "company": "Rippling",
+   "role": "Data Science Intern - Summer 2027",
+   "url": "https://www.interndock.com/internships/rippling/data-science-intern-summer-2027-7fd00149-0fa9-4f12-8de1-2b6af86f5a1a",
+   "reason": "Based in San Francisco/New York; summer programme"
+  },
+  {
+   "company": "Databricks",
+   "role": "Software Engineering Intern (2027 Start) - Winter",
+   "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002",
+   "reason": "Not India (other 2027 intern postings are US/Berlin/London/Belgrade); pure SWE"
+  },
+  {
+   "company": "Databricks",
+   "role": "Data Science Intern (2027 Start)",
+   "url": "https://jobs.generalcatalyst.com/companies/neon-2-fafc7050-f6c0-4a38-9c9c-e8dc0b61e31c/jobs/97914706-data-science-intern-2027-start",
+   "reason": "Appears to be a US posting; no India location seen"
+  },
+  {
+   "company": "Google DeepMind",
+   "role": "Student Researcher 2026 (India, via Google Student Researcher programme)",
+   "url": "https://jobs.asugsvsummit.com/companies/google-24698/jobs/65414073-student-researcher-2026",
+   "reason": "2026 cycle; reported deadlines (31 Mar or 31 Jul 2026) have passed; a 2027 posting has not appeared yet. Google cluster covers this."
+  },
+  {
+   "company": "Google DeepMind",
+   "role": "Post-Doctoral Researcher, PhD, 2026 Start, DeepMind (Bengaluru)",
+   "url": "https://jobs.asugsvsummit.com/companies/google-24698/jobs/83438702-post-doctoral-researcher-phd-2026-start-deepmind-fixed-term-contract",
+   "reason": "PhD postdoc, not an internship"
+  },
+  {
+   "company": "Elastic",
+   "role": "Software Development Engineer (SDE) Intern (Jaipur)",
+   "url": "https://myinternships.in/job/elastic-software-development-engineer-sde-intern-jaipur-71777f",
+   "reason": "Pure SDE; aggregator page of doubtful authenticity"
+  },
+  {
+   "company": "MongoDB",
+   "role": "Software Engineer Intern (Gurugram, Spring 2027 grads)",
+   "url": "https://job-boards.greenhouse.io/mdbgeneralreferrals/jobs/7239041",
+   "reason": "Pure SWE (unsure if this ID or 7378863 is the Gurugram SWE intern); HR Tech Intern Gurgaon also seen (HR, not wanted)"
+  }
+ ],
+ "companies": [
+  {
+   "name": "Anthropic",
+   "careers_url": "https://www.anthropic.com/careers",
+   "ats": "greenhouse",
+   "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
+   "result": "none found",
+   "note": "Bengaluru office opened Feb 2026 (India MD Irina Ghose). Only India role seen: full-time 'Startup Partnerships - India' (posted 30 Jun 2026). No internship. boards-api.greenhouse.io failed DNS from this session."
+  },
+  {
+   "name": "OpenAI",
+   "careers_url": "https://openai.com/careers",
+   "ats": "ashby",
+   "ats_endpoint": "https://api.ashbyhq.com/posting-api/job-board/openai",
+   "result": "none found",
+   "note": "Offices in New Delhi, with Mumbai and Bengaluru announced for 2026. No India intern postings in search."
+  },
+  {
+   "name": "Google DeepMind",
+   "careers_url": "https://deepmind.google/about/careers/",
+   "ats": "greenhouse",
+   "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/deepmind/jobs",
+   "result": "programme not open yet",
+   "note": "India student roles go through the Google Student Researcher programme on google.com/about/careers. The 2026 cycle has closed and a 2027 posting has not appeared. DeepMind Bengaluru has postdoc roles only."
+  },
+  {
+   "name": "Databricks",
+   "careers_url": "https://www.databricks.com/company/careers/university-recruiting",
+   "ats": "greenhouse",
+   "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs",
+   "result": "none found",
+   "note": "2027-start intern postings found are US/Berlin/London/Belgrade. Bengaluru DS intern exists only on aggregators (see leads)."
+  },
+  {
+   "name": "Snowflake",
+   "careers_url": "https://careers.snowflake.com/us/en/pune",
+   "ats": "phenom",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Pune hub (400+ staff). Data Engineer Intern Pune 2026 seen only on aggregators (lead)."
+  },
+  {
+   "name": "Palantir",
+   "careers_url": "https://www.palantir.com/careers/",
+   "ats": "lever",
+   "ats_endpoint": "https://api.lever.co/v0/postings/palantir?mode=json",
+   "result": "none found",
+   "note": "FDSE internships are US/UK only. Full-time India roles exist, but no India internship."
+  },
+  {
+   "name": "Scale AI",
+   "careers_url": "https://scale.com/careers",
+   "ats": "greenhouse",
+   "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs",
+   "result": "none found",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached"
+  },
+  {
+   "name": "Sarvam AI",
+   "careers_url": "https://www.sarvam.ai/careers",
+   "ats": "ashby",
+   "ats_endpoint": "https://api.ashbyhq.com/posting-api/job-board/sarvam",
+   "result": "none found",
+   "note": "Many Bengaluru intern listings appear on aggregators (GenAI/ML/NLP/research, DevRel, frontend/backend), but none was confirmed on Ashby. Pull the Ashby API to verify. Also runs an AI Residency."
+  },
+  {
+   "name": "Krutrim",
+   "careers_url": "https://www.olakrutrim.com/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Cut about half its staff, with more layoffs reported 29 Jul 2026. Unlikely to be hiring interns."
+  },
+  {
+   "name": "Glean",
+   "careers_url": "https://www.glean.com/careers",
+   "ats": "greenhouse",
+   "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs",
+   "result": "none found",
+   "note": "Bangalore roles: Associate Solutions Architect (full-time), ML SWE, Industrial Trainee Tax (excluded). Intern programme is US-only."
+  },
+  {
+   "name": "Rippling",
+   "careers_url": "https://www.rippling.com/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "Bengaluru AI Lab opened 22 Sep 2026. PM intern Bengaluru seen only on an aggregator (lead). DS intern Summer 2027 is SF/NY."
+  },
+  {
+   "name": "MongoDB",
+   "careers_url": "https://www.mongodb.com/company/careers",
+   "ats": "greenhouse",
+   "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/mongodb/jobs",
+   "result": "none found",
+   "note": "Gurugram has a SWE intern (Spring 2027 grads; excluded), an HR Tech intern (excluded) and possibly a PM intern (lead). Pull the Greenhouse API and filter for Gurugram intern."
+  },
+  {
+   "name": "Elastic",
+   "careers_url": "https://jobs.elastic.co",
+   "ats": "greenhouse",
+   "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/elastic/jobs",
+   "result": "none found",
+   "note": "No official India intern posting. June 2026 reorganization."
+  },
+  {
+   "name": "Confluent",
+   "careers_url": "https://careers.confluent.io",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached"
+  },
+  {
+   "name": "C3 AI",
+   "careers_url": "https://c3.ai/careers/",
+   "ats": "greenhouse",
+   "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/c3iot/jobs",
+   "result": "none found",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached"
+  },
+  {
+   "name": "Uniphore",
+   "careers_url": "https://www.uniphore.com/careers/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached"
+  },
+  {
+   "name": "Observe.AI",
+   "careers_url": "https://www.observe.ai/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached"
+  },
+  {
+   "name": "Sprinklr",
+   "careers_url": "https://www.sprinklr.com/careers/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached"
+  },
+  {
+   "name": "Freshworks",
+   "careers_url": "https://careers.smartrecruiters.com/Freshworks",
+   "ats": "smartrecruiters",
+   "ats_endpoint": "https://api.smartrecruiters.com/v1/companies/Freshworks/postings",
+   "result": "none found",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached"
+  },
+  {
+   "name": "Zoho",
+   "careers_url": "https://www.zoho.com/careers/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached"
+  },
+  {
+   "name": "Postman",
+   "careers_url": "https://www.postman.com/company/careers/",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached"
+  },
+  {
+   "name": "BrowserStack",
+   "careers_url": "https://www.browserstack.com/careers",
+   "ats": "other",
+   "ats_endpoint": "",
+   "result": "none found",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached (Mumbai HQ, high priority to re-check)"
+  },
+  {
+   "name": "Atlan",
+   "careers_url": "https://jobs.ashbyhq.com/atlan",
+   "ats": "ashby",
+   "ats_endpoint": "https://api.ashbyhq.com/posting-api/job-board/atlan",
+   "result": "none found",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached"
+  },
+  {
+   "name": "Turing",
+   "careers_url": "https://boards.greenhouse.io/turing",
+   "ats": "greenhouse",
+   "ats_endpoint": "https://boards-api.greenhouse.io/v1/boards/turing/jobs",
+   "result": "none found",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached"
+  },
+  {
+   "name": "Cohere / Mistral / Perplexity / Cursor (India roles)",
+   "careers_url": "https://jobs.ashbyhq.com/cohere",
+   "ats": "ashby",
+   "ats_endpoint": "https://api.ashbyhq.com/posting-api/job-board/cohere",
+   "result": "none found",
+   "note": "not searched: shared WebSearch budget (200/turn) was exhausted before this company was reached"
+  }
+ ]
+}

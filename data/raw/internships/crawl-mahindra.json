@@ -1,0 +1,53 @@
+{
+ "company": "Mahindra Group",
+ "ats": "successfactors-rmk",
+ "endpoint": "https://jobs.mahindracareers.com/search/",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "2027",
+  ""
+ ],
+ "total_hits": 42,
+ "india_intern_hits": [
+  {
+   "title": "Graduate Apprentice Trainee",
+   "loc": "Chakan, Chakan, IN",
+   "url": "https://jobs.mahindracareers.com/job/Chakan-Graduate-Apprentice-Trainee-Chak/1443450300/",
+   "id": "1443450300",
+   "posted": ""
+  },
+  {
+   "title": "Graduate Apprentice Trainee -1 Nashik",
+   "loc": "Nashik, Nashik Plant I, IN",
+   "url": "https://jobs.mahindracareers.com/job/Nashik-Graduate-Apprentice-Trainee-1-Nashik-Nash/1420494300/",
+   "id": "1420494300",
+   "posted": ""
+  },
+  {
+   "title": "Management Trainee F&A",
+   "loc": "Mohali, Swaraj Engines Mohali, IN",
+   "url": "https://jobs.mahindracareers.com/job/Mohali-Management-Trainee-F&amp;A-Swar/1439395400/",
+   "id": "1439395400",
+   "posted": ""
+  },
+  {
+   "title": "Graduate Apprentice Trainee",
+   "loc": "Igatpuri, Igatpuri, IN",
+   "url": "https://jobs.mahindracareers.com/job/Igatpuri-Graduate-Apprentice-Trainee-Igat/1443978400/",
+   "id": "1443978400",
+   "posted": ""
+  },
+  {
+   "title": "Graduate Apprentice Trainee",
+   "loc": "Igatpuri, Igatpuri, IN",
+   "url": "https://jobs.mahindracareers.com/job/Igatpuri-Graduate-Apprentice-Trainee-Igat/1435630700/",
+   "id": "1435630700",
+   "posted": ""
+  }
+ ],
+ "details": {}
+}

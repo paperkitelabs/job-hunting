@@ -1,0 +1,264 @@
+{
+ "cluster": "R4e-analytics-kpo-2",
+ "checked": "30 Oct 2026",
+ "openings": [],
+ "rejected": [
+  {
+   "company": "Eclerx",
+   "role": "intern",
+   "url": "https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/81650",
+   "reason": "Placeholder 'intern' req whose JD is a UI-design role (asks 10+ yrs UI design) - design, not in scope"
+  },
+  {
+   "company": "Eclerx",
+   "role": "intern",
+   "url": "https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/82326",
+   "reason": "Placeholder 'intern' req with no JD ('Shared in email separately'); no role/dates to screen, posted May 2026"
+  },
+  {
+   "company": "Firstsource",
+   "role": "Apprentice",
+   "url": "https://careers.firstsource.com/job/Bangalore-Apprentice-KA/58454244/",
+   "reason": "BPO apprentice, JD 'To be updated by recruiter'; ops role, no analytics/DS content"
+  },
+  {
+   "company": "Firstsource",
+   "role": "Apprentice",
+   "url": "https://careers.firstsource.com/job/Trichy-Apprentice/59588144/",
+   "reason": "BPO apprentice - US mortgage appraisal document processing, night shift; ops-only"
+  },
+  {
+   "company": "Startek",
+   "role": "Apprentice - Operations",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11416",
+   "reason": "Contact-centre operations apprentice (Bhubaneswar, Odisha, India) - ops-only, not an analyst/DS role"
+  },
+  {
+   "company": "Startek",
+   "role": "Apprentice - Operations",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11303",
+   "reason": "Contact-centre operations apprentice (Bhopal, Madhya Pradesh, India) - ops-only, not an analyst/DS role"
+  },
+  {
+   "company": "Startek",
+   "role": "Apprentice - Operations",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11323",
+   "reason": "Contact-centre operations apprentice (Bhopal, Madhya Pradesh, India) - ops-only, not an analyst/DS role"
+  },
+  {
+   "company": "Startek",
+   "role": "Apprentice - Operations",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11367",
+   "reason": "Contact-centre operations apprentice (Noida, Uttar Pradesh, India) - ops-only, not an analyst/DS role"
+  },
+  {
+   "company": "Startek",
+   "role": "Apprentice - Operations",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11209",
+   "reason": "Contact-centre operations apprentice (Bangalore, Karnataka, India) - ops-only, not an analyst/DS role"
+  },
+  {
+   "company": "Startek",
+   "role": "Apprentice - Operations",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11236",
+   "reason": "Contact-centre operations apprentice (Noida, Uttar Pradesh, India) - ops-only, not an analyst/DS role"
+  },
+  {
+   "company": "Startek",
+   "role": "Apprentice - Operations",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11238",
+   "reason": "Contact-centre operations apprentice (Noida, Uttar Pradesh, India) - ops-only, not an analyst/DS role"
+  },
+  {
+   "company": "Startek",
+   "role": "Apprentice - Operations",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11257",
+   "reason": "Contact-centre operations apprentice (Bangalore, Karnataka, India) - ops-only, not an analyst/DS role"
+  },
+  {
+   "company": "Startek",
+   "role": "Apprentice - Operations",
+   "url": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11282",
+   "reason": "Contact-centre operations apprentice (Bhopal, Madhya Pradesh, India) - ops-only, not an analyst/DS role"
+  }
+ ],
+ "round1": [],
+ "companies": [
+  {
+   "name": "MathCo (TheMathCompany)",
+   "ats": "PeopleStrong",
+   "endpoint": "POST https://mathco-careers.peoplestrong.com/api/cp/rest/altone/cp/jobs/v1?offset=0&limit=100 (mathco.com/explore-roles redirects here)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "PeopleStrong board: 25 jobs (all 2+ yrs experienced, Bengaluru), 0 intern/trainee"
+  },
+  {
+   "name": "Affine",
+   "ats": "SenseHQ",
+   "endpoint": "https://affine.sensehq.com/careers (__NEXT_DATA__ job list)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "SenseHQ board: 4 open jobs (7+ yrs DS/ML/architect, Bengaluru), 0 intern"
+  },
+  {
+   "name": "Evalueserve",
+   "ats": "Darwinbox (lighthouse.darwinbox.com) listed on evalueserve.com/jobs",
+   "endpoint": "https://www.evalueserve.com/jobs/ (server-rendered job cards linking lighthouse.darwinbox.com)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "evalueserve.com/jobs listing: 42 jobs (10 India, all mid/senior-level), 0 intern/trainee. Darwinbox candidate API itself is Cloudflare-blocked (403), so only the website listing was read"
+  },
+  {
+   "name": "Acuity Knowledge Partners",
+   "ats": "Darwinbox (main) + JazzHR (ascent.applytojob.com)",
+   "endpoint": "https://acuitykp.darwinbox.com/ms/candidate/careers ; https://ascent.applytojob.com/apply",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "PARTLY UNREACHABLE: main India board is Darwinbox (acuitykp.darwinbox.com) whose candidate API is behind a Cloudflare block (403) - not crawled. JazzHR board (Acuity Analytics/Ascent): 19 senior roles, 0 intern"
+  },
+  {
+   "name": "The Smart Cube",
+   "ats": "None found (WNS company)",
+   "endpoint": "https://www.thesmartcube.com/about-us/careers/ (current-vacancies redirects to careers home)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "No job listing/ATS: current-vacancies redirects to careers landing; student-hires page only describes Summer Internships/Resolvr programmes with no open posting or apply link"
+  },
+  {
+   "name": "Aays Analytics",
+   "ats": "Own website (React SPA, roles hard-coded in CareersPage chunk)",
+   "endpoint": "https://www.aaysanalytics.com/careers (aays.com times out)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "aaysanalytics.com/careers lists 6 open roles (Data Architect, AI/Data Engineers; 4+ yrs; Remote/Delhi/Dehradun); 0 intern. Apply is a site form, no ATS"
+  },
+  {
+   "name": "Lumiq",
+   "ats": "Zoho Recruit",
+   "endpoint": "https://lumiq.zohorecruit.in/careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Zoho Recruit board: 7 jobs (sales, DevOps, architect, consultant), 0 intern/trainee"
+  },
+  {
+   "name": "Polestar Solutions",
+   "ats": "Own website listing (polestaranalytics.com/career)",
+   "endpoint": "https://www.polestaranalytics.com/career",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Careers page (server-rendered) shows \"Current Openings (0)\"; no external ATS linked"
+  },
+  {
+   "name": "Indium Software",
+   "ats": "TurboHire",
+   "endpoint": "POST https://thapi.azurewebsites.net/api/careerpagev2/filteredjobs?orgId=ce7e0316-d5a1-4eab-9e22-db120206fd17&pageType=0 (careers page indium.tech/careers)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "TurboHire board: 36 jobs, 0 intern/trainee (Data Analyst/Data Scientist roles are experienced hires)"
+  },
+  {
+   "name": "Decision Point",
+   "ats": "Darwinbox (LatentView)",
+   "endpoint": "https://latentview.darwinbox.in/ms/candidate/careers (decisionpoint.in -> decisionpoint.ai -> latentview.com/decisionpoint)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "UNREACHABLE: Decision Point is now part of LatentView; careers go to latentview.darwinbox.in whose candidate API is behind a Cloudflare block (403). Not crawled"
+  },
+  {
+   "name": "Cartesian Consulting",
+   "ats": "None found",
+   "endpoint": "https://cartesianconsulting.com/careers/ (now SOLUS React SPA; solus.ai/careers 404)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "No careers listing: cartesianconsulting.com is now a SOLUS single-page app with no careers content; solus.ai has no careers page (404)"
+  },
+  {
+   "name": "Eclerx",
+   "ats": "Oracle Recruiting Cloud",
+   "endpoint": "https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1 (India locationId 300000000467203)",
+   "india_intern_hits": 2,
+   "kept": 0,
+   "note": "Oracle India: 2 'intern' reqs (Mumbai), both rejected: one is a UI-design JD, one has no JD; rest are Analyst/Process Manager experienced roles"
+  },
+  {
+   "name": "Firstsource",
+   "ats": "SuccessFactors RMK",
+   "endpoint": "https://careers.firstsource.com/search/?q=<q>&locationsearch=India",
+   "india_intern_hits": 2,
+   "kept": 0,
+   "note": "SuccessFactors RMK India: 41 postings across queries; 2 Apprentice (Bangalore, Trichy) both BPO ops - rejected"
+  },
+  {
+   "name": "Hinduja Global Solutions",
+   "ats": "SuccessFactors RMK (careers.joinhgs.com)",
+   "endpoint": "POST https://careers.joinhgs.com/services/recruiting/v1/jobs (hgs.com -> joinhgs.com)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "RMK board: 55 jobs total, none with an India location (location search India/Mumbai/Bangalore = 0); only trainee-type post is \"Trainee Process Consultant\" (req 4385) = customer-service/troubleshooting role, no India location - not counted"
+  },
+  {
+   "name": "Startek",
+   "ats": "Oracle Recruiting Cloud",
+   "endpoint": "https://fa-evuf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1 (India locationId 300000000471802)",
+   "india_intern_hits": 255,
+   "kept": 0,
+   "note": "Oracle India: 255 'Apprentice - Operations' reqs (contact-centre ops, many cities); all rejected as ops-only (9 Oct-2026 ones listed)"
+  },
+  {
+   "name": "Exusia",
+   "ats": "None (LinkedIn only)",
+   "endpoint": "https://exusia.com/careers/",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "No own ATS: careers page \"Open Positions\" links only to LinkedIn Jobs (aggregator, not allowed); nothing crawlable"
+  },
+  {
+   "name": "Sutherland",
+   "ats": "Shazamme job board (jobs.sutherlandglobal.com)",
+   "endpoint": "https://www.jobs.sutherlandglobal.com/sitemap.xml (job-details URLs, lastmod 2026-10-28); listing widget is Firebase/Shazamme JS with no plain API",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Scanned 424 live job-details slugs from the sitemap (all countries): 0 intern/trainee/apprentice. Only a Riyadh \"recent IT graduates\" assignment (not India). Locations not in slugs, so India filter not applied - no intern titles at all"
+  },
+  {
+   "name": "TaskUs",
+   "ats": "Workday",
+   "endpoint": "https://taskus.wd1.myworkdayjobs.com/Careers (India country facet)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India: 140 postings matched the queries (fuzzy), 0 intern/trainee/apprentice titles - all BPO ops/team-lead/experienced roles"
+  },
+  {
+   "name": "Ascendion",
+   "ats": "Eightfold (PCSX)",
+   "endpoint": "https://jobs.ascendion.com/api/pcsx/search?domain=ascendion.com&location=India",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Eightfold PCSX India: 213 postings (whole India board via empty query), 0 intern/trainee"
+  },
+  {
+   "name": "Kanerika",
+   "ats": "Zoho Recruit",
+   "endpoint": "https://kanerika.zohorecruit.com/careers (embedded on kanerika.com/careers)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Zoho Recruit board: 25 jobs, all experienced engineering/data roles (Hyderabad/Indore/Ahmedabad); 0 intern/trainee"
+  },
+  {
+   "name": "Straive",
+   "ats": "None found",
+   "endpoint": "https://www.straive.com/careers/ (contact form + regional careers mailboxes)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "No ATS: careers page is a CV-submission form and email addresses (INCareers@straive.com); 1 WebSearch found only aggregator walk-in posts (not usable)"
+  },
+  {
+   "name": "Cognida",
+   "ats": "Keka",
+   "endpoint": "https://cognida.keka.com/careers/api/embedjobs/default/active/22612058-82aa-4bfd-9017-771ca36cd0e3",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Keka board: 8 jobs (6+ yrs experienced; India ones in Hyderabad), 0 intern/trainee"
+  }
+ ]
+}

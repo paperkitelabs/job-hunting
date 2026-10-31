@@ -1,0 +1,29 @@
+{
+ "company": "Myntra",
+ "ats": "spire2grow (iExchange)",
+ "endpoint": "GET https://io.spire2grow.com/ies/v1/p/requisition/_search?page=N&size=50 (header WorkspaceId: MYNTRA-93as3)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 49,
+ "india_intern_hits": [
+  {
+   "title": "Apprentice",
+   "loc": "Bangalore",
+   "url": "https://jobs.myntra.com/viewJobs/2455903149",
+   "id": "2455903149",
+   "posted": "2026-10-01"
+  }
+ ],
+ "details": {
+  "https://jobs.myntra.com/viewJobs/2455903149": {
+   "title": "Apprentice",
+   "employmentType": "APPRENTICESHIP",
+   "dept": "Hyperlocal (F1385)",
+   "desc": "SCOPE OF WORK \n Seller onboarding process: \n Objective: To handhold Sellers, complete the Company Onboarding Process \n Roles and Responsibilities : \n-Seller/vendor/customer communications experience - both verbal & written \n- Vendor Master Management – drive daily operations to ensure all vendor management requests are closed within \nagreed TAT \n- Stakeholder management to resolve escalations and address exceptional scenarios \n- Understanding of all commercial points like Commission - GST, Commission \n- Daily Interaction with sellers on commercial topics \n- Internal stakeholder management - Category / BIO / catalog. \n Qualifications & Experience \n- Experience in a multi-step process team \n- Good knowledge of MS-office and Excel (Basic MIS) \n- Experience in seller interactions \n- B.Com or any graduate with skills & preferred experience \n- Candidates having experience in managing vendor onboarding and KYC preferred \n- Having experience in managing third party stakeholders preferred \n- Candidates from E commerce / retail background preferred",
+   "status": "ACTIVE",
+   "detail_api": "requisition/displayId/2455903149 -> 200"
+  }
+ }
+}

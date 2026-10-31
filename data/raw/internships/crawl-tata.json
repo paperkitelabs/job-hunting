@@ -1,0 +1,22 @@
+{
+ "company": "Tata Group (TCS, Tata Steel, Tata Motors, Tata Consumer)",
+ "ats": "successfactors-rmk / ripplehire / custom",
+ "endpoint": [
+  "https://careers.tatamotors.com/search/",
+  "https://careers.tataconsumer.com/search/",
+  "https://tatasteel.ripplehire.com/candidate/ (JS app, no listing)",
+  "https://www.tcs.com/careers/india/internship (403)"
+ ],
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "2027",
+  ""
+ ],
+ "total_hits": 215,
+ "india_intern_hits": [],
+ "details": {}
+}

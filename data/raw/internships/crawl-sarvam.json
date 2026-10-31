@@ -1,0 +1,236 @@
+{
+ "company": "Sarvam AI",
+ "ats": "ashby",
+ "endpoint": "https://api.ashbyhq.com/posting-api/job-board/sarvam?includeCompensation=true",
+ "queried_at": "2026-10-30T03:11Z",
+ "queries": [
+  "whole board; filtered ats.is_india(location) + intern regex on title/employmentType"
+ ],
+ "total_hits": 46,
+ "india_postings": 46,
+ "india_intern_hits": [
+  {
+   "title": "Growth Marketing Intern",
+   "loc": "Bengaluru",
+   "url": "https://jobs.ashbyhq.com/sarvam/1eb3008a-2014-4a6c-8a35-cfa7caf8a60f",
+   "id": "1eb3008a-2014-4a6c-8a35-cfa7caf8a60f",
+   "posted": "2026-09-23T14:58:46.637+00:00",
+   "secondary": [],
+   "employment": "FullTime"
+  },
+  {
+   "title": "Marketing internship (brand & communication)",
+   "loc": "Bengaluru",
+   "url": "https://jobs.ashbyhq.com/sarvam/bba82f34-1544-421e-a393-3edd8a5f4cb2",
+   "id": "bba82f34-1544-421e-a393-3edd8a5f4cb2",
+   "posted": "2026-10-23T10:47:51.171+00:00",
+   "secondary": [],
+   "employment": "FullTime"
+  }
+ ],
+ "india_fde_fulltime": [],
+ "details": {
+  "https://jobs.ashbyhq.com/sarvam/1eb3008a-2014-4a6c-8a35-cfa7caf8a60f": {
+   "title": "Growth Marketing Intern",
+   "loc": "Bengaluru",
+   "secondary": [],
+   "employment": "FullTime",
+   "posted": "2026-09-23T14:58:46.637+00:00",
+   "desc": "About Sarvam\n\nSarvam is building the bedrock of Sovereign AI for India. The company is developing India's full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India's leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC.\n\nAbout the Role\n\nMost marketing internships hand you a social calendar and a prayer. This one hands you a budget line, a dashboard, and a \"go figure it out.\" We're a small team moving fast, which means the ceiling on what you can own is basically however far you can reach. If you ship something great in week two, it goes live in week two.\n\nWhat you'll actually do\n\n - Run experiments end to end - form a hypothesis, build the campaign or landing page or post, ship it, read the numbers, kill it or scale it. Repeat weekly.\n\n - Paid - get your hands dirty in Google and Meta ads: creative, targeting, CAC, the whole funnel. You won't just \"assist,\" you'll own tests.\n\n - Organic and content - write things people actually want to read, turn our product wins into stories, and distribute them where devs and builders hang out.\n\n - Analytics - live in the data. Attribution, cohorts, what's working and (more importantly) what's quietly wasting money. Own the \"why did that number move\" question.\n\n - Vibe-code your own tools - prototype a landing page, spin up a scrappy internal dashboard, automate the boring stuff. We don't care if it's held together with duct tape and an LLM, we care that it works.\n\nYou'll fit right in if you\n\n - Are a final-year student or recent grad (0-1 yr) who's a hungry generalist, not a specialist waiting to be told what to do.\n\n - Are genuinely AI-fluent - you use LLMs the way the rest of us use Google, and you've got opinions about which model does what best.\n\n - Can vibe-code your way to a working prototype. You don't need a CS degree, you need to be dangerous with an AI coding tool and unafraid of a terminal.\n\n - Write like a human, not a press release.\n\n - Have shipped something on your own - a project, a campaign, a newsletter, a side hustle, a chaotic-but-real growth hack. We want proof you make things, not just plans.\n\nBonus points (not dealbreakers)\n\n - You've run ads before.\n\n - You can make a chart and a joke with equal confidence.\n\n - You've built or automated something with an LLM that made a real person's life easier.\n\n - You lurk in the right dev/AI corners of the internet and know what's actually going viral vs. what's just LinkedIn noise.\n\nHow to apply\n\nSkip the generic cover letter. Send us one of these instead:\n\n 1. A growth experiment you'd run for Sarvam in your first 30 days (one paragraph, be specific), or\n\n 2. Something you built or grew, with the numbers, or\n\n 3. A thing you vibe-coded that you're weirdly proud of.\n\nWhy Sarvam?\n\nSarvam is a fast-moving, high talent-density team building full-stack AI for India, working on problems that push the frontiers of AI with real population-scale impact.\n\n• Work alongside researchers, engineers, builders, and business leaders who move fast and hold each other to a very high bar\n\n• High ownership and high impact, from day one\n\n• Everything we do is AI-first, from the way we build and ship to the way we think about problems\n\n• You can work on problems that could change how an entire country learns, works, and communicates\n\nIf you want to work on problems at the frontier of AI in India, Sarvam is the place to be."
+  },
+  "https://jobs.ashbyhq.com/sarvam/bba82f34-1544-421e-a393-3edd8a5f4cb2": {
+   "title": "Marketing internship (brand & communication)",
+   "loc": "Bengaluru",
+   "secondary": [],
+   "employment": "FullTime",
+   "posted": "2026-10-23T10:47:51.171+00:00",
+   "desc": "About Sarvam\n\nSarvam is building the bedrock of Sovereign AI for India, a full-stack sovereign AI platform spanning research, models, infrastructure, and applications, with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. We partner with India's leading brands, including Tata Capital, SBI Life, CRED, IDFC, and LIC.\n\n\n\nAbout the Role\n\nWe are looking for a sharp, high-ownership Marketing Intern to act as the primary story-builder and content engine across Sarvam’s marketing channels.\n\nThis is not a passive internship focused on surface-level social updates. You will translate complex frontier AI capabilities like our Vision APIs, Document Intelligence models, and voice platforms into crisp, high-impact stories, viral launch threads, and sharp enterprise collateral. You will sit at the intersection of product, creative execution, and creator operations, helping shape how Sarvam communicates its sovereign AI vision to technical builders, enterprise buyers, and the broader ecosystem.\n\n\n\nWhat You'll Do\n\nCustomer Stories & Launch Comms\n\n - Transform technical milestones into narratives: Turn enterprise customer deployments into compelling case studies and written success stories.\n\n - Drive product launch comms: Draft multi-channel launch content—from sharp X/LinkedIn feature threads to enterprise mailers for prospects and existing clients.\n\n - Simplify the complex: Translate technical AI concepts into clear, punchy prose without losing accuracy or depth.\n\nSocial Content & Video Operations\n\n - Drive video execution: Write scripts for explainer videos and product walkthroughs; coordinate shoots and post-production workflows.\n\n - Manage multi-platform publishing: Oversee daily social presence across X, LinkedIn, Instagram, and YouTube, ensuring high content velocity and visual quality.\n\nCreator & Influencer Operations\n\n - Manage creator partnerships: Source, pitch, and recruit relevant tech creators, developer voices, and industry influencers.\n\n - Execute campaign logistics: Draft campaign briefs, align timelines, and track deliverables from initial outreach to final publish.\n\n\n\nWhat We're Looking For\n\n - Editorial precision: Exceptional written English skills with an instinct for tone, structure, and clarity across social, email, and long-form formats.\n\n - Technical translation capability: Comfortable diving into technical platforms, developer dashboards, or AI research to write simple, accurate marketing copy.\n\n - AI-first workflow: Habitual use of AI tools for rapid research, content structuring, and drafting.\n\n - Platform fluency: Deep, native understanding of content formats, algorithms, and tone across X, LinkedIn, Instagram, and YouTube.\n\n - Execution & ownership: Uncompromising attention to detail, strong organizational discipline, and the ability to drive multiple deadlines without hand-holding.\n\n\n\nBonus Points\n\n - Hands-on experience with video editing tools or basic script-to-edit workflows.\n\n - Familiarity with design tools (Canva, Figma) to quickly mock up assets or social creatives.\n\n - Prior experience managing creator outreach, influencer pipelines, or talent operations.\n\n - Vernacular fluency in Hindi or a regional Indian language.\n\n - Foundational understanding of SEO best practices for written content.\n   \n   \n\nWhy Sarvam?\n\nSarvam is a fast-moving, high talent-density team building full-stack AI for India, working on problems at the frontier of AI with population-scale impact. You'll work alongside researchers, engineers, builders, and business leaders who move fast and hold each other to a very high bar. High ownership and high impact from day one, AI-first in everything we do, on problems that could change how an entire country works and communicates.\n\n\n\n"
+  }
+ },
+ "india_titles": [
+  [
+   "Engagement Manager, Chanakya",
+   "Delhi"
+  ],
+  [
+   "Data Scientist - Evaluations, Chanakya",
+   "Bengaluru"
+  ],
+  [
+   "Embedded Data Scientist, Chanakya",
+   "Delhi"
+  ],
+  [
+   "Embedded Infrastructure Engineer, Chanakya",
+   "Delhi"
+  ],
+  [
+   "Product Manager (Models)",
+   "Bengaluru"
+  ],
+  [
+   "Strategic Deployment Engineer, Chanakya",
+   "Delhi"
+  ],
+  [
+   "ML Ops Engineer, Chanakya",
+   "Delhi"
+  ],
+  [
+   "Engagement Principal, Chanakya",
+   "Delhi"
+  ],
+  [
+   "Frontend Engineer, Chanakya",
+   "Bengaluru"
+  ],
+  [
+   "Product Designer ",
+   "Bengaluru"
+  ],
+  [
+   "Solution Architect",
+   "Delhi"
+  ],
+  [
+   "Product Manager On-Device & Edge AI",
+   "Bengaluru"
+  ],
+  [
+   "Staff Engineer, Product Infrastructure",
+   "Bengaluru"
+  ],
+  [
+   "ML Researcher, Foundational Models",
+   "Bengaluru"
+  ],
+  [
+   "ML Engineer (Training Infra), Foundational Models",
+   "Bengaluru"
+  ],
+  [
+   "Staff Engineer, API Platform",
+   "Bengaluru"
+  ],
+  [
+   "Product Manager, Monetization & Retention",
+   "Bengaluru"
+  ],
+  [
+   "Product Marketing Manager",
+   "Bengaluru"
+  ],
+  [
+   "Infrastructure SRE - HPC",
+   "Bengaluru"
+  ],
+  [
+   "Platform Engineer - AI Infrastructure",
+   "Bengaluru"
+  ],
+  [
+   "Marketing Operations Manager",
+   "Bengaluru"
+  ],
+  [
+   "Product Manager – Media & Entertainment, Sarvam Studio",
+   "Bengaluru"
+  ],
+  [
+   "Performance Engineer, Kernels",
+   "Bengaluru"
+  ],
+  [
+   "Performance Engineer, Inference",
+   "Bengaluru"
+  ],
+  [
+   "DevOps Engineer",
+   "Bengaluru"
+  ],
+  [
+   "Deployment Strategist",
+   "Bengaluru"
+  ],
+  [
+   "Agent Engineer",
+   "Bengaluru"
+  ],
+  [
+   "Technical Partner Enablement Manager",
+   "Bengaluru"
+  ],
+  [
+   "Senior Manager, Growth Marketing",
+   "Bengaluru"
+  ],
+  [
+   "GTM & Strategy, Model API",
+   "Bengaluru"
+  ],
+  [
+   "GTM Strategy - Chanakya",
+   "Delhi"
+  ],
+  [
+   "Product Manager - Chanakya",
+   "Delhi"
+  ],
+  [
+   "Product Marketing Manager, Model API",
+   "Bengaluru"
+  ],
+  [
+   "Motion Designer",
+   "Bengaluru"
+  ],
+  [
+   "Product Manager, Model APIs",
+   "Bengaluru"
+  ],
+  [
+   "Staff Software Engineer - Frontend",
+   "Bengaluru"
+  ],
+  [
+   "Product & Strategy Associate",
+   "Bengaluru"
+  ],
+  [
+   "Growth Marketing Intern",
+   "Bengaluru"
+  ],
+  [
+   "Staff Engineer - Systems Engineering",
+   "Bengaluru"
+  ],
+  [
+   "Staff Engineer - Telephony",
+   "Bengaluru"
+  ],
+  [
+   "Software Engineer - Model API Platform",
+   "Bengaluru"
+  ],
+  [
+   "Software Development Engineer - Tejas",
+   "Bengaluru"
+  ],
+  [
+   "Marketing internship (brand & communication)",
+   "Bengaluru"
+  ],
+  [
+   "Infrastructure Engineer",
+   "Bengaluru"
+  ],
+  [
+   "SDE3, Infrastructure Security Engineer (DevSecOps)",
+   "Bengaluru"
+  ],
+  [
+   "SDE2 - API Platform",
+   "Bengaluru"
+  ]
+ ]
+}

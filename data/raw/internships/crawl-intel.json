@@ -1,0 +1,20 @@
+{
+ "company": "Intel",
+ "ats": "workday",
+ "endpoint": "https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "graduate intern",
+  "student",
+  "co-op",
+  "university"
+ ],
+ "total_hits": 90,
+ "india_intern_hits": [],
+ "details": {}
+}

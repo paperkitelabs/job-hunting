@@ -1,0 +1,12 @@
+{
+ "company": "Fitch Group",
+ "ats": "successfactors",
+ "endpoint": "https://careers.fitch.group/go/View-All-Jobs/8883701/",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "(full board)"
+ ],
+ "total_hits": 322,
+ "india_intern_hits": [],
+ "details": {}
+}

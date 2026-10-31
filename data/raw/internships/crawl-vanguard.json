@@ -1,0 +1,21 @@
+{
+ "company": "Vanguard",
+ "ats": "Workday",
+ "endpoint": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate"
+ ],
+ "total_hits": 336,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Workday: ~70 Hyderabad postings (location facet, no country facet), none intern/trainee; intern postings all US."
+}

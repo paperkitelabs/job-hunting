@@ -1,0 +1,448 @@
+{
+ "cluster": "C-payments-insurance",
+ "companies": [
+  {
+   "name": "American Express",
+   "hint": "careers.americanexpress.com (Oracle CX_1)",
+   "round_notes": [
+    {
+     "careers_url": "https://www.americanexpress.com/en-us/careers/student-programs/global-students-page.html",
+     "ats": "oracle",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Partly searched. Amex says India student recruiting goes through universities and tech internships run 10 wk-6 mo, with applications Jul-Nov. Gurgaon/Mumbai location pages say no openings. Contact: IndiaCampusRecruitment@aexp.com. myinternships.in has many 'Amex Bengaluru intern' listings that look templated and unreliable, so I ignored them.",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "American Express",
+     "role": "Campus Internship (Chennai)",
+     "aggregator_url": "https://jobs.weekday.works/american-express-campus-internship",
+     "careers_url": "https://www.americanexpress.com/en-us/careers/student-programs/global-students-page.html",
+     "note": "Title only, no details visible. Amex says India student hiring goes through universities. Low value.",
+     "src": "C-payments-insurance"
+    }
+   ]
+  },
+  {
+   "name": "Mastercard",
+   "hint": "mastercard.wd1.myworkdayjobs.com/CorporateCareers (Pune/Gurugram)",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.mastercard.com/us/en/internships/1000",
+     "ats": "workday",
+     "ats_endpoint": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers (front end: careers.mastercard.com phenom, job URLs careers.mastercard.com/us/en/job/R-xxxxxx/<slug>)",
+     "result": "none found",
+     "note": "Partly searched. Internships need you to 'complete studies the following year' (penultimate-year). Summer 2027 India DS intern posted ~Aug 2026, excluded. Launch Program 2027 (full-time grad) may suit the candidate. City pages: careers.mastercard.com/us/en/pune-india, /gurugram-india, /mumbai-india, /vadodara-india",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "Mastercard",
+     "role": "Consultant Intern (Gurgaon / HITEC City / Mumbai)",
+     "aggregator_url": "https://kalingauniversity.prosple.com/graduate-employers/mastercard-india/jobs-internships/consultant-intern",
+     "careers_url": "https://careers.mastercard.com/us/en/internships/1000",
+     "note": "Prosple. Grad window Dec 2025-Jul 2026, so likely the previous cycle and probably closed. Watch for a 2027-grad version (Advisors / Consulting track).",
+     "src": "C-payments-insurance"
+    }
+   ]
+  },
+  {
+   "name": "Visa",
+   "hint": "visa.wd5.myworkdayjobs.com / smartrecruiters Visa",
+   "round_notes": [
+    {
+     "careers_url": "https://corporate.visa.com/en/jobs/",
+     "ats": "smartrecruiters",
+     "ats_endpoint": "https://api.smartrecruiters.com/v1/companies/Visa/postings (unverified)",
+     "result": "none found",
+     "note": "Partly searched. India summer internship (Bengaluru) is penultimate-year, and the 2026 cycle is over. Visa job URLs look like visa.<cc>/<lang>/jobs/REFxxxxxW. Off-cycle not seen.",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "PayPal",
+   "hint": "paypal.eightfold.ai",
+   "round_notes": [
+    {
+     "careers_url": "https://paypal.eightfold.ai/careers",
+     "ats": "eightfold",
+     "ats_endpoint": "https://paypal.eightfold.ai/api/apply/v2/jobs?domain=paypal.com (DNS blocked in this session)",
+     "result": "none found",
+     "note": "Partly searched. Only a Weekday 'Data Analyst Intern' lead. Glassdoor shows Bengaluru Data Science Intern interviews in Feb 2026, which suggests an Jan-Jun-style intern intake exists.",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "PayPal",
+     "role": "Data Analyst Intern (Bangalore/Chennai)",
+     "aggregator_url": "https://jobs.weekday.works/paypal-data-analyst-intern",
+     "careers_url": "https://paypal.eightfold.ai/careers",
+     "note": "Weekday listing, 0 yrs exp, undated. Not confirmed on PayPal Eightfold. Liveness unknown.",
+     "src": "C-payments-insurance"
+    }
+   ]
+  },
+  {
+   "name": "Synchrony",
+   "hint": "synchronyfinancial careers Hyderabad",
+   "round_notes": [
+    {
+     "careers_url": "https://www.synchronycareers.com/",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Partly searched. Only myinternships.in templated listings (BI Analyst / Data Insights / Data Analyst Intern, Hyderabad), which look unreliable. careers_url from prior knowledge / list hint, not seen in search this run - verify",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "FIS",
+   "hint": "fis careers Pune",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.fisglobal.com/",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Fiserv",
+   "hint": "fiserv careers Pune/Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.fiserv.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Global Payments",
+   "hint": "globalpayments careers",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.globalpayments.com/",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Swiss Re",
+   "hint": "swissre careers Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.swissre.com/",
+     "ats": "successfactors",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    },
+    {
+     "careers_url": "https://careers.swissre.com/content/Interns-Application-and-Programme-Overview/?locale=en_GB",
+     "ats": "successfactors",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Bangalore intern programme open to final-year grad students, 2-3 months (occasionally 3-6 months); no current Bangalore intern posting indexed. Worth checking careers.swissre.com/go/Bangalore/2743901/ periodically.",
+     "src": "R2d-india-insurance-groups"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Allianz",
+   "hint": "allianz careers Pune (Allianz Technology / Allianz Services)",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.allianz.com/",
+     "ats": "successfactors",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    },
+    {
+     "careers_url": "https://careers.allianz.com/global/en/search-results?keywords=intern",
+     "ats": "phenom",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "India hubs Pune/Trivandrum (Allianz Services/Technology) post only full-time roles; no India intern postings indexed.",
+     "src": "R2d-india-insurance-groups"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "AXA XL",
+   "hint": "axaxl careers Bengaluru/Gurugram",
+   "round_notes": [
+    {
+     "careers_url": "https://axaxl.com/careers",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "MetLife",
+   "hint": "metlife careers Noida",
+   "round_notes": [
+    {
+     "careers_url": "https://www.metlifecareers.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Prudential / PGIM",
+   "hint": "pgim / prudential careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.pgim.com/careers",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Chubb",
+   "hint": "chubb careers Hyderabad/Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.chubb.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Marsh McLennan (Marsh, Mercer, Oliver Wyman)",
+   "hint": "careers.marshmclennan.com",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.marshmclennan.com/",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Aon",
+   "hint": "aon careers Gurugram/Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.aon.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "WTW",
+   "hint": "wtw careers Mumbai/Thane",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.wtwco.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Gallagher",
+   "hint": "ajg careers Mumbai/Bengaluru",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.ajg.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Ameriprise Financial",
+   "hint": "ameriprise careers Gurugram/Hyderabad",
+   "round_notes": [
+    {
+     "careers_url": "https://www.ameriprise.com/careers",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Principal Global Services",
+   "hint": "principal careers Pune",
+   "round_notes": [
+    {
+     "careers_url": "https://www.principal.com/about-us/careers",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Zurich / ZINFI",
+   "hint": "zurich careers India",
+   "round_notes": [
+    {
+     "careers_url": "https://www.zurich.com/careers",
+     "ats": "successfactors",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Experian",
+   "hint": "experian careers Mumbai/Hyderabad",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.experian.com/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    },
+    {
+     "careers_url": "https://jobs.experian.com/jobs",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Only 2 intern postings globally at search time; an India analytics intern listing (SAS->Python/Snowflake) had expired. Mumbai/Hyderabad roles are permanent.",
+     "src": "R2d-india-insurance-groups"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "TransUnion CIBIL",
+   "hint": "transunion careers Mumbai/Pune",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.transunion.com/",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    },
+    {
+     "careers_url": "https://transunion.wd5.myworkdayjobs.com/TransUnion",
+     "ats": "workday",
+     "ats_endpoint": "https://transunion.wd5.myworkdayjobs.com/wday/cxs/transunion/TransUnion/jobs",
+     "result": "none found",
+     "note": "India roles (Pune/Chennai) full-time only; intern postings are US Summer 2026.",
+     "src": "R2d-india-insurance-groups"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Equifax",
+   "hint": "equifax careers Pune",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.equifax.com/",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED - shared WebSearch budget (200/turn) exhausted after ~16 queries in this cluster; careers_url from prior knowledge / list hint, not seen in search this run - verify (ATS guess too).",
+     "src": "C-payments-insurance"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  }
+ ]
+}

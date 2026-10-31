@@ -1,0 +1,20 @@
+{
+ "company": "Experian",
+ "ats": "smartrecruiters",
+ "endpoint": "https://api.smartrecruiters.com/v1/companies/Experian/postings",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "graduate",
+  "analyst intern",
+  "data",
+  ""
+ ],
+ "total_hits": 33,
+ "india_intern_hits": [],
+ "details": {}
+}

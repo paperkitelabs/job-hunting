@@ -1,0 +1,11 @@
+{
+ "company": "BSE",
+ "ats": "custom Angular SPA",
+ "endpoint": "https://www.bseindia.com/static/about/careers",
+ "queried_at": "2026-10-30",
+ "queries": [],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "NOT REACHABLE / no feed: SPA shell only (114 chars text); no job feed found."
+}

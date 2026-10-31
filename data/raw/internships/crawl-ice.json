@@ -1,0 +1,19 @@
+{
+ "company": "ICE",
+ "ats": "jibe (iCIMS)",
+ "endpoint": "https://careers.ice.com/api/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "country=India",
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "graduate",
+  "off-cycle",
+  "analyst"
+ ],
+ "total_hits": 54,
+ "india_intern_hits": [],
+ "details": {}
+}

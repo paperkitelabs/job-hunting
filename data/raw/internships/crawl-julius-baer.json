@@ -1,0 +1,21 @@
+{
+ "company": "Julius Baer",
+ "ats": "Workday",
+ "endpoint": "https://juliusbaer.wd3.myworkdayjobs.com/External",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate"
+ ],
+ "total_hits": 178,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Workday (191 jobs) has no India locations; 0 India postings."
+}

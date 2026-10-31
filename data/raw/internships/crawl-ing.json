@@ -1,0 +1,21 @@
+{
+ "company": "ING",
+ "ats": "Workday (Radancy front end careers.ing.com)",
+ "endpoint": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate"
+ ],
+ "total_hits": 495,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Workday + Radancy: interns in NL/BE/LU/SG/HK/KR/PH etc., none in India (ING has no India unit)."
+}

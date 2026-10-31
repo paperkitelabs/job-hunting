@@ -1,0 +1,28 @@
+{
+ "company": "Zensar",
+ "ats": "Oracle Recruiting Cloud",
+ "endpoint": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com site CX_1 (India locationId 300000000435151)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "whole India board (no keyword)"
+ ],
+ "total_hits": 221,
+ "india_intern_hits": [
+  {
+   "title": "DE&A - Core - Data Engineering - Talend",
+   "loc": "India",
+   "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/147080",
+   "id": "147080",
+   "posted": "2026-10-27"
+  }
+ ],
+ "details": {
+  "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/147080": {
+   "title": "DE&A - Core - Data Engineering - Talend",
+   "loc": "India",
+   "posted": "2026-10-27",
+   "desc": "Creating this SRF intern hiring for 3 months period.\nRequest an intern to support ongoing engagements in data preparation and documentation activities. A dedicated intern will help improve turnaround time and ensure better focus on client deliverables and emerging data and AI use cases.",
+   "note": "recruitingCEJobRequisitionDetails 200; ExternalDescription/Qualifications fields are placeholder 'ok'; RequisitionType 'Professional (Lateral, Experienced, Subcon Hiring)'"
+  }
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "company": "ZS Associates",
+ "ats": "custom json",
+ "endpoint": "https://jobs.zs.com/api/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "location=India",
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice"
+ ],
+ "total_hits": 296,
+ "india_intern_hits": [],
+ "details": {}
+}

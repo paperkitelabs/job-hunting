@@ -1,0 +1,396 @@
+{
+ "checked": "30 Oct 2026",
+ "round1": [],
+ "companies": [
+  {
+   "name": "Arakoo",
+   "ats": "internshala",
+   "endpoint": "internshala.com",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "found via the Internshala stipend sweep"
+  },
+  {
+   "name": "Axe Consultancy And Security Services LLC",
+   "ats": "internshala",
+   "endpoint": "internshala.com",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "found via the Internshala stipend sweep"
+  },
+  {
+   "name": "Karanpreet Singh",
+   "ats": "internshala",
+   "endpoint": "internshala.com",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "found via the Internshala stipend sweep"
+  },
+  {
+   "name": "Penguin Solutions",
+   "ats": "internshala",
+   "endpoint": "internshala.com",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "found via the Internshala stipend sweep"
+  },
+  {
+   "name": "Primenumbers Technologies",
+   "ats": "internshala",
+   "endpoint": "internshala.com",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "found via the Internshala stipend sweep"
+  },
+  {
+   "name": "Route Mobile Limited",
+   "ats": "internshala",
+   "endpoint": "internshala.com",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "found via the Internshala stipend sweep"
+  },
+  {
+   "name": "Salesforce",
+   "ats": "internshala",
+   "endpoint": "internshala.com",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "found via the Internshala stipend sweep"
+  },
+  {
+   "name": "Sujith Kumar Gundala",
+   "ats": "internshala",
+   "endpoint": "internshala.com",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "found via the Internshala stipend sweep"
+  },
+  {
+   "name": "Unnati Enterprises",
+   "ats": "internshala",
+   "endpoint": "internshala.com",
+   "india_intern_hits": 1,
+   "kept": 1,
+   "note": "found via the Internshala stipend sweep"
+  }
+ ],
+ "cluster": "internshala-stipend-30k",
+ "openings": [
+  {
+   "company": "Primenumbers Technologies",
+   "role": "Data Engineering",
+   "url": "https://internshala.com/internship/detail/data-engineering-internship-in-bangalore-at-primenumbers-technologies1791894510",
+   "location": "Bangalore",
+   "city_rank": 3,
+   "job_id": "Internshala 3315663",
+   "duration": "6 Months",
+   "dates": "Oct 2026 – Apr 2027",
+   "runs_past_may": false,
+   "exp": "Only those candidates can apply who:|1. are available for full time (in-office) internship |2. can start the internship between 13th Oct'26 and 17th Nov'26 |3. are available for duration of 6 months |4. have relevant skills and interests |Other requirements|1. Candidate pursuing Computer Science Eng",
+   "_pt": false,
+   "_appl": "1000+",
+   "_offer": "22LPA",
+   "pay": "₹50,000 /month",
+   "stipend_inr_month": 50000,
+   "track": "analyst",
+   "posted": "",
+   "deadline": "2026-11-12",
+   "jd": "Selected intern's day-to-day responsibilities include: |1. Work on production-grade systems solving real, high-impact business challenges|2. Collaborate with experienced engineers and dive into live, meaningful projects|3. Ship code that directly powers scalable products for enterprise customers|4. Gain hands-on experience in a fast-paced, high-growth startup environment. Skills asked: Python, Linux, PostgreSQL, Data Extraction, Data Engineering.",
+   "li": "Primenumbers Technologies",
+   "resume": "Analyst / PM",
+   "verified": "Internshala detail page 200 on 30 Oct 2026",
+   "note": "Apply via Internshala."
+  },
+  {
+   "company": "Karanpreet Singh",
+   "role": "LLM & Multimodal AI Model Training",
+   "url": "https://internshala.com/internship/detail/work-from-home-part-time-llm-multimodal-ai-model-training-internship-at-karanpreet-singh1791889583",
+   "location": "Work from home",
+   "city_rank": 5,
+   "job_id": "Internshala 3315905",
+   "duration": "2 Months",
+   "dates": "Oct 2026 – Dec 2026",
+   "runs_past_may": false,
+   "exp": "Only those candidates can apply who:|1. are available for the work from home job/internship |2. can start the work from home job/internship between 13th Oct'26 and 3rd Dec'26 |3. are available for duration of 2 months |4. have relevant skills and interests |* Women wanting to start/restart their car",
+   "_pt": false,
+   "_appl": "57",
+   "_offer": "",
+   "pay": "₹30,000 - 50,000 /month",
+   "stipend_inr_month": 30000,
+   "track": "ai",
+   "posted": "",
+   "deadline": "2026-12-03",
+   "jd": "1. Create Screen-Recorded Videos: Record short videos, typically 15–30 minutes long, demonstra Skills asked: Python, Video Editing, Software Testing, UI & UX Design, Web development, Web Design, Data Science.",
+   "li": "Karanpreet Singh",
+   "resume": "DS / AI",
+   "verified": "Internshala detail page 200 on 30 Oct 2026",
+   "note": "Apply via Internshala. Posted by an individual, not a company: data-labelling work for frontier AI labs. Work from home."
+  },
+  {
+   "company": "Axe Consultancy And Security Services LLC",
+   "role": "Market Research",
+   "url": "https://internshala.com/internship/detail/work-from-home-market-research-internship-at-axe-consultancy-and-security-services-llc1791797570",
+   "location": "Work from home",
+   "city_rank": 5,
+   "job_id": "Internshala 3315519",
+   "duration": "3 Months",
+   "dates": "Oct 2026 – Jan 2027",
+   "runs_past_may": false,
+   "exp": "Only those candidates can apply who:|1. are available for the work from home job/internship |2. can start the work from home job/internship between 12th Oct'26 and 16th Nov'26 |3. are available for duration of 3 months |4. have relevant skills and interests |* Women wanting to start/restart their ca",
+   "_pt": false,
+   "_appl": "598",
+   "_offer": "3LPA",
+   "pay": "₹30,000 - 40,000 /month",
+   "stipend_inr_month": 30000,
+   "track": "analyst",
+   "posted": "",
+   "deadline": "2026-11-11",
+   "jd": "1. Conduct market research to identify industry trends, customer preferences, and business opp Skills asked: Market Analysis, Critical thinking, MS-Excel, Problem Solving, Report Writing, Business Analysis, Market research.",
+   "li": "Axe Consultancy And Security Services LLC",
+   "resume": "Analyst / PM",
+   "verified": "Internshala detail page 200 on 30 Oct 2026",
+   "note": "Apply via Internshala. Small US-based IT-consulting firm; work from home."
+  },
+  {
+   "company": "Unnati Enterprises",
+   "role": "Data Analytics",
+   "url": "https://internshala.com/internship/detail/data-analytics-internship-in-multiple-locations-at-unnati-enterprises1791551631",
+   "location": "Secunderabad, Hyderabad, Telangana",
+   "city_rank": 4,
+   "job_id": "Internshala 3314287",
+   "duration": "3 Months",
+   "dates": "Oct 2026 – Jan 2027",
+   "runs_past_may": false,
+   "exp": "Only those candidates can apply who:|1. are available for full time (in-office) internship |2. can start the internship between 9th Oct'26 and 29th Nov'26 |3. are available for duration of 3 months |4. are from Secunderabad, Hyderabad, Telangana only |5. have relevant skills and interests |* Women w",
+   "_pt": false,
+   "_appl": "421",
+   "_offer": "",
+   "pay": "₹40,000 /month",
+   "stipend_inr_month": 40000,
+   "track": "analyst",
+   "posted": "",
+   "deadline": "2026-11-29",
+   "jd": "Selected intern's day-to-day responsibilities include: |1. Collecting and interpreting data from various sources|2. Working alongside teams within the business or the management team to establish business needs|3. Defining new data collection and analysis processes|4. Developing reports and visualizations to effectively communicate data-driven insights to others in the organization|5. Performing data profiling to identify and  Skills asked: Python, SQL, Data Analytics, MS-Excel, Data Science, Power BI, Tableau.",
+   "li": "Unnati Enterprises",
+   "resume": "Analyst / PM",
+   "verified": "Internshala detail page 200 on 30 Oct 2026",
+   "note": "Apply via Internshala. An apparel brand (Chikku Pikku) hiring 10 analytics interns at once; confirm the actual work."
+  },
+  {
+   "company": "Sujith Kumar Gundala",
+   "role": "AI/ML Computer Vision (Sports Analytics)",
+   "url": "https://internshala.com/internship/detail/ai-ml-computer-vision-sports-analytics-internship-in-hyderabad-at-sujith-kumar-gundala1791371206",
+   "location": "Hyderabad",
+   "city_rank": 4,
+   "job_id": "Internshala 3311830",
+   "duration": "3 Months",
+   "dates": "Oct 2026 – Jan 2027",
+   "runs_past_may": false,
+   "exp": "Only those candidates can apply who:|1. are available for full time (in-office) internship |2. can start the internship between 6th Oct'26 and 10th Nov'26 |3. are available for duration of 3 months |4. are from Hyderabad only |5. have relevant skills and interests |Other requirements|Applications th",
+   "_pt": false,
+   "_appl": "56",
+   "_offer": "",
+   "pay": "₹35,000 - 45,000 /month",
+   "stipend_inr_month": 35000,
+   "track": "ai",
+   "posted": "",
+   "deadline": "2026-11-06",
+   "jd": "Selected intern's day-to-day responsibilities include:|1. Build and improve video processing pipelines|2. Work on pose estimation and key point detection with skeleton overlays|3. Fine-tune pre-trained deep learning models on cricket-specific data|4. Derive biomechanics metrics from pose data|5. Help move models from prototype to real-world usable systems Skills asked: OpenCV, Computer Vision, Data Preparation, Model fine-tuning.",
+   "li": "Sujith Kumar Gundala",
+   "resume": "DS / AI",
+   "verified": "Internshala detail page 200 on 30 Oct 2026",
+   "note": "Apply via Internshala. Posted by an individual whose page links only a LinkedIn profile, for independent MVP projects. Verify who you would work for before applying."
+  },
+  {
+   "company": "Route Mobile Limited",
+   "role": "Forward Deployed Software Engineer",
+   "url": "https://internshala.com/internship/detail/forward-deployed-software-engineer-internship-in-multiple-locations-at-route-mobile-limited1791288694",
+   "location": "Gurgaon, Mumbai, Bangalore",
+   "city_rank": 1,
+   "job_id": "Internshala 3311780",
+   "duration": "6 Months",
+   "dates": "Oct 2026 – Apr 2027",
+   "runs_past_may": false,
+   "exp": "Only those candidates can apply who:|1. are available for full time (in-office) internship |2. can start the internship between 6th Oct'26 and 10th Nov'26 |3. are available for duration of 6 months |4. have relevant skills and interests |Other requirements|1. Final-year students or recent graduates ",
+   "_pt": false,
+   "_appl": "1000+",
+   "_offer": "",
+   "pay": "₹30,000 - 70,000 /month",
+   "stipend_inr_month": 30000,
+   "track": "ai",
+   "posted": "",
+   "deadline": "2026-11-05",
+   "jd": "Selected intern's day-to-day responsibilities include: |1. Help the Forward Deployed Engineering team build AI assistants on WhatsApp, RCS, web and voice for large enterprise brands|2. Write and test prompts and tool definitions in English, Hindi and Hinglish|3. Write Python functions that connect assistants to CRMs, payment gateways and APIs|4. Build test sets from real conversations and run them before every change goes live Skills asked: Python, Prompt Engineering, LLM evaluation.",
+   "li": "Route Mobile Limited",
+   "resume": "DS / AI",
+   "verified": "Internshala detail page 200 on 30 Oct 2026",
+   "note": "Apply via Internshala."
+  },
+  {
+   "company": "Arakoo",
+   "role": "Reinforcement Learning & Data Science",
+   "url": "https://internshala.com/internship/detail/reinforcement-learning-data-science-internship-in-multiple-locations-at-arakoo1790829998",
+   "location": "Faridabad, Delhi, Gurgaon, Jaipur, Noida, Roorkee",
+   "city_rank": 4,
+   "job_id": "Internshala 3307956",
+   "duration": "3 Months",
+   "dates": "Sep 2026 – Dec 2026",
+   "runs_past_may": false,
+   "exp": "Only those candidates can apply who:|1. are available for full time (in-office) internship |2. can start the internship between 30th Sep'26 and 4th Nov'26 |3. are available for duration of 3 months |4. are from Faridabad, Delhi, Gurgaon, Jaipur, Noida, Roorkee only |5. have relevant skills and inter",
+   "_pt": false,
+   "_appl": "196",
+   "_offer": "",
+   "pay": "₹35,000 - 40,000 /month",
+   "stipend_inr_month": 35000,
+   "track": "ai",
+   "posted": "",
+   "deadline": "2026-10-31",
+   "jd": "Selected intern's day-to-day responsibilities include: |1. Develop our Chromium based RL framework using C++, Rust, Java|2. Troubleshoot and resolve issues related to Chromium, Reinforcment Learning and other areas of our software stack|4. Stay up-to-date with the latest developments in reinforcement learning, harbor, skyrl and tinker, and apply this knowledge to our products Skills asked: C++ Programming, Rust.",
+   "li": "Arakoo",
+   "resume": "DS / AI",
+   "verified": "Internshala detail page 200 on 30 Oct 2026",
+   "note": "Apply via Internshala."
+  }
+ ],
+ "rejected": [
+  {
+   "company": "QuickHyre",
+   "role": "Data Science",
+   "url": "https://internshala.com/internship/detail/work-from-home-part-time-data-science-internship-at-quickhyre1792384449",
+   "reason": "₹80,000–1,35,000/month for a 3-month work-from-home intern is far above the Indian market (big-tech interns get ~₹1L); the poster is itself a job-board startup and has 4 such ads. Not trusted."
+  },
+  {
+   "company": "QuickHyre",
+   "role": "Artificial Neural Networks",
+   "url": "https://internshala.com/internship/detail/work-from-home-part-time-artificial-neural-networks-internship-at-quickhyre1793020662",
+   "reason": "₹80,000–1,35,000/month for a 3-month work-from-home intern is far above the Indian market (big-tech interns get ~₹1L); the poster is itself a job-board startup and has 4 such ads. Not trusted."
+  },
+  {
+   "company": "QuickHyre",
+   "role": "Applied Scientist",
+   "url": "https://internshala.com/internship/detail/work-from-home-part-time-applied-scientist-internship-at-quickhyre1792124659",
+   "reason": "₹80,000–1,35,000/month for a 3-month work-from-home intern is far above the Indian market (big-tech interns get ~₹1L); the poster is itself a job-board startup and has 4 such ads. Not trusted."
+  },
+  {
+   "company": "QuickHyre",
+   "role": "Data Analytics",
+   "url": "https://internshala.com/internship/detail/work-from-home-data-analytics-internship-at-quickhyre1791346480",
+   "reason": "₹80,000–1,35,000/month for a 3-month work-from-home intern is far above the Indian market (big-tech interns get ~₹1L); the poster is itself a job-board startup and has 4 such ads. Not trusted."
+  },
+  {
+   "company": "OnaWave Medical",
+   "role": "Research – Biomedical Signal Processing (PhD Required)",
+   "url": "https://internshala.com/internship/detail/work-from-home-research--biomedical-signal-processing-phd-required-internship-at-onawave-medical1789370422",
+   "reason": "needs a PhD / Master's"
+  },
+  {
+   "company": "Eureka Forbes",
+   "role": "Corporate Sales",
+   "url": "https://internshala.com/internship/detail/corporate-sales-internship-in-kolkata-at-eureka-forbes1791287530",
+   "reason": "outside the role list"
+  },
+  {
+   "company": "KGM Gupta And Co. Chartered Accountants",
+   "role": "CA Articleship",
+   "url": "https://internshala.com/internship/detail/ca-articleship-internship-in-bangalore-at-kgm-gupta-and-co-chartered-accountants1793249988",
+   "reason": "outside the role list"
+  },
+  {
+   "company": "Gharpayy",
+   "role": "Conversion Associate",
+   "url": "https://internshala.com/internship/detail/conversion-associate-internship-in-bangalore-at-gharpayy1793025650",
+   "reason": "outside the role list"
+  },
+  {
+   "company": "WeddingShedding",
+   "role": "Business Development & Sales Lead",
+   "url": "https://internshala.com/internship/detail/business-development-sales-lead-internship-in-bangalore-at-weddingshedding1791359521",
+   "reason": "outside the role list"
+  },
+  {
+   "company": "Marketome Technology Private Limited",
+   "role": "Business Development (Sales)",
+   "url": "https://internshala.com/internship/detail/business-development-sales-internship-in-multiple-locations-at-marketome-technology-private-limited1791804644",
+   "reason": "outside the role list"
+  },
+  {
+   "company": "Finnup Global Services Private Limited",
+   "role": "Corporate Sales",
+   "url": "https://internshala.com/internship/detail/corporate-sales-internship-in-mumbai-at-finnup-global-services-private-limited1792755565",
+   "reason": "outside the role list"
+  },
+  {
+   "company": "ClearTax",
+   "role": "B2B Sales -Account Managment",
+   "url": "https://internshala.com/internship/detail/b2b-sales-account-managment-internship-in-bangalore-at-cleartax1791788631",
+   "reason": "outside the role list"
+  },
+  {
+   "company": "Dhanlaxmi Associates",
+   "role": "Sales",
+   "url": "https://internshala.com/internship/detail/sales-internship-in-pune-at-dhanlaxmi-associates1793260777",
+   "reason": "outside the role list"
+  },
+  {
+   "company": "Fin Maverick",
+   "role": "Investment Banking & Deal Strategist",
+   "url": "https://internshala.com/internship/detail/work-from-home-investment-banking-deal-strategist-internship-at-fin-maverick1793098530",
+   "reason": "investment-banking/finance role, outside the role list; the poster is a test-prep community"
+  },
+  {
+   "company": "QuickHyre",
+   "role": "Investment Banker",
+   "url": "https://internshala.com/internship/detail/work-from-home-investment-banker-internship-at-quickhyre1792240353",
+   "reason": "outside the role list"
+  },
+  {
+   "company": "QuickHyre",
+   "role": "Finance",
+   "url": "https://internshala.com/internship/detail/work-from-home-finance-internship-at-quickhyre1791438458",
+   "reason": "outside the role list"
+  },
+  {
+   "company": "Eighty20 Business Services Private Limited",
+   "role": "Operations Specialist",
+   "url": "https://internshala.com/internship/detail/operations-specialist-internship-in-hyderabad-at-eighty20-business-services-private-limited1791349175",
+   "reason": "outside the role list"
+  },
+  {
+   "company": "QuickHyre",
+   "role": "Game Development",
+   "url": "https://internshala.com/internship/detail/work-from-home-game-development-internship-at-quickhyre1792132774",
+   "reason": "outside the role list"
+  },
+  {
+   "company": "ClearTax",
+   "role": "Integration Engineer",
+   "url": "https://internshala.com/internship/detail/integration-engineer-internship-in-bangalore-at-cleartax1791871736",
+   "reason": "outside the role list"
+  },
+  {
+   "company": "QuickHyre",
+   "role": "Software Development Engineering (Web)",
+   "url": "https://internshala.com/internship/detail/work-from-home-software-development-engineering-web-internship-at-quickhyre1791438415",
+   "reason": "₹80,000–1,35,000/month for a 3-month work-from-home intern is far above the Indian market (big-tech interns get ~₹1L); the poster is itself a job-board startup and has 4 such ads. Not trusted."
+  },
+  {
+   "company": "Evavo Wellness & Solutions LLP",
+   "role": "B2B Business Management",
+   "url": "https://internshala.com/internship/detail/b2b-business-management-internship-in-multiple-locations-at-evavo-wellness-solutions-llp1790574173",
+   "reason": "outside the role list"
+  },
+  {
+   "company": "Divonex Chemicals Private Limited",
+   "role": "Market Research & Field Sales (Industrial Chemicals)",
+   "url": "https://internshala.com/internship/detail/market-research-field-sales-industrial-chemicals-internship-in-hyderabad-at-divonex-chemicals-private-limited1792125076",
+   "reason": "field sales role"
+  },
+  {
+   "company": "Cambium Technologies Private Limited",
+   "role": "Field Marketing & Consumer Research",
+   "url": "https://internshala.com/internship/detail/part-time-field-marketing-consumer-research-internship-in-bangalore-at-cambium-technologies-private-limited1792148943",
+   "reason": "outside the role list"
+  }
+ ]
+}

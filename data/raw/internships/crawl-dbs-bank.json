@@ -1,0 +1,21 @@
+{
+ "company": "DBS Bank",
+ "ats": "Workday",
+ "endpoint": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data",
+  "2027",
+  "graduate"
+ ],
+ "total_hits": 366,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "Workday India facet: ~300-447 postings (DBS Bank India + DBS Tech India); intern/trainee/apprentice queries 0 India hits; full India list scanned, no intern/trainee titles."
+}

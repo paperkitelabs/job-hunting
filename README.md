@@ -46,6 +46,21 @@ npx vercel
 applications-october.html   the application + referral tracker: September list rechecked 27 Oct
 applications-november.html  same tracker, new openings from the 27 Oct search (data/applications-november.js)
 data/applications-october.js its rows: summarized JD, LinkedIn referrer searches, resume to send
+applications-internships.html internships only (Nov 2026 – May 2027). Three sheets, switched by the tabs at
+                            the top: MNCs & top companies, Startups (₹30k+ stipend), Plain roles (software engineering).
+                            Each sheet is one data/applications-internships*.js file and keeps its own ticks.
+data/raw/internships/        internship search: company universe, briefs, HANDOFF.md, and every raw crawl
+  companies.json / companies_r4.json   284 round-1–3 employers + 306 round-4 employers
+  CRAWL_BRIEF.md             round-3/4 method and screening rules (careers APIs, verified live)
+  ats.py                     shared crawl helper: Workday, Greenhouse, Lever, Ashby, SmartRecruiters,
+                             Eightfold (incl. PCSX), Oracle Recruiting, amazon.jobs
+  crawl-<company>.json       raw intern/trainee hits + fetched JDs per employer (round 3/4)
+  screen_<cluster>.json      screened openings, rejects with reasons, round-1 lead re-checks
+  build_internships.py       screen_*.json -> data/applications-internships.js
+  verify_links.py            final liveness check of every row (drops dead links)
+  internshala_sweep.py       Internshala sweep: the one source that states a stipend on every listing
+  internshala_screen.py      screens those ≥₹30,000/month cards (role, start date, eligibility, vetting)
+  disc_*.json / list_*.txt   rounds 1–2 (search-snippet discovery, superseded)
 tracker.js / tracker.css     shared by every applications-*.html page; ticks save in the browser
 index.html          the full research list
 styles.css          all styling

@@ -1,0 +1,21 @@
+{
+ "company": "Amdocs",
+ "ats": "eightfold",
+ "endpoint": "https://jobs.amdocs.com/api/pcsx/search?domain=amdocs.com",
+ "queried_at": "2026-10-30T03:22:27",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "graduate",
+  "student",
+  "data",
+  ""
+ ],
+ "total_hits": 6,
+ "india_intern_hits": [],
+ "details": {}
+}

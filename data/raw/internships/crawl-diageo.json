@@ -1,0 +1,19 @@
+{
+ "company": "Diageo India",
+ "ats": "workday",
+ "endpoint": "https://diageo.wd3.myworkdayjobs.com/wday/cxs/diageo/Diageo_Careers/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "graduate",
+  "2027",
+  "(India country facet)"
+ ],
+ "total_hits": 34,
+ "india_intern_hits": [],
+ "details": {}
+}

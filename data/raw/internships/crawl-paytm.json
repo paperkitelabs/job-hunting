@@ -1,0 +1,119 @@
+{
+ "company": "Paytm",
+ "ats": "lever",
+ "endpoint": "https://api.lever.co/v0/postings/paytm?mode=json",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "whole board"
+ ],
+ "total_hits": 200,
+ "india_intern_hits": [
+  {
+   "title": "Intern - Talent Acquisition",
+   "loc": "Gurugram, Haryana",
+   "url": "https://jobs.lever.co/paytm/426a6834-1397-4e65-94af-69874c790805",
+   "id": "426a6834-1397-4e65-94af-69874c790805",
+   "posted": "2026-10-07"
+  },
+  {
+   "title": "Intern- HR Onboarding",
+   "loc": "Noida, Uttar Pradesh",
+   "url": "https://jobs.lever.co/paytm/0ecd9d93-e4f3-4dd0-a22e-852fec9b6e02",
+   "id": "0ecd9d93-e4f3-4dd0-a22e-852fec9b6e02",
+   "posted": "2026-10-08"
+  },
+  {
+   "title": "Intern-Talent Acquisition",
+   "loc": "Bangalore, Karnataka",
+   "url": "https://jobs.lever.co/paytm/9d497980-2032-440c-8bac-63fb53938acc",
+   "id": "9d497980-2032-440c-8bac-63fb53938acc",
+   "posted": "2026-05-01"
+  },
+  {
+   "title": "Internship - Talent Acquisition",
+   "loc": "Noida, Uttar Pradesh",
+   "url": "https://jobs.lever.co/paytm/a2f53649-1fe8-4a0d-97ee-24dab719a9e8",
+   "id": "a2f53649-1fe8-4a0d-97ee-24dab719a9e8",
+   "posted": "2026-09-09"
+  },
+  {
+   "title": "Talent Acquisition Intern",
+   "loc": "Noida, Uttar Pradesh",
+   "url": "https://jobs.lever.co/paytm/6d7551f7-34c3-46a2-a4e4-18b29f15338c",
+   "id": "6d7551f7-34c3-46a2-a4e4-18b29f15338c",
+   "posted": "2026-10-19"
+  },
+  {
+   "title": "Talent Acquisition Intern - Bangalore",
+   "loc": "Bangalore, Karnataka",
+   "url": "https://jobs.lever.co/paytm/88e8b698-8f03-4e09-9581-168f831fb3af",
+   "id": "88e8b698-8f03-4e09-9581-168f831fb3af",
+   "posted": "2026-09-08"
+  },
+  {
+   "title": "Talent Acquisition Intern - IT Recruitment",
+   "loc": "Noida, Uttar Pradesh",
+   "url": "https://jobs.lever.co/paytm/95eadc2b-27bf-40fe-b6e6-93aaeadd08f7",
+   "id": "95eadc2b-27bf-40fe-b6e6-93aaeadd08f7",
+   "posted": "2026-10-20"
+  }
+ ],
+ "details": {
+  "https://jobs.lever.co/paytm/426a6834-1397-4e65-94af-69874c790805": {
+   "title": "Intern - Talent Acquisition",
+   "loc": "Gurugram, Haryana",
+   "commitment": "Intern",
+   "posted": 1791377927596,
+   "desc": "About Paytm \nPaytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce.Paytm 's mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. \nJob Title \n Talent Acquisition Intern – Non-Tech Recruitment \nAbout the Role \nAs a Talent Acquisition Intern (Non-Tech) , you will play an active role in driving talent identification and engagement across Paytm’s business, sales, operations, and corporate functions. Working closely with recruiters and business stakeholders, you will help source, screen, and coordinate candidates to fuel Paytm’s fast-paced growth. \nThis role is ideal for a proactive, energetic individual with strong communication skills, high learning agility, and an interest in modern, technology-enabled hiring practices. You will gain hands-on experience in end-to-end recruitment operations and candidate management in a high-volume fintech ecosystem. \nKey Responsibilities \n Candidate Sourcing: Leverage job boards, social channels, campus databases, and internal platforms to source qualified candidates for business, sales, and enabling function roles. \n Screening & Assessment: Conduct initial resume screening and phone evaluations to assess candidate suitability, communication skills, and role alignment. \n Interview Coordination: Manage end-to-end scheduling of interviews, candidate communications, and logistics to ensure a seamless candidate experience. \n Pipeline Management: Maintain accurate candidate data and application stages across the Applicant Tracking System (ATS) and internal recruitment trackers. \n Market Research: Perform basic market mapping and talent research to support recruiter search strategies for specialized non-tech profiles. \n Process Automation & AI Adoption: Utilize modern sourcing tools, AI prompts, and automated communication platforms to speed up top-of-funnel hiring workflows. \nRequired Qualifications \nPursuing or recently completed a Bachelor’s or Master’s degree (MBA/PGDM in Human Resources or related fields preferred). \nStrong written and verbal communication skills with an ability to engage candidates professionally. \nExcellent organizational skills and attention to detail when managing multiple calendars and candidate pipelines. \nHigh learning agility, curiosity, and comfort working in a fast-paced environment. \nBasic proficiency in MS Office / Google Workspace (Sheets, Docs, Slides). \nPreferred Qualifications \nPrior internship experience in HR, recruitment, candidate sourcing, or talent coordination. \nFamiliarity with Applicant Tracking Systems (ATS) and professional networking platforms like LinkedIn. \nInterest in fintech, internet platforms, or high-growth technology environments. \nAI Expectations \n Sourcing & Search: Practical use of modern search methodologies and basic AI tools/prompts to quickly discover candidate profiles and boolean search strings. \n Communication: Utilizing AI tools for drafting personalized candidate outreach messages, interview invitations, and follow-ups. \n Productivity: Leveraging AI-driven tools and automation to summarize profiles, reduce administrative turnaround time, and improve daily recruitment throughput. \nIdeal Candidate \nDemonstrates Ownership & Bias for Action by taking initiative on daily sourcing and coordination tasks. \nExhibits Learning Agility with an eagerness to absorb recruiting best practices and stay open to new tools and ideas. \nDisplays Speed of Execution and adaptability in managing tight hiring schedules and candidate communication. \nStrong focus on Candidate Experience and professional ethics.\n",
+   "live": "in board list 2026-10-30"
+  },
+  "https://jobs.lever.co/paytm/0ecd9d93-e4f3-4dd0-a22e-852fec9b6e02": {
+   "title": "Intern- HR Onboarding",
+   "loc": "Noida, Uttar Pradesh",
+   "commitment": "Intern",
+   "posted": 1791438660902,
+   "desc": "Job Title: HR Onboarding Intern \nPositions (MBA / Graduate) Location: Noida \nMode: Work from Office (5 days a week) \nDuration: 3 Months \nAbout Us: \nPaytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. \n Role & Requirements: \n● Greet and guide new employees on their first day. \n● Support HR in conducting orientation sessions and presentations. \n● Ensure completion of joining formalities, forms, and policy acknowledgments. \n● Maintain accurate employee records and digital filing systems. \n● Update trackers (new joiner status, onboarding progress, etc.). \n● Strong verbal and written communication skills with the ability to interact effectively with new hires and multiple departments. \n● Basic MS Office / Google Workspace skill. \n● Ability to manage confidential information. \n● Positive attitude and eagerness to learn.\n",
+   "live": "in board list 2026-10-30"
+  },
+  "https://jobs.lever.co/paytm/9d497980-2032-440c-8bac-63fb53938acc": {
+   "title": "Intern-Talent Acquisition",
+   "loc": "Bangalore, Karnataka",
+   "commitment": "Intern",
+   "posted": 1777629825082,
+   "desc": "About Us: \nPaytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. \n Key Responsibilities: \n● Sourcing & Outreach: Use LinkedIn Recruiter, Boolean searches, and job boards to find \"passive\" candidates for open roles. \n● Candidate Screening: Review resumes for key skills and conduct initial \"vibe-check\" phone screens to assess culture fit and basic qualifications. \n● Candidate Experience: Serve as the primary point of contact for candidates, ensuring they have a smooth, professional, and friendly interview journey. \n● Scheduling: Coordinate complex interview loops between candidates and hiring managers across various time zones. \n● Employer Branding: Assist in creating content for our LinkedIn page or careers site to show the world what it’s like to work here.\n",
+   "live": "in board list 2026-10-30"
+  },
+  "https://jobs.lever.co/paytm/a2f53649-1fe8-4a0d-97ee-24dab719a9e8": {
+   "title": "Internship - Talent Acquisition",
+   "loc": "Noida, Uttar Pradesh",
+   "commitment": "Intern",
+   "posted": 1788943520369,
+   "desc": "Job Description: Talent Acquisition Intern \n Location: Noida \n About Paytm \nPaytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. \n About the Team \nThe talent acquisition team is responsible for identifying, sourcing, and securing top talent for various businesses within Paytm. \n About the Role: We are looking for a motivated and enthusiastic Talent Acquisition Intern to support our recruitment team. The intern will assist in sourcing candidates, screening profiles, coordinating interviews, and managing recruitment databases. This is a great opportunity for someone looking to gain hands-on experience in end-to-end recruitment. \n Key Responsibilities: \n* Assist the Talent Acquisition team in sourcing candidates through job portals, LinkedIn, and other platforms. \n* Screen resumes and shortlist candidates based on job requirements. \n* Coordinate interview schedules between candidates and hiring managers. \n* Conduct initial HR screening calls with candidates. \n* Maintain and update the candidate database and recruitment trackers. \n* Post job openings on various job portals and social media platforms. \n* Support the team with offer roll-out and candidate follow-ups. \n* Assist in employer branding and campus hiring initiatives. \n Superpowers/Skills \n* Pursuing or recently completed a degree in HR, Business Administration, or a related field. \n* Strong communication and interpersonal skills. \n* Basic understanding of recruitment processes and sourcing platforms (LinkedIn, Naukri, etc.) is a plus. \n* Proficiency in MS Excel/Google Sheets for tracking and reporting. \n* Ability to multitask and manage time effectively in a fast-paced environment. \n* A proactive attitude with a willingness to learn and take initiative. \n* High level of discretion and professionalism when handling candidate information. \n Education \nPursuing or recently completed graduation/MBA (HR specialization preferred). \n Why Join Us \nThis internship offers hands-on exposure to end-to-end recruitment in India's fastest-growing FinTech organization. You'll work closely with experienced TA professionals, gain real-world skills in sourcing, screening, and stakeholder coordination, and get a front-row view of how talent decisions are made at scale. Our agile, merit-based culture values initiative and curiosity, a great space to learn, contribute meaningfully, and build a strong foundation for a career in HR/Talent Acquisition.\n",
+   "live": "in board list 2026-10-30"
+  },
+  "https://jobs.lever.co/paytm/6d7551f7-34c3-46a2-a4e4-18b29f15338c": {
+   "title": "Talent Acquisition Intern",
+   "loc": "Noida, Uttar Pradesh",
+   "commitment": "Intern",
+   "posted": 1792388860953,
+   "desc": "Location: Noida \n Duration: 3 months \n Working days: 5 days work from office \n About Paytm Group: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm's mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. \n About the role: A Talent Acquisition (TA) Intern will support the recruitment team in sourcing and screening candidates for technology roles. The role will involve working on real-time tech hiring requirements, coordinating interviews, candidate communication, maintaining recruitment trackers, and supporting hiring drives. \n Key Responsibilities: \n* Source and screen candidates for roles through LinkedIn, Naukri and other platforms. \n* Identify relevant profiles based on technical requirements and job descriptions. \n* Conduct initial candidate communication and HR screening calls. \n* Coordinate interviews between candidates, recruiters and hiring managers. \n* Maintain recruitment trackers, candidate databases and hiring reports. \n* Support job postings, offer documentation and candidate follow-ups. \n* Work closely with recruiters and stakeholders to ensure smooth hiring. \n* Assist with employer branding and other TA initiatives. \n Skills & Qualifications: \n* Strong communication and interpersonal skills. \n* Basic understanding of Talent Acquisition and recruitment processes . \n* Good sourcing and candidate screening skills. \n* Ability to understand basic technical job requirements. \n* Good coordination and stakeholder management skills. \n* Proficiency in MS Excel / Google Sheets. \n* Strong organizational skills and attention to detail. \n* Knowledge of LinkedIn, Naukri and other sourcing platforms will be an advantage. \n* Proactive attitude, willingness to learn and ability to work in a fast-paced environment. \n What You Will Gain \nHands-on exposure to Talent Acquisition and recruitment operations . \nExperience working on real-time technology hiring requirements. \nExposure to sourcing, screening, HR calls and interview coordination. \nExperience handling hiring drives and recruitment reporting. \nOpportunity to interact with candidates, recruiters and business stakeholders. \nPractical understanding of the end-to-end recruitment process.\n",
+   "live": "in board list 2026-10-30"
+  },
+  "https://jobs.lever.co/paytm/88e8b698-8f03-4e09-9581-168f831fb3af": {
+   "title": "Talent Acquisition Intern - Bangalore",
+   "loc": "Bangalore, Karnataka",
+   "commitment": "Intern",
+   "posted": 1788868090823,
+   "desc": "About Paytm \nPaytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm's mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. \n About the role: \nA Talent Acquisition (TA) Intern supports the recruitment team by sourcing and screening candidates, coordinating interviews, and maintaining recruitment trackers. They assist with job postings, initial candidate communication, and documentation like offer letters and onboarding forms. The role also involves helping with employer branding activities and ensuring smooth coordination between candidates and hiring managers. \n Key Responsibilities \n● Strong communication and interpersonal skills. \n● Basic understanding of recruitment and hiring processes. \n● Ability to source, screen, and identify relevant candidate profiles. \n● Good candidate and stakeholder coordination skills. \n● Proficiency in MS Excel, Google Sheets, and Microsoft Office. \n● Strong organizational and time-management skills. \n● High attention to detail and accuracy in maintaining recruitment documentation. \n● Ability to maintain recruitment trackers and reports. \n● Strong professional email writing and verbal communication skills. \n● Ability to work in a fast-paced environment and manage multiple priorities. \n● Positive attitude, willingness to learn, and adaptability. \n● Knowledge of LinkedIn and job portals will be an added advantage. \n Skills & Qualifications: \n● Strong communication and interpersonal skills. \n● Basic understanding of recruitment and hiring processes. \n● Ability to source, screen, and identify relevant candidate profiles. \n● Good candidate and stakeholder coordination skills. \n● Proficiency in MS Excel, Google Sheets, and Microsoft Office. \n● Strong organizational and time-management skills. \n● High attention to detail and accuracy in maintaining recruitment documentation. \n● Ability to maintain recruitment trackers and reports. \n● Strong professional email writing and verbal communication skills. \n● Ability to work in a fast-paced environment and manage multiple priorities. \n● Positive attitude, willingness to learn, and adaptability. \n● Knowledge of LinkedIn and job portals will be an added advantage. \n What You Will Gain: \n● Hands-on exposure to Talent Acquisition and recruitment operations. \n●Experience working on real-time hiring requirements across different functions. \n●Opportunity to interact with candidates, recruiters, and business stakeholders. \n●Practical experience in candidate sourcing, screening, interview coordination, and recruitment reporting. \n Why join us: \nWe support our people by providing a range of flexible working options so they can work in the way that best suits them. We also offer you the opportunity to develop your career, working in a diverse and inclusive workplace where the diverse backgrounds, perspectives and life experiences of our people are celebrated and create a great place to grow, thrive and belong. Most importantly, for us Work is Fun!! \n Compensation: \nIf you are the right fit, we believe in creating wealth for you with enviable 500 mn+ registered users,21 mn+ merchants and depth of data in our ecosystem, we are in a unique position to democratize credit for deserving consumers & merchants – and we are committed to it. India’s largest digital lending story is brewing here. It’s your opportunity to be a part of the story! democratize credit for deserving consumers & merchants – and we are committed to it. India’s largest digital lending story is brewing here.\n",
+   "live": "in board list 2026-10-30"
+  },
+  "https://jobs.lever.co/paytm/95eadc2b-27bf-40fe-b6e6-93aaeadd08f7": {
+   "title": "Talent Acquisition Intern - IT Recruitment",
+   "loc": "Noida, Uttar Pradesh",
+   "commitment": "Intern",
+   "posted": 1792477098447,
+   "desc": "Talent Acquisition Intern - Noida \nNoida, Uttar Pradesh \nHR – Recruitment / \nIntern / \nOn-site \n Location: Noida \n Duration: 6 months \n Working days: 5 days work from office \n About Paytm Group: Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm's mission is to serve half a billion Indians and bring them to the mainstream economy with the help of technology. \n About the role: A Talent Acquisition (TA) Intern will support the recruitment team in sourcing and screening candidates for technology roles. The role will involve working on real-time tech hiring requirements, coordinating interviews, candidate communication, maintaining recruitment trackers, and supporting hiring drives. \n Key Responsibilities: \n* Source and screen candidates for Tech roles through LinkedIn, Naukri and other platforms. \n* Identify relevant profiles based on technical requirements and job descriptions. \n* Conduct initial candidate communication and HR screening calls. \n* Coordinate interviews between candidates, recruiters and hiring managers. \n* Support tech hiring drives, including weekend drives , as required. \n* Maintain recruitment trackers, candidate databases and hiring reports. \n* Support job postings, offer documentation and candidate follow-ups. \n* Work closely with recruiters and stakeholders to ensure smooth hiring. \n* Assist with employer branding and other TA initiatives. \n Skills & Qualifications: \n* Strong communication and interpersonal skills. \n* Basic understanding of Talent Acquisition and recruitment processes . \n* Good sourcing and candidate screening skills. \n* Ability to understand basic technical job requirements. \n* Good coordination and stakeholder management skills. \n* Proficiency in MS Excel / Google Sheets. \n* Strong organizational skills and attention to detail. \n* Knowledge of LinkedIn, Naukri and other sourcing platforms will be an advantage. \n* Proactive attitude, willingness to learn and ability to work in a fast-paced environment. \n What You Will Gain \nHands-on exposure to Tech Talent Acquisition and recruitment operations . \nExperience working on real-time technology hiring requirements. \nExposure to sourcing, screening, HR calls and interview coordination. \nExperience handling tech hiring drives and recruitment reporting. \nOpportunity to interact with candidates, recruiters and business stakeholders. \nPractical understanding of the end-to-end recruitment process. \nWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.\n",
+   "live": "in board list 2026-10-30"
+  }
+ }
+}

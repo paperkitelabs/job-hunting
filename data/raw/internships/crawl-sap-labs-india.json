@@ -1,0 +1,17 @@
+{
+ "company": "SAP Labs India",
+ "ats": "successfactors (careers.sap.com)",
+ "endpoint": "https://careers.sap.com/search/?locationsearch=India",
+ "queried_at": "2026-10-30T12:00:00Z",
+ "queries": [
+  "intern",
+  "internship",
+  "trainee",
+  "apprentice",
+  "student",
+  "graduate"
+ ],
+ "total_hits": 13,
+ "india_intern_hits": [],
+ "details": {}
+}

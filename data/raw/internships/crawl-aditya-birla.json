@@ -1,0 +1,13 @@
+{
+ "company": "Aditya Birla Group",
+ "ats": "peoplestrong",
+ "endpoint": "https://abgcareers.peoplestrong.com/ (JS app)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "landing/listing HTML"
+ ],
+ "total_hits": 0,
+ "india_intern_hits": [],
+ "details": {},
+ "note": "careers.adityabirla.com/job-search embeds PeopleStrong JS app; no static listing or public JSON found; no intern mention."
+}

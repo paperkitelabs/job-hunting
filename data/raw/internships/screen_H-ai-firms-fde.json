@@ -1,0 +1,275 @@
+{
+ "cluster": "H-ai-firms-fde",
+ "checked": "30 Oct 2026",
+ "openings": [],
+ "rejected": [
+  {
+   "company": "Sarvam AI",
+   "role": "Growth Marketing Intern",
+   "url": "https://jobs.ashbyhq.com/sarvam/1eb3008a-2014-4a6c-8a35-cfa7caf8a60f",
+   "reason": "Marketing internship (paid ads, content, growth experiments), Bengaluru; marketing roles are out of scope. Live on Ashby board, posted 2026-09-23."
+  },
+  {
+   "company": "Sarvam AI",
+   "role": "Marketing internship (brand & communication)",
+   "url": "https://jobs.ashbyhq.com/sarvam/bba82f34-1544-421e-a393-3edd8a5f4cb2",
+   "reason": "Brand/communications marketing intern (launch content, case studies), Bengaluru; marketing is out of scope. Live on Ashby, posted 2026-10-23."
+  },
+  {
+   "company": "MongoDB",
+   "role": "2027 - CRM Engineering Intern, Gurugram",
+   "url": "https://job-boards.greenhouse.io/mdbgeneralreferrals/jobs/8127579",
+   "reason": "Summer 2027 (10 weeks, June–August) for students with at least one semester left after the internship, so it targets penultimate-year students. It is also Salesforce/Apex SWE work with no data or AI angle."
+  },
+  {
+   "company": "MongoDB",
+   "role": "HR PMO Intern",
+   "url": "https://job-boards.greenhouse.io/mdbgeneralreferrals/jobs/8161180",
+   "reason": "HR programme-management intern that requires a Master's in HR in progress; runs May–July (10 weeks). HR roles and Master's requirements are both excluded."
+  }
+ ],
+ "round1": [
+  {
+   "company": "Databricks",
+   "role": "Data Science Graduate Intern (Bengaluru)",
+   "old_url": "https://myinternships.in/job/databricks-is-hiring-data-science-graduate-intern-bengaluru-39a4ee",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Pulled the whole Greenhouse board 'databricks' (903 postings, 88 in India). It has no India intern postings. The 13 intern postings worldwide are all US or Europe. The aggregator listing looks fabricated."
+  },
+  {
+   "company": "Snowflake",
+   "role": "Data Engineer Intern - Pune (2026)",
+   "old_url": "https://apna.co/job/1688342760",
+   "status": "not_found",
+   "new_url": "",
+   "note": "careers.snowflake.com now runs on Ashby (board 'snowflake', 361 postings, 13 in India). It has no India intern posting. The site's own intern search returns 10 hits, all in Europe (Berlin, Warsaw, Zurich, Munich, London)."
+  },
+  {
+   "company": "Sarvam AI",
+   "role": "Generative AI / ML / NLP / AI Research Intern (Bengaluru)",
+   "old_url": "https://myinternships.in/internships/sarvam-ai-is-hiring-generative-ai-intern-bengaluru-bv7p",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Ashby board 'sarvam' has 46 postings, all in India. The only interns are 2 marketing roles (rejected). There is no GenAI, ML, NLP or research intern, and no AI Residency posting."
+  },
+  {
+   "company": "Rippling",
+   "role": "Product Management Intern (Bengaluru)",
+   "old_url": "https://myinternships.in/job/rippling-india-product-management-intern-bengaluru-db3aa6",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Rippling ATS board (374 unique postings, 92 in India) has no India intern. Its 9 intern postings are all US: SF, NY, Seattle (Summer/Winter 2027)."
+  },
+  {
+   "company": "MongoDB",
+   "role": "Product Management Intern (Gurugram)",
+   "old_url": "https://job-boards.greenhouse.io/mdbgeneralreferrals/jobs/7239041",
+   "status": "closed",
+   "new_url": "",
+   "note": "Round-1 IDs 7239041 and 7378863 now return 404 on the mdbgeneralreferrals and mongodb boards, so they are closed. No PM intern is live; the Gurugram interns now listed are CRM Engineering (Summer 2027) and HR PMO (both rejected)."
+  }
+ ],
+ "companies": [
+  {
+   "name": "Anthropic",
+   "ats": "greenhouse",
+   "endpoint": "https://boards-api.greenhouse.io/v1/boards/anthropic/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "671 postings, 4 in India (Applied AI Architect in Bangalore and Mumbai, Applied AI Architect Partnerships, Enterprise AE BFSI Mumbai). No intern postings anywhere."
+  },
+  {
+   "name": "OpenAI",
+   "ats": "ashby",
+   "endpoint": "https://api.ashbyhq.com/posting-api/job-board/openai",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "814 postings, 7 in India (Delhi/Bangalore: account directors, Applied AI Architect, AI Deployment Engineer). No intern postings anywhere."
+  },
+  {
+   "name": "Google DeepMind",
+   "ats": "google-careers",
+   "endpoint": "https://www.google.com/about/careers/applications/jobs/results?company=DeepMind&location=India",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "The Greenhouse 'deepmind' board is gone (404); DeepMind now posts on Google Careers. 2 India roles (Staff SWE, Research Scientist Agents, Bengaluru) and 0 interns. No Student Researcher postings in India: the 24 listed are US, Canada, Europe and Israel."
+  },
+  {
+   "name": "Databricks",
+   "ats": "greenhouse",
+   "endpoint": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "903 postings, 88 in India, 0 India interns. India FDE roles are all senior (Sr/Staff/Manager FDE, 6+ years)."
+  },
+  {
+   "name": "Snowflake",
+   "ats": "ashby",
+   "endpoint": "https://api.ashbyhq.com/posting-api/job-board/snowflake",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Moved to Ashby; careers.snowflake.com links to it. 361 postings, 13 in India (Pune/Bangalore/Mumbai). Its interns are Berlin, Warsaw, Zurich, Munich and London only."
+  },
+  {
+   "name": "Palantir",
+   "ats": "lever",
+   "endpoint": "https://api.lever.co/v0/postings/palantir?mode=json",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "302 postings, 0 in India. 45 intern postings, all US/UK/EU/APAC (no India)."
+  },
+  {
+   "name": "Scale AI",
+   "ats": "greenhouse",
+   "endpoint": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "169 postings, 1 in India (SME Support Systems Specialist). Interns are in SF, NY, London and Doha."
+  },
+  {
+   "name": "Sarvam AI",
+   "ats": "ashby",
+   "endpoint": "https://api.ashbyhq.com/posting-api/job-board/sarvam",
+   "india_intern_hits": 2,
+   "kept": 0,
+   "note": "46 postings, all India. 2 marketing interns (rejected); no AI/ML intern or residency posting."
+  },
+  {
+   "name": "Krutrim",
+   "ats": "none found",
+   "endpoint": "https://www.olakrutrim.com/careers",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Could not reach a board: the careers page returns 404, the homepage has no careers link, and Greenhouse/Lever/Ashby slugs 404. 1 WebSearch found only aggregators. Layoffs reported Jul 2026."
+  },
+  {
+   "name": "Glean",
+   "ats": "greenhouse",
+   "endpoint": "https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "131 postings, 23 in India (Bangalore), 0 interns. The Industrial Trainee Tax posting from round 1 is gone."
+  },
+  {
+   "name": "Rippling",
+   "ats": "rippling-ats",
+   "endpoint": "https://ats.rippling.com/api/v2/board/rippling/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "374 unique postings, 92 in India (Bangalore), 0 India interns. Its 9 interns are US only."
+  },
+  {
+   "name": "MongoDB",
+   "ats": "greenhouse",
+   "endpoint": "https://boards-api.greenhouse.io/v1/boards/mongodb/jobs + /mdbgeneralreferrals/jobs",
+   "india_intern_hits": 2,
+   "kept": 0,
+   "note": "The main board has 368 postings, 82 in India, and no India intern. The mdbgeneralreferrals board has 2 Gurugram interns (CRM Engineering Summer 2027, HR PMO), both rejected. FDE/FDA Gurugram roles are full-time and need 5+ or 8+ years."
+  },
+  {
+   "name": "Elastic",
+   "ats": "greenhouse",
+   "endpoint": "https://boards-api.greenhouse.io/v1/boards/elastic/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "402 postings, 16 in India, 0 interns anywhere."
+  },
+  {
+   "name": "Confluent",
+   "ats": "ibm-careers",
+   "endpoint": "POST https://www-api.ibm.com/search/api/v2 (careers2) + https://api.ashbyhq.com/posting-api/job-board/confluent",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Confluent now hires through IBM Careers (73 Confluent-labelled postings), none of them interns. The Ashby board is empty, and careers.confluent.io sits behind a Vercel bot check (429). IBM's own internships belong to IBM's cluster, not here."
+  },
+  {
+   "name": "C3 AI",
+   "ats": "greenhouse",
+   "endpoint": "https://boards-api.greenhouse.io/v1/boards/c3iot/jobs + /c3ascend/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "94 postings, 2 in India (Bengaluru). Interns are in Redwood City and Guadalajara only."
+  },
+  {
+   "name": "Uniphore",
+   "ats": "workday",
+   "endpoint": "https://uniphore.wd503.myworkdayjobs.com/wday/cxs/uniphore/Uniphore/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Whole Workday board is 41 postings (India: Bangalore and Chennai), 0 interns."
+  },
+  {
+   "name": "Observe.AI",
+   "ats": "greenhouse",
+   "endpoint": "https://boards-api.greenhouse.io/v1/boards/observeai/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "7 postings, 4 in India, 0 interns."
+  },
+  {
+   "name": "Sprinklr",
+   "ats": "workday",
+   "endpoint": "https://sprinklr.wd1.myworkdayjobs.com/wday/cxs/sprinklr/careers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "India country facet applied: 19 India postings, 0 intern or trainee titles. The fuzzy search matched only full-time roles."
+  },
+  {
+   "name": "Freshworks",
+   "ats": "smartrecruiters",
+   "endpoint": "https://api.smartrecruiters.com/v1/companies/Freshworks/postings?country=in",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "34 India postings, all experienced (Lead/Staff/Principal), 0 interns."
+  },
+  {
+   "name": "Zoho",
+   "ats": "zoho-recruit",
+   "endpoint": "https://careers.zohocorp.com/jobs/Careers/rss",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Zoho Recruit portal lists 9 evergreen Chennai/TN openings (developers, QA, support, sales, etc.), with no intern posting. zoho.com/careers does not mention internships."
+  },
+  {
+   "name": "Postman",
+   "ats": "workday",
+   "endpoint": "https://postman.wd108.myworkdayjobs.com/wday/cxs/postman/careers/jobs (site feed /_mk-www-next/api-cache/careers-jobs.json)",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Moved from Greenhouse to Workday (wd108). 25 postings in total, 9 in Bangalore, 0 interns."
+  },
+  {
+   "name": "BrowserStack",
+   "ats": "workday",
+   "endpoint": "https://browserstack.wd3.myworkdayjobs.com/wday/cxs/browserstack/External/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Whole board is 29 postings (Mumbai/India remote), all full-time; 0 interns. The yearly intern drive is not open."
+  },
+  {
+   "name": "Atlan",
+   "ats": "ashby",
+   "endpoint": "https://api.ashbyhq.com/posting-api/job-board/atlan",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "7 postings, 5 in India, 0 interns."
+  },
+  {
+   "name": "Turing",
+   "ats": "greenhouse",
+   "endpoint": "https://boards-api.greenhouse.io/v1/boards/turing/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "38 postings, 6 in India, 0 interns. Forward-Deployed AI Engineer roles in Bengaluru and Hyderabad need 8+ years."
+  },
+  {
+   "name": "Cohere / Mistral / Perplexity / Cursor (India roles)",
+   "ats": "ashby",
+   "endpoint": "https://api.ashbyhq.com/posting-api/job-board/{cohere,mistral.ai,perplexity,cursor}",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Cohere 122 postings / Mistral 229 / Perplexity 134 have 0 India postings; their interns are in Canada, Paris, Belgrade, Berlin and London. Cursor (125) has 6 Bengaluru roles, all full-time (FDE India, Field Engineer, Solutions Architect, etc.), and no interns anywhere."
+  }
+ ]
+}

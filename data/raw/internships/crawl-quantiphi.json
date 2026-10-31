@@ -1,0 +1,115 @@
+{
+ "company": "Quantiphi",
+ "ats": "workday",
+ "endpoint": [
+  "https://quantiphi.wd1.myworkdayjobs.com/wday/cxs/quantiphi/Careers_at_Quantiphi/jobs"
+ ],
+ "site_meta": [
+  {
+   "site": "https://quantiphi.wd1.myworkdayjobs.com/Careers_at_Quantiphi",
+   "total_global": 78,
+   "india_facet": {},
+   "intern_subtype_facet": {
+    "workerSubType": [
+     "004c6095ba3b1000b2cd563c68280001"
+    ]
+   }
+  }
+ ],
+ "queried_at": "2026-10-30T03:14:36",
+ "queries": [
+  "<whole board>",
+  "workerSubType intern facet",
+  "intern",
+  "internship",
+  "trainee",
+  "off-cycle",
+  "apprentice",
+  "analyst intern",
+  "data intern",
+  "2027",
+  "graduate",
+  "campus",
+  "fresher"
+ ],
+ "total_hits": 78,
+ "india_intern_hits": [],
+ "details": {},
+ "nonintern_titles_seen": [
+  "AI Engineer",
+  "AWS AI/ML Technical Practice Lead",
+  "AWS Cloud Migration Architect",
+  "AWS Partner Sales Alliance Lead  - Central Region",
+  "Architect - Chatbot",
+  "Architect - Data",
+  "Architect - Data Engineer",
+  "Architect - Data Modeller",
+  "Architect - Machine Learning (Azure)",
+  "Architect - Machine Learning (MLOps Specialist)",
+  "Architect - Machine Learning - GenAI",
+  "Architect - Platform",
+  "Architect - Platform Engineering - USA",
+  "Architect - Software Developer",
+  "Architect ML - AI Researcher",
+  "Architect ML Engineer",
+  "Architect MLE",
+  "Associate Architect - Data",
+  "Associate Architect - Data (AWS + AtScale)",
+  "Associate Architect - Machine Learning",
+  "Associate Architect - Software Developer",
+  "Associate Engagement Manager",
+  "Associate Lead - Testing (QA + MLOps)",
+  "Associate Lead Testing",
+  "Associate Technical Architect - Data (Oracle)",
+  "Associate Technical Architect - ML",
+  "Associate Technical Architect - Platform",
+  "Associate Technical Architect - SD - Java/Springboot",
+  "Client Partner - Key Insurance Accounts",
+  "Client Solutions Partner",
+  "Cloud Architect",
+  "Data Engineer - Senior - USA",
+  "Engagement Manager",
+  "Enterprise Architect - Application Modernization",
+  "Facilities Coordinator",
+  "National Public Sector Sales Lead - AWS Practice",
+  "OCM Advisor - French",
+  "Resume Dropbox",
+  "Sales Leader - AWS CPG",
+  "Sales Leader – Life Insurance (US)",
+  "Scrum Master - French",
+  "Senior - Platform Engineer",
+  "Senior Architect - Data",
+  "Senior Business Analyst (Provider)",
+  "Senior Business System Analyst",
+  "Senior Client Solutions Partner",
+  "Senior Data Analyst",
+  "Senior Data Engineer",
+  "Senior Data Engineer (SSIS/SSRS)",
+  "Senior Data Engineer 2",
+  "Senior Knowledge Graph Engineer",
+  "Senior Machine Learning Engineer",
+  "Senior Machine Learning Engineer - Data Analytics",
+  "Senior Platform Engineer",
+  "Senior Platform Engineer - Azure",
+  "Senior Sales Engineer",
+  "Senior Software Developer",
+  "Senior Specialist - Design",
+  "Sr Engagement Manager",
+  "Strategic Account Manager",
+  "TPM/RTE - French",
+  "Tech Architect - Data",
+  "Technical Architect - ML",
+  "Technical Architect - ML - GenAI",
+  "Technical Lead – Treasury",
+  "Technical Program Manager"
+ ],
+ "recheck_fixed_ats_workday": {
+  "meta": [
+   {
+    "api": "https://quantiphi.wd1.myworkdayjobs.com/wday/cxs/quantiphi/Careers_at_Quantiphi/jobs",
+    "india_facet": {}
+   }
+  ],
+  "new_hits": []
+ }
+}

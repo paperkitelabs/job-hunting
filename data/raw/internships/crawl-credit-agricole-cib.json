@@ -1,0 +1,50 @@
+{
+ "company": "Credit Agricole CIB",
+ "ats": "talentsoft (HTML)",
+ "endpoint": "https://jobs.ca-cib.com/job/list-of-jobs.aspx?LCID=2057 (all 323 offers, detail pages parsed for location)",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "(full board, 323)"
+ ],
+ "total_hits": 10,
+ "india_intern_hits": [
+  {
+   "title": "Trainee - Global Markets Division",
+   "loc": "Mumbai",
+   "url": "https://jobs.ca-cib.com/job/job-trainee-global-markets-division_116032.aspx",
+   "id": "116032",
+   "posted": ""
+  },
+  {
+   "title": "Trainee - Global Markets Division (Foreign Exchange and Interest Rates)",
+   "loc": "Mumbai",
+   "url": "https://jobs.ca-cib.com/job/job-trainee-global-markets-division-foreign-exchange-and-interest-rates-_115317.aspx",
+   "id": "115317",
+   "posted": ""
+  },
+  {
+   "title": "Trainee",
+   "loc": "Mumbai",
+   "url": "https://jobs.ca-cib.com/job/job-trainee_113040.aspx",
+   "id": "113040",
+   "posted": ""
+  }
+ ],
+ "details": {
+  "https://jobs.ca-cib.com/job/job-trainee-global-markets-division_116032.aspx": {
+   "title": "Trainee - Global Markets Division",
+   "contract": "Internship/Trainee",
+   "desc": "Reference\r\n 2026-116032 \r\n Update date\r\n 30/09/2026\r\nJob description \n Business type\r\nTypes of Jobs - Corporate & Investment Banking \n Job title\r\nTrainee - Global Markets Division \n Contract type\r\nInternship/Trainee \n Expected start date\r\n03/11/2026 \n Job summary\r\n Responsibilities & Duties \n· The position assists the EMG FX & Rates traders in pricing FX swaps, CCS, IRS and similar derivatives which may involve the use of Bloomberg, Reuters Eikon, Orchestrade, GCE & CVA pricer. \n·The position assists the EMG FX & Rates traders in monitoring risk against regulatory and internal limits. \n·The position provides support to Sales in form of indicative pricing for FX swaps, CCS, IRS and similar derivatives. This may involve the use of Bloomberg, Reuters Eikon, Orchestrade, GCE & CVA pricer. \n·The position is also responsible for generating end of day PNL estimate for the EMG FX & Rates desk. \n·Assisting the trader in capturing trades in the front office systems which may involve the use of Summit/K+/Orchestrade. \n·Assisting the trader in communicating with financial intermediaries and clients. \n·Making spreadsheets, notes and presentations as required by the desk \r\n Supplementary Information\r\nThe position may need to be provided access to front office systems to discharge its duties and responsibilities which may include but not limited to: \n· Bloomberg \n· Reuter’s Eikon \n· Orchestrade \n· MS office \n· GCE \n· CVA pricer \r\nPosition location \n Geographical area\r\nAsia, India \n City\r\n MUMBAI\r\nCandidate criteria \n Minimal education level\r\nPostgraduate degree – MA/MSc/PhD/Doctorate or equivalent \n Academic qualification / Speciality\r\nFresher’s with a management degree/CA or equivalent or 0-1 years of financial markets experience. \r\n Level of minimal experience \r\n0-2 years \n Experience\r\n0-1 years of financial markets experience. \r\n Required skills\r\n·Ability to communicate clearly and easily \n·Ability to analyze and summarize \n·Rigour and sense of organization \n·Apprehension of results and priorities \n·Ability to work across disciplines \r\n Technical skills required\r\n· Required: MS Office (Advanced Excel, Advanced Presentation, Word) \n· Desired: Basic Programming skills \n· Basic Product Knowledge (Financial Markets) \r\n"
+  },
+  "https://jobs.ca-cib.com/job/job-trainee-global-markets-division-foreign-exchange-and-interest-rates-_115317.aspx": {
+   "title": "Trainee - Global Markets Division (Foreign Exchange and Interest Rates)",
+   "contract": "Internship/Trainee",
+   "desc": "Reference\r\n 2026-115317 \r\n Update date\r\n 30/09/2026\r\nJob description \n Business type\r\nTypes of Jobs - Others \n Job title\r\nTrainee - Global Markets Division (Foreign Exchange and Interest Rates) \n Contract type\r\nInternship/Trainee \n Expected start date\r\n15/10/2026 \n Job summary\r\n Responsibilities & Duties : \n·Assist the Sales/ Trading Desk in pricing financial markets products like Foreign Exchange Spot, Foreign Exchange Swaps, Foreign Exchange Forwards, Currency Options and Derivatives which may involve the use of Bloomberg, Reuters Eikon, other financial product pricers. \n·Assist the desk in monitoring risk against regulatory and internal limits. \n·Responsible for generating daily MIS and regular reporting for the desk. \n·Assists the desk in capturing trades in the front office systems which may involve the use of different booking systems. \n·Manage the dealing pad and reconciliation of deals with Front Office systems \n·Assist the desk in communicating with financial intermediaries and clients. \n·Assist the Desk Heads and Department Head on specific projects, marketing efforts (like presentations, pitch books) and analysis of financial/ economic data. \n·Assist the Desk Heads to work on internal memos, product papers, pricing models, etc. \n·Liaise with internal teams like Middle Office, Back Office, Coverage, Trade with regard to desk requirements. \r\nPosition location \n Geographical area\r\nAsia, India \n City\r\n MUMBAI\r\nCandidate criteria \n Minimal education level\r\nPostgraduate degree – MA/MSc/PhD/Doctorate or equivalent \n Academic qualification / Speciality\r\nManagement degree in Finance/CA or equivalent. \r\n Level of minimal experience \r\n0-2 years \n Experience\r\n0-1 years of financial markets experience. \r\n Required skills\r\n·Ability to communicate clearly and easily \n·Ability to analyze and summarize \n·Rigour and sense of organization \n·Apprehension of results and priorities \n·Ability to work across disciplines \r\n Technical skills required\r\n· Required: MS Office (Advanced Excel, Advanced Presentation, Word) \n· Desired: Basic Programming skills \n· Basic Product Knowledge (Financial Markets) \r\n Languages\r\nEnglish \r\n"
+  },
+  "https://jobs.ca-cib.com/job/job-trainee_113040.aspx": {
+   "title": "Trainee",
+   "contract": "Internship/Trainee",
+   "desc": "Reference\r\n 2026-113040 \r\n Update date\r\n 03/06/2026\r\nJob description \n Business type\r\nTypes of Jobs - Finance / Accounting \n Job title\r\nTrainee \n Contract type\r\nInternship/Trainee \n Expected start date\r\n22/06/2026 \n Job summary\r\nResponsibility Areas: \n- Preparation of monthly financial metrics and key business drivers specific to different products/functions \n- Perform the Front Office PL vs Accounting PL reconciliation \n- Analyzing, investigating and explaining key movements and trends in P&L lines (Performance commentary) \n- Preparation of various Reports to support the Management needs and ensuring timely adherence to deadlines \n- Working with stakeholders to collate and review monthly expenses against budget \n- Ad-Hoc Reporting and Analysis \n- Undertake automation projects related to Management Control and ALM desk \n- Compute internal pricing add-ons wherever necessary and post internal journal entries \n- Assist the ALM team on ad hoc requirements whenever necessary \n- Providing early warning signals of impending liquidity problems to top management \n- Supporting regulatory reports like Form A, CRR & SLR, etc \nPosition location \n Geographical area\r\nAsia, India \n City\r\n MUMBAI\r\nCandidate criteria \n Minimal education level\r\nPostgraduate degree – MA/MSc/PhD/Doctorate or equivalent \n Academic qualification / Speciality\r\nCA qualified \r\n Level of minimal experience \r\n0-2 years \n Experience\r\nQualified CA with 0-12 months experience of prior experience \r\n Required skills\r\n- Ability to communicate clearly and easily \n- Analytical & Synthesis Skills \n- Proactive & Action-Driven \n- Problem Solving \n Technical skills required\r\n- Financial Data Analysis \n- Financial Performance Commentary \n- Process Automation \n- Product Control & P&L Reconciliation \n- Liquidity Risk Management \n- Cost Variance Analysis \r\n Languages\r\nEnglish \r\n"
+  }
+ }
+}

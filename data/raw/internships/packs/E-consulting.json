@@ -1,0 +1,790 @@
+{
+ "cluster": "E-consulting",
+ "companies": [
+  {
+   "name": "McKinsey & Company",
+   "hint": "mckinsey.com/careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.mckinsey.com/careers/search-jobs",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass. Look for Business Analyst / Data Science intern roles in Mumbai, Gurugram and Bengaluru (Knowledge Center, QuantumBlack).",
+     "src": "E-consulting"
+    },
+    {
+     "careers_url": "https://www.mckinsey.com/careers/search-jobs",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Only global BA-intern summer postings surfaced (Lisbon/Mexico/US). India site says McKinsey India hosts internal roles + client-capabilities hubs (Gurugram, Bengaluru, Chennai research & analytics). No India off-cycle intern indexed.",
+     "src": "R2b-consulting-analytics"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "BCG",
+   "hint": "careers.bcg.com",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.bcg.com",
+     "ats": "phenom",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass. BCG India runs Associate intern and BCG X / Gamma data science intern roles.",
+     "src": "E-consulting"
+    },
+    {
+     "careers_url": "https://careers.bcg.com/global/en/locations/india",
+     "ats": "phenom",
+     "ats_endpoint": "",
+     "result": "found 1 (low confidence)",
+     "note": "BCG X Finance Intern (59487) Gurgaon is the only India intern surfaced; India full-time DS/FDE roles exist (e.g. 57205 Lead FDE Mumbai). Internship page: https://careers.bcg.com/global/en/internship-opportunities",
+     "src": "R2b-consulting-analytics"
+    }
+   ],
+   "round1_openings": [
+    {
+     "company": "BCG (BCG X Delivery Finance)",
+     "role": "BCG X Finance Intern",
+     "url": "https://careers.bcg.com/global/en/job/59487/BCG-X-Finance-Intern",
+     "location": "Gurgaon, Haryana, India",
+     "job_id": "59487",
+     "type": "Internship",
+     "duration": "not stated (a sibling requisition 59156 describes a 1-year internship)",
+     "overrun": "likely runs past May 2027 if 1-year",
+     "exp": "Bachelor's/Master's degree or currently enrolled; strong interest in analytics topics",
+     "track": "analyst",
+     "posted": "",
+     "deadline": "",
+     "jd": "Trainee supporting BCG X Delivery Finance: builds reporting dashboards and data pipelines and automates recurring reports using Power BI and Tableau Prep. Asks for a degree (or current enrolment) and strong interest in analytics. Team sits in Finance, so it is finance-reporting analytics, not core data science.",
+     "evidence": "WebSearch (allowed_domains careers.bcg.com) returned 'BCG X Finance Intern in Gurgaon, Haryana, India' at this URL twice; snippet describes dashboards/data pipelines/Power BI/Tableau Prep. A second requisition (59156, ja/ca locales) says 'position not currently open' and targets Finance/Commerce/Economics students, so status is uncertain.",
+     "confidence": "low",
+     "src": "R2b-consulting-analytics"
+    }
+   ],
+   "round1_leads": []
+  },
+  {
+   "name": "Bain & Company",
+   "hint": "bain.com/careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.bain.com/careers/find-a-role/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass. Bain Capability Network (Gurugram/Bengaluru) hires Analyst interns.",
+     "src": "E-consulting"
+    },
+    {
+     "careers_url": "https://www.bain.com/careers/find-a-role/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found (open to off-campus)",
+     "note": "BCN New Delhi/Gurugram runs campus-specific 'Intern Analyst - Batch of 2026/2027' postings per college (SRM 100835, PES 98191, Hindu College 98896); no generic off-campus posting surfaced. Job URL pattern: position/?jobid=NNNNNN.",
+     "src": "R2b-consulting-analytics"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Kearney",
+   "hint": "kearney careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.kearney.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass.",
+     "src": "E-consulting"
+    },
+    {
+     "careers_url": "https://www.kearney.com/about/locations/india/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "India runs Business Analyst (UG) and Summer Associate programmes, typically campus; no off-cycle posting indexed.",
+     "src": "R2b-consulting-analytics"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Oliver Wyman",
+   "hint": "oliverwyman careers",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.marshmclennan.com/global/en/oliver-wyman",
+     "ats": "workday",
+     "ats_endpoint": "https://mmc.wd1.myworkdayjobs.com/wday/cxs/mmc/MMC/jobs (Marsh McLennan tenant; unverified)",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass.",
+     "src": "E-consulting"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Roland Berger",
+   "hint": "rolandberger careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.rolandberger.com/en/Join/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass. The Mumbai office takes interns.",
+     "src": "E-consulting"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "PwC India / PwC AC / Strategy&",
+   "hint": "pwc.in careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.pwc.in/careers.html",
+     "ats": "workday",
+     "ats_endpoint": "",
+     "result": "none found on pwc domain (2 aggregator leads)",
+     "note": "Two searches. Data/analytics intern listings appear only on low-trust aggregators. PwC AC experienced roles are on Workday; the campus intern portal was not confirmed.",
+     "src": "E-consulting"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "PwC India",
+     "role": "Tech Consulting Intern - Data and Analytics (Bengaluru)",
+     "aggregator_url": "https://myinternships.in/internships/pwc-india-is-hiring-tech-consulting-intern-data-and-analytics-bengaluru-39a51d",
+     "careers_url": "https://www.pwc.in/careers.html",
+     "note": "Low-trust aggregator; the same site also lists PwC Data Analyst Intern Mumbai and Data Analytics Intern Chennai. Not verified on pwc.in.",
+     "src": "E-consulting"
+    },
+    {
+     "company": "PwC India",
+     "role": "Technology Consulting - Intern (Off-campus 2026)",
+     "aggregator_url": "https://www.jobscoupe.com/?p=36452",
+     "careers_url": "https://www.pwc.in/careers.html",
+     "note": "Aggregator only. Another aggregator mentions a 'Digital & Data Services' intern (April 2026 intake) and a Deals intern with a November 2026 intake.",
+     "src": "E-consulting"
+    }
+   ]
+  },
+  {
+   "name": "Deloitte India / Deloitte USI",
+   "hint": "southasiacareers.deloitte.com / usijobs.deloitte.com",
+   "round_notes": [
+    {
+     "careers_url": "https://southasiacareers.deloitte.com/search/?q=intern",
+     "ats": "successfactors",
+     "ats_endpoint": "SuccessFactors RMK (southasiacareers.deloitte.com/search/?q=intern&locationsearch=...); USI uses Avature at usijobs.deloitte.com",
+     "result": "found 9",
+     "note": "Deloitte South Asia posts many 'Intern | <skill> | <city> | <offering>' requisitions. URL ids rise over time (~545xxxxx = Apr 2026, ~576xxxxx = Jul 2026, ~587xxxxx+ = Sep-Oct 2026). AI/DS and risk-advisory interns were found. The search budget ran out before data-analytics, strategy and Mumbai/Pune-specific sweeps, so more should exist.",
+     "src": "E-consulting"
+    }
+   ],
+   "round1_openings": [
+    {
+     "company": "Deloitte India (Deloitte Touche Tohmatsu India LLP)",
+     "role": "Intern | Artificial Intelligence (AI) | Bengaluru | TTC - DOMESTIC",
+     "url": "https://southasiacareers.deloitte.com/job/Bengaluru-Intern-Artificial-Intelligence-%28AI%29-Bengaluru-TTC-DOMESTIC/54490644",
+     "location": "Bengaluru",
+     "job_id": "URL id 54490644",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "not stated in snippet",
+     "track": "ai",
+     "posted": "Mar 31, 2026",
+     "deadline": "",
+     "jd": "AI intern in Technology & Transformation (domestic consulting). Asks for familiarity with ML, deep learning and NLP, plus TensorFlow, PyTorch, Keras or scikit-learn.",
+     "evidence": "WebSearch result on southasiacareers.deloitte.com, posted Mar 31, 2026. About 7 months old, so it may be closed.",
+     "confidence": "low",
+     "src": "E-consulting"
+    },
+    {
+     "company": "Deloitte India (Deloitte Touche Tohmatsu India LLP)",
+     "role": "Intern | Artificial Intelligence (AI) | Delhi | TTC - DOMESTIC",
+     "url": "https://southasiacareers.deloitte.com/job/Delhi-Intern-Artificial-Intelligence-%28AI%29-Delhi-TTC-DOMESTIC/54256144",
+     "location": "Delhi",
+     "job_id": "URL id 54256144",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "not stated in snippet",
+     "track": "ai",
+     "posted": "~Mar 2026 (inferred from URL id)",
+     "deadline": "",
+     "jd": "Same AI intern profile as the Bengaluru TTC requisition: ML, deep learning and NLP, with TF/PyTorch/scikit-learn.",
+     "evidence": "WebSearch result on southasiacareers.deloitte.com. Date not shown; the id sits just below the Mar 31, 2026 Bengaluru posting, so it may be closed.",
+     "confidence": "low",
+     "src": "E-consulting"
+    },
+    {
+     "company": "Deloitte India (Enabling Areas / DEC)",
+     "role": "Enabling Areas - DEC - Intern - Data Science",
+     "url": "https://southasiacareers.deloitte.com/job/Bengaluru-Enabling-Areas-DEC-Intern-Data-Science/55688244/",
+     "location": "Bengaluru",
+     "job_id": "URL id 55688244",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "not stated in snippet",
+     "track": "ai",
+     "posted": "May 6, 2026",
+     "deadline": "",
+     "jd": "Data science intern in Deloitte's internal Digital Excellence Centre. Asks for statistical modelling and ML experience; exposure to Generative AI is a plus.",
+     "evidence": "WebSearch result on southasiacareers.deloitte.com, posted May 6, 2026. About 6 months old, so it may be closed.",
+     "confidence": "low",
+     "src": "E-consulting"
+    },
+    {
+     "company": "Deloitte India (Deloitte Touche Tohmatsu India LLP)",
+     "role": "Intern | Fresher | Mumbai - Commerz III | Enterprise Risk",
+     "url": "https://southasiacareers.deloitte.com/job/Mumbai-Commerz-III-Intern-Fresher-Mumbai-Commerz-III-Enterprise-Risk/54525744",
+     "location": "Mumbai (Commerz III, Goregaon)",
+     "job_id": "101623 (URL id 54525744)",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "not stated in snippet",
+     "track": "consult",
+     "posted": "Apr 1, 2026",
+     "deadline": "",
+     "jd": "Intern in the Enterprise Risk advisory practice in Mumbai. The snippet cut off before the duties; the related Delhi ERM interns help develop and implement enterprise risk management frameworks for clients.",
+     "evidence": "WebSearch result on southasiacareers.deloitte.com: req 101623, Apr 1, 2026, Deloitte Touche Tohmatsu India LLP. Posted 7 months ago, so it may be closed. Mumbai is the top location preference.",
+     "confidence": "low",
+     "src": "E-consulting"
+    },
+    {
+     "company": "Deloitte India (Deloitte Touche Tohmatsu India LLP)",
+     "role": "Intern | NFR | Pune | Regulatory & Financial Risk",
+     "url": "https://southasiacareers.deloitte.com/job/Pune-Intern-NFR-Pune-Regulatory-&-Financial-Risk/55029244/",
+     "location": "Pune",
+     "job_id": "102691 (URL id 55029244)",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "not stated in snippet",
+     "track": "bfsi",
+     "posted": "Apr 15, 2026",
+     "deadline": "",
+     "jd": "Intern in Non-Financial Risk (NFR) under Regulatory & Financial Risk advisory, serving banks and FS clients. The duties were not shown in the snippet.",
+     "evidence": "WebSearch result on southasiacareers.deloitte.com: req 102691, Apr 15, 2026. Over 6 months old, so it may be closed.",
+     "confidence": "low",
+     "src": "E-consulting"
+    },
+    {
+     "company": "Deloitte India (Deloitte Touche Tohmatsu India LLP)",
+     "role": "Intern | Enterprise Risk | Delhi | Enterprise Risk",
+     "url": "https://southasiacareers.deloitte.com/job/Delhi-Intern-Enterprise-Risk-Delhi-Enterprise-Risk/57683644/",
+     "location": "Delhi",
+     "job_id": "URL id 57683644",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "not stated in snippet",
+     "track": "consult",
+     "posted": "Jul 8, 2026",
+     "deadline": "",
+     "jd": "Intern in the Enterprise Risk advisory practice: supports risk identification and ERM framework work for clients.",
+     "evidence": "WebSearch result on southasiacareers.deloitte.com; the search summary gives a requisition date of July 8, 2026. This is the most recent of the risk intern postings.",
+     "confidence": "medium",
+     "src": "E-consulting"
+    },
+    {
+     "company": "Deloitte India (Deloitte Touche Tohmatsu India LLP)",
+     "role": "Intern | Enterprise Risk Management framework (ERM) and Managing Risk | Delhi | Enterprise Risk",
+     "url": "https://southasiacareers.deloitte.com/job/Delhi-Intern-Enterprise-Risk-Management-framework-%28ERM%29-and-Managing-Risk-Delhi-Enterprise-Risk/55664644/",
+     "location": "Delhi",
+     "job_id": "URL id 55664644",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "not stated in snippet",
+     "track": "consult",
+     "posted": "~May 2026 (inferred from URL id)",
+     "deadline": "",
+     "jd": "Assists in developing and implementing Enterprise Risk Management frameworks for clients, including risk identification and assessment.",
+     "evidence": "WebSearch result on southasiacareers.deloitte.com. Probably posted around May 2026, so it may be closed.",
+     "confidence": "low",
+     "src": "E-consulting"
+    },
+    {
+     "company": "Deloitte India (Deloitte Touche Tohmatsu India LLP)",
+     "role": "Intern | Enterprise Risk | Delhi | Enterprise Risk",
+     "url": "https://southasiacareers.deloitte.com/job/Delhi-Intern-Enterprise-Risk-Delhi-Enterprise-Risk/55069744/",
+     "location": "Delhi",
+     "job_id": "99028 (URL id 55069744)",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "not stated in snippet",
+     "track": "consult",
+     "posted": "Apr 16, 2026",
+     "deadline": "",
+     "jd": "Enterprise Risk intern: helps clients develop and implement ERM frameworks.",
+     "evidence": "WebSearch result on southasiacareers.deloitte.com: req 99028, Apr 16, 2026. Older posting, so it may be closed.",
+     "confidence": "low",
+     "src": "E-consulting"
+    }
+   ],
+   "round1_leads": [
+    {
+     "company": "Deloitte India",
+     "role": "AI/ML Intern (Delhi, Mumbai, Bengaluru; 3-6 months)",
+     "aggregator_url": "https://yohire.in/job/deloitte-machine-learning-india-internship-2026",
+     "careers_url": "https://southasiacareers.deloitte.com/search/?q=intern",
+     "note": "The aggregator cites req 110583, which matches the EA IT Intern Bengaluru Eco space opening already listed. Duration given as 3-6 months.",
+     "src": "E-consulting"
+    }
+   ]
+  },
+  {
+   "name": "EY India / EY GDS / EY-Parthenon",
+   "hint": "careers.ey.com",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.ey.com/ey/search/?q=intern&locationsearch=India",
+     "ats": "successfactors",
+     "ats_endpoint": "SuccessFactors RMK careers.ey.com; campus roles also on eyglobal.yello.co",
+     "result": "found 4",
+     "note": "EY GDS intern titles use short codes (EYP = EY-Parthenon, TAA = talent, Bvals = valuations, TRE). The newest ids are ~1428994xxx. Several AI & Data / D&A intern roles were seen only on Prosple mirrors, mostly expired; recheck careers.ey.com for 'AI and Data Intern'.",
+     "src": "E-consulting"
+    }
+   ],
+   "round1_openings": [
+    {
+     "company": "EY GDS (EY-Parthenon)",
+     "role": "EYP TRE Intern (Pune)",
+     "url": "https://careers.ey.com/ey/job/Pune-EYP-TRE-Intern-MH-411014/1428994933/",
+     "location": "Pune, MH 411014",
+     "job_id": "1428994933",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "not stated in snippet",
+     "track": "consult",
+     "posted": "not shown; highest EY job id seen (likely Oct 2026)",
+     "deadline": "",
+     "jd": "EY-Parthenon GDS intern in Pune. 'TRE' is not spelled out in the snippet; it is probably the Transaction Real Estate or strategy/transactions team, and the posting mentions a broad scope of engagements with mentoring. Scope is unconfirmed and could lean towards finance.",
+     "evidence": "WebSearch site:careers.ey.com results: two Pune EYP TRE Intern postings (1428994933 and 1428994333). The ids are the highest EY ids seen, so these are likely recent and live.",
+     "confidence": "medium",
+     "src": "E-consulting"
+    },
+    {
+     "company": "EY GDS (EY-Parthenon)",
+     "role": "EYP TRE Intern (Pune) - second requisition",
+     "url": "https://careers.ey.com/ey/job/Pune-EYP-TRE-Intern-MH-411014/1428994333/",
+     "location": "Pune, MH 411014",
+     "job_id": "1428994333",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "not stated in snippet",
+     "track": "consult",
+     "posted": "not shown; likely Oct 2026",
+     "deadline": "",
+     "jd": "Duplicate or parallel requisition of the Pune EY-Parthenon TRE intern.",
+     "evidence": "WebSearch site:careers.ey.com result.",
+     "confidence": "medium",
+     "src": "E-consulting"
+    },
+    {
+     "company": "EY (campus ATS eyglobal.yello.co)",
+     "role": "TC - Data and AI - Intern",
+     "url": "https://eyglobal.yello.co/jobs/FzX2P5EaJ-EElC8me3VpZQ",
+     "location": "not shown (country unconfirmed; EY Technology Consulting)",
+     "job_id": "FzX2P5EaJ-EElC8me3VpZQ",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "not stated in snippet",
+     "track": "ai",
+     "posted": "unknown",
+     "deadline": "",
+     "jd": "EY Technology Consulting Data & AI intern. The country and duties were not visible in the search result.",
+     "evidence": "WebSearch result on eyglobal.yello.co (EY's campus recruiting ATS) titled 'TC - Data and AI - Intern'. The checker needs to confirm the country is India.",
+     "confidence": "low",
+     "src": "E-consulting"
+    },
+    {
+     "company": "EY GDS (campus ATS eyglobal.yello.co)",
+     "role": "CSS-CSS-Consulting Support Services-Intern",
+     "url": "https://eyglobal.yello.co/jobs/Z89jJeEkEo5kMaE8UXWpyw?locale=en",
+     "location": "Kochi / Trivandrum (per aggregator freshershunt)",
+     "job_id": "Z89jJeEkEo5kMaE8UXWpyw",
+     "type": "Internship",
+     "duration": "not stated",
+     "overrun": "",
+     "exp": "not stated in snippet",
+     "track": "analyst",
+     "posted": "2026 (per aggregator)",
+     "deadline": "",
+     "jd": "GDS Consulting Support Services intern. An aggregator describes it as for B.E./B.Tech (IT/CS/circuit branches) and suited to people interested in data, analytics platforms and visual storytelling. It may be largely support or ops work.",
+     "evidence": "WebSearch result on eyglobal.yello.co; freshershunt.in 'ey-off-campus-drive-2026-consulting-support-services-intern' describes it.",
+     "confidence": "low",
+     "src": "E-consulting"
+    }
+   ],
+   "round1_leads": [
+    {
+     "company": "EY India / EY GDS",
+     "role": "GDS Consulting - AI and Data Intern (Chennai/Bengaluru)",
+     "aggregator_url": "https://premieragile-careerportal.prosple.com/graduate-employers/ey-india/jobs-internships/gds-consulting-ai-and-data-intern",
+     "careers_url": "https://careers.ey.com/ey/search/?q=intern&locationsearch=India",
+     "note": "Found on Prosple only. Most of these mirrors show as expired; search careers.ey.com for 'AI and Data Intern'.",
+     "src": "E-consulting"
+    },
+    {
+     "company": "EY India / EY GDS",
+     "role": "Consulting Intern - AI and Data (Pune)",
+     "aggregator_url": "https://vu-careersguide.prosple.com/graduate-employers/ey-india/jobs-internships/consulting-intern-ai-and-data",
+     "careers_url": "https://careers.ey.com/ey/search/?q=intern&locationsearch=Pune",
+     "note": "EY Data n' Analytics team working on DS/ML. Pune. Liveness unknown.",
+     "src": "E-consulting"
+    },
+    {
+     "company": "EY India / EY GDS",
+     "role": "Data & Analytics Intern (Noida / Hyderabad / Bengaluru)",
+     "aggregator_url": "https://jobs.weekday.works/ey-india-data-%26-analytics-intern",
+     "careers_url": "https://careers.ey.com/ey/search/?q=data+analytics+intern",
+     "note": "Asks for SQL, data modelling and dashboard design. Several mirrors show it as expired.",
+     "src": "E-consulting"
+    },
+    {
+     "company": "EY India / EY GDS",
+     "role": "Data Analytics Consulting Intern (Bengaluru)",
+     "aggregator_url": "https://kalingauniversity.prosple.com/graduate-employers/ey-india/jobs-internships/data-analytics-consulting-intern",
+     "careers_url": "https://careers.ey.com/ey/search/?q=intern",
+     "note": "Prosple mirror; liveness unknown.",
+     "src": "E-consulting"
+    },
+    {
+     "company": "EY India / EY GDS",
+     "role": "GDS Consulting Data & Analytics internship (final + pre-final year BE/BTech, Bengaluru)",
+     "aggregator_url": "https://www.placement-officer.com/2025/12/ey-internship-openings-2026-join-ey-gds.html",
+     "careers_url": "https://careers.ey.com/ey/search/?q=intern&locationsearch=Bengaluru",
+     "note": "Posted Dec 2025 for the 2026 cohort, so it may be closed. It indicates EY GDS runs data and analytics interns for final-year students.",
+     "src": "E-consulting"
+    }
+   ]
+  },
+  {
+   "name": "KPMG India / KPMG Global Services",
+   "hint": "kpmg.com/in careers",
+   "round_notes": [
+    {
+     "careers_url": "https://kpmg.com/in/en/careers.html",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found on kpmg domain (2 aggregator leads)",
+     "note": "One search only; the KGS/KPMG India ATS was not identified. Needs follow-up.",
+     "src": "E-consulting"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": [
+    {
+     "company": "KPMG India",
+     "role": "Data Analyst Intern (Mumbai, 4 months)",
+     "aggregator_url": "https://myinternships.in/job/kpmg-india-data-analyst-intern-mumbai-26a10f",
+     "careers_url": "https://kpmg.com/in/en/careers.html",
+     "note": "This aggregator looks auto-generated (many near-identical Big-4 listings), so treat it as unverified. Nothing was found on a KPMG domain.",
+     "src": "E-consulting"
+    },
+    {
+     "company": "KPMG India",
+     "role": "Digital Government Advisory Intern",
+     "aggregator_url": "https://wintec.prosple.com/graduate-employers/kpmg-india/jobs-internships/digital-government-advisory-intern",
+     "careers_url": "https://kpmg.com/in/en/careers.html",
+     "note": "Prosple mirror; liveness unknown.",
+     "src": "E-consulting"
+    }
+   ]
+  },
+  {
+   "name": "Grant Thornton Bharat",
+   "hint": "grantthornton.in careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.grantthornton.in/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass.",
+     "src": "E-consulting"
+    },
+    {
+     "careers_url": "https://www.grantthornton.in/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Internships run via CampACE (B-school summer interns, live projects, CA articleship) and CASEQuest; no posted analytics intern found.",
+     "src": "R2b-consulting-analytics"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "BDO India",
+   "hint": "bdo.in careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.bdo.in/en-gb/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass.",
+     "src": "E-consulting"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Alvarez & Marsal",
+   "hint": "alvarezandmarsal careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.alvarezandmarsal.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass.",
+     "src": "E-consulting"
+    },
+    {
+     "careers_url": "https://careers.alvarezandmarsal.com/search/job-type/intern/jobs/in",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found (in scope)",
+     "note": "Intern filter shows ~1 India intern (Indirect Tax Industrial Trainee, Gurugram). Firm says it recruits interns year-round in Asia; recheck.",
+     "src": "R2b-consulting-analytics"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Accenture (Strategy & Consulting, Song)",
+   "hint": "accenture.wd103.myworkdayjobs.com/AccentureCareers",
+   "round_notes": [
+    {
+     "careers_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers",
+     "ats": "workday",
+     "ats_endpoint": "https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass.",
+     "src": "E-consulting"
+    },
+    {
+     "careers_url": "https://www.accenture.com/in-en/careers/life-at-accenture/internships-students",
+     "ats": "workday",
+     "ats_endpoint": "https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs",
+     "result": "none found",
+     "note": "in-en jobdetails URLs often host non-India roles (Prague/Poland/Malaysia). India campus portal: https://indiacampus.accenture.com/myzone/accenture/1/jobs/ . India student page mainly third-year summer interns.",
+     "src": "R2b-consulting-analytics"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Capgemini Invent",
+   "hint": "capgemini careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.capgemini.com/in-en/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass.",
+     "src": "E-consulting"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "ZS Associates",
+   "hint": "zs.com careers (Pune/Bengaluru/Gurugram)",
+   "round_notes": [
+    {
+     "careers_url": "https://jobs.zs.com",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass. ZS runs Business Technology / Decision Analytics intern roles in Pune, Bengaluru and Gurugram.",
+     "src": "E-consulting"
+    },
+    {
+     "careers_url": "https://jobs.zs.com",
+     "ats": "icims",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Intern postings found are North America/London summer 2026-27 (63438-63440, 24234). India hiring is full-time fresher (BTS/DA/DSA) mostly via campus.",
+     "src": "R2b-consulting-analytics"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Gartner",
+   "hint": "gartner.wd5.myworkdayjobs.com/EXT",
+   "round_notes": [
+    {
+     "careers_url": "https://gartner.wd5.myworkdayjobs.com/EXT",
+     "ats": "workday",
+     "ats_endpoint": "https://gartner.wd5.myworkdayjobs.com/wday/cxs/gartner/EXT/jobs",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass.",
+     "src": "E-consulting"
+    },
+    {
+     "careers_url": "https://jobs.gartner.com/locations/gurgaon/",
+     "ats": "workday",
+     "ats_endpoint": "https://gartner.wd5.myworkdayjobs.com/wday/cxs/gartner/EXT/jobs",
+     "result": "none found (in scope)",
+     "note": "Only Gurgaon intern indexed is FP&A (114357, finance). Gartner has had 'Business and Technology Insights Intern' in Gurgaon (testimonials) — worth checking the live Workday feed for 'intern'. Search filter showed 8 intern roles globally.",
+     "src": "R2b-consulting-analytics"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Protiviti",
+   "hint": "protiviti careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.protiviti.com/in-en/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass.",
+     "src": "E-consulting"
+    },
+    {
+     "careers_url": "https://www.protiviti.com/in-en/students-and-graduates-our-recruiting-process",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "none found",
+     "note": "Internship programme is North America only (Workday roberthalf ProtivitiNA). India hires fresh graduates/PG; PCC India careers: https://inpcc.protiviti.com/careers",
+     "src": "R2b-consulting-analytics"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Kroll",
+   "hint": "kroll careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://careers.kroll.com",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass.",
+     "src": "E-consulting"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "L.E.K. Consulting",
+   "hint": "lek careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.lek.com/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass. Mumbai office.",
+     "src": "E-consulting"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Arthur D. Little",
+   "hint": "adlittle careers Mumbai",
+   "round_notes": [
+    {
+     "careers_url": "https://www.adlittle.com/en/careers",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass.",
+     "src": "E-consulting"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Redseer Strategy",
+   "hint": "redseer careers",
+   "round_notes": [
+    {
+     "careers_url": "https://redseer.com/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass.",
+     "src": "E-consulting"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Everest Group",
+   "hint": "everestgrp careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.everestgrp.com/careers/",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass.",
+     "src": "E-consulting"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "IBM Consulting",
+   "hint": "ibm careers",
+   "round_notes": [
+    {
+     "careers_url": "https://www.ibm.com/careers/search",
+     "ats": "other",
+     "ats_endpoint": "",
+     "result": "not searched",
+     "note": "NOT SEARCHED: the shared WebSearch budget (200/turn across all agents) ran out before this company was reached. Needs a follow-up pass.",
+     "src": "E-consulting"
+    }
+   ],
+   "round1_openings": [],
+   "round1_leads": []
+  }
+ ]
+}

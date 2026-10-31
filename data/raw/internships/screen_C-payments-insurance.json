@@ -1,0 +1,341 @@
+{
+ "cluster": "C-payments-insurance",
+ "checked": "30 Oct 2026",
+ "openings": [],
+ "rejected": [
+  {
+   "company": "Marsh McLennan (Mercer)",
+   "role": "Intern - Psychometric Design & Delivery",
+   "url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---Good-Earth/Intern---Psychometric-Design---Delivery_R_366296",
+   "reason": "HR/psychometrics ops intern; requires post-graduate in Psychology/HR (Workday canApply true, closes 2026-11-30)"
+  },
+  {
+   "company": "Marsh McLennan (Oliver Wyman)",
+   "role": "Oliver Wyman – Actuarial Intern – Life",
+   "url": "https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---Horizon/Oliver-Wyman---Actuarial-Intern---Life_R_303261-1",
+   "reason": "Actuarial-only intern (actuarial model valuation, actuarial exams); not data-science oriented; posted Jan 2026"
+  },
+  {
+   "company": "American Express",
+   "role": "Apprentice",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015791",
+   "reason": "GCS India operations apprentice (SOPs/SLAs, shifts) for graduates of any discipline, commerce preferred; ops-only; posting ends 2026-11-03"
+  },
+  {
+   "company": "American Express",
+   "role": "Apprentice - Enterprise Technology Services",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009713",
+   "reason": "12-month SWE apprenticeship (Java/JS/.NET app dev); requires completed Bachelor's/Master's degree; pure SWE; posting ends 2026-11-01"
+  },
+  {
+   "company": "Gallagher",
+   "role": "Trainee",
+   "url": "https://jobs.ajg.com/jobs/59575?lang=en-us",
+   "reason": "Full-time insurance/reinsurance operations trainee (premium processing, settlements, claims); ops-only, commerce/high-school level"
+  },
+  {
+   "company": "Gallagher",
+   "role": "Trainee- Risk Analytics",
+   "url": "https://jobs.ajg.com/jobs/59641?lang=en-us",
+   "reason": "Full-time catastrophe-modelling trainee (SQL/Excel data prep), Shimoga GCoE; requires completed University Degree + 0-1 yr; not an internship"
+  },
+  {
+   "company": "Gallagher",
+   "role": "Trainee",
+   "url": "https://jobs.ajg.com/jobs/58940?lang=en-us",
+   "reason": "Full-time insurance/reinsurance operations trainee (premium processing, settlements, claims); ops-only, commerce/high-school level"
+  },
+  {
+   "company": "Gallagher",
+   "role": "Trainee",
+   "url": "https://jobs.ajg.com/jobs/59519?lang=en-us",
+   "reason": "Full-time insurance/reinsurance operations trainee (premium processing, settlements, claims); ops-only, commerce/high-school level"
+  },
+  {
+   "company": "Gallagher",
+   "role": "Trainee",
+   "url": "https://jobs.ajg.com/jobs/58944?lang=en-us",
+   "reason": "Full-time insurance/reinsurance operations trainee (premium processing, settlements, claims); ops-only, commerce/high-school level"
+  },
+  {
+   "company": "Gallagher",
+   "role": "Trainee",
+   "url": "https://jobs.ajg.com/jobs/59583?lang=en-us",
+   "reason": "Full-time insurance/reinsurance operations trainee (premium processing, settlements, claims); ops-only, commerce/high-school level"
+  },
+  {
+   "company": "Gallagher",
+   "role": "Trainee",
+   "url": "https://jobs.ajg.com/jobs/58934?lang=en-us",
+   "reason": "Full-time insurance/reinsurance operations trainee (premium processing, settlements, claims); ops-only, commerce/high-school level"
+  },
+  {
+   "company": "Gallagher",
+   "role": "Trainee",
+   "url": "https://jobs.ajg.com/jobs/58960?lang=en-us",
+   "reason": "Full-time insurance/reinsurance operations trainee (premium processing, settlements, claims); ops-only, commerce/high-school level"
+  },
+  {
+   "company": "Gallagher",
+   "role": "Trainee",
+   "url": "https://jobs.ajg.com/jobs/58942?lang=en-us",
+   "reason": "Full-time insurance/reinsurance operations trainee (premium processing, settlements, claims); ops-only, commerce/high-school level"
+  },
+  {
+   "company": "Gallagher",
+   "role": "Trainee",
+   "url": "https://jobs.ajg.com/jobs/58955?lang=en-us",
+   "reason": "Full-time insurance/reinsurance operations trainee (premium processing, settlements, claims); ops-only, commerce/high-school level"
+  },
+  {
+   "company": "Gallagher",
+   "role": "Trainee Associate - Client Services",
+   "url": "https://jobs.ajg.com/jobs/58347?lang=en-us",
+   "reason": "Full-time reinsurance ops trainee for 2025/2026 commerce graduates only"
+  },
+  {
+   "company": "Gallagher",
+   "role": "Graduate Fresher - A&S Trainee",
+   "url": "https://jobs.ajg.com/jobs/58353?lang=en-us",
+   "reason": "Full-time accounts & settlement trainee for commerce graduates; finance/ops-only"
+  },
+  {
+   "company": "Gallagher",
+   "role": "Trainee- Risk Analytics",
+   "url": "https://jobs.ajg.com/jobs/59638?lang=en-us",
+   "reason": "Full-time catastrophe-modelling trainee (SQL/Excel data prep), Shimoga GCoE; requires completed University Degree + 0-1 yr; not an internship"
+  },
+  {
+   "company": "Swiss Re",
+   "role": "Global Graduate Underwriting Analyst",
+   "url": "https://careers.swissre.com/job/Mumbai-Global-Graduate-Underwriting-Analyst-MH/1444769733/",
+   "reason": "Full-time graduate programme starting Sept 2027 (engineering underwriting), not an internship in the Nov 2026-May 2027 window"
+  },
+  {
+   "company": "WTW",
+   "role": "Early Careers : 2027 Actuarial Analyst - Graduate Program Insurance Consulting & Technology - Gurugram",
+   "url": "https://careers.wtwco.com/jobs/early-careers-2027-actuarial-analyst-graduate-program-insurance-consulting-technology-gurugram-gurugram-haryana-india",
+   "reason": "Full-time actuarial graduate programme, not an internship; actuarial-only"
+  }
+ ],
+ "round1": [
+  {
+   "company": "American Express",
+   "role": "Campus Internship (Chennai)",
+   "old_url": "https://jobs.weekday.works/american-express-campus-internship",
+   "status": "not_found",
+   "new_url": "",
+   "note": "No intern/campus posting on Oracle CX_1 India (41 India jobs checked); only 2 apprentice roles, both rejected."
+  },
+  {
+   "company": "Mastercard",
+   "role": "Consultant Intern (Gurgaon / HITEC City / Mumbai)",
+   "old_url": "https://kalingauniversity.prosple.com/graduate-employers/mastercard-india/jobs-internships/consultant-intern",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Workday India facet (236 postings) and Phenom India (234) have 0 intern postings; Associate Consultant Intern 2027 posts exist only in Poland/Turkey/MEA."
+  },
+  {
+   "company": "PayPal",
+   "role": "Data Analyst Intern (Bangalore/Chennai)",
+   "old_url": "https://jobs.weekday.works/paypal-data-analyst-intern",
+   "status": "not_found",
+   "new_url": "",
+   "note": "Not on PayPal Eightfold (14 India postings, none intern)."
+  }
+ ],
+ "companies": [
+  {
+   "name": "American Express",
+   "ats": "oracle",
+   "endpoint": "egug.fa.us2.oraclecloud.com CX_1",
+   "india_intern_hits": 2,
+   "kept": 0,
+   "note": "Oracle India location facet: 41 India postings; 2 'Apprentice' hits (GCS ops apprentice, ETS tech apprentice) both rejected. No intern postings; India student hiring is campus-only."
+  },
+  {
+   "name": "Mastercard",
+   "ats": "workday",
+   "endpoint": "https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet applied: 236 India postings, 0 intern/trainee/apprentice titles (also searched intern, internship, trainee, off-cycle, apprentice, analyst intern, graduate, 2027, industrial, student, campus). Cross-checked Phenom careers.mastercard.com widgets (India: 234 jobs, 0 intern). Only Summer-2027/Launch posts are outside India."
+  },
+  {
+   "name": "Visa",
+   "ats": "workday",
+   "endpoint": "https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet applied: 95 India postings, 0 intern/trainee/apprentice titles (also searched intern, internship, trainee, off-cycle, apprentice, analyst intern, graduate, 2027, industrial, student, campus). SmartRecruiters 'Visa' tenant empty; Visa moved to Workday."
+  },
+  {
+   "name": "PayPal",
+   "ats": "eightfold_pcsx",
+   "endpoint": "paypal.eightfold.ai/api/pcsx/search",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Confirmed: PCSX location=India has only 14 postings (Bengaluru/Chennai), 0 intern; global 'intern' query = 0 real intern posts. v2 API 403."
+  },
+  {
+   "name": "Synchrony",
+   "ats": "workday",
+   "endpoint": "https://synchronyfinancial.wd5.myworkdayjobs.com/wday/cxs/synchronyfinancial/Careers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet applied: 14 India postings, 0 intern/trainee/apprentice titles (also searched intern, internship, trainee, off-cycle, apprentice, analyst intern, graduate, 2027, industrial, student, campus). India = 'Hyderabad IN' facet (synchronycareers.com TalentBrew front end links to this Workday site)."
+  },
+  {
+   "name": "FIS",
+   "ats": "workday",
+   "endpoint": "https://fis.wd5.myworkdayjobs.com/wday/cxs/fis/SearchJobs/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet applied: 114 India postings, 0 intern/trainee/apprentice titles (also searched intern, internship, trainee, off-cycle, apprentice, analyst intern, graduate, 2027, industrial, student, campus)."
+  },
+  {
+   "name": "Fiserv",
+   "ats": "workday",
+   "endpoint": "https://fiserv.wd5.myworkdayjobs.com/wday/cxs/fiserv/EXT/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet applied: 17 India postings, 0 intern/trainee/apprentice titles (also searched intern, internship, trainee, off-cycle, apprentice, analyst intern, graduate, 2027, industrial, student, campus)."
+  },
+  {
+   "name": "Global Payments",
+   "ats": "workday",
+   "endpoint": "https://tsys.wd1.myworkdayjobs.com/wday/cxs/tsys/TSYS/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet applied: 35 India postings, 0 intern/trainee/apprentice titles (also searched intern, internship, trainee, off-cycle, apprentice, analyst intern, graduate, 2027, industrial, student, campus)."
+  },
+  {
+   "name": "Swiss Re",
+   "ats": "successfactors",
+   "endpoint": "careers.swissre.com/search",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "SF RMK India: 23 postings, 0 intern. 'Global Graduate Underwriting Analyst' (Mumbai) is the Sept-2027 full-time graduate programme, rejected."
+  },
+  {
+   "name": "Allianz",
+   "ats": "phenom",
+   "endpoint": "careers.allianz.com/widgets",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Phenom country=India: 78 postings (Pune/Trivandrum etc.), 0 intern/trainee/graduate."
+  },
+  {
+   "name": "AXA XL",
+   "ats": "jibe",
+   "endpoint": "careers.axa.com/api/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "AXA group Jibe board: India (Gurugram/Bengaluru) postings are all experienced roles; 0 intern."
+  },
+  {
+   "name": "MetLife",
+   "ats": "avature",
+   "endpoint": "metlifecareers.com/en_US/ml/SearchJobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Avature full board 411 postings, 68 India (Noida/Jaipur/Pune...), 0 intern. Intern posts (METx) are US-only."
+  },
+  {
+   "name": "Prudential / PGIM",
+   "ats": "workday",
+   "endpoint": "https://pru.wd5.myworkdayjobs.com/wday/cxs/pru/Careers/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday pru/Careers has no India locations (183 postings, all US/EU/LatAm); PGIM intern posts are Frankfurt/Paris/Luxembourg."
+  },
+  {
+   "name": "Chubb",
+   "ats": "oracle",
+   "endpoint": "fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com CX_2001",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Full board paged (743 postings, no India facet exposed); 41 India-located (Bengaluru/Hyderabad), 0 intern. Intern posts are US/Bermuda/UK/Singapore."
+  },
+  {
+   "name": "Marsh McLennan (Marsh, Mercer, Oliver Wyman)",
+   "ats": "workday",
+   "endpoint": "https://mmc.wd1.myworkdayjobs.com/wday/cxs/mmc/MMC/jobs",
+   "india_intern_hits": 2,
+   "kept": 0,
+   "note": "Workday India facet: 78 postings; 2 intern hits (Mercer psychometric intern needs PG psychology; OW actuarial intern) both rejected."
+  },
+  {
+   "name": "Aon",
+   "ats": "jibe/icims",
+   "endpoint": "https://jobs.aon.com/api/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Jibe board (iCIMS backend india-careers-aon.icims.com redirects to it): 1074 postings, 41 India, 0 intern/trainee."
+  },
+  {
+   "name": "WTW",
+   "ats": "custom",
+   "endpoint": "careers.wtwco.com/jobs/search",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "HTML search (392 hits across queries); India hits are full-time; only early-careers India post is a 2027 actuarial graduate programme (Gurugram), rejected."
+  },
+  {
+   "name": "Gallagher",
+   "ats": "jibe/icims",
+   "endpoint": "https://jobs.ajg.com/api/jobs",
+   "india_intern_hits": 13,
+   "kept": 0,
+   "note": "Jibe board (iCIMS indiajobs-ajg): 1215 postings, 268 India; 13 'Trainee' hits = full-time entry-level roles (ops/commerce grads or degree-required cat-modelling trainee), all rejected."
+  },
+  {
+   "name": "Ameriprise Financial",
+   "ats": "workday",
+   "endpoint": "https://ameriprise.wd5.myworkdayjobs.com/wday/cxs/ameriprise/Ameriprise/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet applied: 42 India postings, 0 intern/trainee/apprentice titles (also searched intern, internship, trainee, off-cycle, apprentice, analyst intern, graduate, 2027, industrial, student, campus)."
+  },
+  {
+   "name": "Principal Global Services",
+   "ats": "jibe/icims",
+   "endpoint": "https://careers.principal.com/api/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Jibe board (iCIMS careersindia-principal): 170 postings, 27 India (Pune/Hyderabad), 0 intern."
+  },
+  {
+   "name": "Zurich / ZINFI",
+   "ats": "successfactors",
+   "endpoint": "www.careers.zurich.com/search",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "SF RMK board has no India locations (locationsearch India/Hyderabad/Bengaluru/Mumbai/Pune = 0; 349 intern-query hits all non-India)."
+  },
+  {
+   "name": "Experian",
+   "ats": "smartrecruiters",
+   "endpoint": "api.smartrecruiters.com/v1/companies/Experian",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "SmartRecruiters country=in: 33 India postings (Mumbai/Hyderabad), 0 intern. Global intern posts only Malaysia/Bulgaria."
+  },
+  {
+   "name": "TransUnion CIBIL",
+   "ats": "workday",
+   "endpoint": "https://transunion.wd5.myworkdayjobs.com/wday/cxs/transunion/TransUnion/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet applied: 38 India postings, 0 intern/trainee/apprentice titles (also searched intern, internship, trainee, off-cycle, apprentice, analyst intern, graduate, 2027, industrial, student, campus)."
+  },
+  {
+   "name": "Equifax",
+   "ats": "workday",
+   "endpoint": "https://equifax.wd5.myworkdayjobs.com/wday/cxs/equifax/External/jobs",
+   "india_intern_hits": 0,
+   "kept": 0,
+   "note": "Workday India facet applied: 28 India postings, 0 intern/trainee/apprentice titles (also searched intern, internship, trainee, off-cycle, apprentice, analyst intern, graduate, 2027, industrial, student, campus)."
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "company": "Aon",
+ "ats": "jibe/icims",
+ "endpoint": "https://jobs.aon.com/api/jobs",
+ "queried_at": "2026-10-30",
+ "queries": [
+  "(full board)",
+  "intern",
+  "trainee",
+  "apprentice",
+  "graduate"
+ ],
+ "total_hits": 41,
+ "india_intern_hits": [],
+ "details": {}
+}

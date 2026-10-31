@@ -1,0 +1,15 @@
+{
+ "company": "Palantir",
+ "ats": "lever",
+ "endpoint": "https://api.lever.co/v0/postings/palantir?mode=json",
+ "queried_at": "2026-10-30T03:11Z",
+ "queries": [
+  "whole board; filtered ats.is_india(location) + intern regex on title/employmentType"
+ ],
+ "total_hits": 302,
+ "india_postings": 0,
+ "india_intern_hits": [],
+ "india_fde_fulltime": [],
+ "details": {},
+ "india_titles": []
+}

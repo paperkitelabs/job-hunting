@@ -1,0 +1,201 @@
+{
+ "cluster": "R4h-retail-consumer-gcc-2",
+ "companies": [
+  {
+   "name": "Kimberly-Clark",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Kellanova",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "General Mills",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Mars",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Heineken / United Breweries",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Carlsberg",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Reckitt",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Haleon",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Estee Lauder",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Puma",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Adidas",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Walgreens / Boots",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "CVS Health / Aetna",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Elevance Health",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Humana",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "McKesson",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Cardinal Health",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Ford",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "General Motors",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Stellantis",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Volvo Group",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Continental",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "ZF",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Hyundai Mobis / Hyundai Motor India",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Toyota Kirloskar",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Michelin",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Bridgestone",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  },
+  {
+   "name": "Siemens Healthineers",
+   "hint": "",
+   "round_notes": [],
+   "round1_openings": [],
+   "round1_leads": []
+  }
+ ]
+}
