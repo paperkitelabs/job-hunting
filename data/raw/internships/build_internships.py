@@ -5,7 +5,7 @@ import json, glob, re, os, datetime, collections
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.abspath(os.path.join(HERE, "..", "..", ".."))
-CHECKED = datetime.date(2026, 10, 30)
+CHECKED = datetime.date(2026, 10, 31)
 SOON_DAYS = 10
 TIERS = {
     "soon": "Closing soon: apply this week",
@@ -164,7 +164,8 @@ def left_out_text(jobs, rejected, round1, companies):
         else:
             reasons["outside the role list (sales, HR, finance, ops, design, hardware…)"] += 1
     st = collections.Counter(r.get("status") for r in round1)
-    s = (f"Crawled the careers sites of {n_co} employers on {CHECKED.day} Oct {CHECKED.year}. Every link was checked against "
+    s = (f"Crawled the careers sites of {n_co} employers, and swept Internshala for listings that state a stipend, "
+         f"on 30–31 Oct 2026. Every link was checked against "
          f"the employer's own hiring API or job board on that day. Left out {len(rejected)} India internship postings: " +
          "; ".join(f"{v} {k}" for k, v in reasons.most_common()) + ". ")
     if round1:
@@ -187,7 +188,7 @@ def main():
             "edition": "internships-2026-27" + ("" if sheet == "main" else "-" + sheet),
             "tab": tab, "order": order,
             "title": "Nov 2026 – May 2027",
-            "checked": f"{CHECKED.day} Oct {CHECKED.year}",
+            "checked": f"{CHECKED.day} {MONTHS[CHECKED.month - 1]} {CHECKED.year}",
             "exp_label": "Who can apply",
             "pay_label": "Stipend (₹/month)",
             "left_out": left_out_text(jobs, rejected, round1, companies) if companies or rejected else "Search in progress.",

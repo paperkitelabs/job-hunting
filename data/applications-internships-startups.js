@@ -6,10 +6,10 @@ window.TRACKER_SHEETS["startups"] = {
  "tab": "Startups (₹30k+ stipend)",
  "order": 2,
  "title": "Nov 2026 – May 2027",
- "checked": "30 Oct 2026",
+ "checked": "31 Oct 2026",
  "exp_label": "Who can apply",
  "pay_label": "Stipend (₹/month)",
- "left_out": "Crawled the careers sites of 9 employers on 30 Oct 2026. Every link was checked against the employer's own hiring API or job board on that day. Left out 23 India internship postings: 22 outside the role list (sales, HR, finance, ops, design, hardware…); 1 needs a Master's, MBA or PhD. Stipend is blank where the posting does not state one.",
+ "left_out": "Crawled the careers sites of 9 employers, and swept Internshala for listings that state a stipend, on 30–31 Oct 2026. Every link was checked against the employer's own hiring API or job board on that day. Left out 23 India internship postings: 22 outside the role list (sales, HR, finance, ops, design, hardware…); 1 needs a Master's, MBA or PhD. Stipend is blank where the posting does not state one.",
  "tiers": {
   "soon": "Closing soon: apply this week",
   "analyst": "Data and business analyst interns, other companies",
@@ -129,5 +129,5 @@ window.TRACKER_SHEETS["startups"] = {
    "resume": "DS / AI"
   }
  ],
- "meta": "7 live openings · every link rechecked 30 Oct 2026"
+ "meta": "7 live openings · every link rechecked 31 Oct 2026"
 };

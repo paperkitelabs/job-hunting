@@ -6,10 +6,10 @@ window.TRACKER_SHEETS["main"] = {
  "tab": "MNCs & top companies",
  "order": 1,
  "title": "Nov 2026 – May 2027",
- "checked": "30 Oct 2026",
+ "checked": "31 Oct 2026",
  "exp_label": "Who can apply",
  "pay_label": "Stipend (₹/month)",
- "left_out": "Crawled the careers sites of 367 employers on 30 Oct 2026. Every link was checked against the employer's own hiring API or job board on that day. Left out 362 India internship postings: 193 outside the role list (sales, HR, finance, ops, design, hardware…); 63 needs a Master's, MBA or PhD; 58 for 2025/2026 graduates or already-graduated candidates; 38 software-engineering interns with no data/AI/product angle; 7 Summer 2027 / penultimate-year programmes; 3 closed or past deadline. Round-1/2 search leads re-checked: 120 not found, 38 closed, 8 matched, 3 live. Stipend is blank where the posting does not state one.",
+ "left_out": "Crawled the careers sites of 367 employers, and swept Internshala for listings that state a stipend, on 30–31 Oct 2026. Every link was checked against the employer's own hiring API or job board on that day. Left out 362 India internship postings: 193 outside the role list (sales, HR, finance, ops, design, hardware…); 63 needs a Master's, MBA or PhD; 58 for 2025/2026 graduates or already-graduated candidates; 38 software-engineering interns with no data/AI/product angle; 7 Summer 2027 / penultimate-year programmes; 3 closed or past deadline. Round-1/2 search leads re-checked: 120 not found, 38 closed, 8 matched, 3 live. Stipend is blank where the posting does not state one.",
  "tiers": {
   "soon": "Closing soon: apply this week",
   "bfsi": "Banks, financial services and insurance",
